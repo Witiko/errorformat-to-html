@@ -1,0 +1,9 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xassoccnt/xassoccnt.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xassoccnt/xassoccnt.sty:500:17:500:18: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xassoccnt/xassoccnt.sty:672:15:672:44: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xassoccnt/xassoccnt.sty:673:15:673:47: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xassoccnt/xassoccnt.sty:674:15:674:45: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xassoccnt/xassoccnt.sty:675:15:675:43: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xassoccnt/xassoccnt.sty:2622:14:2622:25: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xassoccnt/xassoccnt.sty:2624:16:2624:27: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xassoccnt/xassoccnt.sty:3795:3:3795:18: w202 deprecated control sequences

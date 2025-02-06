@@ -1,0 +1,8 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/autotype/autotype.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/autotype/autotype.sty:55:5:55:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/autotype/autotype.sty:55:33:55:37: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/autotype/autotype.sty:64:5:64:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/autotype/autotype.sty:64:33:64:37: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/autotype/autotype.sty:73:5:73:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/autotype/autotype.sty:73:35:73:39: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/autotype/autotype.sty:82:26:82:30: w200 "weird" and "do not use" argument specifiers

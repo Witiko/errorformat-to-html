@@ -1,0 +1,578 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls",
+    "lnum": 264,
+    "end_lnum": 264,
+    "col": 15,
+    "end_col": 38,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls:264:15:264:38: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls",
+    "lnum": 272,
+    "end_lnum": 272,
+    "col": 15,
+    "end_col": 16,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls:272:15:272:16: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls",
+    "lnum": 1287,
+    "end_lnum": 1287,
+    "col": 3,
+    "end_col": 15,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls:1287:3:1287:15: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls",
+    "lnum": 1287,
+    "end_lnum": 1287,
+    "col": 28,
+    "end_col": 40,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls:1287:28:1287:40: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls",
+    "lnum": 1294,
+    "end_lnum": 1294,
+    "col": 3,
+    "end_col": 15,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls:1294:3:1294:15: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls",
+    "lnum": 1294,
+    "end_lnum": 1294,
+    "col": 32,
+    "end_col": 44,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls:1294:32:1294:44: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls",
+    "lnum": 1391,
+    "end_lnum": 1391,
+    "col": 3,
+    "end_col": 15,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls:1391:3:1391:15: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls",
+    "lnum": 1391,
+    "end_lnum": 1391,
+    "col": 28,
+    "end_col": 40,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls:1391:28:1391:40: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls",
+    "lnum": 1493,
+    "end_lnum": 1493,
+    "col": 3,
+    "end_col": 15,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls:1493:3:1493:15: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls",
+    "lnum": 1493,
+    "end_lnum": 1493,
+    "col": 28,
+    "end_col": 40,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls:1493:28:1493:40: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls",
+    "lnum": 1524,
+    "end_lnum": 1524,
+    "col": 3,
+    "end_col": 15,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls:1524:3:1524:15: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls",
+    "lnum": 1524,
+    "end_lnum": 1524,
+    "col": 28,
+    "end_col": 40,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls:1524:28:1524:40: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls",
+    "lnum": 1857,
+    "end_lnum": 1857,
+    "col": 5,
+    "end_col": 17,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls:1857:5:1857:17: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls",
+    "lnum": 1857,
+    "end_lnum": 1857,
+    "col": 30,
+    "end_col": 42,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls:1857:30:1857:42: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls",
+    "lnum": 1968,
+    "end_lnum": 1968,
+    "col": 15,
+    "end_col": 40,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls:1968:15:1968:40: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls",
+    "lnum": 1969,
+    "end_lnum": 1969,
+    "col": 15,
+    "end_col": 40,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls:1969:15:1969:40: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls",
+    "lnum": 2441,
+    "end_lnum": 2441,
+    "col": 3,
+    "end_col": 15,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls:2441:3:2441:15: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls",
+    "lnum": 2441,
+    "end_lnum": 2441,
+    "col": 28,
+    "end_col": 40,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls:2441:28:2441:40: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls",
+    "lnum": 2544,
+    "end_lnum": 2544,
+    "col": 17,
+    "end_col": 32,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls:2544:17:2544:32: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls",
+    "lnum": 2632,
+    "end_lnum": 2632,
+    "col": 3,
+    "end_col": 15,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls:2632:3:2632:15: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls",
+    "lnum": 2632,
+    "end_lnum": 2632,
+    "col": 28,
+    "end_col": 40,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls:2632:28:2632:40: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls",
+    "lnum": 3175,
+    "end_lnum": 3175,
+    "col": 15,
+    "end_col": 38,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls:3175:15:3175:38: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls",
+    "lnum": 3192,
+    "end_lnum": 3192,
+    "col": 15,
+    "end_col": 34,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls:3192:15:3192:34: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls",
+    "lnum": 3505,
+    "end_lnum": 3505,
+    "col": 15,
+    "end_col": 34,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls:3505:15:3505:34: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls",
+    "lnum": 3748,
+    "end_lnum": 3748,
+    "col": 1,
+    "end_col": 13,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls:3748:1:3748:13: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls",
+    "lnum": 3748,
+    "end_lnum": 3748,
+    "col": 29,
+    "end_col": 41,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls:3748:29:3748:41: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls",
+    "lnum": 3988,
+    "end_lnum": 3988,
+    "col": 15,
+    "end_col": 40,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls:3988:15:3988:40: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls",
+    "lnum": 4029,
+    "end_lnum": 4029,
+    "col": 5,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls:4029:5:4029:21: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls",
+    "lnum": 4099,
+    "end_lnum": 4099,
+    "col": 15,
+    "end_col": 32,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls:4099:15:4099:32: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls",
+    "lnum": 4100,
+    "end_lnum": 4100,
+    "col": 15,
+    "end_col": 32,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls:4100:15:4100:32: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls",
+    "lnum": 4101,
+    "end_lnum": 4101,
+    "col": 15,
+    "end_col": 32,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls:4101:15:4101:32: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls",
+    "lnum": 4113,
+    "end_lnum": 4113,
+    "col": 15,
+    "end_col": 30,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls:4113:15:4113:30: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls",
+    "lnum": 4117,
+    "end_lnum": 4117,
+    "col": 15,
+    "end_col": 29,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls:4117:15:4117:29: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls",
+    "lnum": 4118,
+    "end_lnum": 4118,
+    "col": 15,
+    "end_col": 28,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls:4118:15:4118:28: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls",
+    "lnum": 4137,
+    "end_lnum": 4137,
+    "col": 15,
+    "end_col": 29,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls:4137:15:4137:29: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls",
+    "lnum": 4138,
+    "end_lnum": 4138,
+    "col": 15,
+    "end_col": 29,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gzt.cls:4138:15:4138:29: s205 malformed function name"
+    ]
+  }
+]

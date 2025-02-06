@@ -1,0 +1,130 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-fonts.tex",
+    "lnum": 26,
+    "end_lnum": 26,
+    "col": 1,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-fonts.tex:26:1:26:14: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-fonts.tex",
+    "lnum": 66,
+    "end_lnum": 66,
+    "col": 10,
+    "end_col": 26,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-fonts.tex:66:10:66:26: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-fonts.tex",
+    "lnum": 67,
+    "end_lnum": 67,
+    "col": 9,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-fonts.tex:67:9:67:20: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-fonts.tex",
+    "lnum": 67,
+    "end_lnum": 67,
+    "col": 31,
+    "end_col": 41,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-fonts.tex:67:31:67:41: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-fonts.tex",
+    "lnum": 67,
+    "end_lnum": 67,
+    "col": 52,
+    "end_col": 64,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-fonts.tex:67:52:67:64: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-fonts.tex",
+    "lnum": 68,
+    "end_lnum": 68,
+    "col": 9,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-fonts.tex:68:9:68:21: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-fonts.tex",
+    "lnum": 383,
+    "end_lnum": 383,
+    "col": 9,
+    "end_col": 32,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-fonts.tex:383:9:383:32: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-fonts.tex",
+    "lnum": 383,
+    "end_lnum": 383,
+    "col": 34,
+    "end_col": 50,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-fonts.tex:383:34:383:50: e201 unknown argument specifiers"
+    ]
+  }
+]

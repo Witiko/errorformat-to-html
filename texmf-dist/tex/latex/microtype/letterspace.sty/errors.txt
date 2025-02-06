@@ -1,0 +1,6 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/letterspace.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/letterspace.sty:101:1:101:1: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/letterspace.sty:102:1:102:1: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/letterspace.sty:174:1:174:1: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/letterspace.sty:177:1:177:1: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/letterspace.sty:180:1:180:1: e209 invalid characters

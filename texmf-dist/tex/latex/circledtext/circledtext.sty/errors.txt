@@ -1,0 +1,3 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/circledtext/circledtext.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/circledtext/circledtext.sty:31:9:31:22: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/circledtext/circledtext.sty:1113:23:1113:36: w202 deprecated control sequences

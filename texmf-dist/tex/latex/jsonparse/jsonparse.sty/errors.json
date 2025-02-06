@@ -1,0 +1,674 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty",
+    "lnum": 257,
+    "end_lnum": 257,
+    "col": 33,
+    "end_col": 47,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:257:33:257:47: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty",
+    "lnum": 258,
+    "end_lnum": 258,
+    "col": 15,
+    "end_col": 29,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:258:15:258:29: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty",
+    "lnum": 424,
+    "end_lnum": 424,
+    "col": 7,
+    "end_col": 36,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:424:7:424:36: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty",
+    "lnum": 431,
+    "end_lnum": 431,
+    "col": 5,
+    "end_col": 39,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:431:5:431:39: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty",
+    "lnum": 436,
+    "end_lnum": 436,
+    "col": 5,
+    "end_col": 39,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:436:5:436:39: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty",
+    "lnum": 441,
+    "end_lnum": 441,
+    "col": 5,
+    "end_col": 37,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:441:5:441:37: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty",
+    "lnum": 446,
+    "end_lnum": 446,
+    "col": 5,
+    "end_col": 37,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:446:5:446:37: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty",
+    "lnum": 451,
+    "end_lnum": 451,
+    "col": 5,
+    "end_col": 37,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:451:5:451:37: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty",
+    "lnum": 457,
+    "end_lnum": 457,
+    "col": 7,
+    "end_col": 36,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:457:7:457:36: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty",
+    "lnum": 461,
+    "end_lnum": 461,
+    "col": 23,
+    "end_col": 57,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:461:23:461:57: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty",
+    "lnum": 484,
+    "end_lnum": 484,
+    "col": 23,
+    "end_col": 55,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:484:23:484:55: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty",
+    "lnum": 507,
+    "end_lnum": 507,
+    "col": 23,
+    "end_col": 55,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:507:23:507:55: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty",
+    "lnum": 531,
+    "end_lnum": 531,
+    "col": 23,
+    "end_col": 52,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:531:23:531:52: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty",
+    "lnum": 553,
+    "end_lnum": 553,
+    "col": 23,
+    "end_col": 52,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:553:23:553:52: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty",
+    "lnum": 567,
+    "end_lnum": 567,
+    "col": 7,
+    "end_col": 32,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:567:7:567:32: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty",
+    "lnum": 592,
+    "end_lnum": 592,
+    "col": 5,
+    "end_col": 37,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:592:5:592:37: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty",
+    "lnum": 597,
+    "end_lnum": 597,
+    "col": 5,
+    "end_col": 35,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:597:5:597:35: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty",
+    "lnum": 602,
+    "end_lnum": 602,
+    "col": 5,
+    "end_col": 36,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:602:5:602:36: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty",
+    "lnum": 607,
+    "end_lnum": 607,
+    "col": 5,
+    "end_col": 34,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:607:5:607:34: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty",
+    "lnum": 612,
+    "end_lnum": 612,
+    "col": 5,
+    "end_col": 35,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:612:5:612:35: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty",
+    "lnum": 630,
+    "end_lnum": 630,
+    "col": 46,
+    "end_col": 78,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:630:46:630:78: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty",
+    "lnum": 650,
+    "end_lnum": 650,
+    "col": 46,
+    "end_col": 76,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:650:46:650:76: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty",
+    "lnum": 677,
+    "end_lnum": 677,
+    "col": 23,
+    "end_col": 54,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:677:23:677:54: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty",
+    "lnum": 701,
+    "end_lnum": 701,
+    "col": 23,
+    "end_col": 52,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:701:23:701:52: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty",
+    "lnum": 728,
+    "end_lnum": 728,
+    "col": 23,
+    "end_col": 53,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:728:23:728:53: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty",
+    "lnum": 750,
+    "end_lnum": 750,
+    "col": 23,
+    "end_col": 48,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:750:23:750:48: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty",
+    "lnum": 757,
+    "end_lnum": 757,
+    "col": 5,
+    "end_col": 34,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:757:5:757:34: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty",
+    "lnum": 760,
+    "end_lnum": 760,
+    "col": 23,
+    "end_col": 52,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:760:23:760:52: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty",
+    "lnum": 966,
+    "end_lnum": 966,
+    "col": 21,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:966:21:966:22: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty",
+    "lnum": 967,
+    "end_lnum": 967,
+    "col": 21,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:967:21:967:22: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty",
+    "lnum": 968,
+    "end_lnum": 968,
+    "col": 21,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:968:21:968:22: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty",
+    "lnum": 1015,
+    "end_lnum": 1015,
+    "col": 21,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:1015:21:1015:22: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty",
+    "lnum": 1016,
+    "end_lnum": 1016,
+    "col": 21,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:1016:21:1016:22: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty",
+    "lnum": 1017,
+    "end_lnum": 1017,
+    "col": 21,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:1017:21:1017:22: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty",
+    "lnum": 1092,
+    "end_lnum": 1092,
+    "col": 15,
+    "end_col": 16,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:1092:15:1092:16: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty",
+    "lnum": 1093,
+    "end_lnum": 1093,
+    "col": 15,
+    "end_col": 16,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:1093:15:1093:16: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty",
+    "lnum": 1094,
+    "end_lnum": 1094,
+    "col": 15,
+    "end_col": 16,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:1094:15:1094:16: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty",
+    "lnum": 1102,
+    "end_lnum": 1102,
+    "col": 17,
+    "end_col": 18,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:1102:17:1102:18: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty",
+    "lnum": 1103,
+    "end_lnum": 1103,
+    "col": 17,
+    "end_col": 18,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:1103:17:1103:18: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty",
+    "lnum": 1219,
+    "end_lnum": 1219,
+    "col": 13,
+    "end_col": 42,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:1219:13:1219:42: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty",
+    "lnum": 1229,
+    "end_lnum": 1229,
+    "col": 5,
+    "end_col": 34,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:1229:5:1229:34: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty",
+    "lnum": 1233,
+    "end_lnum": 1233,
+    "col": 7,
+    "end_col": 36,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:1233:7:1233:36: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  }
+]

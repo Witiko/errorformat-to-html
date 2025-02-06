@@ -1,0 +1,8 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/vntex/t5code.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/vntex/t5code.tex:290:13:290:13: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/vntex/t5code.tex:291:13:291:13: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/vntex/t5code.tex:293:12:293:12: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/vntex/t5code.tex:366:18:366:18: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/vntex/t5code.tex:384:18:384:18: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/vntex/t5code.tex:393:18:393:18: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/vntex/t5code.tex:411:18:411:18: e209 invalid characters

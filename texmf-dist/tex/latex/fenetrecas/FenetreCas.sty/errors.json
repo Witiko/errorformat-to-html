@@ -1,0 +1,18 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fenetrecas/FenetreCas.sty",
+    "lnum": 238,
+    "end_lnum": 238,
+    "col": 109,
+    "end_col": 113,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fenetrecas/FenetreCas.sty:238:109:238:113: e201 unknown argument specifiers"
+    ]
+  }
+]

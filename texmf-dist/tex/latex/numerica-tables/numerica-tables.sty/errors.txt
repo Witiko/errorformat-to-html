@@ -1,0 +1,10 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/numerica-tables/numerica-tables.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/numerica-tables/numerica-tables.sty:82:35:82:57: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/numerica-tables/numerica-tables.sty:83:23:83:45: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/numerica-tables/numerica-tables.sty:532:49:532:62: w101 unexpected delimiters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/numerica-tables/numerica-tables.sty:1085:13:1085:43: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/numerica-tables/numerica-tables.sty:1090:13:1090:43: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/numerica-tables/numerica-tables.sty:1098:17:1098:47: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/numerica-tables/numerica-tables.sty:1101:13:1101:43: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/numerica-tables/numerica-tables.sty:1505:17:1505:40: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/numerica-tables/numerica-tables.sty:1529:23:1529:46: w200 "weird" and "do not use" argument specifiers

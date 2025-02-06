@@ -1,0 +1,5 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/non-decimal-units/non-decimal-units.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/non-decimal-units/non-decimal-units.sty:379:22:379:45: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/non-decimal-units/non-decimal-units.sty:391:2:391:12: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/non-decimal-units/non-decimal-units.sty:795:2:795:13: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/non-decimal-units/non-decimal-units.sty:825:13:825:39: s205 malformed function name

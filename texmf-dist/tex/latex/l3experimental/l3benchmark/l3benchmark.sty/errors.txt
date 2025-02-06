@@ -1,0 +1,10 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/l3benchmark/l3benchmark.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/l3benchmark/l3benchmark.sty:32:19:32:30: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/l3benchmark/l3benchmark.sty:67:15:67:32: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/l3benchmark/l3benchmark.sty:76:17:76:34: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/l3benchmark/l3benchmark.sty:78:9:78:26: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/l3benchmark/l3benchmark.sty:82:17:82:34: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/l3benchmark/l3benchmark.sty:83:27:83:44: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/l3benchmark/l3benchmark.sty:89:27:89:44: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/l3benchmark/l3benchmark.sty:91:19:91:36: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/l3benchmark/l3benchmark.sty:115:23:115:34: s205 malformed function name

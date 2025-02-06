@@ -1,0 +1,32 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mathtools/mhsetup.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mathtools/mhsetup.sty:55:5:55:15: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mathtools/mhsetup.sty:57:15:57:25: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mathtools/mhsetup.sty:59:15:59:25: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mathtools/mhsetup.sty:93:24:93:34: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mathtools/mhsetup.sty:93:36:93:43: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mathtools/mhsetup.sty:94:33:94:43: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mathtools/mhsetup.sty:95:25:95:35: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mathtools/mhsetup.sty:96:23:96:33: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mathtools/mhsetup.sty:98:30:98:40: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mathtools/mhsetup.sty:98:42:98:53: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mathtools/mhsetup.sty:99:30:99:40: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mathtools/mhsetup.sty:99:42:99:53: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mathtools/mhsetup.sty:100:31:100:41: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mathtools/mhsetup.sty:100:43:100:55: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mathtools/mhsetup.sty:102:23:102:33: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mathtools/mhsetup.sty:106:5:106:15: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mathtools/mhsetup.sty:107:9:107:24: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mathtools/mhsetup.sty:108:9:108:26: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mathtools/mhsetup.sty:111:5:111:15: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mathtools/mhsetup.sty:112:9:112:24: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mathtools/mhsetup.sty:113:9:113:26: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mathtools/mhsetup.sty:127:3:127:13: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mathtools/mhsetup.sty:134:5:134:15: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mathtools/mhsetup.sty:151:4:151:14: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mathtools/mhsetup.sty:153:1:153:11: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mathtools/mhsetup.sty:153:13:153:35: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mathtools/mhsetup.sty:154:10:154:33: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mathtools/mhsetup.sty:169:3:169:13: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mathtools/mhsetup.sty:169:25:169:48: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mathtools/mhsetup.sty:172:3:172:13: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mathtools/mhsetup.sty:172:25:172:47: w200 "weird" and "do not use" argument specifiers

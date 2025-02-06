@@ -1,0 +1,946 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 109,
+    "end_lnum": 109,
+    "col": 16,
+    "end_col": 38,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:109:16:109:38: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 110,
+    "end_lnum": 110,
+    "col": 16,
+    "end_col": 36,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:110:16:110:36: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 111,
+    "end_lnum": 111,
+    "col": 16,
+    "end_col": 47,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:111:16:111:47: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 112,
+    "end_lnum": 112,
+    "col": 16,
+    "end_col": 38,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:112:16:112:38: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 113,
+    "end_lnum": 113,
+    "col": 16,
+    "end_col": 36,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:113:16:113:36: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 114,
+    "end_lnum": 114,
+    "col": 16,
+    "end_col": 47,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:114:16:114:47: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 124,
+    "end_lnum": 124,
+    "col": 45,
+    "end_col": 67,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:124:45:124:67: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 125,
+    "end_lnum": 125,
+    "col": 45,
+    "end_col": 65,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:125:45:125:65: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 126,
+    "end_lnum": 126,
+    "col": 45,
+    "end_col": 76,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:126:45:126:76: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 127,
+    "end_lnum": 127,
+    "col": 45,
+    "end_col": 67,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:127:45:127:67: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 128,
+    "end_lnum": 128,
+    "col": 45,
+    "end_col": 65,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:128:45:128:65: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 129,
+    "end_lnum": 129,
+    "col": 45,
+    "end_col": 76,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:129:45:129:76: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 278,
+    "end_lnum": 278,
+    "col": 3,
+    "end_col": 31,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:278:3:278:31: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 289,
+    "end_lnum": 289,
+    "col": 29,
+    "end_col": 57,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:289:29:289:57: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 291,
+    "end_lnum": 291,
+    "col": 5,
+    "end_col": 34,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:291:5:291:34: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 295,
+    "end_lnum": 295,
+    "col": 5,
+    "end_col": 33,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:295:5:295:33: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 307,
+    "end_lnum": 307,
+    "col": 29,
+    "end_col": 58,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:307:29:307:58: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 311,
+    "end_lnum": 311,
+    "col": 3,
+    "end_col": 31,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:311:3:311:31: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 323,
+    "end_lnum": 323,
+    "col": 29,
+    "end_col": 57,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:323:29:323:57: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 325,
+    "end_lnum": 325,
+    "col": 5,
+    "end_col": 34,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:325:5:325:34: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 327,
+    "end_lnum": 327,
+    "col": 5,
+    "end_col": 41,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:327:5:327:41: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 329,
+    "end_lnum": 329,
+    "col": 5,
+    "end_col": 34,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:329:5:329:34: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 341,
+    "end_lnum": 341,
+    "col": 29,
+    "end_col": 58,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:341:29:341:58: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 343,
+    "end_lnum": 343,
+    "col": 3,
+    "end_col": 34,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:343:3:343:34: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 352,
+    "end_lnum": 352,
+    "col": 29,
+    "end_col": 65,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:352:29:352:65: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 354,
+    "end_lnum": 354,
+    "col": 3,
+    "end_col": 32,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:354:3:354:32: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 365,
+    "end_lnum": 365,
+    "col": 29,
+    "end_col": 58,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:365:29:365:58: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 371,
+    "end_lnum": 371,
+    "col": 5,
+    "end_col": 37,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:371:5:371:37: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 373,
+    "end_lnum": 373,
+    "col": 5,
+    "end_col": 36,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:373:5:373:36: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 383,
+    "end_lnum": 383,
+    "col": 29,
+    "end_col": 61,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:383:29:383:61: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 385,
+    "end_lnum": 385,
+    "col": 3,
+    "end_col": 34,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:385:3:385:34: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 395,
+    "end_lnum": 395,
+    "col": 29,
+    "end_col": 60,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:395:29:395:60: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 398,
+    "end_lnum": 398,
+    "col": 7,
+    "end_col": 40,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:398:7:398:40: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 400,
+    "end_lnum": 400,
+    "col": 7,
+    "end_col": 40,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:400:7:400:40: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 407,
+    "end_lnum": 407,
+    "col": 9,
+    "end_col": 43,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:407:9:407:43: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 409,
+    "end_lnum": 409,
+    "col": 9,
+    "end_col": 43,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:409:9:409:43: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 417,
+    "end_lnum": 417,
+    "col": 5,
+    "end_col": 37,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:417:5:417:37: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 419,
+    "end_lnum": 419,
+    "col": 5,
+    "end_col": 37,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:419:5:419:37: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 421,
+    "end_lnum": 421,
+    "col": 5,
+    "end_col": 37,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:421:5:421:37: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 435,
+    "end_lnum": 435,
+    "col": 29,
+    "end_col": 62,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:435:29:435:62: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 437,
+    "end_lnum": 437,
+    "col": 3,
+    "end_col": 34,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:437:3:437:34: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 446,
+    "end_lnum": 446,
+    "col": 29,
+    "end_col": 62,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:446:29:446:62: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 450,
+    "end_lnum": 450,
+    "col": 3,
+    "end_col": 34,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:450:3:450:34: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 459,
+    "end_lnum": 459,
+    "col": 29,
+    "end_col": 63,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:459:29:459:63: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 461,
+    "end_lnum": 461,
+    "col": 3,
+    "end_col": 34,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:461:3:461:34: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 470,
+    "end_lnum": 470,
+    "col": 29,
+    "end_col": 63,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:470:29:470:63: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 474,
+    "end_lnum": 474,
+    "col": 3,
+    "end_col": 34,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:474:3:474:34: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 484,
+    "end_lnum": 484,
+    "col": 29,
+    "end_col": 61,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:484:29:484:61: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 487,
+    "end_lnum": 487,
+    "col": 3,
+    "end_col": 34,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:487:3:487:34: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 497,
+    "end_lnum": 497,
+    "col": 29,
+    "end_col": 61,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:497:29:497:61: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 499,
+    "end_lnum": 499,
+    "col": 5,
+    "end_col": 40,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:499:5:499:40: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 501,
+    "end_lnum": 501,
+    "col": 5,
+    "end_col": 40,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:501:5:501:40: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 512,
+    "end_lnum": 512,
+    "col": 29,
+    "end_col": 64,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:512:29:512:64: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 515,
+    "end_lnum": 515,
+    "col": 3,
+    "end_col": 34,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:515:3:515:34: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 524,
+    "end_lnum": 524,
+    "col": 29,
+    "end_col": 64,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:524:29:524:64: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 526,
+    "end_lnum": 526,
+    "col": 3,
+    "end_col": 34,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:526:3:526:34: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 536,
+    "end_lnum": 536,
+    "col": 29,
+    "end_col": 61,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:536:29:536:61: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 539,
+    "end_lnum": 539,
+    "col": 3,
+    "end_col": 34,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:539:3:539:34: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty",
+    "lnum": 976,
+    "end_lnum": 976,
+    "col": 5,
+    "end_col": 25,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pkgloader/pkgloader.sty:976:5:976:25: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  }
+]

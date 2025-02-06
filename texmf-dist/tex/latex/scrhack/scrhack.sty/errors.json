@@ -1,0 +1,178 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/scrhack/scrhack.sty",
+    "lnum": 59,
+    "end_lnum": 59,
+    "col": 23,
+    "end_col": 37,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/scrhack/scrhack.sty:59:23:59:37: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/scrhack/scrhack.sty",
+    "lnum": 107,
+    "end_lnum": 107,
+    "col": 23,
+    "end_col": 37,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/scrhack/scrhack.sty:107:23:107:37: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/scrhack/scrhack.sty",
+    "lnum": 155,
+    "end_lnum": 155,
+    "col": 23,
+    "end_col": 37,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/scrhack/scrhack.sty:155:23:155:37: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/scrhack/scrhack.sty",
+    "lnum": 177,
+    "end_lnum": 177,
+    "col": 23,
+    "end_col": 37,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/scrhack/scrhack.sty:177:23:177:37: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/scrhack/scrhack.sty",
+    "lnum": 201,
+    "end_lnum": 201,
+    "col": 23,
+    "end_col": 37,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/scrhack/scrhack.sty:201:23:201:37: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/scrhack/scrhack.sty",
+    "lnum": 249,
+    "end_lnum": 249,
+    "col": 23,
+    "end_col": 37,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/scrhack/scrhack.sty:249:23:249:37: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/scrhack/scrhack.sty",
+    "lnum": 273,
+    "end_lnum": 273,
+    "col": 23,
+    "end_col": 37,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/scrhack/scrhack.sty:273:23:273:37: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/scrhack/scrhack.sty",
+    "lnum": 327,
+    "end_lnum": 327,
+    "col": 23,
+    "end_col": 37,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/scrhack/scrhack.sty:327:23:327:37: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/scrhack/scrhack.sty",
+    "lnum": 350,
+    "end_lnum": 350,
+    "col": 39,
+    "end_col": 51,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/scrhack/scrhack.sty:350:39:350:51: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/scrhack/scrhack.sty",
+    "lnum": 351,
+    "end_lnum": 351,
+    "col": 39,
+    "end_col": 43,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/scrhack/scrhack.sty:351:39:351:43: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/scrhack/scrhack.sty",
+    "lnum": 353,
+    "end_lnum": 353,
+    "col": 43,
+    "end_col": 47,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/scrhack/scrhack.sty:353:43:353:47: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  }
+]

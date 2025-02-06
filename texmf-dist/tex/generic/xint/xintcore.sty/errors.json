@@ -1,0 +1,18 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/xint/xintcore.sty",
+    "lnum": 1933,
+    "end_lnum": 1933,
+    "col": 10,
+    "end_col": 36,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/xint/xintcore.sty:1933:10:1933:36: e201 unknown argument specifiers"
+    ]
+  }
+]

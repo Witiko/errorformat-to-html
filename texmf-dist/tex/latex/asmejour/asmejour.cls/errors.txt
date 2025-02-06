@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/asmejour/asmejour.cls
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/asmejour/asmejour.cls:704:16:704:30: s205 malformed function name

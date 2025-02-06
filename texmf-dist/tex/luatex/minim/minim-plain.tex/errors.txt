@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-plain.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-plain.tex:546:29:546:29: e209 invalid characters

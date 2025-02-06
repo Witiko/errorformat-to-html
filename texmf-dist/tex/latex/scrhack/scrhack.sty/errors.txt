@@ -1,0 +1,12 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/scrhack/scrhack.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/scrhack/scrhack.sty:59:23:59:37: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/scrhack/scrhack.sty:107:23:107:37: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/scrhack/scrhack.sty:155:23:155:37: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/scrhack/scrhack.sty:177:23:177:37: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/scrhack/scrhack.sty:201:23:201:37: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/scrhack/scrhack.sty:249:23:249:37: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/scrhack/scrhack.sty:273:23:273:37: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/scrhack/scrhack.sty:327:23:327:37: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/scrhack/scrhack.sty:350:39:350:51: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/scrhack/scrhack.sty:351:39:351:43: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/scrhack/scrhack.sty:353:43:353:47: w200 "weird" and "do not use" argument specifiers

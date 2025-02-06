@@ -1,0 +1,7 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/leadsheets/leadsheets.library.chordnames.code.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/leadsheets/leadsheets.library.chordnames.code.tex:128:9:128:29: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/leadsheets/leadsheets.library.chordnames.code.tex:138:51:138:77: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/leadsheets/leadsheets.library.chordnames.code.tex:151:23:151:49: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/leadsheets/leadsheets.library.chordnames.code.tex:154:9:154:36: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/leadsheets/leadsheets.library.chordnames.code.tex:158:23:158:50: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/leadsheets/leadsheets.library.chordnames.code.tex:161:23:161:43: w200 "weird" and "do not use" argument specifiers

@@ -1,0 +1,18 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xpiano/xpiano.sty",
+    "lnum": 27,
+    "end_lnum": 27,
+    "col": 5,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xpiano/xpiano.sty:27:5:27:19: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  }
+]

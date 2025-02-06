@@ -1,0 +1,9 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lambda/antomega/antomega.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lambda/antomega/antomega.sty:255:33:255:33: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lambda/antomega/antomega.sty:256:34:256:34: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lambda/antomega/antomega.sty:257:46:257:46: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lambda/antomega/antomega.sty:258:47:258:47: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lambda/antomega/antomega.sty:259:39:259:39: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lambda/antomega/antomega.sty:260:40:260:40: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lambda/antomega/antomega.sty:263:30:263:30: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lambda/antomega/antomega.sty:264:33:264:33: e209 invalid characters

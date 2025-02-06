@@ -1,0 +1,34 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spbmark/spbmark.sty",
+    "lnum": 75,
+    "end_lnum": 75,
+    "col": 21,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spbmark/spbmark.sty:75:21:75:22: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spbmark/spbmark.sty",
+    "lnum": 79,
+    "end_lnum": 79,
+    "col": 21,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spbmark/spbmark.sty:79:21:79:22: s205 malformed function name"
+    ]
+  }
+]

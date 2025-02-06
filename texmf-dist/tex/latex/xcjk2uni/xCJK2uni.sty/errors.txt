@@ -1,0 +1,16 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xcjk2uni/xCJK2uni.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xcjk2uni/xCJK2uni.sty:106:7:107:0: w101 unexpected delimiters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xcjk2uni/xCJK2uni.sty:152:42:152:42: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xcjk2uni/xCJK2uni.sty:153:13:153:31: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xcjk2uni/xCJK2uni.sty:157:13:157:31: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xcjk2uni/xCJK2uni.sty:157:33:157:33: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xcjk2uni/xCJK2uni.sty:157:41:157:41: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xcjk2uni/xCJK2uni.sty:157:49:157:49: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xcjk2uni/xCJK2uni.sty:159:13:159:37: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xcjk2uni/xCJK2uni.sty:159:42:159:42: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xcjk2uni/xCJK2uni.sty:159:50:159:50: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xcjk2uni/xCJK2uni.sty:163:19:163:19: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xcjk2uni/xCJK2uni.sty:163:37:163:61: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xcjk2uni/xCJK2uni.sty:165:37:165:53: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xcjk2uni/xCJK2uni.sty:167:19:167:20: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xcjk2uni/xCJK2uni.sty:175:13:175:29: w200 "weird" and "do not use" argument specifiers

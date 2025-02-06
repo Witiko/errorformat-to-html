@@ -1,0 +1,4 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/mkpattern/mkpatter.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/mkpattern/mkpatter.tex:48:5:48:14: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/mkpattern/mkpatter.tex:48:39:48:48: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/mkpattern/mkpatter.tex:48:54:48:63: w200 "weird" and "do not use" argument specifiers

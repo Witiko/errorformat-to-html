@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/dejavu-otf/dejavu-otf.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/dejavu-otf/dejavu-otf.sty:190:5:190:5: e208 too many closing braces

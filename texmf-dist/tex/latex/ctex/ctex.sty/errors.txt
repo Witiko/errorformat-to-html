@@ -1,0 +1,20 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ctex/ctex.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ctex/ctex.sty:107:5:107:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ctex/ctex.sty:107:19:107:44: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ctex/ctex.sty:108:18:108:31: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ctex/ctex.sty:111:15:111:40: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ctex/ctex.sty:120:13:120:26: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ctex/ctex.sty:122:40:122:53: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ctex/ctex.sty:136:13:136:26: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ctex/ctex.sty:413:30:413:44: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ctex/ctex.sty:422:9:422:22: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ctex/ctex.sty:423:5:423:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ctex/ctex.sty:447:36:447:54: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ctex/ctex.sty:463:9:463:21: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ctex/ctex.sty:501:15:501:16: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ctex/ctex.sty:598:23:598:39: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ctex/ctex.sty:603:46:603:58: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ctex/ctex.sty:613:37:613:55: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ctex/ctex.sty:617:9:617:21: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ctex/ctex.sty:664:5:664:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ctex/ctex.sty:699:9:699:21: w200 "weird" and "do not use" argument specifiers

@@ -1,0 +1,7 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kalendarium/kalendarium.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kalendarium/kalendarium.sty:23:1:24:0: w101 unexpected delimiters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kalendarium/kalendarium.sty:117:7:117:21: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kalendarium/kalendarium.sty:134:11:134:25: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kalendarium/kalendarium.sty:146:5:146:19: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kalendarium/kalendarium.sty:233:3:233:16: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kalendarium/kalendarium.sty:294:7:294:20: e203 removed control sequences

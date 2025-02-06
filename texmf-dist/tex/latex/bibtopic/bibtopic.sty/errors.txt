@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/bibtopic/bibtopic.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/bibtopic/bibtopic.sty:891:1:891:1: e208 too many closing braces

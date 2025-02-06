@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lwarp/lwarp.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lwarp/lwarp.sty:1042:5:1042:21: w202 deprecated control sequences

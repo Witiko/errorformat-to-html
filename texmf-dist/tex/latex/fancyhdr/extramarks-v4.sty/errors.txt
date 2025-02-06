@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fancyhdr/extramarks-v4.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fancyhdr/extramarks-v4.sty:35:1:36:0: w101 unexpected delimiters

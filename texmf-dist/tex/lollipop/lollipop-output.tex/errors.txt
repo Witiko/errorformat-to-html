@@ -1,0 +1,15 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-output.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-output.tex:30:1:30:13: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-output.tex:53:1:53:27: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-output.tex:55:1:55:16: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-output.tex:59:1:59:23: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-output.tex:60:1:60:22: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-output.tex:61:1:61:23: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-output.tex:62:1:62:22: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-output.tex:63:1:63:23: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-output.tex:81:17:81:32: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-output.tex:82:34:82:48: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-output.tex:86:20:86:35: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-output.tex:89:34:89:48: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-output.tex:198:1:198:21: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-output.tex:585:1:585:14: e201 unknown argument specifiers

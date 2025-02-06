@@ -1,0 +1,66 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/responsive/responsive.sty",
+    "lnum": 173,
+    "end_lnum": 173,
+    "col": 12,
+    "end_col": 31,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/responsive/responsive.sty:173:12:173:31: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/responsive/responsive.sty",
+    "lnum": 199,
+    "end_lnum": 199,
+    "col": 12,
+    "end_col": 35,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/responsive/responsive.sty:199:12:199:35: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/responsive/responsive.sty",
+    "lnum": 337,
+    "end_lnum": 337,
+    "col": 13,
+    "end_col": 44,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/responsive/responsive.sty:337:13:337:44: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/responsive/responsive.sty",
+    "lnum": 366,
+    "end_lnum": 366,
+    "col": 16,
+    "end_col": 35,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/responsive/responsive.sty:366:16:366:35: s205 malformed function name"
+    ]
+  }
+]

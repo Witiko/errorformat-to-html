@@ -1,0 +1,6 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/schule/schule.mod.Bewertung.code.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/schule/schule.mod.Bewertung.code.tex:81:13:81:36: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/schule/schule.mod.Bewertung.code.tex:86:13:86:38: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/schule/schule.mod.Bewertung.code.tex:91:13:91:49: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/schule/schule.mod.Bewertung.code.tex:98:13:98:47: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/schule/schule.mod.Bewertung.code.tex:109:13:109:54: s205 malformed function name

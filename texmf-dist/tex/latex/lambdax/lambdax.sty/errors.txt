@@ -1,0 +1,4 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lambdax/lambdax.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lambdax/lambdax.sty:22:1:23:0: w101 unexpected delimiters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lambdax/lambdax.sty:103:3:103:13: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lambdax/lambdax.sty:107:3:107:14: s205 malformed function name

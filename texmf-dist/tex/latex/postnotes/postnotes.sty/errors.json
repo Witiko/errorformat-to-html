@@ -1,0 +1,18 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/postnotes/postnotes.sty",
+    "lnum": 900,
+    "end_lnum": 900,
+    "col": 29,
+    "end_col": 30,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/postnotes/postnotes.sty:900:29:900:30: s205 malformed function name"
+    ]
+  }
+]

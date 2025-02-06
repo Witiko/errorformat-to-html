@@ -1,0 +1,146 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/l3benchmark/l3benchmark.sty",
+    "lnum": 32,
+    "end_lnum": 32,
+    "col": 19,
+    "end_col": 30,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/l3benchmark/l3benchmark.sty:32:19:32:30: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/l3benchmark/l3benchmark.sty",
+    "lnum": 67,
+    "end_lnum": 67,
+    "col": 15,
+    "end_col": 32,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/l3benchmark/l3benchmark.sty:67:15:67:32: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/l3benchmark/l3benchmark.sty",
+    "lnum": 76,
+    "end_lnum": 76,
+    "col": 17,
+    "end_col": 34,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/l3benchmark/l3benchmark.sty:76:17:76:34: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/l3benchmark/l3benchmark.sty",
+    "lnum": 78,
+    "end_lnum": 78,
+    "col": 9,
+    "end_col": 26,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/l3benchmark/l3benchmark.sty:78:9:78:26: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/l3benchmark/l3benchmark.sty",
+    "lnum": 82,
+    "end_lnum": 82,
+    "col": 17,
+    "end_col": 34,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/l3benchmark/l3benchmark.sty:82:17:82:34: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/l3benchmark/l3benchmark.sty",
+    "lnum": 83,
+    "end_lnum": 83,
+    "col": 27,
+    "end_col": 44,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/l3benchmark/l3benchmark.sty:83:27:83:44: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/l3benchmark/l3benchmark.sty",
+    "lnum": 89,
+    "end_lnum": 89,
+    "col": 27,
+    "end_col": 44,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/l3benchmark/l3benchmark.sty:89:27:89:44: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/l3benchmark/l3benchmark.sty",
+    "lnum": 91,
+    "end_lnum": 91,
+    "col": 19,
+    "end_col": 36,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/l3benchmark/l3benchmark.sty:91:19:91:36: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/l3benchmark/l3benchmark.sty",
+    "lnum": 115,
+    "end_lnum": 115,
+    "col": 23,
+    "end_col": 34,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/l3benchmark/l3benchmark.sty:115:23:115:34: s205 malformed function name"
+    ]
+  }
+]

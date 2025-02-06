@@ -1,0 +1,5 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/pdfescape/pdfescape.sty:268:26:268:26: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/pdfescape/pdfescape.sty:390:25:390:25: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/pdfescape/pdfescape.sty:477:31:477:31: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/pdfescape/pdfescape.sty:661:26:661:26: e209 invalid characters

@@ -1,0 +1,66 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/pdfescape/pdfescape.sty",
+    "lnum": 268,
+    "end_lnum": 268,
+    "col": 26,
+    "end_col": 26,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/pdfescape/pdfescape.sty:268:26:268:26: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/pdfescape/pdfescape.sty",
+    "lnum": 390,
+    "end_lnum": 390,
+    "col": 25,
+    "end_col": 25,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/pdfescape/pdfescape.sty:390:25:390:25: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/pdfescape/pdfescape.sty",
+    "lnum": 477,
+    "end_lnum": 477,
+    "col": 31,
+    "end_col": 31,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/pdfescape/pdfescape.sty:477:31:477:31: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/pdfescape/pdfescape.sty",
+    "lnum": 661,
+    "end_lnum": 661,
+    "col": 26,
+    "end_col": 26,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/pdfescape/pdfescape.sty:661:26:661:26: e209 invalid characters"
+    ]
+  }
+]

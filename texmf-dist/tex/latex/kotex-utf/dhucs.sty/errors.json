@@ -1,0 +1,18 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kotex-utf/dhucs.sty",
+    "lnum": 119,
+    "end_lnum": 119,
+    "col": 47,
+    "end_col": 47,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kotex-utf/dhucs.sty:119:47:119:47: e209 invalid characters"
+    ]
+  }
+]

@@ -1,0 +1,89 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:181:13:181:49: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:186:13:186:49: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:191:13:191:47: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:199:13:199:53: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:205:13:205:56: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:311:13:311:45: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:360:17:360:30: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:363:19:363:32: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:366:17:366:30: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:369:19:369:32: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:372:17:372:30: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:375:19:375:32: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:438:17:438:30: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:441:19:441:32: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:444:17:444:30: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:447:19:447:32: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:450:17:450:30: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:453:19:453:32: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:603:17:603:45: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:607:17:607:45: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:612:17:612:56: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:618:17:618:46: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:623:17:623:46: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:684:17:684:30: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:687:19:687:32: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:690:17:690:30: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:693:19:693:32: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:696:17:696:30: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:699:19:699:32: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1489:17:1489:51: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1490:17:1490:49: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1491:17:1491:55: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1492:17:1492:52: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1496:17:1496:51: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1497:17:1497:49: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1498:17:1498:55: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1499:17:1499:52: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1503:17:1503:51: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1504:17:1504:49: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1505:17:1505:55: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1506:17:1506:52: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1510:14:1510:46: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1511:14:1511:47: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1512:14:1512:52: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1832:15:1832:44: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1886:13:1886:41: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1894:13:1894:41: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1904:13:1904:43: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1911:13:1911:52: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1923:13:1923:50: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1930:13:1930:42: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1940:13:1940:42: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1960:3:1960:15: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1960:37:1960:49: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1961:6:1961:10: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1963:3:1963:15: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1963:37:1963:49: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1964:6:1964:10: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1966:3:1966:15: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1966:37:1966:49: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1967:6:1967:10: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1972:3:1972:15: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1972:37:1972:49: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1973:6:1973:10: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1977:3:1977:15: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1977:41:1977:53: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1978:6:1978:10: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1979:3:1979:15: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1979:41:1979:53: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1980:6:1980:10: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1981:3:1981:15: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1981:41:1981:53: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1982:6:1982:10: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1985:3:1985:15: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1985:37:1985:49: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1986:6:1986:10: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1991:3:1991:15: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1991:41:1991:53: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1992:6:1992:10: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1993:3:1993:15: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1993:41:1993:53: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1994:6:1994:10: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1995:3:1995:15: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1995:41:1995:53: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1996:6:1996:10: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1999:3:1999:15: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:1999:37:1999:49: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/thermodynamics/thermodynamics.sty:2000:6:2000:10: w200 "weird" and "do not use" argument specifiers

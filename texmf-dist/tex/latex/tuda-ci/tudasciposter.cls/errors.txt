@@ -1,0 +1,3 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tuda-ci/tudasciposter.cls
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tuda-ci/tudasciposter.cls:59:58:59:71: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tuda-ci/tudasciposter.cls:299:26:299:41: w202 deprecated control sequences

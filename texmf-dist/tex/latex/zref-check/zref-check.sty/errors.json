@@ -1,0 +1,50 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/zref-check/zref-check.sty",
+    "lnum": 164,
+    "end_lnum": 164,
+    "col": 15,
+    "end_col": 41,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/zref-check/zref-check.sty:164:15:164:41: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/zref-check/zref-check.sty",
+    "lnum": 164,
+    "end_lnum": 164,
+    "col": 43,
+    "end_col": 59,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/zref-check/zref-check.sty:164:43:164:59: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/zref-check/zref-check.sty",
+    "lnum": 170,
+    "end_lnum": 170,
+    "col": 28,
+    "end_col": 54,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/zref-check/zref-check.sty:170:28:170:54: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  }
+]

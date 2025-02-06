@@ -1,0 +1,18 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/linearregression/linearregression.sty",
+    "lnum": 100,
+    "end_lnum": 100,
+    "col": 3,
+    "end_col": 11,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/linearregression/linearregression.sty:100:3:100:11: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  }
+]

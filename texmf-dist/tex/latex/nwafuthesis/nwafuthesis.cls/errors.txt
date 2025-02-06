@@ -1,0 +1,12 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwafuthesis/nwafuthesis.cls
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwafuthesis/nwafuthesis.cls:113:36:113:46: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwafuthesis/nwafuthesis.cls:208:21:208:34: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwafuthesis/nwafuthesis.cls:1085:28:1085:28: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwafuthesis/nwafuthesis.cls:1086:32:1086:32: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwafuthesis/nwafuthesis.cls:1525:5:1525:16: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwafuthesis/nwafuthesis.cls:1570:13:1570:14: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwafuthesis/nwafuthesis.cls:1594:15:1594:41: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwafuthesis/nwafuthesis.cls:1651:5:1651:31: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwafuthesis/nwafuthesis.cls:1657:5:1657:31: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwafuthesis/nwafuthesis.cls:3425:68:3425:83: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwafuthesis/nwafuthesis.cls:3432:64:3432:79: w200 "weird" and "do not use" argument specifiers

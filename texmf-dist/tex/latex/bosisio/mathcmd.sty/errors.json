@@ -1,0 +1,18 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/bosisio/mathcmd.sty",
+    "lnum": 80,
+    "end_lnum": 80,
+    "col": 59,
+    "end_col": 61,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/bosisio/mathcmd.sty:80:59:80:61: e201 unknown argument specifiers"
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/dbshow/dbshow.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/dbshow/dbshow.sty:126:13:126:45: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/dbshow/dbshow.sty:136:7:136:39: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/dbshow/dbshow.sty:140:7:140:39: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/dbshow/dbshow.sty:273:23:273:51: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/dbshow/dbshow.sty:280:29:280:57: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/dbshow/dbshow.sty:520:23:520:52: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/dbshow/dbshow.sty:540:9:540:21: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/dbshow/dbshow.sty:540:23:540:52: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/dbshow/dbshow.sty:541:11:541:23: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/dbshow/dbshow.sty:542:11:542:23: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/dbshow/dbshow.sty:543:11:543:23: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/dbshow/dbshow.sty:559:21:559:43: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/dbshow/dbshow.sty:561:21:561:43: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/dbshow/dbshow.sty:563:21:563:37: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/dbshow/dbshow.sty:892:26:892:40: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/dbshow/dbshow.sty:896:26:896:41: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/dbshow/dbshow.sty:905:3:905:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/dbshow/dbshow.sty:910:3:910:18: w200 "weird" and "do not use" argument specifiers

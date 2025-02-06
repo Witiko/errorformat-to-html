@@ -1,0 +1,66 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/reledmac/reledmac.sty",
+    "lnum": 5640,
+    "end_lnum": 5640,
+    "col": 62,
+    "end_col": 77,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/reledmac/reledmac.sty:5640:62:5640:77: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/reledmac/reledmac.sty",
+    "lnum": 5641,
+    "end_lnum": 5641,
+    "col": 60,
+    "end_col": 73,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/reledmac/reledmac.sty:5641:60:5641:73: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/reledmac/reledmac.sty",
+    "lnum": 5680,
+    "end_lnum": 5680,
+    "col": 62,
+    "end_col": 77,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/reledmac/reledmac.sty:5680:62:5680:77: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/reledmac/reledmac.sty",
+    "lnum": 5681,
+    "end_lnum": 5681,
+    "col": 60,
+    "end_col": 73,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/reledmac/reledmac.sty:5681:60:5681:73: e201 unknown argument specifiers"
+    ]
+  }
+]

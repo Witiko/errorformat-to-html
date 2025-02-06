@@ -1,0 +1,66 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/urcls/URspecialopts.sty",
+    "lnum": 76,
+    "end_lnum": 76,
+    "col": 12,
+    "end_col": 28,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/urcls/URspecialopts.sty:76:12:76:28: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/urcls/URspecialopts.sty",
+    "lnum": 115,
+    "end_lnum": 115,
+    "col": 12,
+    "end_col": 31,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/urcls/URspecialopts.sty:115:12:115:31: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/urcls/URspecialopts.sty",
+    "lnum": 122,
+    "end_lnum": 122,
+    "col": 12,
+    "end_col": 31,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/urcls/URspecialopts.sty:122:12:122:31: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/urcls/URspecialopts.sty",
+    "lnum": 164,
+    "end_lnum": 164,
+    "col": 2,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/urcls/URspecialopts.sty:164:2:164:14: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  }
+]

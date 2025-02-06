@@ -1,0 +1,18 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/e-french/french.sty",
+    "lnum": 176,
+    "end_lnum": 176,
+    "col": 54,
+    "end_col": 54,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/e-french/french.sty:176:54:176:54: e208 too many closing braces"
+    ]
+  }
+]

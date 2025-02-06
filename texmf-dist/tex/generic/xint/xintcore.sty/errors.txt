@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/xint/xintcore.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/xint/xintcore.sty:1933:10:1933:36: e201 unknown argument specifiers

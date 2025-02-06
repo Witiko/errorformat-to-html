@@ -1,0 +1,3 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/patches/lltjp-listings.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/patches/lltjp-listings.sty:293:40:293:40: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/patches/lltjp-listings.sty:296:39:296:39: e209 invalid characters

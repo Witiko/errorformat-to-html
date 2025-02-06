@@ -1,0 +1,4 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamercolorthemegotham.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamercolorthemegotham.sty:305:122:305:135: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamercolorthemegotham.sty:316:127:316:140: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamercolorthemegotham.sty:326:125:326:138: w202 deprecated control sequences

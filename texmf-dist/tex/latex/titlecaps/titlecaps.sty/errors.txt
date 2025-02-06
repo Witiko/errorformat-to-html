@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/titlecaps/titlecaps.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/titlecaps/titlecaps.sty:37:15:37:15: e209 invalid characters

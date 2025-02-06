@@ -1,0 +1,98 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/bxjaholiday/bxjaholiday.sty",
+    "lnum": 114,
+    "end_lnum": 114,
+    "col": 11,
+    "end_col": 28,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/bxjaholiday/bxjaholiday.sty:114:11:114:28: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/bxjaholiday/bxjaholiday.sty",
+    "lnum": 114,
+    "end_lnum": 114,
+    "col": 43,
+    "end_col": 52,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/bxjaholiday/bxjaholiday.sty:114:43:114:52: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/bxjaholiday/bxjaholiday.sty",
+    "lnum": 115,
+    "end_lnum": 115,
+    "col": 28,
+    "end_col": 41,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/bxjaholiday/bxjaholiday.sty:115:28:115:41: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/bxjaholiday/bxjaholiday.sty",
+    "lnum": 123,
+    "end_lnum": 123,
+    "col": 11,
+    "end_col": 28,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/bxjaholiday/bxjaholiday.sty:123:11:123:28: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/bxjaholiday/bxjaholiday.sty",
+    "lnum": 123,
+    "end_lnum": 123,
+    "col": 43,
+    "end_col": 52,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/bxjaholiday/bxjaholiday.sty:123:43:123:52: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/bxjaholiday/bxjaholiday.sty",
+    "lnum": 124,
+    "end_lnum": 124,
+    "col": 28,
+    "end_col": 41,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/bxjaholiday/bxjaholiday.sty:124:28:124:41: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  }
+]

@@ -1,0 +1,13 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sjtutex/sjtureport.cls
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sjtutex/sjtureport.cls:72:14:72:27: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sjtutex/sjtureport.cls:176:21:176:34: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sjtutex/sjtureport.cls:294:45:294:56: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sjtutex/sjtureport.cls:332:17:332:29: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sjtutex/sjtureport.cls:343:17:343:29: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sjtutex/sjtureport.cls:734:17:734:21: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sjtutex/sjtureport.cls:805:15:805:16: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sjtutex/sjtureport.cls:808:23:808:24: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sjtutex/sjtureport.cls:959:23:959:24: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sjtutex/sjtureport.cls:1104:19:1104:40: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sjtutex/sjtureport.cls:1107:19:1107:20: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sjtutex/sjtureport.cls:1107:29:1107:50: w200 "weird" and "do not use" argument specifiers

@@ -1,0 +1,5 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/latex-lab/latex-lab-testphase-title.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/latex-lab/latex-lab-testphase-title.sty:81:23:81:35: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/latex-lab/latex-lab-testphase-title.sty:147:20:147:21: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/latex-lab/latex-lab-testphase-title.sty:156:19:156:20: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/latex-lab/latex-lab-testphase-title.sty:165:19:165:20: s205 malformed function name

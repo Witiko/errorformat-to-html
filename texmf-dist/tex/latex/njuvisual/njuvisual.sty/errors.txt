@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/njuvisual/njuvisual.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/njuvisual/njuvisual.sty:118:45:118:58: w101 unexpected delimiters

@@ -1,0 +1,39 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty:222:39:222:51: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty:329:4:329:17: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty:334:16:334:29: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty:456:22:456:34: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty:496:13:496:46: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty:496:13:496:46: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty:497:13:497:47: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty:497:13:497:47: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty:498:13:498:47: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty:498:13:498:47: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty:499:13:499:48: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty:499:13:499:48: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty:511:5:511:21: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty:519:6:519:22: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty:524:43:524:53: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty:793:46:793:50: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty:860:45:860:79: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty:861:13:861:47: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty:861:13:861:47: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty:1315:5:1315:39: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty:1568:5:1568:39: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty:1600:45:1600:57: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty:1867:5:1867:37: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty:1870:13:1870:45: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty:1873:9:1873:35: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty:1874:9:1874:35: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty:1876:13:1876:39: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty:1959:44:1959:77: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty:1960:13:1960:46: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty:1960:13:1960:46: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty:2575:9:2575:36: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty:2578:13:2578:40: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty:2578:13:2578:40: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty:2666:21:2666:47: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty:2675:13:2675:39: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty:2675:13:2675:39: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty:3049:28:3049:47: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty:3062:28:3062:47: w200 "weird" and "do not use" argument specifiers

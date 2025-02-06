@@ -1,0 +1,32 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/longdivision/longdivision.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/longdivision/longdivision.sty:58:40:58:53: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/longdivision/longdivision.sty:59:60:59:73: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/longdivision/longdivision.sty:61:73:61:86: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/longdivision/longdivision.sty:101:22:101:44: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/longdivision/longdivision.sty:104:26:104:36: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/longdivision/longdivision.sty:104:26:104:36: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/longdivision/longdivision.sty:107:13:107:35: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/longdivision/longdivision.sty:249:9:249:27: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/longdivision/longdivision.sty:294:17:294:45: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/longdivision/longdivision.sty:307:13:307:41: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/longdivision/longdivision.sty:337:9:337:27: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/longdivision/longdivision.sty:342:9:342:27: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/longdivision/longdivision.sty:348:22:348:49: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/longdivision/longdivision.sty:352:13:352:40: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/longdivision/longdivision.sty:354:9:354:27: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/longdivision/longdivision.sty:357:9:357:27: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/longdivision/longdivision.sty:362:13:362:31: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/longdivision/longdivision.sty:384:9:384:38: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/longdivision/longdivision.sty:389:13:389:42: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/longdivision/longdivision.sty:712:5:712:21: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/longdivision/longdivision.sty:713:5:713:21: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/longdivision/longdivision.sty:719:17:719:29: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/longdivision/longdivision.sty:719:33:719:38: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/longdivision/longdivision.sty:719:40:719:60: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/longdivision/longdivision.sty:721:13:721:29: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/longdivision/longdivision.sty:727:9:727:21: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/longdivision/longdivision.sty:727:25:727:30: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/longdivision/longdivision.sty:727:32:727:52: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/longdivision/longdivision.sty:773:5:773:21: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/longdivision/longdivision.sty:790:5:790:20: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/longdivision/longdivision.sty:801:9:801:21: w200 "weird" and "do not use" argument specifiers

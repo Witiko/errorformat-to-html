@@ -1,0 +1,114 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/vntex/t5code.tex",
+    "lnum": 290,
+    "end_lnum": 290,
+    "col": 13,
+    "end_col": 13,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/vntex/t5code.tex:290:13:290:13: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/vntex/t5code.tex",
+    "lnum": 291,
+    "end_lnum": 291,
+    "col": 13,
+    "end_col": 13,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/vntex/t5code.tex:291:13:291:13: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/vntex/t5code.tex",
+    "lnum": 293,
+    "end_lnum": 293,
+    "col": 12,
+    "end_col": 12,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/vntex/t5code.tex:293:12:293:12: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/vntex/t5code.tex",
+    "lnum": 366,
+    "end_lnum": 366,
+    "col": 18,
+    "end_col": 18,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/vntex/t5code.tex:366:18:366:18: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/vntex/t5code.tex",
+    "lnum": 384,
+    "end_lnum": 384,
+    "col": 18,
+    "end_col": 18,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/vntex/t5code.tex:384:18:384:18: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/vntex/t5code.tex",
+    "lnum": 393,
+    "end_lnum": 393,
+    "col": 18,
+    "end_col": 18,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/vntex/t5code.tex:393:18:393:18: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/vntex/t5code.tex",
+    "lnum": 411,
+    "end_lnum": 411,
+    "col": 18,
+    "end_col": 18,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/vntex/t5code.tex:411:18:411:18: e209 invalid characters"
+    ]
+  }
+]

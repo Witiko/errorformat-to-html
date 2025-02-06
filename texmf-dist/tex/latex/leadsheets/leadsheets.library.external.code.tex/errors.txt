@@ -1,0 +1,17 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/leadsheets/leadsheets.library.external.code.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/leadsheets/leadsheets.library.external.code.tex:48:13:48:27: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/leadsheets/leadsheets.library.external.code.tex:86:23:86:51: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/leadsheets/leadsheets.library.external.code.tex:89:9:89:39: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/leadsheets/leadsheets.library.external.code.tex:90:9:90:38: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/leadsheets/leadsheets.library.external.code.tex:93:23:93:53: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/leadsheets/leadsheets.library.external.code.tex:94:5:94:34: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/leadsheets/leadsheets.library.external.code.tex:96:23:96:52: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/leadsheets/leadsheets.library.external.code.tex:99:9:99:42: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/leadsheets/leadsheets.library.external.code.tex:103:23:103:56: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/leadsheets/leadsheets.library.external.code.tex:118:9:118:40: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/leadsheets/leadsheets.library.external.code.tex:129:13:129:45: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/leadsheets/leadsheets.library.external.code.tex:134:5:134:37: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/leadsheets/leadsheets.library.external.code.tex:137:23:137:55: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/leadsheets/leadsheets.library.external.code.tex:151:23:151:54: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/leadsheets/leadsheets.library.external.code.tex:155:9:155:40: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/leadsheets/leadsheets.library.external.code.tex:165:40:165:68: w200 "weird" and "do not use" argument specifiers

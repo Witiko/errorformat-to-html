@@ -1,0 +1,13 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xecjk/xeCJK-listings.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xecjk/xeCJK-listings.sty:51:5:51:19: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xecjk/xeCJK-listings.sty:256:5:256:20: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xecjk/xeCJK-listings.sty:272:34:272:43: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xecjk/xeCJK-listings.sty:299:23:299:57: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xecjk/xeCJK-listings.sty:304:35:304:69: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xecjk/xeCJK-listings.sty:305:23:305:54: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xecjk/xeCJK-listings.sty:307:5:307:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xecjk/xeCJK-listings.sty:308:5:308:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xecjk/xeCJK-listings.sty:308:21:308:37: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xecjk/xeCJK-listings.sty:310:29:310:60: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xecjk/xeCJK-listings.sty:317:13:317:26: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xecjk/xeCJK-listings.sty:328:5:328:18: w200 "weird" and "do not use" argument specifiers

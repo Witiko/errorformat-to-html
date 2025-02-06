@@ -1,0 +1,22 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tagpdf/tagpdf.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tagpdf/tagpdf.sty:77:27:77:53: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tagpdf/tagpdf.sty:1432:25:1432:58: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tagpdf/tagpdf.sty:1465:26:1465:59: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tagpdf/tagpdf.sty:1501:12:1501:45: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tagpdf/tagpdf.sty:2812:31:2812:55: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tagpdf/tagpdf.sty:2813:31:2813:54: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tagpdf/tagpdf.sty:2815:32:2815:52: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tagpdf/tagpdf.sty:2816:33:2816:56: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tagpdf/tagpdf.sty:2909:31:2909:55: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tagpdf/tagpdf.sty:2910:31:2910:54: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tagpdf/tagpdf.sty:2912:32:2912:52: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tagpdf/tagpdf.sty:2913:33:2913:56: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tagpdf/tagpdf.sty:2962:31:2962:55: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tagpdf/tagpdf.sty:2963:31:2963:54: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tagpdf/tagpdf.sty:2965:32:2965:52: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tagpdf/tagpdf.sty:2966:33:2966:56: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tagpdf/tagpdf.sty:3001:13:3001:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tagpdf/tagpdf.sty:3005:13:3005:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tagpdf/tagpdf.sty:3311:9:3311:22: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tagpdf/tagpdf.sty:3327:9:3327:33: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tagpdf/tagpdf.sty:3570:26:3570:27: s205 malformed function name

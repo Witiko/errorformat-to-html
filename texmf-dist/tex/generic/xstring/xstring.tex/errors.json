@@ -1,0 +1,34 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/xstring/xstring.tex",
+    "lnum": 93,
+    "end_lnum": 93,
+    "col": 37,
+    "end_col": 37,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/xstring/xstring.tex:93:37:93:37: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/xstring/xstring.tex",
+    "lnum": 94,
+    "end_lnum": 94,
+    "col": 54,
+    "end_col": 54,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/xstring/xstring.tex:94:54:94:54: e209 invalid characters"
+    ]
+  }
+]

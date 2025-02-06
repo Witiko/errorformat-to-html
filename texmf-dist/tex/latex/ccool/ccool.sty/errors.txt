@@ -1,0 +1,7 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ccool/ccool.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ccool/ccool.sty:22:1:23:0: w101 unexpected delimiters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ccool/ccool.sty:28:23:28:40: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ccool/ccool.sty:34:3:34:20: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ccool/ccool.sty:52:23:52:41: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ccool/ccool.sty:61:3:61:21: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ccool/ccool.sty:284:16:284:40: s205 malformed function name

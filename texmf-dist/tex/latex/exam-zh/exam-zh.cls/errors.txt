@@ -1,0 +1,12 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/exam-zh/exam-zh.cls
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/exam-zh/exam-zh.cls:136:45:136:45: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/exam-zh/exam-zh.cls:152:28:152:28: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/exam-zh/exam-zh.cls:153:32:153:32: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/exam-zh/exam-zh.cls:723:5:723:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/exam-zh/exam-zh.cls:1621:13:1621:53: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/exam-zh/exam-zh.cls:1628:5:1628:45: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/exam-zh/exam-zh.cls:1632:13:1632:62: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/exam-zh/exam-zh.cls:1640:5:1640:54: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/exam-zh/exam-zh.cls:2134:37:2134:47: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/exam-zh/exam-zh.cls:2214:5:2214:16: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/exam-zh/exam-zh.cls:2259:13:2259:14: s205 malformed function name

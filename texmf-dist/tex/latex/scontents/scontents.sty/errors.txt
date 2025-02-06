@@ -1,0 +1,4 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/scontents/scontents.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/scontents/scontents.sty:88:21:88:48: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/scontents/scontents.sty:96:21:96:43: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/scontents/scontents.sty:108:38:108:57: w200 "weird" and "do not use" argument specifiers

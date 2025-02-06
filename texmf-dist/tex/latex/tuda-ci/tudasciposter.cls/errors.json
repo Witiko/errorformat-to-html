@@ -1,0 +1,34 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tuda-ci/tudasciposter.cls",
+    "lnum": 59,
+    "end_lnum": 59,
+    "col": 58,
+    "end_col": 71,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tuda-ci/tudasciposter.cls:59:58:59:71: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tuda-ci/tudasciposter.cls",
+    "lnum": 299,
+    "end_lnum": 299,
+    "col": 26,
+    "end_col": 41,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tuda-ci/tudasciposter.cls:299:26:299:41: w202 deprecated control sequences"
+    ]
+  }
+]

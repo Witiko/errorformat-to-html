@@ -1,0 +1,3 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/hduthesis/hduthesis.cls
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/hduthesis/hduthesis.cls:76:5:78:41: e104 multiple delimiters `\ProvidesExpl*` in a single file
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/hduthesis/hduthesis.cls:76:5:78:41: w101 unexpected delimiters

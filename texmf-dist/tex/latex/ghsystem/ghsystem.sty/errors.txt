@@ -1,0 +1,19 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ghsystem/ghsystem.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ghsystem/ghsystem.sty:36:1:41:0: w101 unexpected delimiters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ghsystem/ghsystem.sty:109:5:109:18: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ghsystem/ghsystem.sty:116:5:116:18: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ghsystem/ghsystem.sty:194:5:195:0: w101 unexpected delimiters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ghsystem/ghsystem.sty:449:9:449:42: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ghsystem/ghsystem.sty:450:9:450:43: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ghsystem/ghsystem.sty:453:13:453:46: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ghsystem/ghsystem.sty:461:13:461:48: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ghsystem/ghsystem.sty:470:13:470:47: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ghsystem/ghsystem.sty:480:13:480:48: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ghsystem/ghsystem.sty:590:9:590:39: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ghsystem/ghsystem.sty:598:23:598:53: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ghsystem/ghsystem.sty:605:10:605:41: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ghsystem/ghsystem.sty:609:13:609:44: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ghsystem/ghsystem.sty:614:5:614:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ghsystem/ghsystem.sty:615:5:615:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ghsystem/ghsystem.sty:615:19:615:50: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ghsystem/ghsystem.sty:617:5:617:36: w200 "weird" and "do not use" argument specifiers

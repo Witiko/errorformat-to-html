@@ -1,0 +1,66 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/derivative/derivative.sty",
+    "lnum": 1182,
+    "end_lnum": 1182,
+    "col": 5,
+    "end_col": 31,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/derivative/derivative.sty:1182:5:1182:31: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/derivative/derivative.sty",
+    "lnum": 1220,
+    "end_lnum": 1220,
+    "col": 23,
+    "end_col": 49,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/derivative/derivative.sty:1220:23:1220:49: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/derivative/derivative.sty",
+    "lnum": 1232,
+    "end_lnum": 1232,
+    "col": 5,
+    "end_col": 36,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/derivative/derivative.sty:1232:5:1232:36: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/derivative/derivative.sty",
+    "lnum": 1244,
+    "end_lnum": 1244,
+    "col": 23,
+    "end_col": 54,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/derivative/derivative.sty:1244:23:1244:54: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  }
+]

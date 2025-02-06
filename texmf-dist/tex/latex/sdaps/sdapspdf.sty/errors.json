@@ -1,0 +1,34 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapspdf.sty",
+    "lnum": 49,
+    "end_lnum": 49,
+    "col": 28,
+    "end_col": 61,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapspdf.sty:49:28:49:61: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapspdf.sty",
+    "lnum": 61,
+    "end_lnum": 61,
+    "col": 28,
+    "end_col": 57,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapspdf.sty:61:28:61:57: s205 malformed function name"
+    ]
+  }
+]

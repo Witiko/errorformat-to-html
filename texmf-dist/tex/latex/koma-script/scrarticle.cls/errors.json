@@ -1,0 +1,18 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrarticle.cls",
+    "lnum": 44,
+    "end_lnum": 45,
+    "col": 5,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 101,
+    "pattern": "",
+    "text": "unexpected delimiters",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrarticle.cls:44:5:45:0: w101 unexpected delimiters"
+    ]
+  }
+]

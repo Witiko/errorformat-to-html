@@ -1,0 +1,18 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-mp/minim-mp.sty",
+    "lnum": 26,
+    "end_lnum": 26,
+    "col": 6,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-mp/minim-mp.sty:26:6:26:22: e201 unknown argument specifiers"
+    ]
+  }
+]

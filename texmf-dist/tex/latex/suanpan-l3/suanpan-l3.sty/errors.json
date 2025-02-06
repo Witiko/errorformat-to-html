@@ -1,0 +1,18 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/suanpan-l3/suanpan-l3.sty",
+    "lnum": 475,
+    "end_lnum": 475,
+    "col": 23,
+    "end_col": 36,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/suanpan-l3/suanpan-l3.sty:475:23:475:36: w202 deprecated control sequences"
+    ]
+  }
+]

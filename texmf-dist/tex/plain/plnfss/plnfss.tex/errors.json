@@ -1,0 +1,418 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/plnfss/plnfss.tex",
+    "lnum": 30,
+    "end_lnum": 30,
+    "col": 27,
+    "end_col": 27,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/plnfss/plnfss.tex:30:27:30:27: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/plnfss/plnfss.tex",
+    "lnum": 30,
+    "end_lnum": 30,
+    "col": 32,
+    "end_col": 32,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/plnfss/plnfss.tex:30:32:30:32: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/plnfss/plnfss.tex",
+    "lnum": 31,
+    "end_lnum": 31,
+    "col": 25,
+    "end_col": 25,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/plnfss/plnfss.tex:31:25:31:25: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/plnfss/plnfss.tex",
+    "lnum": 31,
+    "end_lnum": 31,
+    "col": 30,
+    "end_col": 30,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/plnfss/plnfss.tex:31:30:31:30: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/plnfss/plnfss.tex",
+    "lnum": 32,
+    "end_lnum": 32,
+    "col": 25,
+    "end_col": 25,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/plnfss/plnfss.tex:32:25:32:25: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/plnfss/plnfss.tex",
+    "lnum": 32,
+    "end_lnum": 32,
+    "col": 30,
+    "end_col": 30,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/plnfss/plnfss.tex:32:30:32:30: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/plnfss/plnfss.tex",
+    "lnum": 33,
+    "end_lnum": 33,
+    "col": 24,
+    "end_col": 24,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/plnfss/plnfss.tex:33:24:33:24: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/plnfss/plnfss.tex",
+    "lnum": 33,
+    "end_lnum": 33,
+    "col": 29,
+    "end_col": 29,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/plnfss/plnfss.tex:33:29:33:29: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/plnfss/plnfss.tex",
+    "lnum": 34,
+    "end_lnum": 34,
+    "col": 23,
+    "end_col": 23,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/plnfss/plnfss.tex:34:23:34:23: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/plnfss/plnfss.tex",
+    "lnum": 34,
+    "end_lnum": 34,
+    "col": 28,
+    "end_col": 28,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/plnfss/plnfss.tex:34:28:34:28: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/plnfss/plnfss.tex",
+    "lnum": 242,
+    "end_lnum": 242,
+    "col": 11,
+    "end_col": 11,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/plnfss/plnfss.tex:242:11:242:11: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/plnfss/plnfss.tex",
+    "lnum": 252,
+    "end_lnum": 252,
+    "col": 11,
+    "end_col": 11,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/plnfss/plnfss.tex:252:11:252:11: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/plnfss/plnfss.tex",
+    "lnum": 267,
+    "end_lnum": 267,
+    "col": 18,
+    "end_col": 18,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/plnfss/plnfss.tex:267:18:267:18: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/plnfss/plnfss.tex",
+    "lnum": 268,
+    "end_lnum": 268,
+    "col": 19,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/plnfss/plnfss.tex:268:19:268:19: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/plnfss/plnfss.tex",
+    "lnum": 271,
+    "end_lnum": 271,
+    "col": 11,
+    "end_col": 11,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/plnfss/plnfss.tex:271:11:271:11: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/plnfss/plnfss.tex",
+    "lnum": 292,
+    "end_lnum": 292,
+    "col": 34,
+    "end_col": 34,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/plnfss/plnfss.tex:292:34:292:34: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/plnfss/plnfss.tex",
+    "lnum": 293,
+    "end_lnum": 293,
+    "col": 48,
+    "end_col": 48,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/plnfss/plnfss.tex:293:48:293:48: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/plnfss/plnfss.tex",
+    "lnum": 301,
+    "end_lnum": 301,
+    "col": 20,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/plnfss/plnfss.tex:301:20:301:20: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/plnfss/plnfss.tex",
+    "lnum": 334,
+    "end_lnum": 334,
+    "col": 35,
+    "end_col": 35,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/plnfss/plnfss.tex:334:35:334:35: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/plnfss/plnfss.tex",
+    "lnum": 335,
+    "end_lnum": 335,
+    "col": 32,
+    "end_col": 32,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/plnfss/plnfss.tex:335:32:335:32: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/plnfss/plnfss.tex",
+    "lnum": 338,
+    "end_lnum": 338,
+    "col": 35,
+    "end_col": 35,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/plnfss/plnfss.tex:338:35:338:35: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/plnfss/plnfss.tex",
+    "lnum": 339,
+    "end_lnum": 339,
+    "col": 33,
+    "end_col": 33,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/plnfss/plnfss.tex:339:33:339:33: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/plnfss/plnfss.tex",
+    "lnum": 346,
+    "end_lnum": 346,
+    "col": 24,
+    "end_col": 24,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/plnfss/plnfss.tex:346:24:346:24: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/plnfss/plnfss.tex",
+    "lnum": 346,
+    "end_lnum": 346,
+    "col": 29,
+    "end_col": 29,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/plnfss/plnfss.tex:346:29:346:29: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/plnfss/plnfss.tex",
+    "lnum": 347,
+    "end_lnum": 347,
+    "col": 22,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/plnfss/plnfss.tex:347:22:347:22: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/plnfss/plnfss.tex",
+    "lnum": 347,
+    "end_lnum": 347,
+    "col": 27,
+    "end_col": 27,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/plnfss/plnfss.tex:347:27:347:27: e209 invalid characters"
+    ]
+  }
+]

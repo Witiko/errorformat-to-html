@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/se2thesis/se2thesis.cls
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/se2thesis/se2thesis.cls:143:52:143:65: w202 deprecated control sequences

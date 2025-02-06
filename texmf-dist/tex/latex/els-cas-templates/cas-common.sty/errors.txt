@@ -1,0 +1,77 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:133:32:133:36: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:304:10:304:19: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:377:5:377:14: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:399:5:399:14: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:428:5:428:14: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:486:37:486:41: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:547:5:547:14: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:567:7:567:16: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:576:7:576:16: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:596:7:596:16: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:612:7:612:16: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:638:12:638:21: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:643:11:643:20: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:679:7:679:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:680:7:680:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:681:7:681:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:838:11:838:20: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:852:11:852:20: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:866:11:866:20: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:880:11:880:20: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:902:6:902:16: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:910:10:910:20: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:936:14:936:23: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:937:33:937:42: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:941:14:941:23: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:956:11:956:20: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:1156:41:1156:54: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:1226:12:1226:22: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:1233:14:1233:24: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:1240:12:1240:22: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:1272:12:1272:22: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:1279:14:1279:24: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:1286:14:1286:24: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:1313:9:1313:18: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:1319:9:1319:18: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:1359:9:1359:18: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:1366:9:1366:18: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:1502:1:1502:11: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:1512:5:1512:15: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:1550:6:1550:16: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:1614:6:1614:18: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:1614:20:1614:32: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:1616:17:1616:21: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:1637:10:1637:19: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:1662:10:1662:19: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:1677:32:1677:48: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:1678:13:1678:29: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:1755:3:1755:12: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:1782:3:1782:13: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:1783:3:1783:12: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:1792:3:1792:12: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:1831:5:1831:14: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:1880:13:1880:32: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:1890:5:1890:24: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:1892:19:1892:38: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:1893:7:1893:26: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:1897:19:1897:38: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:1898:7:1898:26: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:2035:18:2035:19: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:2036:18:2036:19: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:2037:18:2037:19: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:2038:18:2038:19: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:2044:17:2044:18: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:2045:17:2045:18: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:2046:17:2046:18: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:2047:17:2047:18: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:2111:63:2111:76: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:2114:36:2114:49: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:2139:17:2139:18: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:2157:19:2157:20: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:2207:63:2207:76: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:2210:36:2210:49: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:2235:19:2235:20: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:2253:17:2253:18: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:2383:12:2383:21: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/els-cas-templates/cas-common.sty:2384:12:2384:19: s205 malformed function name

@@ -1,0 +1,82 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/multifootnote/multifootnote.sty",
+    "lnum": 132,
+    "end_lnum": 132,
+    "col": 30,
+    "end_col": 31,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/multifootnote/multifootnote.sty:132:30:132:31: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/multifootnote/multifootnote.sty",
+    "lnum": 200,
+    "end_lnum": 200,
+    "col": 32,
+    "end_col": 44,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/multifootnote/multifootnote.sty:200:32:200:44: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/multifootnote/multifootnote.sty",
+    "lnum": 240,
+    "end_lnum": 240,
+    "col": 30,
+    "end_col": 31,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/multifootnote/multifootnote.sty:240:30:240:31: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/multifootnote/multifootnote.sty",
+    "lnum": 350,
+    "end_lnum": 350,
+    "col": 24,
+    "end_col": 25,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/multifootnote/multifootnote.sty:350:24:350:25: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/multifootnote/multifootnote.sty",
+    "lnum": 429,
+    "end_lnum": 429,
+    "col": 24,
+    "end_col": 25,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/multifootnote/multifootnote.sty:429:24:429:25: s205 malformed function name"
+    ]
+  }
+]

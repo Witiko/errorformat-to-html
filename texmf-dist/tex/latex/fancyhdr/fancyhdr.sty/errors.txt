@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty:269:3:270:0: w101 unexpected delimiters

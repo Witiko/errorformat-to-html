@@ -1,0 +1,5 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/derivative/derivative.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/derivative/derivative.sty:1182:5:1182:31: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/derivative/derivative.sty:1220:23:1220:49: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/derivative/derivative.sty:1232:5:1232:36: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/derivative/derivative.sty:1244:23:1244:54: w200 "weird" and "do not use" argument specifiers

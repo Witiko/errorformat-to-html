@@ -1,0 +1,162 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/bidi/bidi-media9.sty",
+    "lnum": 128,
+    "end_lnum": 128,
+    "col": 11,
+    "end_col": 23,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/bidi/bidi-media9.sty:128:11:128:23: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/bidi/bidi-media9.sty",
+    "lnum": 128,
+    "end_lnum": 128,
+    "col": 24,
+    "end_col": 52,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/bidi/bidi-media9.sty:128:24:128:52: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/bidi/bidi-media9.sty",
+    "lnum": 131,
+    "end_lnum": 131,
+    "col": 11,
+    "end_col": 23,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/bidi/bidi-media9.sty:131:11:131:23: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/bidi/bidi-media9.sty",
+    "lnum": 131,
+    "end_lnum": 131,
+    "col": 24,
+    "end_col": 52,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/bidi/bidi-media9.sty:131:24:131:52: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/bidi/bidi-media9.sty",
+    "lnum": 185,
+    "end_lnum": 185,
+    "col": 26,
+    "end_col": 38,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/bidi/bidi-media9.sty:185:26:185:38: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/bidi/bidi-media9.sty",
+    "lnum": 222,
+    "end_lnum": 222,
+    "col": 44,
+    "end_col": 57,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/bidi/bidi-media9.sty:222:44:222:57: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/bidi/bidi-media9.sty",
+    "lnum": 360,
+    "end_lnum": 360,
+    "col": 9,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/bidi/bidi-media9.sty:360:9:360:21: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/bidi/bidi-media9.sty",
+    "lnum": 360,
+    "end_lnum": 360,
+    "col": 22,
+    "end_col": 37,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/bidi/bidi-media9.sty:360:22:360:37: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/bidi/bidi-media9.sty",
+    "lnum": 414,
+    "end_lnum": 414,
+    "col": 7,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/bidi/bidi-media9.sty:414:7:414:19: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/bidi/bidi-media9.sty",
+    "lnum": 414,
+    "end_lnum": 414,
+    "col": 20,
+    "end_col": 42,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/bidi/bidi-media9.sty:414:20:414:42: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  }
+]

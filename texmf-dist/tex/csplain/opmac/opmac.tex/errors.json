@@ -1,0 +1,146 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/csplain/opmac/opmac.tex",
+    "lnum": 634,
+    "end_lnum": 634,
+    "col": 3,
+    "end_col": 3,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/csplain/opmac/opmac.tex:634:3:634:3: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/csplain/opmac/opmac.tex",
+    "lnum": 634,
+    "end_lnum": 634,
+    "col": 6,
+    "end_col": 6,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/csplain/opmac/opmac.tex:634:6:634:6: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/csplain/opmac/opmac.tex",
+    "lnum": 634,
+    "end_lnum": 634,
+    "col": 9,
+    "end_col": 9,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/csplain/opmac/opmac.tex:634:9:634:9: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/csplain/opmac/opmac.tex",
+    "lnum": 659,
+    "end_lnum": 659,
+    "col": 28,
+    "end_col": 28,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/csplain/opmac/opmac.tex:659:28:659:28: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/csplain/opmac/opmac.tex",
+    "lnum": 659,
+    "end_lnum": 659,
+    "col": 35,
+    "end_col": 35,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/csplain/opmac/opmac.tex:659:35:659:35: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/csplain/opmac/opmac.tex",
+    "lnum": 659,
+    "end_lnum": 659,
+    "col": 42,
+    "end_col": 42,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/csplain/opmac/opmac.tex:659:42:659:42: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/csplain/opmac/opmac.tex",
+    "lnum": 660,
+    "end_lnum": 660,
+    "col": 28,
+    "end_col": 28,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/csplain/opmac/opmac.tex:660:28:660:28: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/csplain/opmac/opmac.tex",
+    "lnum": 660,
+    "end_lnum": 660,
+    "col": 35,
+    "end_col": 35,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/csplain/opmac/opmac.tex:660:35:660:35: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/csplain/opmac/opmac.tex",
+    "lnum": 660,
+    "end_lnum": 660,
+    "col": 42,
+    "end_col": 42,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/csplain/opmac/opmac.tex:660:42:660:42: e209 invalid characters"
+    ]
+  }
+]

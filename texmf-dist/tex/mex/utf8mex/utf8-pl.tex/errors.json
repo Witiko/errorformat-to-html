@@ -1,0 +1,34 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/mex/utf8mex/utf8-pl.tex",
+    "lnum": 45,
+    "end_lnum": 45,
+    "col": 12,
+    "end_col": 12,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/mex/utf8mex/utf8-pl.tex:45:12:45:12: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/mex/utf8mex/utf8-pl.tex",
+    "lnum": 45,
+    "end_lnum": 45,
+    "col": 15,
+    "end_col": 15,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/mex/utf8mex/utf8-pl.tex:45:15:45:15: e209 invalid characters"
+    ]
+  }
+]

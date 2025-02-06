@@ -1,0 +1,82 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/lua-widow-control/lua-widow-control.sty",
+    "lnum": 87,
+    "end_lnum": 87,
+    "col": 41,
+    "end_col": 59,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/lua-widow-control/lua-widow-control.sty:87:41:87:59: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/lua-widow-control/lua-widow-control.sty",
+    "lnum": 88,
+    "end_lnum": 88,
+    "col": 41,
+    "end_col": 66,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/lua-widow-control/lua-widow-control.sty:88:41:88:66: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/lua-widow-control/lua-widow-control.sty",
+    "lnum": 92,
+    "end_lnum": 92,
+    "col": 42,
+    "end_col": 59,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/lua-widow-control/lua-widow-control.sty:92:42:92:59: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/lua-widow-control/lua-widow-control.sty",
+    "lnum": 97,
+    "end_lnum": 97,
+    "col": 39,
+    "end_col": 58,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/lua-widow-control/lua-widow-control.sty:97:39:97:58: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/lua-widow-control/lua-widow-control.sty",
+    "lnum": 153,
+    "end_lnum": 153,
+    "col": 26,
+    "end_col": 45,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/lua-widow-control/lua-widow-control.sty:153:26:153:45: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  }
+]

@@ -1,0 +1,11 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pmhanguljamo/pmhanguljamo-frkim.code.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pmhanguljamo/pmhanguljamo-frkim.code.tex:95:13:95:28: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pmhanguljamo/pmhanguljamo-frkim.code.tex:131:13:131:23: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pmhanguljamo/pmhanguljamo-frkim.code.tex:160:13:160:24: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pmhanguljamo/pmhanguljamo-frkim.code.tex:173:13:173:26: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pmhanguljamo/pmhanguljamo-frkim.code.tex:204:13:204:26: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pmhanguljamo/pmhanguljamo-frkim.code.tex:354:3:354:27: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pmhanguljamo/pmhanguljamo-frkim.code.tex:359:13:359:37: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pmhanguljamo/pmhanguljamo-frkim.code.tex:359:13:359:37: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pmhanguljamo/pmhanguljamo-frkim.code.tex:541:13:541:27: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pmhanguljamo/pmhanguljamo-frkim.code.tex:545:3:545:17: w200 "weird" and "do not use" argument specifiers

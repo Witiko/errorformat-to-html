@@ -1,0 +1,10 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mdframed/ltxmdf.cls
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mdframed/ltxmdf.cls:39:15:39:34: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mdframed/ltxmdf.cls:39:15:39:34: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mdframed/ltxmdf.cls:46:1:46:20: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mdframed/ltxmdf.cls:152:9:152:20: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mdframed/ltxmdf.cls:156:9:156:20: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mdframed/ltxmdf.cls:158:9:158:20: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mdframed/ltxmdf.cls:160:9:160:20: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mdframed/ltxmdf.cls:162:9:162:20: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mdframed/ltxmdf.cls:168:5:168:16: e203 removed control sequences

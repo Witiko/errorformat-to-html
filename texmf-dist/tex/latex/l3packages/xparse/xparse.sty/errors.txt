@@ -1,0 +1,10 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse.sty:48:7:48:19: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse.sty:50:7:50:19: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse.sty:52:5:53:0: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse.sty:55:5:56:0: w101 unexpected delimiters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse.sty:56:5:56:20: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse.sty:56:21:57:0: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse.sty:58:9:58:21: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse.sty:59:9:60:0: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse.sty:62:1:63:0: w101 unexpected delimiters

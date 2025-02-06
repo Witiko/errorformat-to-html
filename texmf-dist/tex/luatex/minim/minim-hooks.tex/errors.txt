@@ -1,0 +1,20 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-hooks.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-hooks.tex:28:8:28:25: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-hooks.tex:28:31:28:49: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-hooks.tex:29:5:29:21: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-hooks.tex:29:23:29:41: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-hooks.tex:29:46:29:63: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-hooks.tex:30:15:30:32: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-hooks.tex:31:17:31:34: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-hooks.tex:32:65:32:82: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-hooks.tex:34:16:34:33: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-hooks.tex:38:5:38:19: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-hooks.tex:39:9:39:25: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-hooks.tex:40:9:40:24: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-hooks.tex:41:28:41:42: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-hooks.tex:42:1:42:15: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-hooks.tex:43:5:43:26: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-hooks.tex:46:9:46:25: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-hooks.tex:47:5:47:20: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-hooks.tex:48:27:48:42: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-hooks.tex:49:5:49:26: e201 unknown argument specifiers

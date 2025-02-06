@@ -1,0 +1,31 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/clistmap/clistmap.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/clistmap/clistmap.sty:31:12:31:30: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/clistmap/clistmap.sty:156:3:156:25: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/clistmap/clistmap.sty:160:1:160:23: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/clistmap/clistmap.sty:165:3:165:26: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/clistmap/clistmap.sty:167:1:167:24: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/clistmap/clistmap.sty:173:3:173:27: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/clistmap/clistmap.sty:174:24:174:47: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/clistmap/clistmap.sty:176:1:176:25: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/clistmap/clistmap.sty:182:3:182:26: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/clistmap/clistmap.sty:257:1:257:13: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/clistmap/clistmap.sty:290:3:290:23: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/clistmap/clistmap.sty:300:1:300:21: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/clistmap/clistmap.sty:308:3:308:24: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/clistmap/clistmap.sty:316:1:316:22: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/clistmap/clistmap.sty:328:3:328:23: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/clistmap/clistmap.sty:450:1:450:14: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/clistmap/clistmap.sty:801:3:801:31: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/clistmap/clistmap.sty:806:1:806:29: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/clistmap/clistmap.sty:812:3:812:32: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/clistmap/clistmap.sty:815:1:815:30: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/clistmap/clistmap.sty:834:3:834:32: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/clistmap/clistmap.sty:1037:5:1037:38: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/clistmap/clistmap.sty:1052:1:1052:34: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/clistmap/clistmap.sty:1060:3:1060:37: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/clistmap/clistmap.sty:1068:24:1068:57: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/clistmap/clistmap.sty:1070:1:1070:35: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/clistmap/clistmap.sty:1083:3:1083:36: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/clistmap/clistmap.sty:1119:5:1119:23: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/clistmap/clistmap.sty:1154:5:1154:23: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/clistmap/clistmap.sty:1158:5:1158:23: w200 "weird" and "do not use" argument specifiers

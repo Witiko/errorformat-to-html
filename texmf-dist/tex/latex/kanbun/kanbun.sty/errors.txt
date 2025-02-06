@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kanbun/kanbun.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kanbun/kanbun.sty:23:1:24:0: w101 unexpected delimiters

@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/dehyph/dehypht.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/dehyph/dehypht.tex:179:10:179:10: e209 invalid characters

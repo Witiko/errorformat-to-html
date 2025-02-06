@@ -1,0 +1,66 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/non-decimal-units/non-decimal-units.sty",
+    "lnum": 379,
+    "end_lnum": 379,
+    "col": 22,
+    "end_col": 45,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/non-decimal-units/non-decimal-units.sty:379:22:379:45: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/non-decimal-units/non-decimal-units.sty",
+    "lnum": 391,
+    "end_lnum": 391,
+    "col": 2,
+    "end_col": 12,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/non-decimal-units/non-decimal-units.sty:391:2:391:12: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/non-decimal-units/non-decimal-units.sty",
+    "lnum": 795,
+    "end_lnum": 795,
+    "col": 2,
+    "end_col": 13,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/non-decimal-units/non-decimal-units.sty:795:2:795:13: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/non-decimal-units/non-decimal-units.sty",
+    "lnum": 825,
+    "end_lnum": 825,
+    "col": 13,
+    "end_col": 39,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/non-decimal-units/non-decimal-units.sty:825:13:825:39: s205 malformed function name"
+    ]
+  }
+]

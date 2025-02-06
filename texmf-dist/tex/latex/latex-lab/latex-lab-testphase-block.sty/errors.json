@@ -1,0 +1,306 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-block.sty",
+    "lnum": 139,
+    "end_lnum": 139,
+    "col": 21,
+    "end_col": 35,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-block.sty:139:21:139:35: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-block.sty",
+    "lnum": 141,
+    "end_lnum": 141,
+    "col": 42,
+    "end_col": 54,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-block.sty:141:42:141:54: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-block.sty",
+    "lnum": 386,
+    "end_lnum": 386,
+    "col": 13,
+    "end_col": 38,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-block.sty:386:13:386:38: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-block.sty",
+    "lnum": 556,
+    "end_lnum": 556,
+    "col": 9,
+    "end_col": 47,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-block.sty:556:9:556:47: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-block.sty",
+    "lnum": 592,
+    "end_lnum": 592,
+    "col": 5,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-block.sty:592:5:592:19: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-block.sty",
+    "lnum": 629,
+    "end_lnum": 629,
+    "col": 13,
+    "end_col": 51,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-block.sty:629:13:629:51: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-block.sty",
+    "lnum": 747,
+    "end_lnum": 747,
+    "col": 17,
+    "end_col": 29,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-block.sty:747:17:747:29: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-block.sty",
+    "lnum": 749,
+    "end_lnum": 749,
+    "col": 17,
+    "end_col": 29,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-block.sty:749:17:749:29: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-block.sty",
+    "lnum": 864,
+    "end_lnum": 864,
+    "col": 17,
+    "end_col": 55,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-block.sty:864:17:864:55: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-block.sty",
+    "lnum": 873,
+    "end_lnum": 873,
+    "col": 17,
+    "end_col": 55,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-block.sty:873:17:873:55: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-block.sty",
+    "lnum": 886,
+    "end_lnum": 886,
+    "col": 17,
+    "end_col": 55,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-block.sty:886:17:886:55: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-block.sty",
+    "lnum": 900,
+    "end_lnum": 900,
+    "col": 17,
+    "end_col": 55,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-block.sty:900:17:900:55: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-block.sty",
+    "lnum": 1349,
+    "end_lnum": 1349,
+    "col": 10,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-block.sty:1349:10:1349:22: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-block.sty",
+    "lnum": 1353,
+    "end_lnum": 1353,
+    "col": 12,
+    "end_col": 28,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-block.sty:1353:12:1353:28: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-block.sty",
+    "lnum": 1353,
+    "end_lnum": 1353,
+    "col": 35,
+    "end_col": 53,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-block.sty:1353:35:1353:53: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-block.sty",
+    "lnum": 1354,
+    "end_lnum": 1354,
+    "col": 14,
+    "end_col": 25,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-block.sty:1354:14:1354:25: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-block.sty",
+    "lnum": 1356,
+    "end_lnum": 1356,
+    "col": 12,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-block.sty:1356:12:1356:21: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-block.sty",
+    "lnum": 1365,
+    "end_lnum": 1365,
+    "col": 5,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-block.sty:1365:5:1365:14: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-block.sty",
+    "lnum": 1369,
+    "end_lnum": 1369,
+    "col": 15,
+    "end_col": 25,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-block.sty:1369:15:1369:25: s205 malformed function name"
+    ]
+  }
+]

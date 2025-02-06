@@ -1,0 +1,5 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ducksay/ducksay.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ducksay/ducksay.sty:147:15:147:35: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ducksay/ducksay.sty:147:37:147:51: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ducksay/ducksay.sty:148:15:148:37: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ducksay/ducksay.sty:148:39:148:55: w200 "weird" and "do not use" argument specifiers

@@ -1,0 +1,2370 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 12,
+    "end_lnum": 12,
+    "col": 19,
+    "end_col": 30,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:12:19:12:30: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 14,
+    "end_lnum": 14,
+    "col": 21,
+    "end_col": 32,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:14:21:14:32: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 34,
+    "end_lnum": 34,
+    "col": 5,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:34:5:34:19: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 35,
+    "end_lnum": 35,
+    "col": 10,
+    "end_col": 27,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:35:10:35:27: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 36,
+    "end_lnum": 36,
+    "col": 9,
+    "end_col": 24,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:36:9:36:24: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 38,
+    "end_lnum": 38,
+    "col": 21,
+    "end_col": 35,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:38:21:38:35: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 39,
+    "end_lnum": 39,
+    "col": 13,
+    "end_col": 30,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:39:13:39:30: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 41,
+    "end_lnum": 41,
+    "col": 5,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:41:5:41:19: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 41,
+    "end_lnum": 41,
+    "col": 23,
+    "end_col": 36,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:41:23:41:36: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 41,
+    "end_lnum": 41,
+    "col": 41,
+    "end_col": 54,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:41:41:41:54: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 42,
+    "end_lnum": 42,
+    "col": 5,
+    "end_col": 18,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:42:5:42:18: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 42,
+    "end_lnum": 42,
+    "col": 30,
+    "end_col": 38,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:42:30:42:38: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 43,
+    "end_lnum": 43,
+    "col": 9,
+    "end_col": 17,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:43:9:43:17: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 43,
+    "end_lnum": 43,
+    "col": 25,
+    "end_col": 44,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:43:25:43:44: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 44,
+    "end_lnum": 44,
+    "col": 5,
+    "end_col": 23,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:44:5:44:23: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 45,
+    "end_lnum": 45,
+    "col": 5,
+    "end_col": 24,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:45:5:45:24: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 45,
+    "end_lnum": 45,
+    "col": 29,
+    "end_col": 42,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:45:29:45:42: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 46,
+    "end_lnum": 46,
+    "col": 5,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:46:5:46:20: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 47,
+    "end_lnum": 47,
+    "col": 5,
+    "end_col": 23,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:47:5:47:23: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 47,
+    "end_lnum": 47,
+    "col": 30,
+    "end_col": 43,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:47:30:47:43: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 48,
+    "end_lnum": 48,
+    "col": 5,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:48:5:48:20: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 50,
+    "end_lnum": 50,
+    "col": 5,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:50:5:50:21: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 51,
+    "end_lnum": 51,
+    "col": 5,
+    "end_col": 18,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:51:5:51:18: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 55,
+    "end_lnum": 55,
+    "col": 24,
+    "end_col": 38,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:55:24:55:38: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 55,
+    "end_lnum": 55,
+    "col": 39,
+    "end_col": 51,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:55:39:55:51: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 55,
+    "end_lnum": 55,
+    "col": 52,
+    "end_col": 68,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:55:52:55:68: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 56,
+    "end_lnum": 56,
+    "col": 24,
+    "end_col": 38,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:56:24:56:38: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 56,
+    "end_lnum": 56,
+    "col": 39,
+    "end_col": 51,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:56:39:56:51: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 56,
+    "end_lnum": 56,
+    "col": 52,
+    "end_col": 65,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:56:52:56:65: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 57,
+    "end_lnum": 57,
+    "col": 24,
+    "end_col": 38,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:57:24:57:38: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 57,
+    "end_lnum": 57,
+    "col": 39,
+    "end_col": 51,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:57:39:57:51: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 57,
+    "end_lnum": 57,
+    "col": 52,
+    "end_col": 68,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:57:52:57:68: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 68,
+    "end_lnum": 68,
+    "col": 10,
+    "end_col": 23,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:68:10:68:23: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 70,
+    "end_lnum": 70,
+    "col": 21,
+    "end_col": 29,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:70:21:70:29: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 71,
+    "end_lnum": 71,
+    "col": 5,
+    "end_col": 18,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:71:5:71:18: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 72,
+    "end_lnum": 72,
+    "col": 5,
+    "end_col": 13,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:72:5:72:13: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 73,
+    "end_lnum": 73,
+    "col": 12,
+    "end_col": 25,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:73:12:73:25: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 100,
+    "end_lnum": 100,
+    "col": 15,
+    "end_col": 26,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:100:15:100:26: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 101,
+    "end_lnum": 101,
+    "col": 17,
+    "end_col": 32,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:101:17:101:32: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 102,
+    "end_lnum": 102,
+    "col": 17,
+    "end_col": 32,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:102:17:102:32: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 103,
+    "end_lnum": 103,
+    "col": 5,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:103:5:103:20: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 104,
+    "end_lnum": 104,
+    "col": 5,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:104:5:104:20: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 106,
+    "end_lnum": 106,
+    "col": 15,
+    "end_col": 25,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:106:15:106:25: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 107,
+    "end_lnum": 107,
+    "col": 20,
+    "end_col": 31,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:107:20:107:31: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 108,
+    "end_lnum": 108,
+    "col": 5,
+    "end_col": 16,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:108:5:108:16: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 109,
+    "end_lnum": 109,
+    "col": 14,
+    "end_col": 25,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:109:14:109:25: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 110,
+    "end_lnum": 110,
+    "col": 13,
+    "end_col": 23,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:110:13:110:23: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 110,
+    "end_lnum": 110,
+    "col": 26,
+    "end_col": 36,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:110:26:110:36: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 111,
+    "end_lnum": 111,
+    "col": 17,
+    "end_col": 27,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:111:17:111:27: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 111,
+    "end_lnum": 111,
+    "col": 30,
+    "end_col": 40,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:111:30:111:40: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 113,
+    "end_lnum": 113,
+    "col": 15,
+    "end_col": 27,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:113:15:113:27: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 114,
+    "end_lnum": 114,
+    "col": 17,
+    "end_col": 33,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:114:17:114:33: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 115,
+    "end_lnum": 115,
+    "col": 17,
+    "end_col": 33,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:115:17:115:33: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 116,
+    "end_lnum": 116,
+    "col": 5,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:116:5:116:21: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 117,
+    "end_lnum": 117,
+    "col": 5,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:117:5:117:21: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 153,
+    "end_lnum": 153,
+    "col": 15,
+    "end_col": 30,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:153:15:153:30: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 153,
+    "end_lnum": 153,
+    "col": 31,
+    "end_col": 44,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:153:31:153:44: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 154,
+    "end_lnum": 154,
+    "col": 5,
+    "end_col": 18,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:154:5:154:18: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 155,
+    "end_lnum": 155,
+    "col": 10,
+    "end_col": 25,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:155:10:155:25: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 156,
+    "end_lnum": 156,
+    "col": 10,
+    "end_col": 25,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:156:10:156:25: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 157,
+    "end_lnum": 157,
+    "col": 10,
+    "end_col": 25,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:157:10:157:25: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 158,
+    "end_lnum": 158,
+    "col": 10,
+    "end_col": 25,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:158:10:158:25: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 159,
+    "end_lnum": 159,
+    "col": 10,
+    "end_col": 25,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:159:10:159:25: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 160,
+    "end_lnum": 160,
+    "col": 10,
+    "end_col": 25,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:160:10:160:25: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 161,
+    "end_lnum": 161,
+    "col": 10,
+    "end_col": 25,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:161:10:161:25: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 162,
+    "end_lnum": 162,
+    "col": 10,
+    "end_col": 25,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:162:10:162:25: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 163,
+    "end_lnum": 163,
+    "col": 10,
+    "end_col": 25,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:163:10:163:25: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 164,
+    "end_lnum": 164,
+    "col": 10,
+    "end_col": 25,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:164:10:164:25: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 253,
+    "end_lnum": 253,
+    "col": 21,
+    "end_col": 30,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:253:21:253:30: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 254,
+    "end_lnum": 254,
+    "col": 26,
+    "end_col": 35,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:254:26:254:35: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 256,
+    "end_lnum": 256,
+    "col": 5,
+    "end_col": 15,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:256:5:256:15: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 256,
+    "end_lnum": 256,
+    "col": 32,
+    "end_col": 43,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:256:32:256:43: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 257,
+    "end_lnum": 257,
+    "col": 5,
+    "end_col": 16,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:257:5:257:16: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 264,
+    "end_lnum": 264,
+    "col": 32,
+    "end_col": 41,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:264:32:264:41: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 265,
+    "end_lnum": 265,
+    "col": 32,
+    "end_col": 41,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:265:32:265:41: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 265,
+    "end_lnum": 265,
+    "col": 42,
+    "end_col": 52,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:265:42:265:52: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 277,
+    "end_lnum": 277,
+    "col": 10,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:277:10:277:21: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 278,
+    "end_lnum": 278,
+    "col": 8,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:278:8:278:20: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 279,
+    "end_lnum": 279,
+    "col": 5,
+    "end_col": 18,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:279:5:279:18: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 280,
+    "end_lnum": 280,
+    "col": 5,
+    "end_col": 16,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:280:5:280:16: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 281,
+    "end_lnum": 281,
+    "col": 12,
+    "end_col": 24,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:281:12:281:24: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 282,
+    "end_lnum": 282,
+    "col": 8,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:282:8:282:20: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 282,
+    "end_lnum": 282,
+    "col": 22,
+    "end_col": 33,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:282:22:282:33: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 283,
+    "end_lnum": 283,
+    "col": 5,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:283:5:283:20: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 284,
+    "end_lnum": 284,
+    "col": 6,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:284:6:284:19: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 285,
+    "end_lnum": 285,
+    "col": 6,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:285:6:285:19: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 286,
+    "end_lnum": 286,
+    "col": 6,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:286:6:286:19: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 287,
+    "end_lnum": 287,
+    "col": 6,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:287:6:287:19: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 288,
+    "end_lnum": 288,
+    "col": 25,
+    "end_col": 40,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:288:25:288:40: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 289,
+    "end_lnum": 289,
+    "col": 19,
+    "end_col": 30,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:289:19:289:30: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 289,
+    "end_lnum": 289,
+    "col": 61,
+    "end_col": 72,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:289:61:289:72: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 290,
+    "end_lnum": 290,
+    "col": 10,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:290:10:290:22: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 290,
+    "end_lnum": 290,
+    "col": 29,
+    "end_col": 41,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:290:29:290:41: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 290,
+    "end_lnum": 290,
+    "col": 48,
+    "end_col": 60,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:290:48:290:60: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 291,
+    "end_lnum": 291,
+    "col": 25,
+    "end_col": 40,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:291:25:291:40: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 292,
+    "end_lnum": 292,
+    "col": 12,
+    "end_col": 23,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:292:12:292:23: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 292,
+    "end_lnum": 292,
+    "col": 37,
+    "end_col": 48,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:292:37:292:48: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 292,
+    "end_lnum": 292,
+    "col": 54,
+    "end_col": 66,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:292:54:292:66: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 293,
+    "end_lnum": 293,
+    "col": 12,
+    "end_col": 23,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:293:12:293:23: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 293,
+    "end_lnum": 293,
+    "col": 30,
+    "end_col": 42,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:293:30:293:42: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 294,
+    "end_lnum": 294,
+    "col": 12,
+    "end_col": 23,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:294:12:294:23: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 294,
+    "end_lnum": 294,
+    "col": 30,
+    "end_col": 42,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:294:30:294:42: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 295,
+    "end_lnum": 295,
+    "col": 25,
+    "end_col": 40,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:295:25:295:40: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 296,
+    "end_lnum": 296,
+    "col": 12,
+    "end_col": 23,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:296:12:296:23: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 296,
+    "end_lnum": 296,
+    "col": 30,
+    "end_col": 42,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:296:30:296:42: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 297,
+    "end_lnum": 297,
+    "col": 12,
+    "end_col": 23,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:297:12:297:23: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 297,
+    "end_lnum": 297,
+    "col": 30,
+    "end_col": 42,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:297:30:297:42: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 298,
+    "end_lnum": 298,
+    "col": 12,
+    "end_col": 23,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:298:12:298:23: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 298,
+    "end_lnum": 298,
+    "col": 37,
+    "end_col": 48,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:298:37:298:48: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 298,
+    "end_lnum": 298,
+    "col": 54,
+    "end_col": 66,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:298:54:298:66: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 325,
+    "end_lnum": 325,
+    "col": 11,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:325:11:325:21: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 326,
+    "end_lnum": 326,
+    "col": 11,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:326:11:326:22: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 327,
+    "end_lnum": 327,
+    "col": 5,
+    "end_col": 15,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:327:5:327:15: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 328,
+    "end_lnum": 328,
+    "col": 15,
+    "end_col": 30,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:328:15:328:30: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 330,
+    "end_lnum": 330,
+    "col": 5,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:330:5:330:20: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 331,
+    "end_lnum": 331,
+    "col": 5,
+    "end_col": 15,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:331:5:331:15: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 332,
+    "end_lnum": 332,
+    "col": 5,
+    "end_col": 16,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:332:5:332:16: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 333,
+    "end_lnum": 333,
+    "col": 15,
+    "end_col": 31,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:333:15:333:31: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 335,
+    "end_lnum": 335,
+    "col": 5,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:335:5:335:21: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 336,
+    "end_lnum": 336,
+    "col": 5,
+    "end_col": 16,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:336:5:336:16: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 347,
+    "end_lnum": 347,
+    "col": 6,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:347:6:347:14: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 403,
+    "end_lnum": 403,
+    "col": 1,
+    "end_col": 9,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:403:1:403:9: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 409,
+    "end_lnum": 409,
+    "col": 17,
+    "end_col": 30,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:409:17:409:30: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 410,
+    "end_lnum": 410,
+    "col": 5,
+    "end_col": 18,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:410:5:410:18: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 410,
+    "end_lnum": 410,
+    "col": 24,
+    "end_col": 38,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:410:24:410:38: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 411,
+    "end_lnum": 411,
+    "col": 5,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:411:5:411:19: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 475,
+    "end_lnum": 475,
+    "col": 38,
+    "end_col": 53,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:475:38:475:53: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 476,
+    "end_lnum": 476,
+    "col": 5,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:476:5:476:20: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 498,
+    "end_lnum": 498,
+    "col": 5,
+    "end_col": 18,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:498:5:498:18: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 499,
+    "end_lnum": 499,
+    "col": 1,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:499:1:499:14: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 500,
+    "end_lnum": 500,
+    "col": 1,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:500:1:500:14: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 547,
+    "end_lnum": 547,
+    "col": 24,
+    "end_col": 36,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:547:24:547:36: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 549,
+    "end_lnum": 549,
+    "col": 26,
+    "end_col": 38,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:549:26:549:38: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 549,
+    "end_lnum": 549,
+    "col": 39,
+    "end_col": 53,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:549:39:549:53: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 550,
+    "end_lnum": 550,
+    "col": 22,
+    "end_col": 39,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:550:22:550:39: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 561,
+    "end_lnum": 561,
+    "col": 7,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:561:7:561:19: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 562,
+    "end_lnum": 562,
+    "col": 9,
+    "end_col": 26,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:562:9:562:26: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 563,
+    "end_lnum": 563,
+    "col": 1,
+    "end_col": 18,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:563:1:563:18: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 568,
+    "end_lnum": 568,
+    "col": 5,
+    "end_col": 23,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:568:5:568:23: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 569,
+    "end_lnum": 569,
+    "col": 24,
+    "end_col": 37,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:569:24:569:37: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 572,
+    "end_lnum": 572,
+    "col": 12,
+    "end_col": 30,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:572:12:572:30: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 573,
+    "end_lnum": 573,
+    "col": 9,
+    "end_col": 27,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:573:9:573:27: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 588,
+    "end_lnum": 588,
+    "col": 24,
+    "end_col": 39,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:588:24:588:39: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 589,
+    "end_lnum": 589,
+    "col": 9,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:589:9:589:21: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 590,
+    "end_lnum": 590,
+    "col": 22,
+    "end_col": 39,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:590:22:590:39: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 591,
+    "end_lnum": 591,
+    "col": 20,
+    "end_col": 37,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:591:20:591:37: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 591,
+    "end_lnum": 591,
+    "col": 43,
+    "end_col": 56,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:591:43:591:56: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex",
+    "lnum": 607,
+    "end_lnum": 607,
+    "col": 5,
+    "end_col": 13,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-math/minim-math.tex:607:5:607:13: e201 unknown argument specifiers"
+    ]
+  }
+]

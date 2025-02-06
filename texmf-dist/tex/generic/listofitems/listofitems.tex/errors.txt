@@ -1,0 +1,8 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/listofitems/listofitems.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/listofitems/listofitems.tex:404:61:404:61: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/listofitems/listofitems.tex:404:66:404:66: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/listofitems/listofitems.tex:405:38:405:38: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/listofitems/listofitems.tex:405:68:405:68: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/listofitems/listofitems.tex:406:37:406:37: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/listofitems/listofitems.tex:406:96:406:96: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/listofitems/listofitems.tex:406:101:406:101: e209 invalid characters

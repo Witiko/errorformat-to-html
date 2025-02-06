@@ -1,0 +1,8 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lwarp/lwarp-chemmacros.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lwarp/lwarp-chemmacros.sty:569:9:569:39: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lwarp/lwarp-chemmacros.sty:866:35:866:62: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lwarp/lwarp-chemmacros.sty:869:24:869:51: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lwarp/lwarp-chemmacros.sty:897:5:897:38: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lwarp/lwarp-chemmacros.sty:935:11:935:37: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lwarp/lwarp-chemmacros.sty:1005:35:1005:52: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lwarp/lwarp-chemmacros.sty:1008:23:1008:40: w200 "weird" and "do not use" argument specifiers

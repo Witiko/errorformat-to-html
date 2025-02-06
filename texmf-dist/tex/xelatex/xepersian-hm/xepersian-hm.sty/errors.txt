@@ -1,0 +1,10 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm.sty:201:9:201:21: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm.sty:209:61:209:75: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm.sty:209:77:209:86: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm.sty:209:88:209:98: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm.sty:256:9:256:21: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm.sty:295:9:295:21: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm.sty:330:5:330:16: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm.sty:335:5:335:14: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm.sty:336:5:336:14: w200 "weird" and "do not use" argument specifiers

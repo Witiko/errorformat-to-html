@@ -1,0 +1,50 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/mkpattern/mkpatter.tex",
+    "lnum": 48,
+    "end_lnum": 48,
+    "col": 5,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/mkpattern/mkpatter.tex:48:5:48:14: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/mkpattern/mkpatter.tex",
+    "lnum": 48,
+    "end_lnum": 48,
+    "col": 39,
+    "end_col": 48,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/mkpattern/mkpatter.tex:48:39:48:48: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/mkpattern/mkpatter.tex",
+    "lnum": 48,
+    "end_lnum": 48,
+    "col": 54,
+    "end_col": 63,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/mkpattern/mkpatter.tex:48:54:48:63: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  }
+]

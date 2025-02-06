@@ -1,0 +1,18 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jurabib/jurabib.sty",
+    "lnum": 1616,
+    "end_lnum": 1616,
+    "col": 1,
+    "end_col": 1,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jurabib/jurabib.sty:1616:1:1616:1: e208 too many closing braces"
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/arabtex/apatch.sty",
+    "lnum": 1704,
+    "end_lnum": 1704,
+    "col": 34,
+    "end_col": 34,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/arabtex/apatch.sty:1704:34:1704:34: e208 too many closing braces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/arabtex/apatch.sty",
+    "lnum": 1705,
+    "end_lnum": 1705,
+    "col": 32,
+    "end_col": 32,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/arabtex/apatch.sty:1705:32:1705:32: e208 too many closing braces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/arabtex/apatch.sty",
+    "lnum": 1706,
+    "end_lnum": 1706,
+    "col": 20,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/arabtex/apatch.sty:1706:20:1706:20: e208 too many closing braces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/arabtex/apatch.sty",
+    "lnum": 1707,
+    "end_lnum": 1707,
+    "col": 1,
+    "end_col": 1,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/arabtex/apatch.sty:1707:1:1707:1: e208 too many closing braces"
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fillwith/fillwith.sty",
+    "lnum": 159,
+    "end_lnum": 159,
+    "col": 5,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fillwith/fillwith.sty:159:5:159:14: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fillwith/fillwith.sty",
+    "lnum": 167,
+    "end_lnum": 167,
+    "col": 5,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fillwith/fillwith.sty:167:5:167:14: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  }
+]

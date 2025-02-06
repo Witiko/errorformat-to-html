@@ -1,0 +1,4 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/base/doc-2016-02-15.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/base/doc-2016-02-15.sty:178:27:178:27: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/base/doc-2016-02-15.sty:179:31:179:31: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/base/doc-2016-02-15.sty:180:31:180:31: e209 invalid characters

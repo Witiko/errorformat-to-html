@@ -1,0 +1,114 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/listofitems/listofitems.tex",
+    "lnum": 404,
+    "end_lnum": 404,
+    "col": 61,
+    "end_col": 61,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/listofitems/listofitems.tex:404:61:404:61: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/listofitems/listofitems.tex",
+    "lnum": 404,
+    "end_lnum": 404,
+    "col": 66,
+    "end_col": 66,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/listofitems/listofitems.tex:404:66:404:66: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/listofitems/listofitems.tex",
+    "lnum": 405,
+    "end_lnum": 405,
+    "col": 38,
+    "end_col": 38,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/listofitems/listofitems.tex:405:38:405:38: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/listofitems/listofitems.tex",
+    "lnum": 405,
+    "end_lnum": 405,
+    "col": 68,
+    "end_col": 68,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/listofitems/listofitems.tex:405:68:405:68: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/listofitems/listofitems.tex",
+    "lnum": 406,
+    "end_lnum": 406,
+    "col": 37,
+    "end_col": 37,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/listofitems/listofitems.tex:406:37:406:37: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/listofitems/listofitems.tex",
+    "lnum": 406,
+    "end_lnum": 406,
+    "col": 96,
+    "end_col": 96,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/listofitems/listofitems.tex:406:96:406:96: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/listofitems/listofitems.tex",
+    "lnum": 406,
+    "end_lnum": 406,
+    "col": 101,
+    "end_col": 101,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/listofitems/listofitems.tex:406:101:406:101: e209 invalid characters"
+    ]
+  }
+]

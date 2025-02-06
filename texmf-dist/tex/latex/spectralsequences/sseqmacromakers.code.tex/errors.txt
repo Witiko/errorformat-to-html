@@ -1,0 +1,52 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqmacromakers.code.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqmacromakers.code.tex:34:27:34:48: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqmacromakers.code.tex:34:27:34:48: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqmacromakers.code.tex:36:27:36:54: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqmacromakers.code.tex:39:9:39:21: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqmacromakers.code.tex:46:27:46:52: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqmacromakers.code.tex:46:27:46:52: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqmacromakers.code.tex:56:27:56:45: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqmacromakers.code.tex:56:27:56:45: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqmacromakers.code.tex:58:27:58:51: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqmacromakers.code.tex:61:9:61:21: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqmacromakers.code.tex:65:27:65:49: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqmacromakers.code.tex:65:27:65:49: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqmacromakers.code.tex:81:35:81:57: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqmacromakers.code.tex:81:35:81:57: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqmacromakers.code.tex:85:27:85:52: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqmacromakers.code.tex:85:27:85:52: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqmacromakers.code.tex:92:27:92:48: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqmacromakers.code.tex:92:27:92:48: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqmacromakers.code.tex:94:27:94:54: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqmacromakers.code.tex:96:9:96:21: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqmacromakers.code.tex:103:27:103:52: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqmacromakers.code.tex:103:27:103:52: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqmacromakers.code.tex:117:18:117:48: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqmacromakers.code.tex:118:16:118:52: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqmacromakers.code.tex:119:18:119:55: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqmacromakers.code.tex:120:16:120:59: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqmacromakers.code.tex:122:18:122:54: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqmacromakers.code.tex:123:18:123:61: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqmacromakers.code.tex:127:27:127:58: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqmacromakers.code.tex:127:27:127:58: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqmacromakers.code.tex:128:52:128:76: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqmacromakers.code.tex:134:27:134:55: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqmacromakers.code.tex:134:27:134:55: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqmacromakers.code.tex:135:52:135:73: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqmacromakers.code.tex:141:27:141:58: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqmacromakers.code.tex:141:27:141:58: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqmacromakers.code.tex:142:52:142:76: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqmacromakers.code.tex:165:19:165:36: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqmacromakers.code.tex:165:38:165:59: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqmacromakers.code.tex:166:19:166:33: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqmacromakers.code.tex:166:35:166:53: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqmacromakers.code.tex:195:19:195:37: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqmacromakers.code.tex:195:39:195:61: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqmacromakers.code.tex:196:19:196:40: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqmacromakers.code.tex:196:42:196:67: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqmacromakers.code.tex:197:19:197:43: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqmacromakers.code.tex:197:45:197:73: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqmacromakers.code.tex:198:19:198:46: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqmacromakers.code.tex:198:48:198:79: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqmacromakers.code.tex:241:15:241:29: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqmacromakers.code.tex:242:15:242:28: s205 malformed function name

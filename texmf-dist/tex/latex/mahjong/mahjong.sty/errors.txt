@@ -1,0 +1,3 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mahjong/mahjong.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mahjong/mahjong.sty:52:13:52:32: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mahjong/mahjong.sty:53:13:53:41: s205 malformed function name

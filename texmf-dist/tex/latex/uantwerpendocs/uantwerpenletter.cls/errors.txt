@@ -1,0 +1,3 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/uantwerpendocs/uantwerpenletter.cls
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/uantwerpendocs/uantwerpenletter.cls:77:19:77:48: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/uantwerpendocs/uantwerpenletter.cls:89:7:89:36: w200 "weird" and "do not use" argument specifiers

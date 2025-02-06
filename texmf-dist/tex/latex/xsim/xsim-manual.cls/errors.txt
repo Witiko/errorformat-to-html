@@ -1,0 +1,7 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xsim/xsim-manual.cls
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xsim/xsim-manual.cls:800:13:800:38: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xsim/xsim-manual.cls:801:13:801:40: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xsim/xsim-manual.cls:802:13:802:40: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xsim/xsim-manual.cls:809:31:809:56: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xsim/xsim-manual.cls:816:31:816:58: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xsim/xsim-manual.cls:823:31:823:58: w200 "weird" and "do not use" argument specifiers

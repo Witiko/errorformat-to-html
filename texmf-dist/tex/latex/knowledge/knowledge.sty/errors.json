@@ -1,0 +1,1138 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 42,
+    "end_lnum": 42,
+    "col": 11,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:42:11:42:20: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 59,
+    "end_lnum": 59,
+    "col": 24,
+    "end_col": 33,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:59:24:59:33: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 376,
+    "end_lnum": 376,
+    "col": 11,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:376:11:376:20: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 1403,
+    "end_lnum": 1403,
+    "col": 9,
+    "end_col": 18,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:1403:9:1403:18: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 1635,
+    "end_lnum": 1635,
+    "col": 4,
+    "end_col": 13,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:1635:4:1635:13: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 1636,
+    "end_lnum": 1636,
+    "col": 4,
+    "end_col": 13,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:1636:4:1636:13: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 1641,
+    "end_lnum": 1641,
+    "col": 7,
+    "end_col": 16,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:1641:7:1641:16: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 1876,
+    "end_lnum": 1876,
+    "col": 1,
+    "end_col": 10,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:1876:1:1876:10: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 1985,
+    "end_lnum": 1985,
+    "col": 9,
+    "end_col": 84,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:1985:9:1985:84: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 2625,
+    "end_lnum": 2625,
+    "col": 4,
+    "end_col": 13,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2625:4:2625:13: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 2639,
+    "end_lnum": 2639,
+    "col": 18,
+    "end_col": 27,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2639:18:2639:27: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 2654,
+    "end_lnum": 2654,
+    "col": 5,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2654:5:2654:14: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 2655,
+    "end_lnum": 2655,
+    "col": 5,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2655:5:2655:14: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 2656,
+    "end_lnum": 2656,
+    "col": 5,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2656:5:2656:14: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 2754,
+    "end_lnum": 2754,
+    "col": 1,
+    "end_col": 10,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2754:1:2754:10: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 3128,
+    "end_lnum": 3128,
+    "col": 1,
+    "end_col": 10,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:3128:1:3128:10: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 3129,
+    "end_lnum": 3129,
+    "col": 1,
+    "end_col": 10,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:3129:1:3129:10: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 3547,
+    "end_lnum": 3547,
+    "col": 1,
+    "end_col": 10,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:3547:1:3547:10: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 3548,
+    "end_lnum": 3548,
+    "col": 1,
+    "end_col": 10,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:3548:1:3548:10: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 3549,
+    "end_lnum": 3549,
+    "col": 1,
+    "end_col": 10,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:3549:1:3549:10: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 3550,
+    "end_lnum": 3550,
+    "col": 1,
+    "end_col": 10,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:3550:1:3550:10: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 80,
+    "end_lnum": 80,
+    "col": 22,
+    "end_col": 41,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:80:22:80:41: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 86,
+    "end_lnum": 86,
+    "col": 22,
+    "end_col": 50,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:86:22:86:50: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 98,
+    "end_lnum": 98,
+    "col": 14,
+    "end_col": 24,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:98:14:98:24: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 99,
+    "end_lnum": 99,
+    "col": 14,
+    "end_col": 24,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:99:14:99:24: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 102,
+    "end_lnum": 102,
+    "col": 17,
+    "end_col": 18,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:102:17:102:18: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 103,
+    "end_lnum": 103,
+    "col": 17,
+    "end_col": 18,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:103:17:103:18: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 108,
+    "end_lnum": 108,
+    "col": 20,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:108:20:108:21: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 109,
+    "end_lnum": 109,
+    "col": 20,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:109:20:109:21: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 251,
+    "end_lnum": 251,
+    "col": 7,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:251:7:251:20: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 317,
+    "end_lnum": 317,
+    "col": 19,
+    "end_col": 31,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:317:19:317:31: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 317,
+    "end_lnum": 317,
+    "col": 44,
+    "end_col": 56,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:317:44:317:56: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 750,
+    "end_lnum": 750,
+    "col": 8,
+    "end_col": 46,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:750:8:750:46: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 754,
+    "end_lnum": 754,
+    "col": 8,
+    "end_col": 46,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:754:8:754:46: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 755,
+    "end_lnum": 755,
+    "col": 12,
+    "end_col": 50,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:755:12:755:50: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 758,
+    "end_lnum": 758,
+    "col": 7,
+    "end_col": 45,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:758:7:758:45: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 1059,
+    "end_lnum": 1059,
+    "col": 5,
+    "end_col": 17,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:1059:5:1059:17: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 1176,
+    "end_lnum": 1176,
+    "col": 43,
+    "end_col": 56,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:1176:43:1176:56: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 2056,
+    "end_lnum": 2056,
+    "col": 22,
+    "end_col": 50,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2056:22:2056:50: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 2057,
+    "end_lnum": 2057,
+    "col": 20,
+    "end_col": 48,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2057:20:2057:48: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 2078,
+    "end_lnum": 2078,
+    "col": 7,
+    "end_col": 48,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2078:7:2078:48: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 2080,
+    "end_lnum": 2080,
+    "col": 12,
+    "end_col": 51,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2080:12:2080:51: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 2081,
+    "end_lnum": 2081,
+    "col": 12,
+    "end_col": 51,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2081:12:2081:51: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 2093,
+    "end_lnum": 2093,
+    "col": 20,
+    "end_col": 59,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2093:20:2093:59: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 2120,
+    "end_lnum": 2120,
+    "col": 12,
+    "end_col": 53,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2120:12:2120:53: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 2134,
+    "end_lnum": 2134,
+    "col": 5,
+    "end_col": 28,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2134:5:2134:28: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 2136,
+    "end_lnum": 2136,
+    "col": 12,
+    "end_col": 35,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2136:12:2136:35: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 2138,
+    "end_lnum": 2138,
+    "col": 10,
+    "end_col": 31,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2138:10:2138:31: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 2138,
+    "end_lnum": 2138,
+    "col": 32,
+    "end_col": 75,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2138:32:2138:75: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 2141,
+    "end_lnum": 2141,
+    "col": 12,
+    "end_col": 55,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2141:12:2141:55: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 2143,
+    "end_lnum": 2143,
+    "col": 5,
+    "end_col": 28,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2143:5:2143:28: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 2146,
+    "end_lnum": 2146,
+    "col": 13,
+    "end_col": 34,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2146:13:2146:34: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 2146,
+    "end_lnum": 2146,
+    "col": 70,
+    "end_col": 92,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2146:70:2146:92: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 2147,
+    "end_lnum": 2147,
+    "col": 13,
+    "end_col": 35,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2147:13:2147:35: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 2150,
+    "end_lnum": 2150,
+    "col": 6,
+    "end_col": 41,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2150:6:2150:41: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 2151,
+    "end_lnum": 2151,
+    "col": 12,
+    "end_col": 47,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2151:12:2151:47: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 2264,
+    "end_lnum": 2264,
+    "col": 11,
+    "end_col": 33,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2264:11:2264:33: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 2281,
+    "end_lnum": 2281,
+    "col": 20,
+    "end_col": 34,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2281:20:2281:34: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 2646,
+    "end_lnum": 2646,
+    "col": 26,
+    "end_col": 40,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2646:26:2646:40: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 2663,
+    "end_lnum": 2663,
+    "col": 31,
+    "end_col": 64,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2663:31:2663:64: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 2692,
+    "end_lnum": 2692,
+    "col": 34,
+    "end_col": 67,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2692:34:2692:67: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 2936,
+    "end_lnum": 2936,
+    "col": 24,
+    "end_col": 39,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2936:24:2936:39: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 2939,
+    "end_lnum": 2939,
+    "col": 24,
+    "end_col": 39,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2939:24:2939:39: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 3141,
+    "end_lnum": 3141,
+    "col": 15,
+    "end_col": 46,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:3141:15:3141:46: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 3148,
+    "end_lnum": 3148,
+    "col": 12,
+    "end_col": 43,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:3148:12:3148:43: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 3154,
+    "end_lnum": 3154,
+    "col": 12,
+    "end_col": 43,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:3154:12:3154:43: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 3233,
+    "end_lnum": 3233,
+    "col": 20,
+    "end_col": 59,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:3233:20:3233:59: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 3249,
+    "end_lnum": 3249,
+    "col": 11,
+    "end_col": 50,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:3249:11:3249:50: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 3325,
+    "end_lnum": 3325,
+    "col": 12,
+    "end_col": 43,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:3325:12:3325:43: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 3329,
+    "end_lnum": 3329,
+    "col": 17,
+    "end_col": 48,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:3329:17:3329:48: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty",
+    "lnum": 3777,
+    "end_lnum": 3778,
+    "col": 1,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 101,
+    "pattern": "",
+    "text": "unexpected delimiters",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:3777:1:3778:0: w101 unexpected delimiters"
+    ]
+  }
+]

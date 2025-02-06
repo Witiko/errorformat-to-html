@@ -1,0 +1,43 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:257:33:257:47: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:258:15:258:29: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:424:7:424:36: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:431:5:431:39: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:436:5:436:39: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:441:5:441:37: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:446:5:446:37: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:451:5:451:37: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:457:7:457:36: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:461:23:461:57: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:484:23:484:55: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:507:23:507:55: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:531:23:531:52: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:553:23:553:52: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:567:7:567:32: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:592:5:592:37: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:597:5:597:35: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:602:5:602:36: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:607:5:607:34: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:612:5:612:35: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:630:46:630:78: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:650:46:650:76: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:677:23:677:54: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:701:23:701:52: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:728:23:728:53: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:750:23:750:48: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:757:5:757:34: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:760:23:760:52: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:966:21:966:22: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:967:21:967:22: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:968:21:968:22: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:1015:21:1015:22: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:1016:21:1016:22: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:1017:21:1017:22: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:1092:15:1092:16: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:1093:15:1093:16: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:1094:15:1094:16: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:1102:17:1102:18: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:1103:17:1103:18: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:1219:13:1219:42: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:1229:5:1229:34: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jsonparse/jsonparse.sty:1233:7:1233:36: w200 "weird" and "do not use" argument specifiers

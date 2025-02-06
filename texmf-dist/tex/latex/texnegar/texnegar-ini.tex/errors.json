@@ -1,0 +1,194 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-ini.tex",
+    "lnum": 213,
+    "end_lnum": 213,
+    "col": 9,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-ini.tex:213:9:213:19: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-ini.tex",
+    "lnum": 229,
+    "end_lnum": 229,
+    "col": 9,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-ini.tex:229:9:229:19: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-ini.tex",
+    "lnum": 245,
+    "end_lnum": 245,
+    "col": 9,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-ini.tex:245:9:245:21: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-ini.tex",
+    "lnum": 253,
+    "end_lnum": 253,
+    "col": 64,
+    "end_col": 78,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-ini.tex:253:64:253:78: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-ini.tex",
+    "lnum": 253,
+    "end_lnum": 253,
+    "col": 80,
+    "end_col": 89,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-ini.tex:253:80:253:89: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-ini.tex",
+    "lnum": 253,
+    "end_lnum": 253,
+    "col": 91,
+    "end_col": 101,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-ini.tex:253:91:253:101: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-ini.tex",
+    "lnum": 304,
+    "end_lnum": 304,
+    "col": 9,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-ini.tex:304:9:304:21: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-ini.tex",
+    "lnum": 343,
+    "end_lnum": 343,
+    "col": 9,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-ini.tex:343:9:343:21: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-ini.tex",
+    "lnum": 383,
+    "end_lnum": 383,
+    "col": 9,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-ini.tex:383:9:383:21: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-ini.tex",
+    "lnum": 400,
+    "end_lnum": 400,
+    "col": 9,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-ini.tex:400:9:400:21: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-ini.tex",
+    "lnum": 429,
+    "end_lnum": 429,
+    "col": 1,
+    "end_col": 10,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-ini.tex:429:1:429:10: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-ini.tex",
+    "lnum": 430,
+    "end_lnum": 430,
+    "col": 1,
+    "end_col": 10,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-ini.tex:430:1:430:10: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  }
+]

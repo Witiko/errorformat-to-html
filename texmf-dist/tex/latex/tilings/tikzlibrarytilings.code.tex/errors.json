@@ -1,0 +1,50 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tilings/tikzlibrarytilings.code.tex",
+    "lnum": 22,
+    "end_lnum": 23,
+    "col": 1,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 101,
+    "pattern": "",
+    "text": "unexpected delimiters",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tilings/tikzlibrarytilings.code.tex:22:1:23:0: w101 unexpected delimiters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tilings/tikzlibrarytilings.code.tex",
+    "lnum": 315,
+    "end_lnum": 315,
+    "col": 19,
+    "end_col": 48,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tilings/tikzlibrarytilings.code.tex:315:19:315:48: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tilings/tikzlibrarytilings.code.tex",
+    "lnum": 319,
+    "end_lnum": 319,
+    "col": 19,
+    "end_col": 49,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tilings/tikzlibrarytilings.code.tex:319:19:319:49: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  }
+]

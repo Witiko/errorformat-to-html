@@ -1,0 +1,6 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lwarp/lwarp-statistics.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lwarp/lwarp-statistics.sty:249:2:250:0: w101 unexpected delimiters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lwarp/lwarp-statistics.sty:262:5:262:16: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lwarp/lwarp-statistics.sty:263:9:263:19: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lwarp/lwarp-statistics.sty:279:5:280:0: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lwarp/lwarp-statistics.sty:282:1:283:0: w101 unexpected delimiters

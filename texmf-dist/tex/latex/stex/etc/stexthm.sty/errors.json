@@ -1,0 +1,34 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/stex/etc/stexthm.sty",
+    "lnum": 7,
+    "end_lnum": 8,
+    "col": 1,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 101,
+    "pattern": "",
+    "text": "unexpected delimiters",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/stex/etc/stexthm.sty:7:1:8:0: w101 unexpected delimiters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/stex/etc/stexthm.sty",
+    "lnum": 9,
+    "end_lnum": 9,
+    "col": 22,
+    "end_col": 23,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/stex/etc/stexthm.sty:9:22:9:23: s205 malformed function name"
+    ]
+  }
+]

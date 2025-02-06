@@ -1,0 +1,4 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tilings/tikzlibrarytilings.code.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tilings/tikzlibrarytilings.code.tex:22:1:23:0: w101 unexpected delimiters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tilings/tikzlibrarytilings.code.tex:315:19:315:48: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tilings/tikzlibrarytilings.code.tex:319:19:319:49: w200 "weird" and "do not use" argument specifiers

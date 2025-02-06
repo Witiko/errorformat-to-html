@@ -1,0 +1,9 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty:312:11:312:38: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty:328:11:328:38: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty:340:7:340:34: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty:352:7:352:34: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty:423:10:423:38: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty:1167:9:1167:34: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty:1207:19:1207:44: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty:1243:19:1243:44: e201 unknown argument specifiers

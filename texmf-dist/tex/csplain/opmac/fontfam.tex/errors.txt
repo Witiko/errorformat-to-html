@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/csplain/opmac/fontfam.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/csplain/opmac/fontfam.tex:31:47:31:47: e209 invalid characters

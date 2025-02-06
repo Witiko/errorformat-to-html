@@ -1,0 +1,50 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/cleveref-usedon/cleveref-usedon.sty",
+    "lnum": 135,
+    "end_lnum": 135,
+    "col": 24,
+    "end_col": 38,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/cleveref-usedon/cleveref-usedon.sty:135:24:135:38: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/cleveref-usedon/cleveref-usedon.sty",
+    "lnum": 154,
+    "end_lnum": 154,
+    "col": 26,
+    "end_col": 40,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/cleveref-usedon/cleveref-usedon.sty:154:26:154:40: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/cleveref-usedon/cleveref-usedon.sty",
+    "lnum": 245,
+    "end_lnum": 245,
+    "col": 27,
+    "end_col": 40,
+    "vcol": false,
+    "nr": 101,
+    "pattern": "",
+    "text": "unexpected delimiters",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/cleveref-usedon/cleveref-usedon.sty:245:27:245:40: w101 unexpected delimiters"
+    ]
+  }
+]

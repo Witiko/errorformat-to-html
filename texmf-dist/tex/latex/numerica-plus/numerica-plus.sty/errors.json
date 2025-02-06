@@ -1,0 +1,50 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/numerica-plus/numerica-plus.sty",
+    "lnum": 681,
+    "end_lnum": 681,
+    "col": 26,
+    "end_col": 42,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/numerica-plus/numerica-plus.sty:681:26:681:42: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/numerica-plus/numerica-plus.sty",
+    "lnum": 683,
+    "end_lnum": 683,
+    "col": 49,
+    "end_col": 62,
+    "vcol": false,
+    "nr": 101,
+    "pattern": "",
+    "text": "unexpected delimiters",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/numerica-plus/numerica-plus.sty:683:49:683:62: w101 unexpected delimiters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/numerica-plus/numerica-plus.sty",
+    "lnum": 717,
+    "end_lnum": 717,
+    "col": 41,
+    "end_col": 54,
+    "vcol": false,
+    "nr": 101,
+    "pattern": "",
+    "text": "unexpected delimiters",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/numerica-plus/numerica-plus.sty:717:41:717:54: w101 unexpected delimiters"
+    ]
+  }
+]

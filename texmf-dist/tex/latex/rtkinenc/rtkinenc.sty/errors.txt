@@ -1,0 +1,4 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/rtkinenc/rtkinenc.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/rtkinenc/rtkinenc.sty:121:42:121:42: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/rtkinenc/rtkinenc.sty:146:42:146:42: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/rtkinenc/rtkinenc.sty:181:42:181:42: e209 invalid characters

@@ -1,0 +1,50 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/stex/etc/lststex.sty",
+    "lnum": 133,
+    "end_lnum": 133,
+    "col": 73,
+    "end_col": 86,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/stex/etc/lststex.sty:133:73:133:86: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/stex/etc/lststex.sty",
+    "lnum": 136,
+    "end_lnum": 136,
+    "col": 11,
+    "end_col": 24,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/stex/etc/lststex.sty:136:11:136:24: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/stex/etc/lststex.sty",
+    "lnum": 151,
+    "end_lnum": 151,
+    "col": 22,
+    "end_col": 43,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/stex/etc/lststex.sty:151:22:151:43: s205 malformed function name"
+    ]
+  }
+]

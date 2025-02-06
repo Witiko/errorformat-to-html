@@ -1,0 +1,34 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pdfmanagement-testphase/l3pdffield-testphase.sty",
+    "lnum": 365,
+    "end_lnum": 365,
+    "col": 7,
+    "end_col": 35,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pdfmanagement-testphase/l3pdffield-testphase.sty:365:7:365:35: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pdfmanagement-testphase/l3pdffield-testphase.sty",
+    "lnum": 372,
+    "end_lnum": 372,
+    "col": 23,
+    "end_col": 51,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pdfmanagement-testphase/l3pdffield-testphase.sty:372:23:372:51: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  }
+]

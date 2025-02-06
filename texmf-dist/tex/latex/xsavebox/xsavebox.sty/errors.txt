@@ -1,0 +1,4 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xsavebox/xsavebox.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xsavebox/xsavebox.sty:109:54:109:67: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xsavebox/xsavebox.sty:117:3:117:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xsavebox/xsavebox.sty:239:3:239:14: w200 "weird" and "do not use" argument specifiers

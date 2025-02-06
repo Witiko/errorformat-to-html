@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/bithesis/bitbeamer.cls
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/bithesis/bitbeamer.cls:49:13:49:21: s205 malformed function name

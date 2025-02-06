@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-demo.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-demo.sty:54:16:54:33: w202 deprecated control sequences

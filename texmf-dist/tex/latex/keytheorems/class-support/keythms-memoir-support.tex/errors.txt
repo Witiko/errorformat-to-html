@@ -1,0 +1,6 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/keytheorems/class-support/keythms-memoir-support.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/keytheorems/class-support/keythms-memoir-support.tex:35:21:35:22: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/keytheorems/class-support/keythms-memoir-support.tex:36:9:36:40: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/keytheorems/class-support/keythms-memoir-support.tex:41:25:41:26: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/keytheorems/class-support/keythms-memoir-support.tex:45:13:45:44: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/keytheorems/class-support/keythms-memoir-support.tex:46:13:46:44: w200 "weird" and "do not use" argument specifiers

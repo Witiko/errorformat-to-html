@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jurabib/jurabib.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jurabib/jurabib.sty:1616:1:1616:1: e208 too many closing braces

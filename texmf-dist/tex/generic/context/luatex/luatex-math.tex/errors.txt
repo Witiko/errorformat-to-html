@@ -1,0 +1,16 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/context/luatex/luatex-math.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/context/luatex/luatex-math.tex:2285:22:2285:22: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/context/luatex/luatex-math.tex:2286:22:2286:22: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/context/luatex/luatex-math.tex:2287:22:2287:22: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/context/luatex/luatex-math.tex:2288:22:2288:22: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/context/luatex/luatex-math.tex:2289:22:2289:22: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/context/luatex/luatex-math.tex:2290:22:2290:22: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/context/luatex/luatex-math.tex:2291:22:2291:22: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/context/luatex/luatex-math.tex:2292:22:2292:22: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/context/luatex/luatex-math.tex:2293:22:2293:22: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/context/luatex/luatex-math.tex:2294:22:2294:22: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/context/luatex/luatex-math.tex:2295:22:2295:22: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/context/luatex/luatex-math.tex:2296:22:2296:22: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/context/luatex/luatex-math.tex:2297:22:2297:22: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/context/luatex/luatex-math.tex:2298:22:2298:22: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/context/luatex/luatex-math.tex:2299:22:2299:22: e209 invalid characters

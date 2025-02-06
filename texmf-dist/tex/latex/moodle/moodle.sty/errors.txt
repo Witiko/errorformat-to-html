@@ -1,0 +1,8 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/moodle/moodle.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/moodle/moodle.sty:2214:63:2214:83: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/moodle/moodle.sty:2328:67:2328:91: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/moodle/moodle.sty:2330:67:2330:89: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/moodle/moodle.sty:2484:24:2484:24: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/moodle/moodle.sty:2494:28:2494:28: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/moodle/moodle.sty:2494:34:2494:34: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/moodle/moodle.sty:2494:50:2494:50: e209 invalid characters

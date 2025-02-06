@@ -1,0 +1,66 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/context/third/markdown/t-markdown.tex",
+    "lnum": 277,
+    "end_lnum": 278,
+    "col": 5,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/context/third/markdown/t-markdown.tex:277:5:278:0: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/context/third/markdown/t-markdown.tex",
+    "lnum": 280,
+    "end_lnum": 281,
+    "col": 9,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/context/third/markdown/t-markdown.tex:280:9:281:0: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/context/third/markdown/t-markdown.tex",
+    "lnum": 283,
+    "end_lnum": 284,
+    "col": 13,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/context/third/markdown/t-markdown.tex:283:13:284:0: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/context/third/markdown/t-markdown.tex",
+    "lnum": 287,
+    "end_lnum": 288,
+    "col": 13,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/context/third/markdown/t-markdown.tex:287:13:288:0: e102 expl3 material in non-expl3 parts"
+    ]
+  }
+]

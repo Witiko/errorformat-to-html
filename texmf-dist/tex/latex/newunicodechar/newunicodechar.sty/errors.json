@@ -1,0 +1,18 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/newunicodechar/newunicodechar.sty",
+    "lnum": 54,
+    "end_lnum": 54,
+    "col": 20,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/newunicodechar/newunicodechar.sty:54:20:54:20: e209 invalid characters"
+    ]
+  }
+]

@@ -1,0 +1,4 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/naive-ebnf/naive-ebnf.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/naive-ebnf/naive-ebnf.sty:151:14:151:25: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/naive-ebnf/naive-ebnf.sty:157:14:157:27: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/naive-ebnf/naive-ebnf.sty:163:14:163:26: s205 malformed function name

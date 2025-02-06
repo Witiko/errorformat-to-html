@@ -1,0 +1,82 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xltxtra/xltxtra.sty",
+    "lnum": 111,
+    "end_lnum": 111,
+    "col": 5,
+    "end_col": 24,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xltxtra/xltxtra.sty:111:5:111:24: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xltxtra/xltxtra.sty",
+    "lnum": 142,
+    "end_lnum": 142,
+    "col": 6,
+    "end_col": 25,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xltxtra/xltxtra.sty:142:6:142:25: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xltxtra/xltxtra.sty",
+    "lnum": 143,
+    "end_lnum": 143,
+    "col": 6,
+    "end_col": 25,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xltxtra/xltxtra.sty:143:6:143:25: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xltxtra/xltxtra.sty",
+    "lnum": 157,
+    "end_lnum": 157,
+    "col": 7,
+    "end_col": 26,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xltxtra/xltxtra.sty:157:7:157:26: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xltxtra/xltxtra.sty",
+    "lnum": 159,
+    "end_lnum": 159,
+    "col": 7,
+    "end_col": 26,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xltxtra/xltxtra.sty:159:7:159:26: e203 removed control sequences"
+    ]
+  }
+]

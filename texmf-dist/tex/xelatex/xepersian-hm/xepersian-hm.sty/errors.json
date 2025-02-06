@@ -1,0 +1,146 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm.sty",
+    "lnum": 201,
+    "end_lnum": 201,
+    "col": 9,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm.sty:201:9:201:21: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm.sty",
+    "lnum": 209,
+    "end_lnum": 209,
+    "col": 61,
+    "end_col": 75,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm.sty:209:61:209:75: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm.sty",
+    "lnum": 209,
+    "end_lnum": 209,
+    "col": 77,
+    "end_col": 86,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm.sty:209:77:209:86: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm.sty",
+    "lnum": 209,
+    "end_lnum": 209,
+    "col": 88,
+    "end_col": 98,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm.sty:209:88:209:98: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm.sty",
+    "lnum": 256,
+    "end_lnum": 256,
+    "col": 9,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm.sty:256:9:256:21: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm.sty",
+    "lnum": 295,
+    "end_lnum": 295,
+    "col": 9,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm.sty:295:9:295:21: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm.sty",
+    "lnum": 330,
+    "end_lnum": 330,
+    "col": 5,
+    "end_col": 16,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm.sty:330:5:330:16: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm.sty",
+    "lnum": 335,
+    "end_lnum": 335,
+    "col": 5,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm.sty:335:5:335:14: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm.sty",
+    "lnum": 336,
+    "end_lnum": 336,
+    "col": 5,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm.sty:336:5:336:14: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  }
+]

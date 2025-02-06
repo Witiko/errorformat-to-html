@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/denisbdoc/denisbdoc.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/denisbdoc/denisbdoc.sty:897:4:897:15: e102 expl3 material in non-expl3 parts

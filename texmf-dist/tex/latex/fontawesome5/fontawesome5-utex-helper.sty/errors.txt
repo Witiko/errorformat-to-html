@@ -1,0 +1,18 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/fontawesome5-utex-helper.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/fontawesome5-utex-helper.sty:36:52:36:64: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/fontawesome5-utex-helper.sty:36:65:36:75: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/fontawesome5-utex-helper.sty:42:16:42:37: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/fontawesome5-utex-helper.sty:42:38:42:48: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/fontawesome5-utex-helper.sty:50:34:50:56: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/fontawesome5-utex-helper.sty:50:58:50:68: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/fontawesome5-utex-helper.sty:51:30:51:50: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/fontawesome5-utex-helper.sty:51:52:51:62: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/fontawesome5-utex-helper.sty:55:44:55:60: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/fontawesome5-utex-helper.sty:56:40:56:53: w101 unexpected delimiters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/fontawesome5-utex-helper.sty:58:46:58:55: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/fontawesome5-utex-helper.sty:65:9:65:30: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/fontawesome5-utex-helper.sty:67:16:67:37: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/fontawesome5-utex-helper.sty:67:38:67:54: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/fontawesome5-utex-helper.sty:116:9:116:30: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/fontawesome5-utex-helper.sty:121:15:121:36: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/fontawesome5-utex-helper.sty:134:9:134:30: w200 "weird" and "do not use" argument specifiers

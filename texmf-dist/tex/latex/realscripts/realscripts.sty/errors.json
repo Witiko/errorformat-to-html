@@ -1,0 +1,18 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/realscripts/realscripts.sty",
+    "lnum": 61,
+    "end_lnum": 61,
+    "col": 13,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/realscripts/realscripts.sty:61:13:61:14: s205 malformed function name"
+    ]
+  }
+]

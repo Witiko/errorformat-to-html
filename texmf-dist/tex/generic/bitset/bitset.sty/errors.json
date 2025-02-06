@@ -1,0 +1,130 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty",
+    "lnum": 312,
+    "end_lnum": 312,
+    "col": 11,
+    "end_col": 38,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty:312:11:312:38: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty",
+    "lnum": 328,
+    "end_lnum": 328,
+    "col": 11,
+    "end_col": 38,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty:328:11:328:38: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty",
+    "lnum": 340,
+    "end_lnum": 340,
+    "col": 7,
+    "end_col": 34,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty:340:7:340:34: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty",
+    "lnum": 352,
+    "end_lnum": 352,
+    "col": 7,
+    "end_col": 34,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty:352:7:352:34: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty",
+    "lnum": 423,
+    "end_lnum": 423,
+    "col": 10,
+    "end_col": 38,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty:423:10:423:38: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty",
+    "lnum": 1167,
+    "end_lnum": 1167,
+    "col": 9,
+    "end_col": 34,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty:1167:9:1167:34: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty",
+    "lnum": 1207,
+    "end_lnum": 1207,
+    "col": 19,
+    "end_col": 44,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty:1207:19:1207:44: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty",
+    "lnum": 1243,
+    "end_lnum": 1243,
+    "col": 19,
+    "end_col": 44,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty:1243:19:1243:44: e201 unknown argument specifiers"
+    ]
+  }
+]

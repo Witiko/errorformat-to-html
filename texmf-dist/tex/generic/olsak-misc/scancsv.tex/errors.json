@@ -1,0 +1,162 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/olsak-misc/scancsv.tex",
+    "lnum": 85,
+    "end_lnum": 85,
+    "col": 22,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/olsak-misc/scancsv.tex:85:22:85:22: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/olsak-misc/scancsv.tex",
+    "lnum": 101,
+    "end_lnum": 101,
+    "col": 32,
+    "end_col": 32,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/olsak-misc/scancsv.tex:101:32:101:32: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/olsak-misc/scancsv.tex",
+    "lnum": 106,
+    "end_lnum": 106,
+    "col": 22,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/olsak-misc/scancsv.tex:106:22:106:22: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/olsak-misc/scancsv.tex",
+    "lnum": 108,
+    "end_lnum": 108,
+    "col": 21,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/olsak-misc/scancsv.tex:108:21:108:21: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/olsak-misc/scancsv.tex",
+    "lnum": 112,
+    "end_lnum": 112,
+    "col": 59,
+    "end_col": 59,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/olsak-misc/scancsv.tex:112:59:112:59: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/olsak-misc/scancsv.tex",
+    "lnum": 123,
+    "end_lnum": 123,
+    "col": 32,
+    "end_col": 32,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/olsak-misc/scancsv.tex:123:32:123:32: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/olsak-misc/scancsv.tex",
+    "lnum": 127,
+    "end_lnum": 127,
+    "col": 14,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/olsak-misc/scancsv.tex:127:14:127:14: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/olsak-misc/scancsv.tex",
+    "lnum": 154,
+    "end_lnum": 154,
+    "col": 26,
+    "end_col": 26,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/olsak-misc/scancsv.tex:154:26:154:26: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/olsak-misc/scancsv.tex",
+    "lnum": 154,
+    "end_lnum": 154,
+    "col": 72,
+    "end_col": 72,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/olsak-misc/scancsv.tex:154:72:154:72: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/olsak-misc/scancsv.tex",
+    "lnum": 157,
+    "end_lnum": 157,
+    "col": 47,
+    "end_col": 47,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/olsak-misc/scancsv.tex:157:47:157:47: e209 invalid characters"
+    ]
+  }
+]

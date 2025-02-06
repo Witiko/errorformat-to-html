@@ -1,0 +1,3 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xecjk/xeCJK.sty:5108:5:5108:18: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xecjk/xeCJK.sty:5108:21:5108:42: e102 expl3 material in non-expl3 parts

@@ -1,0 +1,130 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chinesechess/chinesechess.sty",
+    "lnum": 554,
+    "end_lnum": 554,
+    "col": 12,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chinesechess/chinesechess.sty:554:12:554:22: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chinesechess/chinesechess.sty",
+    "lnum": 2419,
+    "end_lnum": 2419,
+    "col": 17,
+    "end_col": 27,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chinesechess/chinesechess.sty:2419:17:2419:27: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chinesechess/chinesechess.sty",
+    "lnum": 2423,
+    "end_lnum": 2423,
+    "col": 26,
+    "end_col": 36,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chinesechess/chinesechess.sty:2423:26:2423:36: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chinesechess/chinesechess.sty",
+    "lnum": 31,
+    "end_lnum": 31,
+    "col": 9,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chinesechess/chinesechess.sty:31:9:31:22: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chinesechess/chinesechess.sty",
+    "lnum": 1595,
+    "end_lnum": 1595,
+    "col": 23,
+    "end_col": 36,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chinesechess/chinesechess.sty:1595:23:1595:36: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chinesechess/chinesechess.sty",
+    "lnum": 1620,
+    "end_lnum": 1620,
+    "col": 31,
+    "end_col": 44,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chinesechess/chinesechess.sty:1620:31:1620:44: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chinesechess/chinesechess.sty",
+    "lnum": 1642,
+    "end_lnum": 1642,
+    "col": 31,
+    "end_col": 44,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chinesechess/chinesechess.sty:1642:31:1642:44: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chinesechess/chinesechess.sty",
+    "lnum": 2661,
+    "end_lnum": 2661,
+    "col": 30,
+    "end_col": 42,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chinesechess/chinesechess.sty:2661:30:2661:42: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  }
+]

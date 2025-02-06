@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbskins.code.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbskins.code.tex:1732:9:1732:18: w200 "weird" and "do not use" argument specifiers

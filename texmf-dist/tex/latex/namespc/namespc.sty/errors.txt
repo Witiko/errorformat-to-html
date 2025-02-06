@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/namespc/namespc.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/namespc/namespc.sty:37:5:37:7: e201 unknown argument specifiers

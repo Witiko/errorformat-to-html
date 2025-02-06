@@ -1,0 +1,7 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xduts/xduugthesis.cls
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xduts/xduugthesis.cls:1236:31:1236:32: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xduts/xduugthesis.cls:1237:31:1237:32: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xduts/xduugthesis.cls:1238:31:1238:32: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xduts/xduugthesis.cls:1239:31:1239:32: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xduts/xduugthesis.cls:1240:31:1240:32: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xduts/xduugthesis.cls:1512:21:1512:22: s205 malformed function name

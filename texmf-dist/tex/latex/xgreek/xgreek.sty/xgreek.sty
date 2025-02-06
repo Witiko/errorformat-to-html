@@ -1,0 +1,409 @@
+%%
+%% This is file `xgreek.sty',
+%% generated with the docstrip utility.
+%%
+%% The original source files were:
+%%
+%% xgreek.dtx  (with options: `xgreek')
+%% 
+%%  (c) Copyright 2007—2024 Apostolos Syropoulos
+%%  This program can be redistributed and/or modified under the
+%%  terms of the LaTeX Project Public License Distributed from
+%%  http://www.latex-project.org/lppl.txt; either
+%%  version 1.3c of the License, or any later version.
+%% 
+%%  This work has the LPPL maintenance status `maintained'.
+%% 
+%%  Please report errors or suggestions for improvement to
+%% 
+%%     Apostolos Syropoulos  (asyropoulos@yahoo.com)
+%% 
+%% \CharacterTable
+%%  {Upper-case    \A\B\C\D\E\F\G\H\I\J\K\L\M\N\O\P\Q\R\S\T\U\V\W\X\Y\Z
+%%   Lower-case    \a\b\c\d\e\f\g\h\i\j\k\l\m\n\o\p\q\r\s\t\u\v\w\x\y\z
+%%   Digits        \0\1\2\3\4\5\6\7\8\9
+%%   Exclamation   \!     Double quote  \"     Hash (number) \#
+%%   Dollar        \$     Percent       \%     Ampersand     \&
+%%   Acute accent  \'     Left paren    \(     Right paren   \)
+%%   Asterisk      \*     Plus          \+     Comma         \,
+%%   Minus         \-     Point         \.     Solidus       \/
+%%   Colon         \:     Semicolon     \;     Less than     \<
+%%   Equals        \=     Greater than  \>     Question mark \?
+%%   Commercial at \@     Left bracket  \[     Backslash     \\
+%%   Right bracket \]     Circumflex    \^     Underscore    \_
+%%   Grave accent  \`     Left brace    \{     Vertical bar  \|
+%%   Right brace   \}     Tilde         \~}
+%%
+\ProvidesFile{xgreek.sty}
+ [2024/01/30 v3.4.0 Package `xgreek.sty']
+\message{Package 'xgreek' version 3.4.0 by Apostolos Syropoulos}
+\DeclareUppercaseMapping{"0390}{Ϊ} \DeclareLowercaseMapping{"0390}{ΐ}
+\DeclareUppercaseMapping{"03AC}{Α} \DeclareLowercaseMapping{"03AC}{ά}
+\DeclareUppercaseMapping{"03AD}{Ε} \DeclareLowercaseMapping{"03AD}{έ}
+\DeclareUppercaseMapping{"03AE}{Η} \DeclareLowercaseMapping{"03AE}{ή}
+\DeclareUppercaseMapping{"03AF}{Ι} \DeclareLowercaseMapping{"03AF}{ί}
+\DeclareUppercaseMapping{"03B0}{Ϋ} \DeclareLowercaseMapping{"03B0}{ΰ}
+\DeclareUppercaseMapping{"03CA}{Ϊ} \DeclareLowercaseMapping{"03CA}{ϊ}
+\DeclareUppercaseMapping{"03CB}{Ϋ} \DeclareLowercaseMapping{"03CB}{ϋ}
+\DeclareUppercaseMapping{"03CC}{Ο} \DeclareLowercaseMapping{"03CC}{ό}
+\DeclareUppercaseMapping{"03CD}{Υ} \DeclareLowercaseMapping{"03CD}{ύ}
+\DeclareUppercaseMapping{"03CE}{Ω} \DeclareLowercaseMapping{"03CE}{ώ}
+\DeclareUppercaseMapping{"1F00}{Α} \DeclareUppercaseMapping{"0386}{Α}
+\DeclareUppercaseMapping{"1F01}{Α} \DeclareUppercaseMapping{"0388}{Ε}
+\DeclareUppercaseMapping{"1F02}{Α} \DeclareUppercaseMapping{"0389}{Η}
+\DeclareUppercaseMapping{"1F03}{Α} \DeclareUppercaseMapping{"038A}{Ι}
+\DeclareUppercaseMapping{"1F04}{Α} \DeclareUppercaseMapping{"038C}{Ο}
+\DeclareUppercaseMapping{"1F05}{Α} \DeclareUppercaseMapping{"038E}{Υ}
+\DeclareUppercaseMapping{"1F06}{Α} \DeclareUppercaseMapping{"038F}{Ω}
+\DeclareUppercaseMapping{"1F07}{Α}
+\DeclareUppercaseMapping{"1F10}{Ε}
+\DeclareUppercaseMapping{"1F11}{Ε}
+\DeclareUppercaseMapping{"1F12}{Ε}
+\DeclareUppercaseMapping{"1F13}{Ε}
+\DeclareUppercaseMapping{"1F14}{Ε}
+\DeclareUppercaseMapping{"1F15}{Ε}
+\DeclareUppercaseMapping{"1F20}{Η}
+\DeclareUppercaseMapping{"1F21}{Η}
+\DeclareUppercaseMapping{"1F22}{Η}
+\DeclareUppercaseMapping{"1F23}{Η}
+\DeclareUppercaseMapping{"1F24}{Η}
+\DeclareUppercaseMapping{"1F25}{Η}
+\DeclareUppercaseMapping{"1F26}{Η}
+\DeclareUppercaseMapping{"1F27}{Η}
+\DeclareUppercaseMapping{"1F30}{Ι}
+\DeclareUppercaseMapping{"1F31}{Ι}
+\DeclareUppercaseMapping{"1F32}{Ι}
+\DeclareUppercaseMapping{"1F33}{Ι}
+\DeclareUppercaseMapping{"1F34}{Ι}
+\DeclareUppercaseMapping{"1F35}{Ι}
+\DeclareUppercaseMapping{"1F36}{Ι}
+\DeclareUppercaseMapping{"1F37}{Ι}
+\DeclareUppercaseMapping{"1F40}{Ο}
+\DeclareUppercaseMapping{"1F41}{Ο}
+\DeclareUppercaseMapping{"1F42}{Ο}
+\DeclareUppercaseMapping{"1F43}{Ο}
+\DeclareUppercaseMapping{"1F44}{Ο}
+\DeclareUppercaseMapping{"1F45}{Ο}
+\DeclareUppercaseMapping{"1F50}{Υ}
+\DeclareUppercaseMapping{"1F51}{Υ}
+\DeclareUppercaseMapping{"1F52}{Υ}
+\DeclareUppercaseMapping{"1F53}{Υ}
+\DeclareUppercaseMapping{"1F54}{Υ}
+\DeclareUppercaseMapping{"1F55}{Υ}
+\DeclareUppercaseMapping{"1F56}{Υ}
+\DeclareUppercaseMapping{"1F57}{Υ}
+\DeclareUppercaseMapping{"1F60}{Ω}
+\DeclareUppercaseMapping{"1F61}{Ω}
+\DeclareUppercaseMapping{"1F62}{Ω}
+\DeclareUppercaseMapping{"1F63}{Ω}
+\DeclareUppercaseMapping{"1F64}{Ω}
+\DeclareUppercaseMapping{"1F65}{Ω}
+\DeclareUppercaseMapping{"1F66}{Ω}
+\DeclareUppercaseMapping{"1F67}{Ω}
+\DeclareUppercaseMapping{"1F70}{Α} \DeclareUppercaseMapping{"1F71}{Α}
+\DeclareUppercaseMapping{"1F72}{Ε} \DeclareUppercaseMapping{"1F73}{Ε}
+\DeclareUppercaseMapping{"1F74}{Η} \DeclareUppercaseMapping{"1F75}{Η}
+\DeclareUppercaseMapping{"1F76}{Ι} \DeclareUppercaseMapping{"1F77}{Ι}
+\DeclareUppercaseMapping{"1F78}{Ο} \DeclareUppercaseMapping{"1F79}{Ο}
+\DeclareUppercaseMapping{"1F7A}{Υ} \DeclareUppercaseMapping{"1F7B}{Υ}
+\DeclareUppercaseMapping{"1F7C}{Ω} \DeclareUppercaseMapping{"1F7D}{Ω}
+\DeclareUppercaseMapping{"1F80}{ᾼ}
+\DeclareUppercaseMapping{"1F81}{ᾼ}
+\DeclareUppercaseMapping{"1F82}{ᾼ}
+\DeclareUppercaseMapping{"1F83}{ᾼ}
+\DeclareUppercaseMapping{"1F84}{ᾼ}
+\DeclareUppercaseMapping{"1F85}{ᾼ}
+\DeclareUppercaseMapping{"1F86}{ᾼ}
+\DeclareUppercaseMapping{"1F87}{ᾼ}
+\DeclareUppercaseMapping{"1F90}{ῌ}
+\DeclareUppercaseMapping{"1F91}{ῌ}
+\DeclareUppercaseMapping{"1F92}{ῌ}
+\DeclareUppercaseMapping{"1F93}{ῌ}
+\DeclareUppercaseMapping{"1F94}{ῌ}
+\DeclareUppercaseMapping{"1F95}{ῌ}
+\DeclareUppercaseMapping{"1F96}{ῌ}
+\DeclareUppercaseMapping{"1F97}{ῌ}
+\DeclareUppercaseMapping{"1FA0}{ῼ}
+\DeclareUppercaseMapping{"1FA1}{ῼ}
+\DeclareUppercaseMapping{"1FA2}{ῼ}
+\DeclareUppercaseMapping{"1FA3}{ῼ}
+\DeclareUppercaseMapping{"1FA4}{ῼ}
+\DeclareUppercaseMapping{"1FA5}{ῼ}
+\DeclareUppercaseMapping{"1FA6}{ῼ}
+\DeclareUppercaseMapping{"1FA7}{ῼ}
+\DeclareUppercaseMapping{"1FB2}{ᾼ}
+\DeclareUppercaseMapping{"1FB3}{ᾼ}
+\DeclareUppercaseMapping{"1FB4}{ᾼ}
+\DeclareUppercaseMapping{"1FB6}{Α}
+\DeclareUppercaseMapping{"1FB7}{ᾼ}
+\DeclareUppercaseMapping{"1FC2}{ῌ}
+\DeclareUppercaseMapping{"1FC3}{ῌ}
+\DeclareUppercaseMapping{"1FC4}{ῌ}
+\DeclareUppercaseMapping{"1FC6}{Η}
+\DeclareUppercaseMapping{"1FC7}{ῌ}
+\DeclareUppercaseMapping{"1FD2}{Ϊ}
+\DeclareUppercaseMapping{"1FD3}{Ϊ}
+\DeclareUppercaseMapping{"1FD6}{Ι}
+\DeclareUppercaseMapping{"1FD7}{Ϊ}
+\DeclareUppercaseMapping{"1FE2}{Ϋ}
+\DeclareUppercaseMapping{"1FE3}{Ϋ}
+\DeclareUppercaseMapping{"1FE4}{Ρ}
+\DeclareUppercaseMapping{"1FE5}{Ρ}
+\DeclareUppercaseMapping{"1FE6}{Υ}
+\DeclareUppercaseMapping{"1FE7}{Ϋ}
+\DeclareUppercaseMapping{"1FF2}{ῼ}
+\DeclareUppercaseMapping{"1FF3}{ῼ}
+\DeclareUppercaseMapping{"1FF4}{ῼ}
+\DeclareUppercaseMapping{"1FF6}{Ω}
+\DeclareUppercaseMapping{"1FF7}{ῼ}
+\def\prefacename{Πρόλογος}%
+\def\refname{Αναφορές}%
+\def\abstractname{Περίληψη}%
+\def\bibname{Βιβλιογραφία}%
+\def\chaptername{Κεφάλαιο}%
+\def\appendixname{Παράρτημα}%
+\def\contentsname{Περιεχόμενα}%
+\def\listfigurename{Κατάλογος σχημάτων}%
+\def\listtablename{Κατάλογος πινάκων}%
+\def\indexname{Ευρετήριο}%
+\def\figurename{Σχήμα}%
+\def\tablename{Πίνακας}%
+\def\partname{Μέρος}%
+\def\enclname{Συνημμένα}%
+\def\ccname{Κοινοποίηση}%
+\def\headtoname{Προς}%
+\def\pagename{Σελίδα}%
+\def\seename{βλέπε}%
+\def\alsoname{βλέπε επίσης}%
+\def\proofname{Απόδειξη}%
+\def\glossaryname{Γλωσσάρι}%
+\def\polytonicn@mes{%
+  \def\refname{Ἀναφορὲς}%
+  \def\indexname{Εὑρετήριο}%
+  \def\figurename{Σχῆμα}%
+  \def\headtoname{Πρὸς}%
+  \def\alsoname{βλέπε ἐπίσης}%
+  \def\proofname{Ἀπόδειξη}%
+}
+\def\@ncientn@mes{%
+  \def\prefacename{Προοίμιον}%
+  \def\abstractname{Περίληψις}%
+  \def\bibname{Βιβλιογραφία}%
+  \def\chaptername{Κεφάλαιον}%
+  \def\appendixname{Παράρτημα}%
+  \def\contentsname{Περιεχόμενα}%
+  \def\listfigurename{Κατάλογος σχημάτων}%
+  \def\listtablename{Κατάλογος πινάκων}%
+  \def\indexname{Εὑρετήριον}%
+  \def\tablename{Πίναξ}%
+  \def\partname{Μέρος}%
+  \def\enclname{Συνημμένως}%
+  \def\ccname{Κοινοποίησις}%
+  \def\headtoname{Πρὸς}%
+  \def\pagename{Σελὶς}%
+  \def\seename{ὅρα}%
+  \def\alsoname{ὅρα ὡσαύτως}%
+  \def\proofname{Ἀπόδειξις}%
+  \def\glossaryname{Γλωσσάριον}%
+  \def\refname{Ἀναφοραὶ}%
+  \def\figurename{Σχῆμα}%
+  \def\headtoname{Πρὸς}%
+}
+\def\gr@month{%
+  \ifcase\month\or Ιανουαρίου\or Φεβρουαρίου\or Μαρτίου\or Απριλίου\or
+    Μαΐου\or Ιουνίου\or Ιουλίου\or Αυγούστου\or
+     Σεπτεμβρίου\or Οκτωβρίου\or Νοεμβρίου\or Δεκεμβρίου\fi}
+\def\today{\number\day \space \gr@month\space \number\year}
+\def\gr@c@month{%
+  \ifcase\month\or Ἰανουαρίου\or Φεβρουαρίου\or Μαρτίου\or Ἀπριλίου\or
+   Μαΐου\or Ἰουνίου\or Ἰουλίου\or Αὐγούστου\or Σεπτεμβρίου\or
+  Ὀκτωβρίου\or Νοεμβρίου\or Δεκεμβρίου\fi}
+\def\anwtonos{ʹ} %GREEK NUMERAl SIGN
+\let\numer@lsign\anwtonos
+\def\katwtonos{͵} %GREEK LOWER NUMERAL SIGN
+\def\koppa{\char"03DF\relax}
+\def\sampi{\char"03E1\relax}
+\def\Digamma{\char"03DC\relax}
+\def\ddigamma{\char"03DD\relax}
+\def\anoteleia{\char"0387\relax}
+\def\euro{\char"20AC\relax}
+\def\permill{\char"2030\relax}
+\def\stigma{στ\relax}
+\frenchspacing
+\let\@saveafterindentfalse\@afterindentfalse
+\let\@afterindentfalse\@afterindenttrue
+\@afterindenttrue
+\ifx\directlua\undefined\else\RequirePackage{luahyphenrules}\fi
+\DeclareOption{monogreek}{%
+   \ifx\directlua\undefined%
+   \language\l@monogreek\else\HyphenRules{monogreek}\fi%
+}
+\DeclareOption{polygreek}{%
+   \ifx\directlua\undefined%
+   \language\l@polygreek\else\HyphenRules{polygreek}\fi%
+   \polytonicn@mes%
+   \let\gr@month\gr@c@month%
+}
+\DeclareOption{ancientgreek}{%
+   \ifx\directlua\undefined%
+   \language\l@ancientgreek\else\HyphenRules{ancientgreek}\fi%
+   \@ncientn@mes%
+   \let\gr@month\gr@c@month%
+}
+\DeclareOption{stigma}{%
+   \def\stigma{\char"03DB\relax}
+}
+\DeclareOption{noindentfirst}{%
+   \let\@afterindentfalse\@saveafterindentfalse
+}
+\DeclareOption{nonumeralsign}{%
+   \let\numer@lsign\relax
+}
+\newif\if@mylistings
+\@mylistingsfalse
+\DeclareOption{listings}{\@mylistingstrue}
+\ExecuteOptions{monogreek}
+\ProcessOptions
+\if@mylistings
+\RequirePackage{xelistings}
+\fi
+\def\gr@ill@value#1{%
+  \PackageWarning{xgreek}{Illegal value (#1) for greeknumeral}}
+\DeclareRobustCommand\anw@false{%
+  \DeclareRobustCommand\anw@print{}}
+\DeclareRobustCommand\anw@true{%
+  \DeclareRobustCommand\anw@print{\numer@lsign}}
+\anw@true
+\def\@greeknumeral#1{%
+  \ifnum#1<\@ne\space\gr@ill@value{#1}%
+  \else
+    \ifnum#1<10\expandafter\gr@num@i\number#1%
+    \else
+      \ifnum#1<100\expandafter\gr@num@ii\number#1%
+      \else
+        \ifnum#1<\@m\expandafter\gr@num@iii\number#1%
+        \else
+          \ifnum#1<\@M\expandafter\gr@num@iv\number#1%
+          \else
+            \ifnum#1<100000\expandafter\gr@num@v\number#1%
+            \else
+              \ifnum#1<1000000\expandafter\gr@num@vi\number#1%
+              \else
+                \space\gr@ill@value{#1}%
+              \fi
+            \fi
+          \fi
+        \fi
+      \fi
+    \fi
+  \fi
+}
+\def\gr@num@i#1{%
+  \ifcase#1\or α\or β\or γ\or δ\or ε\or \stigma\or ζ\or η\or θ\fi
+  \ifnum#1=\z@\else\anw@true\fi\anw@print}
+\def\gr@num@ii#1{%
+  \ifcase#1\or ι\or κ\or λ\or μ\or ν\or ξ\or ο\or π\or \koppa\fi
+  \ifnum#1=\z@\else\anw@true\fi\gr@num@i}
+\def\gr@num@iii#1{%
+  \ifcase#1\or ρ\or σ\or τ\or υ\or φ\or χ\or ψ\or ω\or \sampi\fi
+  \ifnum#1=\z@\anw@false\else\anw@true\fi\gr@num@ii}
+\def\gr@num@iv#1{%
+  \ifnum#1=\z@\else\katwtonos\fi
+  \ifcase#1\or α\or β\or γ\or δ\or ε\or \stigma\or ζ\or η\or θ\fi
+  \gr@num@iii}
+\def\gr@num@v#1{%
+  \ifnum#1=\z@\else\katwtonos\fi
+  \ifcase#1\or ι\or κ\or λ\or μ\or ν\or ξ\or ο\or π\or \koppa\fi
+  \gr@num@iv}
+\def\gr@num@vi#1{%
+  \katwtonos
+  \ifcase#1\or ρ\or σ\or τ\or υ\or φ\or χ\or ψ\or ω\or \sampi\fi
+  \gr@num@v}
+\def\@Greeknumeral#1{%
+  \expandafter\MakeUppercase\expandafter{\@greeknumeral{#1}}}
+\def\greeknumeral#1{%
+  \let\@numer@lsign\numer@lsign%
+  \let\numer@lsign\anwtonos%
+  \@greeknumeral{#1}
+  \let\numer@lsign\@numer@lsign}
+\def\Greeknumeral#1{%
+  \let\@numer@lsign\numer@lsign%
+  \let\numer@lsign\anwtonos%
+  \@Greeknumeral{#1}
+  \let\numer@lsign\@numer@lsign}
+\newcount\@attic@num
+\DeclareRobustCommand*{\@@atticnum}[1]{%
+        \@attic@num#1\relax
+        \ifnum\@attic@num<\@ne%
+          \space%
+          \PackageWarning{xgreek}{%
+          Illegal value (\the\@attic@num) for acrophonic
+          Attic numeral}%
+        \else\ifnum\@attic@num>249999%
+          \space%
+          \PackageWarning{xgreek}{%
+          Value too large (\the\@attic@num) for acrophonic
+          Attic numeral}%
+        \else
+            \@whilenum\@attic@num>49999\do{%
+               ^^^^^^010147\advance\@attic@num-50000}%
+            \@whilenum\@attic@num>9999\do{%
+               M\advance\@attic@num-\@M}%
+            \ifnum\@attic@num>4999%
+               ^^^^^^010146\advance\@attic@num-5000%
+            \fi\relax
+            \@whilenum\@attic@num>999\do{%
+               Χ\advance\@attic@num-\@m}%
+            \ifnum\@attic@num>499%
+               ^^^^^^010145\advance\@attic@num-500%
+            \fi\relax
+            \@whilenum\@attic@num>99\do{%
+               Η\advance\@attic@num-100}%
+            \ifnum\@attic@num>49%
+               ^^^^^^010144\advance\@attic@num-50%
+            \fi\relax
+            \@whilenum\@attic@num>9\do{%
+               Δ\advance\@attic@num by-10}%
+            \@whilenum\@attic@num>4\do{%
+               Π\advance\@attic@num-5}%
+            \ifcase\@attic@num\or Ι\or ΙΙ\or ΙΙΙ\or ΙΙΙΙ\fi%
+   \fi\fi}
+\def\@atticnum#1{%
+     \expandafter\@@atticnum\expandafter{\the#1}}
+\def\atticnum#1{%
+     \@attic@num#1\relax
+     \@atticnum{\@attic@num}}
+\let\latin@alph\@alph
+\let\latin@Alph\@Alph
+\def\greek@alph#1{\expandafter\@greeknumeral\expandafter{\the#1}}
+\def\greek@Alph#1{\expandafter\@Greeknumeral\expandafter{\the#1}}
+  \let\@alph\greek@alph
+  \let\@Alph\greek@Alph
+\def\nogreekalph{%
+  \let\@alph\latin@alph
+  \let\@Alph\latin@Alph}
+\def\greekalph{%
+  \let\@alph\greek@alph
+  \let\@Alph\greek@Alph}
+\ifx\directlua\undefined%
+  \def\setlanguage#1{%
+     \expandafter\ifx\csname l@#1\endcsname\relax%
+     \typeout{^^J Error: No hyphenation pattern for}%
+     \typeout{ language #1 are loaded,}%
+     \typeout{ default hyphenation patterns are used.^^J}%
+     \language=0%
+     \else\language=\csname l@#1\endcsname\fi}
+\else
+  \let\setlanguage\HyphenRules
+\fi
+\def\grtoday{%
+  \expandafter\greeknumeral\expandafter{\the\day}\space
+  \gr@c@month\space
+  \expandafter\greeknumeral\expandafter{\the\year}}
+\def\Grtoday{%
+  \expandafter\Greeknumeral\expandafter{\the\day}\space
+  \gr@c@month\space
+  \expandafter\Greeknumeral\expandafter{\the\year}}
+\endinput
+%%
+%% End of file `xgreek.sty'.

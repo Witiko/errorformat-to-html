@@ -1,0 +1,5 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/zhlipsum/zhlipsum.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/zhlipsum/zhlipsum.sty:105:21:105:34: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/zhlipsum/zhlipsum.sty:129:13:129:29: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/zhlipsum/zhlipsum.sty:183:14:183:27: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/zhlipsum/zhlipsum.sty:215:23:215:35: s205 malformed function name

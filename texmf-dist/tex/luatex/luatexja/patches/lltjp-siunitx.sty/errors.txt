@@ -1,0 +1,6 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/patches/lltjp-siunitx.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/patches/lltjp-siunitx.sty:33:15:33:54: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/patches/lltjp-siunitx.sty:33:56:33:87: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/patches/lltjp-siunitx.sty:34:23:34:54: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/patches/lltjp-siunitx.sty:36:7:36:46: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/patches/lltjp-siunitx.sty:37:7:37:46: w200 "weird" and "do not use" argument specifiers

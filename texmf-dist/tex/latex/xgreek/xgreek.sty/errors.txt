@@ -1,0 +1,9 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xgreek/xgreek.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xgreek/xgreek.sty:349:16:349:16: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xgreek/xgreek.sty:349:19:349:19: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xgreek/xgreek.sty:353:16:353:16: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xgreek/xgreek.sty:353:19:353:19: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xgreek/xgreek.sty:358:16:358:16: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xgreek/xgreek.sty:358:19:358:19: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xgreek/xgreek.sty:363:16:363:16: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xgreek/xgreek.sty:363:19:363:19: e209 invalid characters

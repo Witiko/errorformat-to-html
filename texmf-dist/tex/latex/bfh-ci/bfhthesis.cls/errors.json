@@ -1,0 +1,18 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/bfh-ci/bfhthesis.cls",
+    "lnum": 61,
+    "end_lnum": 61,
+    "col": 66,
+    "end_col": 79,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/bfh-ci/bfhthesis.cls:61:66:61:79: w202 deprecated control sequences"
+    ]
+  }
+]

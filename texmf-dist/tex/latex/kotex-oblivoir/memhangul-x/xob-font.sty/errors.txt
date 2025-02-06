@@ -1,0 +1,17 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kotex-oblivoir/memhangul-x/xob-font.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kotex-oblivoir/memhangul-x/xob-font.sty:215:2:215:6: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kotex-oblivoir/memhangul-x/xob-font.sty:306:4:306:8: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kotex-oblivoir/memhangul-x/xob-font.sty:311:5:311:9: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kotex-oblivoir/memhangul-x/xob-font.sty:316:5:316:9: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kotex-oblivoir/memhangul-x/xob-font.sty:322:4:322:8: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kotex-oblivoir/memhangul-x/xob-font.sty:334:4:334:8: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kotex-oblivoir/memhangul-x/xob-font.sty:340:5:340:9: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kotex-oblivoir/memhangul-x/xob-font.sty:345:5:345:9: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kotex-oblivoir/memhangul-x/xob-font.sty:351:4:351:8: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kotex-oblivoir/memhangul-x/xob-font.sty:376:3:376:7: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kotex-oblivoir/memhangul-x/xob-font.sty:381:3:381:7: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kotex-oblivoir/memhangul-x/xob-font.sty:486:3:486:7: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kotex-oblivoir/memhangul-x/xob-font.sty:489:3:489:7: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kotex-oblivoir/memhangul-x/xob-font.sty:505:3:505:7: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kotex-oblivoir/memhangul-x/xob-font.sty:508:3:508:7: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kotex-oblivoir/memhangul-x/xob-font.sty:625:2:625:6: w200 "weird" and "do not use" argument specifiers

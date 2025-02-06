@@ -1,0 +1,5 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-define.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-define.tex:19:1:19:13: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-define.tex:197:1:197:13: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-define.tex:420:1:420:20: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-define.tex:420:1:420:20: w200 "weird" and "do not use" argument specifiers

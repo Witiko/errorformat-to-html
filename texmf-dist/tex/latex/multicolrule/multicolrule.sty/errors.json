@@ -1,0 +1,162 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/multicolrule/multicolrule.sty",
+    "lnum": 278,
+    "end_lnum": 278,
+    "col": 1,
+    "end_col": 1,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/multicolrule/multicolrule.sty:278:1:278:1: e208 too many closing braces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/multicolrule/multicolrule.sty",
+    "lnum": 203,
+    "end_lnum": 203,
+    "col": 7,
+    "end_col": 18,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/multicolrule/multicolrule.sty:203:7:203:18: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/multicolrule/multicolrule.sty",
+    "lnum": 204,
+    "end_lnum": 204,
+    "col": 7,
+    "end_col": 17,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/multicolrule/multicolrule.sty:204:7:204:17: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/multicolrule/multicolrule.sty",
+    "lnum": 206,
+    "end_lnum": 206,
+    "col": 7,
+    "end_col": 17,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/multicolrule/multicolrule.sty:206:7:206:17: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/multicolrule/multicolrule.sty",
+    "lnum": 207,
+    "end_lnum": 207,
+    "col": 7,
+    "end_col": 18,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/multicolrule/multicolrule.sty:207:7:207:18: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/multicolrule/multicolrule.sty",
+    "lnum": 217,
+    "end_lnum": 217,
+    "col": 7,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/multicolrule/multicolrule.sty:217:7:217:21: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/multicolrule/multicolrule.sty",
+    "lnum": 219,
+    "end_lnum": 219,
+    "col": 9,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/multicolrule/multicolrule.sty:219:9:219:19: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/multicolrule/multicolrule.sty",
+    "lnum": 221,
+    "end_lnum": 221,
+    "col": 9,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/multicolrule/multicolrule.sty:221:9:221:19: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/multicolrule/multicolrule.sty",
+    "lnum": 223,
+    "end_lnum": 223,
+    "col": 5,
+    "end_col": 16,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/multicolrule/multicolrule.sty:223:5:223:16: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/multicolrule/multicolrule.sty",
+    "lnum": 315,
+    "end_lnum": 315,
+    "col": 5,
+    "end_col": 24,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/multicolrule/multicolrule.sty:315:5:315:24: w202 deprecated control sequences"
+    ]
+  }
+]

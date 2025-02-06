@@ -1,0 +1,690 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty",
+    "lnum": 64,
+    "end_lnum": 64,
+    "col": 54,
+    "end_col": 57,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:64:54:64:57: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty",
+    "lnum": 64,
+    "end_lnum": 64,
+    "col": 59,
+    "end_col": 71,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:64:59:64:71: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty",
+    "lnum": 64,
+    "end_lnum": 64,
+    "col": 73,
+    "end_col": 76,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:64:73:64:76: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty",
+    "lnum": 3271,
+    "end_lnum": 3271,
+    "col": 32,
+    "end_col": 32,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:3271:32:3271:32: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty",
+    "lnum": 3280,
+    "end_lnum": 3280,
+    "col": 36,
+    "end_col": 36,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:3280:36:3280:36: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty",
+    "lnum": 3292,
+    "end_lnum": 3292,
+    "col": 40,
+    "end_col": 40,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:3292:40:3292:40: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty",
+    "lnum": 3304,
+    "end_lnum": 3304,
+    "col": 44,
+    "end_col": 44,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:3304:44:3304:44: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty",
+    "lnum": 3367,
+    "end_lnum": 3367,
+    "col": 32,
+    "end_col": 32,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:3367:32:3367:32: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty",
+    "lnum": 3378,
+    "end_lnum": 3378,
+    "col": 36,
+    "end_col": 36,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:3378:36:3378:36: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty",
+    "lnum": 3390,
+    "end_lnum": 3390,
+    "col": 40,
+    "end_col": 40,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:3390:40:3390:40: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty",
+    "lnum": 3429,
+    "end_lnum": 3429,
+    "col": 19,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:3429:19:3429:19: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty",
+    "lnum": 3430,
+    "end_lnum": 3430,
+    "col": 19,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:3430:19:3430:19: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty",
+    "lnum": 3431,
+    "end_lnum": 3431,
+    "col": 19,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:3431:19:3431:19: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty",
+    "lnum": 3432,
+    "end_lnum": 3432,
+    "col": 19,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:3432:19:3432:19: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty",
+    "lnum": 3434,
+    "end_lnum": 3434,
+    "col": 19,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:3434:19:3434:19: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty",
+    "lnum": 3435,
+    "end_lnum": 3435,
+    "col": 19,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:3435:19:3435:19: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty",
+    "lnum": 3436,
+    "end_lnum": 3436,
+    "col": 19,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:3436:19:3436:19: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty",
+    "lnum": 74,
+    "end_lnum": 74,
+    "col": 5,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:74:5:74:21: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty",
+    "lnum": 82,
+    "end_lnum": 82,
+    "col": 5,
+    "end_col": 17,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:82:5:82:17: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty",
+    "lnum": 82,
+    "end_lnum": 82,
+    "col": 19,
+    "end_col": 28,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:82:19:82:28: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty",
+    "lnum": 119,
+    "end_lnum": 119,
+    "col": 5,
+    "end_col": 17,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:119:5:119:17: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty",
+    "lnum": 119,
+    "end_lnum": 119,
+    "col": 19,
+    "end_col": 33,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:119:19:119:33: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty",
+    "lnum": 123,
+    "end_lnum": 123,
+    "col": 5,
+    "end_col": 17,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:123:5:123:17: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty",
+    "lnum": 123,
+    "end_lnum": 123,
+    "col": 19,
+    "end_col": 33,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:123:19:123:33: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty",
+    "lnum": 135,
+    "end_lnum": 135,
+    "col": 5,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:135:5:135:14: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty",
+    "lnum": 1105,
+    "end_lnum": 1105,
+    "col": 34,
+    "end_col": 55,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:1105:34:1105:55: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty",
+    "lnum": 1106,
+    "end_lnum": 1106,
+    "col": 34,
+    "end_col": 55,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:1106:34:1106:55: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty",
+    "lnum": 1107,
+    "end_lnum": 1107,
+    "col": 34,
+    "end_col": 55,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:1107:34:1107:55: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty",
+    "lnum": 1649,
+    "end_lnum": 1649,
+    "col": 9,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:1649:9:1649:21: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty",
+    "lnum": 1649,
+    "end_lnum": 1649,
+    "col": 23,
+    "end_col": 41,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:1649:23:1649:41: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty",
+    "lnum": 1652,
+    "end_lnum": 1652,
+    "col": 9,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:1652:9:1652:21: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty",
+    "lnum": 1652,
+    "end_lnum": 1652,
+    "col": 23,
+    "end_col": 41,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:1652:23:1652:41: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty",
+    "lnum": 1675,
+    "end_lnum": 1675,
+    "col": 13,
+    "end_col": 31,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:1675:13:1675:31: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty",
+    "lnum": 1680,
+    "end_lnum": 1680,
+    "col": 13,
+    "end_col": 31,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:1680:13:1680:31: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty",
+    "lnum": 1707,
+    "end_lnum": 1707,
+    "col": 9,
+    "end_col": 36,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:1707:9:1707:36: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty",
+    "lnum": 1716,
+    "end_lnum": 1716,
+    "col": 32,
+    "end_col": 59,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:1716:32:1716:59: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty",
+    "lnum": 1733,
+    "end_lnum": 1733,
+    "col": 5,
+    "end_col": 28,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:1733:5:1733:28: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty",
+    "lnum": 1735,
+    "end_lnum": 1735,
+    "col": 13,
+    "end_col": 36,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:1735:13:1735:36: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty",
+    "lnum": 1748,
+    "end_lnum": 1748,
+    "col": 5,
+    "end_col": 33,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:1748:5:1748:33: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty",
+    "lnum": 1750,
+    "end_lnum": 1750,
+    "col": 13,
+    "end_col": 41,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:1750:13:1750:41: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty",
+    "lnum": 3486,
+    "end_lnum": 3486,
+    "col": 23,
+    "end_col": 35,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:3486:23:3486:35: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty",
+    "lnum": 3665,
+    "end_lnum": 3665,
+    "col": 17,
+    "end_col": 18,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:3665:17:3665:18: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty",
+    "lnum": 3799,
+    "end_lnum": 3799,
+    "col": 23,
+    "end_col": 24,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:3799:23:3799:24: s205 malformed function name"
+    ]
+  }
+]

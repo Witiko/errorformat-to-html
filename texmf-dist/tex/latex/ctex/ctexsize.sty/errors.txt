@@ -1,0 +1,5 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ctex/ctexsize.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ctex/ctexsize.sty:72:37:72:55: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ctex/ctexsize.sty:76:9:76:21: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ctex/ctexsize.sty:123:5:123:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ctex/ctexsize.sty:158:9:158:21: w200 "weird" and "do not use" argument specifiers

@@ -1,0 +1,50 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ducksay/ducksay.animals.tex",
+    "lnum": 91,
+    "end_lnum": 91,
+    "col": 13,
+    "end_col": 13,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ducksay/ducksay.animals.tex:91:13:91:13: e208 too many closing braces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ducksay/ducksay.animals.tex",
+    "lnum": 91,
+    "end_lnum": 91,
+    "col": 22,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ducksay/ducksay.animals.tex:91:22:91:22: e208 too many closing braces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ducksay/ducksay.animals.tex",
+    "lnum": 92,
+    "end_lnum": 92,
+    "col": 13,
+    "end_col": 13,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ducksay/ducksay.animals.tex:92:13:92:13: e208 too many closing braces"
+    ]
+  }
+]

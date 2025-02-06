@@ -1,0 +1,4 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/preview/preview.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/preview/preview.sty:293:7:293:20: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/preview/preview.sty:299:28:299:41: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/preview/preview.sty:300:16:300:29: w200 "weird" and "do not use" argument specifiers

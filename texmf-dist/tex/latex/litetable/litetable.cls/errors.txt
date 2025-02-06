@@ -1,0 +1,5 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls:40:9:40:21: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls:41:9:41:21: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls:42:9:42:21: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls:43:9:43:23: w200 "weird" and "do not use" argument specifiers

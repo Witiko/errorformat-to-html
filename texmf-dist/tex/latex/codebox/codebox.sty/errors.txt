@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/codebox/codebox.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/codebox/codebox.sty:190:23:190:36: w202 deprecated control sequences

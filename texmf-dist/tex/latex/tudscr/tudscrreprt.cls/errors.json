@@ -1,0 +1,50 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tudscr/tudscrreprt.cls",
+    "lnum": 3320,
+    "end_lnum": 3320,
+    "col": 28,
+    "end_col": 28,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tudscr/tudscrreprt.cls:3320:28:3320:28: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tudscr/tudscrreprt.cls",
+    "lnum": 3326,
+    "end_lnum": 3326,
+    "col": 19,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tudscr/tudscrreprt.cls:3326:19:3326:19: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tudscr/tudscrreprt.cls",
+    "lnum": 3327,
+    "end_lnum": 3327,
+    "col": 19,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tudscr/tudscrreprt.cls:3327:19:3327:19: e209 invalid characters"
+    ]
+  }
+]

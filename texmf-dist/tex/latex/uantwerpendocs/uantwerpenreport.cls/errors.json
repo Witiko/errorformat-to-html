@@ -1,0 +1,34 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/uantwerpendocs/uantwerpenreport.cls",
+    "lnum": 102,
+    "end_lnum": 102,
+    "col": 19,
+    "end_col": 48,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/uantwerpendocs/uantwerpenreport.cls:102:19:102:48: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/uantwerpendocs/uantwerpenreport.cls",
+    "lnum": 114,
+    "end_lnum": 114,
+    "col": 7,
+    "end_col": 36,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/uantwerpendocs/uantwerpenreport.cls:114:7:114:36: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  }
+]

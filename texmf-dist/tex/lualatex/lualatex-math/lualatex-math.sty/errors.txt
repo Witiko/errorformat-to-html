@@ -1,0 +1,5 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/lualatex-math/lualatex-math.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/lualatex-math/lualatex-math.sty:59:15:59:32: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/lualatex-math/lualatex-math.sty:64:10:64:27: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/lualatex-math/lualatex-math.sty:65:25:65:42: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/lualatex-math/lualatex-math.sty:73:33:73:50: w200 "weird" and "do not use" argument specifiers

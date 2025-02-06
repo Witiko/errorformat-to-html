@@ -1,0 +1,3 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmutils/gmmeta.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmutils/gmmeta.sty:140:21:140:21: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmutils/gmmeta.sty:182:22:182:22: e208 too many closing braces

@@ -1,0 +1,16 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbfitting.code.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbfitting.code.tex:378:21:378:47: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbfitting.code.tex:395:21:395:46: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbfitting.code.tex:398:20:398:46: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbfitting.code.tex:403:5:403:30: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbfitting.code.tex:408:5:408:30: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbfitting.code.tex:417:21:417:44: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbfitting.code.tex:425:5:425:28: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbfitting.code.tex:430:5:430:28: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbfitting.code.tex:435:5:435:28: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbfitting.code.tex:440:5:440:28: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbfitting.code.tex:449:21:449:49: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbfitting.code.tex:457:5:457:33: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbfitting.code.tex:462:5:462:33: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbfitting.code.tex:467:5:467:33: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbfitting.code.tex:472:5:472:33: w200 "weird" and "do not use" argument specifiers

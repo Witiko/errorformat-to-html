@@ -1,0 +1,370 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-tr.ec.tex",
+    "lnum": 24,
+    "end_lnum": 24,
+    "col": 2,
+    "end_col": 2,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-tr.ec.tex:24:2:24:2: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-tr.ec.tex",
+    "lnum": 498,
+    "end_lnum": 498,
+    "col": 3,
+    "end_col": 3,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-tr.ec.tex:498:3:498:3: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-tr.ec.tex",
+    "lnum": 509,
+    "end_lnum": 509,
+    "col": 6,
+    "end_col": 6,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-tr.ec.tex:509:6:509:6: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-tr.ec.tex",
+    "lnum": 520,
+    "end_lnum": 520,
+    "col": 3,
+    "end_col": 3,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-tr.ec.tex:520:3:520:3: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-tr.ec.tex",
+    "lnum": 528,
+    "end_lnum": 528,
+    "col": 1,
+    "end_col": 1,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-tr.ec.tex:528:1:528:1: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-tr.ec.tex",
+    "lnum": 529,
+    "end_lnum": 529,
+    "col": 1,
+    "end_col": 1,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-tr.ec.tex:529:1:529:1: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-tr.ec.tex",
+    "lnum": 530,
+    "end_lnum": 530,
+    "col": 1,
+    "end_col": 1,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-tr.ec.tex:530:1:530:1: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-tr.ec.tex",
+    "lnum": 531,
+    "end_lnum": 531,
+    "col": 1,
+    "end_col": 1,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-tr.ec.tex:531:1:531:1: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-tr.ec.tex",
+    "lnum": 531,
+    "end_lnum": 531,
+    "col": 6,
+    "end_col": 6,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-tr.ec.tex:531:6:531:6: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-tr.ec.tex",
+    "lnum": 532,
+    "end_lnum": 532,
+    "col": 1,
+    "end_col": 1,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-tr.ec.tex:532:1:532:1: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-tr.ec.tex",
+    "lnum": 533,
+    "end_lnum": 533,
+    "col": 1,
+    "end_col": 1,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-tr.ec.tex:533:1:533:1: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-tr.ec.tex",
+    "lnum": 534,
+    "end_lnum": 534,
+    "col": 1,
+    "end_col": 1,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-tr.ec.tex:534:1:534:1: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-tr.ec.tex",
+    "lnum": 535,
+    "end_lnum": 535,
+    "col": 1,
+    "end_col": 1,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-tr.ec.tex:535:1:535:1: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-tr.ec.tex",
+    "lnum": 536,
+    "end_lnum": 536,
+    "col": 1,
+    "end_col": 1,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-tr.ec.tex:536:1:536:1: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-tr.ec.tex",
+    "lnum": 537,
+    "end_lnum": 537,
+    "col": 1,
+    "end_col": 1,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-tr.ec.tex:537:1:537:1: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-tr.ec.tex",
+    "lnum": 538,
+    "end_lnum": 538,
+    "col": 1,
+    "end_col": 1,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-tr.ec.tex:538:1:538:1: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-tr.ec.tex",
+    "lnum": 542,
+    "end_lnum": 542,
+    "col": 3,
+    "end_col": 3,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-tr.ec.tex:542:3:542:3: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-tr.ec.tex",
+    "lnum": 553,
+    "end_lnum": 553,
+    "col": 6,
+    "end_col": 6,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-tr.ec.tex:553:6:553:6: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-tr.ec.tex",
+    "lnum": 564,
+    "end_lnum": 564,
+    "col": 3,
+    "end_col": 3,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-tr.ec.tex:564:3:564:3: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-tr.ec.tex",
+    "lnum": 575,
+    "end_lnum": 575,
+    "col": 6,
+    "end_col": 6,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-tr.ec.tex:575:6:575:6: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-tr.ec.tex",
+    "lnum": 586,
+    "end_lnum": 586,
+    "col": 3,
+    "end_col": 3,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-tr.ec.tex:586:3:586:3: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-tr.ec.tex",
+    "lnum": 597,
+    "end_lnum": 597,
+    "col": 6,
+    "end_col": 6,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-tr.ec.tex:597:6:597:6: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-tr.ec.tex",
+    "lnum": 608,
+    "end_lnum": 608,
+    "col": 6,
+    "end_col": 6,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-tr.ec.tex:608:6:608:6: e209 invalid characters"
+    ]
+  }
+]

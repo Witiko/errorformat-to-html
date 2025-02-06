@@ -1,0 +1,13 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tools/l3sys-query.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tools/l3sys-query.sty:67:18:67:36: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tools/l3sys-query.sty:68:18:68:19: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tools/l3sys-query.sty:69:18:69:34: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tools/l3sys-query.sty:70:20:70:31: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tools/l3sys-query.sty:73:18:73:19: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tools/l3sys-query.sty:74:20:74:36: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tools/l3sys-query.sty:85:18:85:36: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tools/l3sys-query.sty:86:18:86:19: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tools/l3sys-query.sty:87:18:87:34: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tools/l3sys-query.sty:88:20:88:31: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tools/l3sys-query.sty:91:18:91:19: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tools/l3sys-query.sty:92:20:92:36: s205 malformed function name

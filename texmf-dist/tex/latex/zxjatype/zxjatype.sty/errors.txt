@@ -1,0 +1,7 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/zxjatype/zxjatype.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/zxjatype/zxjatype.sty:342:30:342:52: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/zxjatype/zxjatype.sty:345:40:345:40: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/zxjatype/zxjatype.sty:443:5:443:18: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/zxjatype/zxjatype.sty:537:34:537:34: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/zxjatype/zxjatype.sty:666:23:666:24: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/zxjatype/zxjatype.sty:672:21:672:22: s205 malformed function name

@@ -1,0 +1,50 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/leadsheets/leadsheets.library.properties.code.tex",
+    "lnum": 156,
+    "end_lnum": 156,
+    "col": 5,
+    "end_col": 43,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/leadsheets/leadsheets.library.properties.code.tex:156:5:156:43: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/leadsheets/leadsheets.library.properties.code.tex",
+    "lnum": 159,
+    "end_lnum": 159,
+    "col": 13,
+    "end_col": 51,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/leadsheets/leadsheets.library.properties.code.tex:159:13:159:51: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/leadsheets/leadsheets.library.properties.code.tex",
+    "lnum": 163,
+    "end_lnum": 163,
+    "col": 9,
+    "end_col": 47,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/leadsheets/leadsheets.library.properties.code.tex:163:9:163:47: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xcntperchap/xcntperchap.sty",
+    "lnum": 118,
+    "end_lnum": 118,
+    "col": 38,
+    "end_col": 44,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xcntperchap/xcntperchap.sty:118:38:118:44: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xcntperchap/xcntperchap.sty",
+    "lnum": 202,
+    "end_lnum": 202,
+    "col": 5,
+    "end_col": 11,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xcntperchap/xcntperchap.sty:202:5:202:11: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xcntperchap/xcntperchap.sty",
+    "lnum": 133,
+    "end_lnum": 133,
+    "col": 13,
+    "end_col": 45,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xcntperchap/xcntperchap.sty:133:13:133:45: s205 malformed function name"
+    ]
+  }
+]

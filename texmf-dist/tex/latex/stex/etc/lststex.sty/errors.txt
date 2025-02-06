@@ -1,0 +1,4 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/stex/etc/lststex.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/stex/etc/lststex.sty:133:73:133:86: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/stex/etc/lststex.sty:136:11:136:24: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/stex/etc/lststex.sty:151:22:151:43: s205 malformed function name

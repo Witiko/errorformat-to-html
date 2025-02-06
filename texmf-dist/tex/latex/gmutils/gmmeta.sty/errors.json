@@ -1,0 +1,34 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmutils/gmmeta.sty",
+    "lnum": 140,
+    "end_lnum": 140,
+    "col": 21,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmutils/gmmeta.sty:140:21:140:21: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmutils/gmmeta.sty",
+    "lnum": 182,
+    "end_lnum": 182,
+    "col": 22,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmutils/gmmeta.sty:182:22:182:22: e208 too many closing braces"
+    ]
+  }
+]

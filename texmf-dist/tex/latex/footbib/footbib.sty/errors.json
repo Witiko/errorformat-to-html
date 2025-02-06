@@ -1,0 +1,18 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/footbib/footbib.sty",
+    "lnum": 262,
+    "end_lnum": 262,
+    "col": 10,
+    "end_col": 10,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/footbib/footbib.sty:262:10:262:10: e208 too many closing braces"
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/diffcoeff/diffcoeff.sty",
+    "lnum": 311,
+    "end_lnum": 311,
+    "col": 36,
+    "end_col": 49,
+    "vcol": false,
+    "nr": 101,
+    "pattern": "",
+    "text": "unexpected delimiters",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/diffcoeff/diffcoeff.sty:311:36:311:49: w101 unexpected delimiters"
+    ]
+  }
+]

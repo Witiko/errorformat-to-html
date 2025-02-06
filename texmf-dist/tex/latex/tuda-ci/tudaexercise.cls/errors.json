@@ -1,0 +1,34 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tuda-ci/tudaexercise.cls",
+    "lnum": 200,
+    "end_lnum": 200,
+    "col": 66,
+    "end_col": 79,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tuda-ci/tudaexercise.cls:200:66:200:79: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tuda-ci/tudaexercise.cls",
+    "lnum": 446,
+    "end_lnum": 446,
+    "col": 14,
+    "end_col": 38,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tuda-ci/tudaexercise.cls:446:14:446:38: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  }
+]

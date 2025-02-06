@@ -1,0 +1,34 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmutils/gmurl.sty",
+    "lnum": 153,
+    "end_lnum": 153,
+    "col": 22,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmutils/gmurl.sty:153:22:153:22: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmutils/gmurl.sty",
+    "lnum": 158,
+    "end_lnum": 158,
+    "col": 22,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmutils/gmurl.sty:158:22:158:22: e209 invalid characters"
+    ]
+  }
+]

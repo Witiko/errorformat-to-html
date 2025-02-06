@@ -1,0 +1,50 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/langsci-avm/langsci-avm.sty",
+    "lnum": 393,
+    "end_lnum": 393,
+    "col": 5,
+    "end_col": 16,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/langsci-avm/langsci-avm.sty:393:5:393:16: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/langsci-avm/langsci-avm.sty",
+    "lnum": 498,
+    "end_lnum": 498,
+    "col": 9,
+    "end_col": 23,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/langsci-avm/langsci-avm.sty:498:9:498:23: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/langsci-avm/langsci-avm.sty",
+    "lnum": 506,
+    "end_lnum": 506,
+    "col": 11,
+    "end_col": 25,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/langsci-avm/langsci-avm.sty:506:11:506:25: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  }
+]

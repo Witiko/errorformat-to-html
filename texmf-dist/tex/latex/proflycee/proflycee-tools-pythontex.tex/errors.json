@@ -1,0 +1,18 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/proflycee/proflycee-tools-pythontex.tex",
+    "lnum": 85,
+    "end_lnum": 85,
+    "col": 30,
+    "end_col": 35,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/proflycee/proflycee-tools-pythontex.tex:85:30:85:35: e201 unknown argument specifiers"
+    ]
+  }
+]

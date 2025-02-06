@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontinst/fontdoc.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontinst/fontdoc.sty:345:33:345:33: e209 invalid characters

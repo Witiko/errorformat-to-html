@@ -1,0 +1,3 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tuda-ci/tudaexercise.cls
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tuda-ci/tudaexercise.cls:200:66:200:79: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tuda-ci/tudaexercise.cls:446:14:446:38: w200 "weird" and "do not use" argument specifiers

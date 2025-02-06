@@ -1,0 +1,2594 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 3334,
+    "end_lnum": 3334,
+    "col": 6,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:3334:6:3334:20: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 3362,
+    "end_lnum": 3362,
+    "col": 6,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:3362:6:3362:20: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 3382,
+    "end_lnum": 3382,
+    "col": 6,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:3382:6:3382:20: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 3915,
+    "end_lnum": 3915,
+    "col": 6,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:3915:6:3915:20: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 3943,
+    "end_lnum": 3943,
+    "col": 6,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:3943:6:3943:20: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 3963,
+    "end_lnum": 3963,
+    "col": 6,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:3963:6:3963:20: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 6285,
+    "end_lnum": 6285,
+    "col": 49,
+    "end_col": 63,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:6285:49:6285:63: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 6286,
+    "end_lnum": 6286,
+    "col": 46,
+    "end_col": 59,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:6286:46:6286:59: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 6287,
+    "end_lnum": 6287,
+    "col": 46,
+    "end_col": 59,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:6287:46:6287:59: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 6863,
+    "end_lnum": 6863,
+    "col": 5,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:6863:5:6863:19: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 6870,
+    "end_lnum": 6870,
+    "col": 5,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:6870:5:6870:19: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 6936,
+    "end_lnum": 6936,
+    "col": 5,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:6936:5:6936:19: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 893,
+    "end_lnum": 893,
+    "col": 27,
+    "end_col": 70,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:893:27:893:70: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 1360,
+    "end_lnum": 1360,
+    "col": 23,
+    "end_col": 60,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:1360:23:1360:60: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 1430,
+    "end_lnum": 1430,
+    "col": 23,
+    "end_col": 59,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:1430:23:1430:59: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 1588,
+    "end_lnum": 1588,
+    "col": 23,
+    "end_col": 52,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:1588:23:1588:52: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 2250,
+    "end_lnum": 2250,
+    "col": 15,
+    "end_col": 53,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:2250:15:2250:53: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 2265,
+    "end_lnum": 2265,
+    "col": 15,
+    "end_col": 53,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:2265:15:2265:53: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 3034,
+    "end_lnum": 3034,
+    "col": 13,
+    "end_col": 55,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:3034:13:3034:55: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 3038,
+    "end_lnum": 3038,
+    "col": 13,
+    "end_col": 55,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:3038:13:3038:55: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 3109,
+    "end_lnum": 3109,
+    "col": 16,
+    "end_col": 70,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:3109:16:3109:70: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 3132,
+    "end_lnum": 3132,
+    "col": 16,
+    "end_col": 70,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:3132:16:3132:70: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 3155,
+    "end_lnum": 3155,
+    "col": 16,
+    "end_col": 70,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:3155:16:3155:70: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 3178,
+    "end_lnum": 3178,
+    "col": 16,
+    "end_col": 70,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:3178:16:3178:70: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 3194,
+    "end_lnum": 3194,
+    "col": 16,
+    "end_col": 70,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:3194:16:3194:70: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 3222,
+    "end_lnum": 3222,
+    "col": 16,
+    "end_col": 68,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:3222:16:3222:68: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 3242,
+    "end_lnum": 3242,
+    "col": 16,
+    "end_col": 68,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:3242:16:3242:68: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 3262,
+    "end_lnum": 3262,
+    "col": 16,
+    "end_col": 71,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:3262:16:3262:71: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 3290,
+    "end_lnum": 3290,
+    "col": 16,
+    "end_col": 69,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:3290:16:3290:69: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 3310,
+    "end_lnum": 3310,
+    "col": 16,
+    "end_col": 69,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:3310:16:3310:69: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 3330,
+    "end_lnum": 3330,
+    "col": 16,
+    "end_col": 73,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:3330:16:3330:73: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 3358,
+    "end_lnum": 3358,
+    "col": 16,
+    "end_col": 71,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:3358:16:3358:71: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 3378,
+    "end_lnum": 3378,
+    "col": 16,
+    "end_col": 71,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:3378:16:3378:71: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 3398,
+    "end_lnum": 3398,
+    "col": 16,
+    "end_col": 78,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:3398:16:3398:78: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 3426,
+    "end_lnum": 3426,
+    "col": 16,
+    "end_col": 76,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:3426:16:3426:76: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 3446,
+    "end_lnum": 3446,
+    "col": 16,
+    "end_col": 76,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:3446:16:3446:76: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 3466,
+    "end_lnum": 3466,
+    "col": 16,
+    "end_col": 73,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:3466:16:3466:73: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 3494,
+    "end_lnum": 3494,
+    "col": 16,
+    "end_col": 71,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:3494:16:3494:71: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 3514,
+    "end_lnum": 3514,
+    "col": 16,
+    "end_col": 71,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:3514:16:3514:71: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 3534,
+    "end_lnum": 3534,
+    "col": 16,
+    "end_col": 75,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:3534:16:3534:75: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 3562,
+    "end_lnum": 3562,
+    "col": 16,
+    "end_col": 73,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:3562:16:3562:73: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 3582,
+    "end_lnum": 3582,
+    "col": 16,
+    "end_col": 73,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:3582:16:3582:73: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 3614,
+    "end_lnum": 3614,
+    "col": 13,
+    "end_col": 57,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:3614:13:3614:57: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 3618,
+    "end_lnum": 3618,
+    "col": 13,
+    "end_col": 57,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:3618:13:3618:57: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 3690,
+    "end_lnum": 3690,
+    "col": 16,
+    "end_col": 70,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:3690:16:3690:70: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 3713,
+    "end_lnum": 3713,
+    "col": 16,
+    "end_col": 70,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:3713:16:3713:70: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 3736,
+    "end_lnum": 3736,
+    "col": 16,
+    "end_col": 70,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:3736:16:3736:70: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 3759,
+    "end_lnum": 3759,
+    "col": 16,
+    "end_col": 70,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:3759:16:3759:70: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 3775,
+    "end_lnum": 3775,
+    "col": 16,
+    "end_col": 70,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:3775:16:3775:70: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 3803,
+    "end_lnum": 3803,
+    "col": 16,
+    "end_col": 68,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:3803:16:3803:68: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 3823,
+    "end_lnum": 3823,
+    "col": 16,
+    "end_col": 68,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:3823:16:3823:68: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 3843,
+    "end_lnum": 3843,
+    "col": 16,
+    "end_col": 71,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:3843:16:3843:71: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 3871,
+    "end_lnum": 3871,
+    "col": 16,
+    "end_col": 69,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:3871:16:3871:69: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 3891,
+    "end_lnum": 3891,
+    "col": 16,
+    "end_col": 69,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:3891:16:3891:69: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 3911,
+    "end_lnum": 3911,
+    "col": 16,
+    "end_col": 73,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:3911:16:3911:73: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 3939,
+    "end_lnum": 3939,
+    "col": 16,
+    "end_col": 71,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:3939:16:3939:71: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 3959,
+    "end_lnum": 3959,
+    "col": 16,
+    "end_col": 71,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:3959:16:3959:71: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 3979,
+    "end_lnum": 3979,
+    "col": 16,
+    "end_col": 78,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:3979:16:3979:78: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 4007,
+    "end_lnum": 4007,
+    "col": 16,
+    "end_col": 76,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:4007:16:4007:76: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 4027,
+    "end_lnum": 4027,
+    "col": 16,
+    "end_col": 76,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:4027:16:4027:76: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 4047,
+    "end_lnum": 4047,
+    "col": 16,
+    "end_col": 73,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:4047:16:4047:73: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 4075,
+    "end_lnum": 4075,
+    "col": 16,
+    "end_col": 71,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:4075:16:4075:71: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 4095,
+    "end_lnum": 4095,
+    "col": 16,
+    "end_col": 71,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:4095:16:4095:71: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 4115,
+    "end_lnum": 4115,
+    "col": 16,
+    "end_col": 75,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:4115:16:4115:75: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 4143,
+    "end_lnum": 4143,
+    "col": 16,
+    "end_col": 73,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:4143:16:4143:73: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 4163,
+    "end_lnum": 4163,
+    "col": 16,
+    "end_col": 73,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:4163:16:4163:73: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 4201,
+    "end_lnum": 4201,
+    "col": 13,
+    "end_col": 53,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:4201:13:4201:53: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 4232,
+    "end_lnum": 4232,
+    "col": 13,
+    "end_col": 53,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:4232:13:4232:53: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 4268,
+    "end_lnum": 4268,
+    "col": 13,
+    "end_col": 58,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:4268:13:4268:58: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 4294,
+    "end_lnum": 4294,
+    "col": 13,
+    "end_col": 61,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:4294:13:4294:61: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 4320,
+    "end_lnum": 4320,
+    "col": 13,
+    "end_col": 61,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:4320:13:4320:61: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 4346,
+    "end_lnum": 4346,
+    "col": 13,
+    "end_col": 62,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:4346:13:4346:62: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 4372,
+    "end_lnum": 4372,
+    "col": 13,
+    "end_col": 62,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:4372:13:4372:62: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 4398,
+    "end_lnum": 4398,
+    "col": 13,
+    "end_col": 65,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:4398:13:4398:65: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 4424,
+    "end_lnum": 4424,
+    "col": 13,
+    "end_col": 66,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:4424:13:4424:66: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 4489,
+    "end_lnum": 4489,
+    "col": 13,
+    "end_col": 61,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:4489:13:4489:61: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 4515,
+    "end_lnum": 4515,
+    "col": 13,
+    "end_col": 62,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:4515:13:4515:62: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 4541,
+    "end_lnum": 4541,
+    "col": 13,
+    "end_col": 61,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:4541:13:4541:61: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 4601,
+    "end_lnum": 4601,
+    "col": 13,
+    "end_col": 62,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:4601:13:4601:62: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 4627,
+    "end_lnum": 4627,
+    "col": 13,
+    "end_col": 65,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:4627:13:4627:65: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 4655,
+    "end_lnum": 4655,
+    "col": 13,
+    "end_col": 66,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:4655:13:4655:66: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 4683,
+    "end_lnum": 4683,
+    "col": 13,
+    "end_col": 68,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:4683:13:4683:68: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 4711,
+    "end_lnum": 4711,
+    "col": 13,
+    "end_col": 69,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:4711:13:4711:69: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 4739,
+    "end_lnum": 4739,
+    "col": 13,
+    "end_col": 68,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:4739:13:4739:68: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 4767,
+    "end_lnum": 4767,
+    "col": 13,
+    "end_col": 69,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:4767:13:4767:69: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 4795,
+    "end_lnum": 4795,
+    "col": 13,
+    "end_col": 69,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:4795:13:4795:69: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 4823,
+    "end_lnum": 4823,
+    "col": 13,
+    "end_col": 70,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:4823:13:4823:70: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 4851,
+    "end_lnum": 4851,
+    "col": 13,
+    "end_col": 69,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:4851:13:4851:69: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 4879,
+    "end_lnum": 4879,
+    "col": 13,
+    "end_col": 70,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:4879:13:4879:70: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 4907,
+    "end_lnum": 4907,
+    "col": 13,
+    "end_col": 72,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:4907:13:4907:72: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 4935,
+    "end_lnum": 4935,
+    "col": 13,
+    "end_col": 73,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:4935:13:4935:73: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 4963,
+    "end_lnum": 4963,
+    "col": 13,
+    "end_col": 73,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:4963:13:4963:73: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 4991,
+    "end_lnum": 4991,
+    "col": 13,
+    "end_col": 74,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:4991:13:4991:74: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 5092,
+    "end_lnum": 5092,
+    "col": 13,
+    "end_col": 59,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:5092:13:5092:59: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 5096,
+    "end_lnum": 5096,
+    "col": 13,
+    "end_col": 59,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:5096:13:5096:59: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 5110,
+    "end_lnum": 5110,
+    "col": 13,
+    "end_col": 59,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:5110:13:5110:59: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 5186,
+    "end_lnum": 5186,
+    "col": 13,
+    "end_col": 61,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:5186:13:5186:61: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 5190,
+    "end_lnum": 5190,
+    "col": 13,
+    "end_col": 61,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:5190:13:5190:61: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 5202,
+    "end_lnum": 5202,
+    "col": 13,
+    "end_col": 61,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:5202:13:5202:61: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 5285,
+    "end_lnum": 5285,
+    "col": 13,
+    "end_col": 57,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:5285:13:5285:57: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 5311,
+    "end_lnum": 5311,
+    "col": 13,
+    "end_col": 57,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:5311:13:5311:57: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 5339,
+    "end_lnum": 5339,
+    "col": 13,
+    "end_col": 62,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:5339:13:5339:62: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 5365,
+    "end_lnum": 5365,
+    "col": 13,
+    "end_col": 65,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:5365:13:5365:65: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 5391,
+    "end_lnum": 5391,
+    "col": 13,
+    "end_col": 65,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:5391:13:5391:65: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 5417,
+    "end_lnum": 5417,
+    "col": 13,
+    "end_col": 66,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:5417:13:5417:66: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 5443,
+    "end_lnum": 5443,
+    "col": 13,
+    "end_col": 66,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:5443:13:5443:66: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 5469,
+    "end_lnum": 5469,
+    "col": 13,
+    "end_col": 69,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:5469:13:5469:69: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 5495,
+    "end_lnum": 5495,
+    "col": 13,
+    "end_col": 70,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:5495:13:5495:70: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 5559,
+    "end_lnum": 5559,
+    "col": 13,
+    "end_col": 65,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:5559:13:5559:65: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 5585,
+    "end_lnum": 5585,
+    "col": 13,
+    "end_col": 66,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:5585:13:5585:66: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 5611,
+    "end_lnum": 5611,
+    "col": 13,
+    "end_col": 65,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:5611:13:5611:65: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 5637,
+    "end_lnum": 5637,
+    "col": 13,
+    "end_col": 66,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:5637:13:5637:66: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 5663,
+    "end_lnum": 5663,
+    "col": 13,
+    "end_col": 69,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:5663:13:5663:69: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 5691,
+    "end_lnum": 5691,
+    "col": 13,
+    "end_col": 70,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:5691:13:5691:70: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 5719,
+    "end_lnum": 5719,
+    "col": 13,
+    "end_col": 72,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:5719:13:5719:72: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 5747,
+    "end_lnum": 5747,
+    "col": 13,
+    "end_col": 73,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:5747:13:5747:73: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 5775,
+    "end_lnum": 5775,
+    "col": 13,
+    "end_col": 72,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:5775:13:5775:72: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 5803,
+    "end_lnum": 5803,
+    "col": 13,
+    "end_col": 73,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:5803:13:5803:73: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 5831,
+    "end_lnum": 5831,
+    "col": 13,
+    "end_col": 73,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:5831:13:5831:73: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 5859,
+    "end_lnum": 5859,
+    "col": 13,
+    "end_col": 74,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:5859:13:5859:74: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 5887,
+    "end_lnum": 5887,
+    "col": 13,
+    "end_col": 73,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:5887:13:5887:73: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 5915,
+    "end_lnum": 5915,
+    "col": 13,
+    "end_col": 74,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:5915:13:5915:74: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 5943,
+    "end_lnum": 5943,
+    "col": 13,
+    "end_col": 76,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:5943:13:5943:76: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 5971,
+    "end_lnum": 5971,
+    "col": 13,
+    "end_col": 77,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:5971:13:5971:77: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 5999,
+    "end_lnum": 5999,
+    "col": 13,
+    "end_col": 77,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:5999:13:5999:77: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 6027,
+    "end_lnum": 6027,
+    "col": 13,
+    "end_col": 78,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:6027:13:6027:78: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 6208,
+    "end_lnum": 6208,
+    "col": 25,
+    "end_col": 55,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:6208:25:6208:55: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 6214,
+    "end_lnum": 6214,
+    "col": 25,
+    "end_col": 55,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:6214:25:6214:55: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 6220,
+    "end_lnum": 6220,
+    "col": 25,
+    "end_col": 57,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:6220:25:6220:57: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 6226,
+    "end_lnum": 6226,
+    "col": 25,
+    "end_col": 57,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:6226:25:6226:57: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 6232,
+    "end_lnum": 6232,
+    "col": 25,
+    "end_col": 59,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:6232:25:6232:59: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 6238,
+    "end_lnum": 6238,
+    "col": 25,
+    "end_col": 59,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:6238:25:6238:59: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 6244,
+    "end_lnum": 6244,
+    "col": 25,
+    "end_col": 61,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:6244:25:6244:61: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 6250,
+    "end_lnum": 6250,
+    "col": 25,
+    "end_col": 61,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:6250:25:6250:61: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 6256,
+    "end_lnum": 6256,
+    "col": 25,
+    "end_col": 65,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:6256:25:6256:65: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 6262,
+    "end_lnum": 6262,
+    "col": 25,
+    "end_col": 65,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:6262:25:6262:65: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 6268,
+    "end_lnum": 6268,
+    "col": 25,
+    "end_col": 67,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:6268:25:6268:67: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 6274,
+    "end_lnum": 6274,
+    "col": 25,
+    "end_col": 67,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:6274:25:6274:67: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 6719,
+    "end_lnum": 6719,
+    "col": 28,
+    "end_col": 58,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:6719:28:6719:58: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 6727,
+    "end_lnum": 6727,
+    "col": 28,
+    "end_col": 58,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:6727:28:6727:58: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 6735,
+    "end_lnum": 6735,
+    "col": 28,
+    "end_col": 60,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:6735:28:6735:60: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 6743,
+    "end_lnum": 6743,
+    "col": 28,
+    "end_col": 60,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:6743:28:6743:60: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 7127,
+    "end_lnum": 7127,
+    "col": 28,
+    "end_col": 62,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:7127:28:7127:62: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 7135,
+    "end_lnum": 7135,
+    "col": 28,
+    "end_col": 62,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:7135:28:7135:62: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 7143,
+    "end_lnum": 7143,
+    "col": 28,
+    "end_col": 64,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:7143:28:7143:64: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 7151,
+    "end_lnum": 7151,
+    "col": 28,
+    "end_col": 64,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:7151:28:7151:64: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 7159,
+    "end_lnum": 7159,
+    "col": 28,
+    "end_col": 68,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:7159:28:7159:68: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 7167,
+    "end_lnum": 7167,
+    "col": 28,
+    "end_col": 68,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:7167:28:7167:68: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 7175,
+    "end_lnum": 7175,
+    "col": 28,
+    "end_col": 70,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:7175:28:7175:70: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 7183,
+    "end_lnum": 7183,
+    "col": 28,
+    "end_col": 70,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:7183:28:7183:70: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 8702,
+    "end_lnum": 8702,
+    "col": 28,
+    "end_col": 58,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:8702:28:8702:58: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 8710,
+    "end_lnum": 8710,
+    "col": 28,
+    "end_col": 58,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:8710:28:8710:58: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 8718,
+    "end_lnum": 8718,
+    "col": 28,
+    "end_col": 60,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:8718:28:8718:60: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 8726,
+    "end_lnum": 8726,
+    "col": 28,
+    "end_col": 60,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:8726:28:8726:60: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 8734,
+    "end_lnum": 8734,
+    "col": 28,
+    "end_col": 62,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:8734:28:8734:62: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 8742,
+    "end_lnum": 8742,
+    "col": 28,
+    "end_col": 62,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:8742:28:8742:62: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 8750,
+    "end_lnum": 8750,
+    "col": 28,
+    "end_col": 64,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:8750:28:8750:64: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 8758,
+    "end_lnum": 8758,
+    "col": 28,
+    "end_col": 64,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:8758:28:8758:64: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 8766,
+    "end_lnum": 8766,
+    "col": 28,
+    "end_col": 68,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:8766:28:8766:68: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 8774,
+    "end_lnum": 8774,
+    "col": 28,
+    "end_col": 68,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:8774:28:8774:68: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 8782,
+    "end_lnum": 8782,
+    "col": 28,
+    "end_col": 70,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:8782:28:8782:70: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty",
+    "lnum": 8790,
+    "end_lnum": 8790,
+    "col": 28,
+    "end_col": 70,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/semantex.sty:8790:28:8790:70: s205 malformed function name"
+    ]
+  }
+]

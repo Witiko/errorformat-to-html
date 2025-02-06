@@ -1,0 +1,45 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jlreq/jlreq.cls
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jlreq/jlreq.cls:157:14:157:29: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jlreq/jlreq.cls:167:16:167:28: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jlreq/jlreq.cls:1717:12:1717:41: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jlreq/jlreq.cls:2146:41:2146:54: w101 unexpected delimiters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jlreq/jlreq.cls:2151:41:2151:54: w101 unexpected delimiters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jlreq/jlreq.cls:2276:16:2276:28: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jlreq/jlreq.cls:2283:3:2283:15: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jlreq/jlreq.cls:3018:16:3018:28: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jlreq/jlreq.cls:3032:3:3032:15: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jlreq/jlreq.cls:3092:16:3092:28: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jlreq/jlreq.cls:3098:3:3098:15: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jlreq/jlreq.cls:3143:16:3143:28: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jlreq/jlreq.cls:3149:3:3149:15: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jlreq/jlreq.cls:3185:3:3185:15: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jlreq/jlreq.cls:3355:19:3355:20: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jlreq/jlreq.cls:3362:22:3362:34: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jlreq/jlreq.cls:3365:9:3365:21: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jlreq/jlreq.cls:3672:12:3672:49: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jlreq/jlreq.cls:3712:18:3712:55: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jlreq/jlreq.cls:3720:18:3720:55: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jlreq/jlreq.cls:4215:5:4215:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jlreq/jlreq.cls:4264:3:4264:15: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jlreq/jlreq.cls:4306:39:4306:51: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jlreq/jlreq.cls:4321:3:4321:15: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jlreq/jlreq.cls:4349:3:4349:15: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jlreq/jlreq.cls:4374:3:4374:15: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jlreq/jlreq.cls:4402:3:4402:15: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jlreq/jlreq.cls:4453:3:4453:15: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jlreq/jlreq.cls:4483:3:4483:15: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jlreq/jlreq.cls:4507:3:4507:15: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jlreq/jlreq.cls:4552:16:4552:32: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jlreq/jlreq.cls:4555:43:4555:55: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jlreq/jlreq.cls:4559:3:4559:15: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jlreq/jlreq.cls:4594:3:4594:15: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jlreq/jlreq.cls:4650:3:4650:15: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jlreq/jlreq.cls:4690:7:4690:19: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jlreq/jlreq.cls:4836:16:4836:32: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jlreq/jlreq.cls:5054:3:5054:15: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jlreq/jlreq.cls:5192:12:5192:20: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jlreq/jlreq.cls:5209:12:5209:20: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jlreq/jlreq.cls:5237:12:5237:20: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jlreq/jlreq.cls:5277:5:5277:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jlreq/jlreq.cls:6240:5:6240:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jlreq/jlreq.cls:6261:5:6261:17: w200 "weird" and "do not use" argument specifiers

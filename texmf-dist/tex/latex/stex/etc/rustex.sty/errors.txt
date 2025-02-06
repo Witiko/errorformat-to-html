@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/stex/etc/rustex.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/stex/etc/rustex.sty:39:5:39:9: w200 "weird" and "do not use" argument specifiers

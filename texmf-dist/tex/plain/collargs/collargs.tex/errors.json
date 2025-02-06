@@ -1,0 +1,162 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/collargs/collargs.tex",
+    "lnum": 1612,
+    "end_lnum": 1612,
+    "col": 28,
+    "end_col": 28,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/collargs/collargs.tex:1612:28:1612:28: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/collargs/collargs.tex",
+    "lnum": 1613,
+    "end_lnum": 1613,
+    "col": 64,
+    "end_col": 64,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/collargs/collargs.tex:1613:64:1613:64: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/collargs/collargs.tex",
+    "lnum": 1614,
+    "end_lnum": 1614,
+    "col": 52,
+    "end_col": 52,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/collargs/collargs.tex:1614:52:1614:52: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/collargs/collargs.tex",
+    "lnum": 1615,
+    "end_lnum": 1615,
+    "col": 52,
+    "end_col": 52,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/collargs/collargs.tex:1615:52:1615:52: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/collargs/collargs.tex",
+    "lnum": 1617,
+    "end_lnum": 1617,
+    "col": 64,
+    "end_col": 64,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/collargs/collargs.tex:1617:64:1617:64: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/collargs/collargs.tex",
+    "lnum": 1618,
+    "end_lnum": 1618,
+    "col": 52,
+    "end_col": 52,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/collargs/collargs.tex:1618:52:1618:52: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/collargs/collargs.tex",
+    "lnum": 1619,
+    "end_lnum": 1619,
+    "col": 52,
+    "end_col": 52,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/collargs/collargs.tex:1619:52:1619:52: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/collargs/collargs.tex",
+    "lnum": 1621,
+    "end_lnum": 1621,
+    "col": 53,
+    "end_col": 53,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/collargs/collargs.tex:1621:53:1621:53: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/collargs/collargs.tex",
+    "lnum": 1622,
+    "end_lnum": 1622,
+    "col": 53,
+    "end_col": 53,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/collargs/collargs.tex:1622:53:1622:53: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/collargs/collargs.tex",
+    "lnum": 1623,
+    "end_lnum": 1623,
+    "col": 53,
+    "end_col": 53,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/collargs/collargs.tex:1623:53:1623:53: e209 invalid characters"
+    ]
+  }
+]

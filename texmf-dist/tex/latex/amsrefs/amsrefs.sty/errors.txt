@@ -1,0 +1,16 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/amsrefs/amsrefs.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/amsrefs/amsrefs.sty:720:9:720:16: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/amsrefs/amsrefs.sty:721:9:721:16: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/amsrefs/amsrefs.sty:722:9:722:16: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/amsrefs/amsrefs.sty:723:9:723:16: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/amsrefs/amsrefs.sty:724:9:724:16: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/amsrefs/amsrefs.sty:725:9:725:16: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/amsrefs/amsrefs.sty:726:9:726:16: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/amsrefs/amsrefs.sty:727:9:727:16: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/amsrefs/amsrefs.sty:727:28:727:35: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/amsrefs/amsrefs.sty:728:9:728:16: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/amsrefs/amsrefs.sty:728:25:728:32: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/amsrefs/amsrefs.sty:729:9:729:16: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/amsrefs/amsrefs.sty:729:25:729:32: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/amsrefs/amsrefs.sty:730:9:730:16: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/amsrefs/amsrefs.sty:730:29:730:36: e201 unknown argument specifiers

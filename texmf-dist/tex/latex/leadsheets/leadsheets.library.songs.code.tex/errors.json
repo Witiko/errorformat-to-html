@@ -1,0 +1,146 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/leadsheets/leadsheets.library.songs.code.tex",
+    "lnum": 114,
+    "end_lnum": 114,
+    "col": 23,
+    "end_col": 39,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/leadsheets/leadsheets.library.songs.code.tex:114:23:114:39: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/leadsheets/leadsheets.library.songs.code.tex",
+    "lnum": 145,
+    "end_lnum": 145,
+    "col": 35,
+    "end_col": 51,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/leadsheets/leadsheets.library.songs.code.tex:145:35:145:51: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/leadsheets/leadsheets.library.songs.code.tex",
+    "lnum": 163,
+    "end_lnum": 164,
+    "col": 1,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 101,
+    "pattern": "",
+    "text": "unexpected delimiters",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/leadsheets/leadsheets.library.songs.code.tex:163:1:164:0: w101 unexpected delimiters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/leadsheets/leadsheets.library.songs.code.tex",
+    "lnum": 208,
+    "end_lnum": 208,
+    "col": 7,
+    "end_col": 32,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/leadsheets/leadsheets.library.songs.code.tex:208:7:208:32: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/leadsheets/leadsheets.library.songs.code.tex",
+    "lnum": 286,
+    "end_lnum": 286,
+    "col": 23,
+    "end_col": 48,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/leadsheets/leadsheets.library.songs.code.tex:286:23:286:48: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/leadsheets/leadsheets.library.songs.code.tex",
+    "lnum": 305,
+    "end_lnum": 305,
+    "col": 13,
+    "end_col": 43,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/leadsheets/leadsheets.library.songs.code.tex:305:13:305:43: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/leadsheets/leadsheets.library.songs.code.tex",
+    "lnum": 323,
+    "end_lnum": 323,
+    "col": 9,
+    "end_col": 39,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/leadsheets/leadsheets.library.songs.code.tex:323:9:323:39: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/leadsheets/leadsheets.library.songs.code.tex",
+    "lnum": 329,
+    "end_lnum": 329,
+    "col": 5,
+    "end_col": 36,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/leadsheets/leadsheets.library.songs.code.tex:329:5:329:36: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/leadsheets/leadsheets.library.songs.code.tex",
+    "lnum": 358,
+    "end_lnum": 358,
+    "col": 23,
+    "end_col": 54,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/leadsheets/leadsheets.library.songs.code.tex:358:23:358:54: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  }
+]

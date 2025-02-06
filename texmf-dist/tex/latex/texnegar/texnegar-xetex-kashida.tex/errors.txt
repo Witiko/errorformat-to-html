@@ -1,0 +1,28 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-xetex-kashida.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-xetex-kashida.tex:23:1:23:12: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-xetex-kashida.tex:39:13:39:35: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-xetex-kashida.tex:43:24:43:37: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-xetex-kashida.tex:45:5:45:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-xetex-kashida.tex:45:19:45:32: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-xetex-kashida.tex:47:38:47:56: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-xetex-kashida.tex:48:39:48:57: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-xetex-kashida.tex:55:33:55:45: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-xetex-kashida.tex:55:63:55:67: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-xetex-kashida.tex:65:33:65:45: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-xetex-kashida.tex:65:63:65:67: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-xetex-kashida.tex:69:5:69:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-xetex-kashida.tex:70:5:70:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-xetex-kashida.tex:71:7:71:11: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-xetex-kashida.tex:71:43:71:54: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-xetex-kashida.tex:75:25:75:29: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-xetex-kashida.tex:75:66:75:70: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-xetex-kashida.tex:79:57:79:68: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-xetex-kashida.tex:84:13:84:37: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-xetex-kashida.tex:90:49:90:63: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-xetex-kashida.tex:90:65:90:74: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-xetex-kashida.tex:90:76:90:86: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-xetex-kashida.tex:99:35:99:48: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-xetex-kashida.tex:100:15:100:28: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-xetex-kashida.tex:116:36:116:49: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-xetex-kashida.tex:117:11:117:24: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-xetex-kashida.tex:117:26:117:37: w200 "weird" and "do not use" argument specifiers

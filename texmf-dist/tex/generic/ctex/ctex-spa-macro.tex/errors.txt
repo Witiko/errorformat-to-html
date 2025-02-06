@@ -1,0 +1,4 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/ctex/ctex-spa-macro.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/ctex/ctex-spa-macro.tex:55:7:55:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/ctex/ctex-spa-macro.tex:59:59:59:79: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/ctex/ctex-spa-macro.tex:83:21:83:43: w200 "weird" and "do not use" argument specifiers

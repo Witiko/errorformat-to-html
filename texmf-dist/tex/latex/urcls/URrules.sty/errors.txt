@@ -1,0 +1,8 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/urcls/URrules.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/urcls/URrules.sty:48:1:49:0: w101 unexpected delimiters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/urcls/URrules.sty:193:6:193:18: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/urcls/URrules.sty:193:31:193:35: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/urcls/URrules.sty:227:4:227:16: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/urcls/URrules.sty:227:29:227:33: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/urcls/URrules.sty:272:6:272:18: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/urcls/URrules.sty:272:31:272:35: w200 "weird" and "do not use" argument specifiers

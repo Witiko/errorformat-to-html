@@ -1,0 +1,4 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/plautopatch/plsiunitx.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/plautopatch/plsiunitx.sty:45:36:45:47: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/plautopatch/plsiunitx.sty:54:37:54:55: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/plautopatch/plsiunitx.sty:56:41:56:53: w200 "weird" and "do not use" argument specifiers

@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/csvsimple/csvsimple.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/csvsimple/csvsimple.sty:35:5:35:19: w200 "weird" and "do not use" argument specifiers

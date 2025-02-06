@@ -1,0 +1,4 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/xint/xint.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/xint/xint.sty:1581:10:1581:34: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/xint/xint.sty:1582:10:1582:34: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/xint/xint.sty:1586:5:1586:29: e201 unknown argument specifiers

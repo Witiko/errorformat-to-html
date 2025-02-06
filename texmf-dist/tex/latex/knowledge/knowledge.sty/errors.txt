@@ -1,0 +1,72 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:42:11:42:20: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:59:24:59:33: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:80:22:80:41: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:86:22:86:50: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:98:14:98:24: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:99:14:99:24: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:102:17:102:18: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:103:17:103:18: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:108:20:108:21: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:109:20:109:21: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:251:7:251:20: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:317:19:317:31: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:317:44:317:56: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:376:11:376:20: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:750:8:750:46: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:754:8:754:46: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:755:12:755:50: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:758:7:758:45: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:1059:5:1059:17: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:1176:43:1176:56: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:1403:9:1403:18: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:1635:4:1635:13: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:1636:4:1636:13: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:1641:7:1641:16: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:1876:1:1876:10: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:1985:9:1985:84: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2056:22:2056:50: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2057:20:2057:48: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2078:7:2078:48: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2080:12:2080:51: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2081:12:2081:51: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2093:20:2093:59: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2120:12:2120:53: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2134:5:2134:28: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2136:12:2136:35: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2138:10:2138:31: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2138:32:2138:75: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2141:12:2141:55: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2143:5:2143:28: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2146:13:2146:34: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2146:70:2146:92: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2147:13:2147:35: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2150:6:2150:41: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2151:12:2151:47: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2264:11:2264:33: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2281:20:2281:34: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2625:4:2625:13: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2639:18:2639:27: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2646:26:2646:40: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2654:5:2654:14: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2655:5:2655:14: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2656:5:2656:14: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2663:31:2663:64: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2692:34:2692:67: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2754:1:2754:10: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2936:24:2936:39: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:2939:24:2939:39: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:3128:1:3128:10: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:3129:1:3129:10: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:3141:15:3141:46: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:3148:12:3148:43: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:3154:12:3154:43: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:3233:20:3233:59: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:3249:11:3249:50: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:3325:12:3325:43: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:3329:17:3329:48: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:3547:1:3547:10: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:3548:1:3548:10: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:3549:1:3549:10: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:3550:1:3550:10: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/knowledge/knowledge.sty:3777:1:3778:0: w101 unexpected delimiters

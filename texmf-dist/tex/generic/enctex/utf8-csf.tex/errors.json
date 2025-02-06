@@ -1,0 +1,34 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/enctex/utf8-csf.tex",
+    "lnum": 58,
+    "end_lnum": 58,
+    "col": 12,
+    "end_col": 12,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/enctex/utf8-csf.tex:58:12:58:12: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/enctex/utf8-csf.tex",
+    "lnum": 58,
+    "end_lnum": 58,
+    "col": 15,
+    "end_col": 15,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/enctex/utf8-csf.tex:58:15:58:15: e209 invalid characters"
+    ]
+  }
+]

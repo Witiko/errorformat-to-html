@@ -1,0 +1,7 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/conversions/conv-utf8-qx.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/conversions/conv-utf8-qx.tex:19:12:19:12: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/conversions/conv-utf8-qx.tex:26:12:26:12: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/conversions/conv-utf8-qx.tex:43:12:43:12: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/conversions/conv-utf8-qx.tex:58:12:58:12: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/conversions/conv-utf8-qx.tex:65:12:65:12: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/conversions/conv-utf8-qx.tex:77:12:77:12: e209 invalid characters

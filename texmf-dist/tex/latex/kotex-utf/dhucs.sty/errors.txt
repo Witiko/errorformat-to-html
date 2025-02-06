@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kotex-utf/dhucs.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kotex-utf/dhucs.sty:119:47:119:47: e209 invalid characters

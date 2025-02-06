@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xmltex/passivetex/fotex.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xmltex/passivetex/fotex.sty:615:1:615:1: e208 too many closing braces

@@ -1,0 +1,66 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ximera/ximera.cls",
+    "lnum": 74,
+    "end_lnum": 74,
+    "col": 51,
+    "end_col": 56,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ximera/ximera.cls:74:51:74:56: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ximera/ximera.cls",
+    "lnum": 75,
+    "end_lnum": 75,
+    "col": 53,
+    "end_col": 56,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ximera/ximera.cls:75:53:75:56: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ximera/ximera.cls",
+    "lnum": 77,
+    "end_lnum": 77,
+    "col": 7,
+    "end_col": 10,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ximera/ximera.cls:77:7:77:10: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ximera/ximera.cls",
+    "lnum": 78,
+    "end_lnum": 78,
+    "col": 40,
+    "end_col": 43,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ximera/ximera.cls:78:40:78:43: e201 unknown argument specifiers"
+    ]
+  }
+]

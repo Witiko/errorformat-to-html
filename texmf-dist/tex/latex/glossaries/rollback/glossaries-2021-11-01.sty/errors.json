@@ -1,0 +1,18 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/glossaries/rollback/glossaries-2021-11-01.sty",
+    "lnum": 5134,
+    "end_lnum": 5134,
+    "col": 15,
+    "end_col": 26,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/glossaries/rollback/glossaries-2021-11-01.sty:5134:15:5134:26: e201 unknown argument specifiers"
+    ]
+  }
+]

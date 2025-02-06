@@ -1,0 +1,96 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:103:15:103:31: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:104:15:104:31: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:118:17:118:32: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:119:30:119:42: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:119:44:119:59: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:125:9:125:21: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:126:9:126:21: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:217:9:217:44: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:219:13:219:48: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:231:23:231:39: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:235:9:235:21: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:235:23:235:54: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:240:17:240:48: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:242:9:242:41: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:243:17:243:49: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:247:14:247:30: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:315:5:315:33: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:316:13:316:41: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:482:5:482:34: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:484:19:484:20: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:484:22:484:51: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:549:5:549:30: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:551:5:551:29: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:552:13:552:39: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:556:30:556:55: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:557:30:557:54: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:558:30:558:54: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:559:30:559:56: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:560:37:560:63: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:596:9:596:28: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:597:9:597:31: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:605:5:605:27: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:608:5:608:24: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:611:5:611:23: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:919:13:919:25: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:919:27:919:60: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:926:15:926:48: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:1014:23:1014:45: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:1024:5:1024:37: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:1064:30:1064:56: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:1065:29:1065:55: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:1079:23:1079:55: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:1081:5:1081:20: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:1241:23:1241:41: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:1251:5:1251:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:1336:23:1336:42: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:1387:13:1387:25: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:1387:27:1387:59: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:1392:13:1392:45: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:1464:9:1464:20: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:1814:30:1814:53: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:1833:25:1833:48: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:1835:29:1835:50: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:1836:26:1836:47: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:1840:14:1840:15: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:1847:19:1847:20: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:1850:11:1850:23: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:1856:21:1856:22: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:1859:21:1859:22: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:1861:21:1861:22: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:1863:21:1863:22: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:1864:21:1864:22: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:1882:19:1882:20: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:1884:24:1884:25: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:1922:22:1922:23: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:1930:23:1930:24: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:1933:18:1933:19: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:1945:19:1945:20: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:1958:3:1958:18: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:1962:14:1962:14: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:1962:18:1962:18: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:1962:21:1962:21: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:1962:24:1962:24: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:1962:27:1962:27: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:1962:31:1962:31: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:1962:50:1962:50: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:1972:11:1972:34: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:1980:25:1980:48: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:1994:7:1994:30: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:2075:25:2075:41: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:2079:46:2079:62: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:2081:25:2081:41: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:2092:50:2092:66: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:2097:25:2097:41: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:2098:46:2098:62: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:2099:25:2099:41: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:2111:46:2111:62: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:2116:48:2116:69: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:2119:26:2119:47: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:2142:36:2142:37: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:2282:62:2282:85: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:2286:23:2286:46: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:2359:17:2359:33: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:2362:9:2362:21: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/l3doc.cls:2362:23:2362:39: w200 "weird" and "do not use" argument specifiers

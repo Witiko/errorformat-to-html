@@ -1,0 +1,114 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/urcls/beamerouterthemeUR.sty",
+    "lnum": 333,
+    "end_lnum": 333,
+    "col": 1,
+    "end_col": 1,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/urcls/beamerouterthemeUR.sty:333:1:333:1: e208 too many closing braces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/urcls/beamerouterthemeUR.sty",
+    "lnum": 210,
+    "end_lnum": 210,
+    "col": 12,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/urcls/beamerouterthemeUR.sty:210:12:210:20: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/urcls/beamerouterthemeUR.sty",
+    "lnum": 286,
+    "end_lnum": 286,
+    "col": 12,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/urcls/beamerouterthemeUR.sty:286:12:286:21: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/urcls/beamerouterthemeUR.sty",
+    "lnum": 300,
+    "end_lnum": 300,
+    "col": 13,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/urcls/beamerouterthemeUR.sty:300:13:300:22: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/urcls/beamerouterthemeUR.sty",
+    "lnum": 301,
+    "end_lnum": 301,
+    "col": 13,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/urcls/beamerouterthemeUR.sty:301:13:301:22: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/urcls/beamerouterthemeUR.sty",
+    "lnum": 303,
+    "end_lnum": 303,
+    "col": 13,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/urcls/beamerouterthemeUR.sty:303:13:303:22: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/urcls/beamerouterthemeUR.sty",
+    "lnum": 304,
+    "end_lnum": 304,
+    "col": 13,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/urcls/beamerouterthemeUR.sty:304:13:304:22: s205 malformed function name"
+    ]
+  }
+]

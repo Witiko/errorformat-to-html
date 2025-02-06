@@ -1,0 +1,28 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm-kashida.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm-kashida.tex:17:1:17:12: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm-kashida.tex:39:13:39:32: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm-kashida.tex:43:21:43:34: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm-kashida.tex:45:5:45:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm-kashida.tex:45:19:45:32: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm-kashida.tex:47:35:47:53: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm-kashida.tex:48:36:48:54: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm-kashida.tex:55:33:55:45: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm-kashida.tex:55:63:55:67: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm-kashida.tex:65:33:65:45: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm-kashida.tex:65:63:65:67: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm-kashida.tex:69:5:69:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm-kashida.tex:70:5:70:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm-kashida.tex:71:7:71:11: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm-kashida.tex:71:40:71:51: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm-kashida.tex:75:25:75:29: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm-kashida.tex:75:63:75:67: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm-kashida.tex:79:54:79:65: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm-kashida.tex:84:13:84:34: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm-kashida.tex:90:46:90:60: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm-kashida.tex:90:62:90:71: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm-kashida.tex:90:73:90:83: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm-kashida.tex:99:32:99:45: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm-kashida.tex:100:15:100:28: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm-kashida.tex:116:33:116:46: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm-kashida.tex:117:11:117:24: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian-hm/xepersian-hm-kashida.tex:117:26:117:37: w200 "weird" and "do not use" argument specifiers

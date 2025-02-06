@@ -1,0 +1,34 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/bithesis/bitreport.cls",
+    "lnum": 179,
+    "end_lnum": 179,
+    "col": 9,
+    "end_col": 24,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/bithesis/bitreport.cls:179:9:179:24: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/bithesis/bitreport.cls",
+    "lnum": 138,
+    "end_lnum": 138,
+    "col": 13,
+    "end_col": 35,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/bithesis/bitreport.cls:138:13:138:35: s205 malformed function name"
+    ]
+  }
+]

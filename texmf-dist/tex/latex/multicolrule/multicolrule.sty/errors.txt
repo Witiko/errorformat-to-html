@@ -1,0 +1,11 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/multicolrule/multicolrule.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/multicolrule/multicolrule.sty:203:7:203:18: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/multicolrule/multicolrule.sty:204:7:204:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/multicolrule/multicolrule.sty:206:7:206:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/multicolrule/multicolrule.sty:207:7:207:18: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/multicolrule/multicolrule.sty:217:7:217:21: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/multicolrule/multicolrule.sty:219:9:219:19: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/multicolrule/multicolrule.sty:221:9:221:19: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/multicolrule/multicolrule.sty:223:5:223:16: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/multicolrule/multicolrule.sty:278:1:278:1: e208 too many closing braces
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/multicolrule/multicolrule.sty:315:5:315:24: w202 deprecated control sequences

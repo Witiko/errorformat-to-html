@@ -1,0 +1,8 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/substances/substances.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/substances/substances.sty:400:36:400:49: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/substances/substances.sty:414:36:414:49: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/substances/substances.sty:433:36:433:49: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/substances/substances.sty:461:19:461:20: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/substances/substances.sty:510:24:510:37: w101 unexpected delimiters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/substances/substances.sty:579:1:579:15: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/substances/substances.sty:588:20:588:31: e203 removed control sequences

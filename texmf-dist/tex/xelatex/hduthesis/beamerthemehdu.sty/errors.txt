@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/hduthesis/beamerthemehdu.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/hduthesis/beamerthemehdu.sty:2:49:2:49: e208 too many closing braces

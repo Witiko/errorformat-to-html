@@ -1,0 +1,3 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xetex/xetexko/xetexko.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xetex/xetexko/xetexko.sty:2215:17:2215:37: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xetex/xetexko/xetexko.sty:2339:17:2339:37: s205 malformed function name

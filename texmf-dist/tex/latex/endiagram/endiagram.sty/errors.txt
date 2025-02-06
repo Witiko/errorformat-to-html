@@ -1,0 +1,19 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/endiagram/endiagram.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/endiagram/endiagram.sty:50:5:50:19: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/endiagram/endiagram.sty:643:5:643:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/endiagram/endiagram.sty:966:13:966:49: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/endiagram/endiagram.sty:1033:13:1033:49: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/endiagram/endiagram.sty:1066:13:1066:49: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/endiagram/endiagram.sty:1101:15:1101:53: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/endiagram/endiagram.sty:1124:15:1124:42: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/endiagram/endiagram.sty:1146:15:1146:53: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/endiagram/endiagram.sty:1169:15:1169:42: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/endiagram/endiagram.sty:1191:15:1191:53: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/endiagram/endiagram.sty:1214:15:1214:42: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/endiagram/endiagram.sty:1229:23:1229:59: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/endiagram/endiagram.sty:1240:23:1240:61: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/endiagram/endiagram.sty:1246:23:1246:50: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/endiagram/endiagram.sty:1252:9:1252:45: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/endiagram/endiagram.sty:1256:23:1256:59: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/endiagram/endiagram.sty:1664:1:1664:15: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/endiagram/endiagram.sty:1671:39:1671:53: e203 removed control sequences

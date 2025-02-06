@@ -1,0 +1,146 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/hobete/hobete.sty",
+    "lnum": 127,
+    "end_lnum": 127,
+    "col": 31,
+    "end_col": 44,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/hobete/hobete.sty:127:31:127:44: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/hobete/hobete.sty",
+    "lnum": 153,
+    "end_lnum": 153,
+    "col": 1,
+    "end_col": 15,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/hobete/hobete.sty:153:1:153:15: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/hobete/hobete.sty",
+    "lnum": 26,
+    "end_lnum": 26,
+    "col": 12,
+    "end_col": 27,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/hobete/hobete.sty:26:12:26:27: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/hobete/hobete.sty",
+    "lnum": 27,
+    "end_lnum": 27,
+    "col": 12,
+    "end_col": 26,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/hobete/hobete.sty:27:12:27:26: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/hobete/hobete.sty",
+    "lnum": 33,
+    "end_lnum": 33,
+    "col": 38,
+    "end_col": 53,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/hobete/hobete.sty:33:38:33:53: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/hobete/hobete.sty",
+    "lnum": 34,
+    "end_lnum": 34,
+    "col": 37,
+    "end_col": 51,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/hobete/hobete.sty:34:37:34:51: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/hobete/hobete.sty",
+    "lnum": 60,
+    "end_lnum": 60,
+    "col": 12,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/hobete/hobete.sty:60:12:60:21: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/hobete/hobete.sty",
+    "lnum": 62,
+    "end_lnum": 62,
+    "col": 47,
+    "end_col": 56,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/hobete/hobete.sty:62:47:62:56: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/hobete/hobete.sty",
+    "lnum": 114,
+    "end_lnum": 114,
+    "col": 12,
+    "end_col": 23,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/hobete/hobete.sty:114:12:114:23: s205 malformed function name"
+    ]
+  }
+]

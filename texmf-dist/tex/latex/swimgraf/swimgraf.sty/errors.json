@@ -1,0 +1,18 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/swimgraf/swimgraf.sty",
+    "lnum": 1325,
+    "end_lnum": 1325,
+    "col": 1,
+    "end_col": 1,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/swimgraf/swimgraf.sty:1325:1:1325:1: e209 invalid characters"
+    ]
+  }
+]

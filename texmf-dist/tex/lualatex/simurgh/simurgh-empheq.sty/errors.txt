@@ -1,0 +1,23 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/simurgh/simurgh-empheq.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/simurgh/simurgh-empheq.sty:42:3:42:20: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/simurgh/simurgh-empheq.sty:47:7:47:16: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/simurgh/simurgh-empheq.sty:55:11:55:19: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/simurgh/simurgh-empheq.sty:55:11:55:19: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/simurgh/simurgh-empheq.sty:56:13:56:21: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/simurgh/simurgh-empheq.sty:56:13:56:21: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/simurgh/simurgh-empheq.sty:62:11:62:19: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/simurgh/simurgh-empheq.sty:62:11:62:19: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/simurgh/simurgh-empheq.sty:63:13:63:21: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/simurgh/simurgh-empheq.sty:63:13:63:21: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/simurgh/simurgh-empheq.sty:70:11:70:19: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/simurgh/simurgh-empheq.sty:70:11:70:19: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/simurgh/simurgh-empheq.sty:71:13:71:21: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/simurgh/simurgh-empheq.sty:71:13:71:21: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/simurgh/simurgh-empheq.sty:77:11:77:19: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/simurgh/simurgh-empheq.sty:77:11:77:19: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/simurgh/simurgh-empheq.sty:78:13:78:21: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/simurgh/simurgh-empheq.sty:78:13:78:21: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/simurgh/simurgh-empheq.sty:88:3:88:11: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/simurgh/simurgh-empheq.sty:90:5:90:14: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/simurgh/simurgh-empheq.sty:112:9:112:24: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/simurgh/simurgh-empheq.sty:114:9:114:24: e201 unknown argument specifiers

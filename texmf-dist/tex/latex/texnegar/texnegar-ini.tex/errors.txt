@@ -1,0 +1,13 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-ini.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-ini.tex:213:9:213:19: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-ini.tex:229:9:229:19: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-ini.tex:245:9:245:21: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-ini.tex:253:64:253:78: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-ini.tex:253:80:253:89: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-ini.tex:253:91:253:101: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-ini.tex:304:9:304:21: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-ini.tex:343:9:343:21: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-ini.tex:383:9:383:21: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-ini.tex:400:9:400:21: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-ini.tex:429:1:429:10: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-ini.tex:430:1:430:10: w200 "weird" and "do not use" argument specifiers

@@ -1,0 +1,3 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ufrgscca/ufrgscca.cls
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ufrgscca/ufrgscca.cls:342:3:342:3: e208 too many closing braces
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ufrgscca/ufrgscca.cls:387:3:387:3: e208 too many closing braces

@@ -1,0 +1,34 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pbalance/pbalance.sty",
+    "lnum": 1037,
+    "end_lnum": 1037,
+    "col": 36,
+    "end_col": 49,
+    "vcol": false,
+    "nr": 101,
+    "pattern": "",
+    "text": "unexpected delimiters",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pbalance/pbalance.sty:1037:36:1037:49: w101 unexpected delimiters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pbalance/pbalance.sty",
+    "lnum": 1043,
+    "end_lnum": 1044,
+    "col": 1,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 101,
+    "pattern": "",
+    "text": "unexpected delimiters",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pbalance/pbalance.sty:1043:1:1044:0: w101 unexpected delimiters"
+    ]
+  }
+]

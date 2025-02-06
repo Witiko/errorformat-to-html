@@ -1,0 +1,5154 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 38,
+    "end_lnum": 38,
+    "col": 5,
+    "end_col": 18,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:38:5:38:18: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 38,
+    "end_lnum": 38,
+    "col": 19,
+    "end_col": 47,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:38:19:38:47: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 39,
+    "end_lnum": 40,
+    "col": 5,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:39:5:40:0: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 41,
+    "end_lnum": 41,
+    "col": 5,
+    "end_col": 26,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:41:5:41:26: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 41,
+    "end_lnum": 41,
+    "col": 27,
+    "end_col": 43,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:41:27:41:43: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 43,
+    "end_lnum": 44,
+    "col": 9,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:43:9:44:0: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 44,
+    "end_lnum": 44,
+    "col": 9,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:44:9:44:20: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 45,
+    "end_lnum": 45,
+    "col": 9,
+    "end_col": 28,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:45:9:45:28: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 45,
+    "end_lnum": 45,
+    "col": 37,
+    "end_col": 47,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:45:37:45:47: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 48,
+    "end_lnum": 49,
+    "col": 5,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:48:5:49:0: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 52,
+    "end_lnum": 52,
+    "col": 1,
+    "end_col": 12,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:52:1:52:12: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 53,
+    "end_lnum": 53,
+    "col": 1,
+    "end_col": 13,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:53:1:53:13: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 53,
+    "end_lnum": 53,
+    "col": 14,
+    "end_col": 35,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:53:14:53:35: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 54,
+    "end_lnum": 54,
+    "col": 1,
+    "end_col": 10,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:54:1:54:10: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 54,
+    "end_lnum": 55,
+    "col": 11,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:54:11:55:0: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 55,
+    "end_lnum": 55,
+    "col": 1,
+    "end_col": 13,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:55:1:55:13: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 56,
+    "end_lnum": 56,
+    "col": 1,
+    "end_col": 13,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:56:1:56:13: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 57,
+    "end_lnum": 57,
+    "col": 1,
+    "end_col": 12,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:57:1:57:12: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 58,
+    "end_lnum": 58,
+    "col": 1,
+    "end_col": 12,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:58:1:58:12: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 58,
+    "end_lnum": 58,
+    "col": 13,
+    "end_col": 43,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:58:13:58:43: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 59,
+    "end_lnum": 59,
+    "col": 1,
+    "end_col": 12,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:59:1:59:12: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 59,
+    "end_lnum": 59,
+    "col": 13,
+    "end_col": 44,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:59:13:59:44: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 60,
+    "end_lnum": 60,
+    "col": 1,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:60:1:60:14: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 60,
+    "end_lnum": 60,
+    "col": 15,
+    "end_col": 31,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:60:15:60:31: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 61,
+    "end_lnum": 61,
+    "col": 1,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:61:1:61:22: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 61,
+    "end_lnum": 61,
+    "col": 32,
+    "end_col": 57,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:61:32:61:57: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 62,
+    "end_lnum": 62,
+    "col": 1,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:62:1:62:22: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 62,
+    "end_lnum": 62,
+    "col": 23,
+    "end_col": 48,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:62:23:62:48: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 64,
+    "end_lnum": 64,
+    "col": 5,
+    "end_col": 29,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:64:5:64:29: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 65,
+    "end_lnum": 65,
+    "col": 9,
+    "end_col": 34,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:65:9:65:34: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 66,
+    "end_lnum": 66,
+    "col": 9,
+    "end_col": 38,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:66:9:66:38: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 66,
+    "end_lnum": 66,
+    "col": 39,
+    "end_col": 63,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:66:39:66:63: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 69,
+    "end_lnum": 69,
+    "col": 1,
+    "end_col": 26,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:69:1:69:26: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 69,
+    "end_lnum": 69,
+    "col": 27,
+    "end_col": 49,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:69:27:69:49: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 71,
+    "end_lnum": 71,
+    "col": 5,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:71:5:71:22: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 72,
+    "end_lnum": 72,
+    "col": 9,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:72:9:72:22: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 72,
+    "end_lnum": 72,
+    "col": 23,
+    "end_col": 39,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:72:23:72:39: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 73,
+    "end_lnum": 73,
+    "col": 9,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:73:9:73:22: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 73,
+    "end_lnum": 73,
+    "col": 23,
+    "end_col": 36,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:73:23:73:36: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 74,
+    "end_lnum": 74,
+    "col": 9,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:74:9:74:22: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 74,
+    "end_lnum": 74,
+    "col": 23,
+    "end_col": 35,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:74:23:74:35: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 75,
+    "end_lnum": 75,
+    "col": 9,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:75:9:75:22: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 75,
+    "end_lnum": 75,
+    "col": 23,
+    "end_col": 34,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:75:23:75:34: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 76,
+    "end_lnum": 76,
+    "col": 9,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:76:9:76:22: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 76,
+    "end_lnum": 76,
+    "col": 23,
+    "end_col": 34,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:76:23:76:34: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 77,
+    "end_lnum": 78,
+    "col": 13,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:77:13:78:0: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 78,
+    "end_lnum": 79,
+    "col": 7,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:78:7:79:0: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 80,
+    "end_lnum": 81,
+    "col": 7,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:80:7:81:0: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 83,
+    "end_lnum": 83,
+    "col": 1,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:83:1:83:22: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 83,
+    "end_lnum": 83,
+    "col": 23,
+    "end_col": 52,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:83:23:83:52: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 85,
+    "end_lnum": 85,
+    "col": 5,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:85:5:85:22: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 85,
+    "end_lnum": 85,
+    "col": 23,
+    "end_col": 39,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:85:23:85:39: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 88,
+    "end_lnum": 88,
+    "col": 9,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:88:9:88:19: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 90,
+    "end_lnum": 90,
+    "col": 13,
+    "end_col": 26,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:90:13:90:26: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 90,
+    "end_lnum": 91,
+    "col": 27,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:90:27:91:0: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 91,
+    "end_lnum": 91,
+    "col": 15,
+    "end_col": 28,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:91:15:91:28: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 91,
+    "end_lnum": 92,
+    "col": 29,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:91:29:92:0: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 92,
+    "end_lnum": 92,
+    "col": 17,
+    "end_col": 30,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:92:17:92:30: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 92,
+    "end_lnum": 93,
+    "col": 31,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:92:31:93:0: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 93,
+    "end_lnum": 93,
+    "col": 41,
+    "end_col": 49,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:93:41:93:49: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 94,
+    "end_lnum": 94,
+    "col": 13,
+    "end_col": 23,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:94:13:94:23: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 100,
+    "end_lnum": 100,
+    "col": 5,
+    "end_col": 16,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:100:5:100:16: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 100,
+    "end_lnum": 100,
+    "col": 17,
+    "end_col": 27,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:100:17:100:27: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 100,
+    "end_lnum": 100,
+    "col": 28,
+    "end_col": 57,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:100:28:100:57: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 101,
+    "end_lnum": 101,
+    "col": 9,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:101:9:101:21: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 103,
+    "end_lnum": 103,
+    "col": 9,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:103:9:103:19: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 103,
+    "end_lnum": 103,
+    "col": 20,
+    "end_col": 50,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:103:20:103:50: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 104,
+    "end_lnum": 104,
+    "col": 9,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:104:9:104:19: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 104,
+    "end_lnum": 104,
+    "col": 20,
+    "end_col": 45,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:104:20:104:45: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 105,
+    "end_lnum": 105,
+    "col": 9,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:105:9:105:19: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 105,
+    "end_lnum": 105,
+    "col": 20,
+    "end_col": 46,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:105:20:105:46: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 108,
+    "end_lnum": 108,
+    "col": 1,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:108:1:108:22: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 108,
+    "end_lnum": 108,
+    "col": 23,
+    "end_col": 39,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:108:23:108:39: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 112,
+    "end_lnum": 112,
+    "col": 9,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:112:9:112:20: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 114,
+    "end_lnum": 114,
+    "col": 13,
+    "end_col": 23,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:114:13:114:23: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 115,
+    "end_lnum": 115,
+    "col": 15,
+    "end_col": 30,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:115:15:115:30: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 115,
+    "end_lnum": 115,
+    "col": 34,
+    "end_col": 45,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:115:34:115:45: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 115,
+    "end_lnum": 115,
+    "col": 46,
+    "end_col": 61,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:115:46:115:61: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 117,
+    "end_lnum": 117,
+    "col": 9,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:117:9:117:20: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 118,
+    "end_lnum": 118,
+    "col": 13,
+    "end_col": 28,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:118:13:118:28: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 118,
+    "end_lnum": 118,
+    "col": 38,
+    "end_col": 53,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:118:38:118:53: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 120,
+    "end_lnum": 120,
+    "col": 13,
+    "end_col": 23,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:120:13:120:23: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 120,
+    "end_lnum": 120,
+    "col": 24,
+    "end_col": 37,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:120:24:120:37: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 120,
+    "end_lnum": 120,
+    "col": 38,
+    "end_col": 49,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:120:38:120:49: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 121,
+    "end_lnum": 121,
+    "col": 13,
+    "end_col": 23,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:121:13:121:23: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 122,
+    "end_lnum": 122,
+    "col": 15,
+    "end_col": 25,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:122:15:122:25: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 123,
+    "end_lnum": 123,
+    "col": 13,
+    "end_col": 23,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:123:13:123:23: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 127,
+    "end_lnum": 127,
+    "col": 1,
+    "end_col": 17,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:127:1:127:17: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 128,
+    "end_lnum": 128,
+    "col": 1,
+    "end_col": 17,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:128:1:128:17: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 129,
+    "end_lnum": 129,
+    "col": 1,
+    "end_col": 17,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:129:1:129:17: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 130,
+    "end_lnum": 130,
+    "col": 1,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:130:1:130:22: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 130,
+    "end_lnum": 130,
+    "col": 23,
+    "end_col": 47,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:130:23:130:47: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 132,
+    "end_lnum": 132,
+    "col": 5,
+    "end_col": 16,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:132:5:132:16: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 132,
+    "end_lnum": 132,
+    "col": 17,
+    "end_col": 33,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:132:17:132:33: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 132,
+    "end_lnum": 132,
+    "col": 36,
+    "end_col": 56,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:132:36:132:56: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 133,
+    "end_lnum": 133,
+    "col": 5,
+    "end_col": 18,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:133:5:133:18: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 133,
+    "end_lnum": 133,
+    "col": 19,
+    "end_col": 35,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:133:19:133:35: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 133,
+    "end_lnum": 134,
+    "col": 36,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:133:36:134:0: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 135,
+    "end_lnum": 135,
+    "col": 1,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:135:1:135:22: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 135,
+    "end_lnum": 135,
+    "col": 23,
+    "end_col": 43,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:135:23:135:43: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 137,
+    "end_lnum": 138,
+    "col": 5,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:137:5:138:0: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 138,
+    "end_lnum": 138,
+    "col": 7,
+    "end_col": 18,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:138:7:138:18: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 138,
+    "end_lnum": 138,
+    "col": 19,
+    "end_col": 36,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:138:19:138:36: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 139,
+    "end_lnum": 139,
+    "col": 7,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:139:7:139:20: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 139,
+    "end_lnum": 139,
+    "col": 21,
+    "end_col": 34,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:139:21:139:34: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 139,
+    "end_lnum": 139,
+    "col": 35,
+    "end_col": 45,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:139:35:139:45: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 139,
+    "end_lnum": 140,
+    "col": 49,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:139:49:140:0: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 140,
+    "end_lnum": 140,
+    "col": 7,
+    "end_col": 36,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:140:7:140:36: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 142,
+    "end_lnum": 142,
+    "col": 1,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:142:1:142:22: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 142,
+    "end_lnum": 142,
+    "col": 23,
+    "end_col": 52,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:142:23:142:52: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 144,
+    "end_lnum": 144,
+    "col": 7,
+    "end_col": 17,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:144:7:144:17: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 144,
+    "end_lnum": 144,
+    "col": 18,
+    "end_col": 38,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:144:18:144:38: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 144,
+    "end_lnum": 144,
+    "col": 41,
+    "end_col": 56,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:144:41:144:56: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 145,
+    "end_lnum": 145,
+    "col": 7,
+    "end_col": 38,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:145:7:145:38: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 145,
+    "end_lnum": 145,
+    "col": 39,
+    "end_col": 65,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:145:39:145:65: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 146,
+    "end_lnum": 146,
+    "col": 7,
+    "end_col": 38,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:146:7:146:38: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 146,
+    "end_lnum": 146,
+    "col": 39,
+    "end_col": 67,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:146:39:146:67: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 147,
+    "end_lnum": 147,
+    "col": 7,
+    "end_col": 29,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:147:7:147:29: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 150,
+    "end_lnum": 150,
+    "col": 1,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:150:1:150:22: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 150,
+    "end_lnum": 150,
+    "col": 23,
+    "end_col": 45,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:150:23:150:45: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 152,
+    "end_lnum": 153,
+    "col": 5,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:152:5:153:0: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 155,
+    "end_lnum": 155,
+    "col": 1,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:155:1:155:22: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 155,
+    "end_lnum": 155,
+    "col": 23,
+    "end_col": 54,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:155:23:155:54: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 157,
+    "end_lnum": 157,
+    "col": 5,
+    "end_col": 18,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:157:5:157:18: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 157,
+    "end_lnum": 157,
+    "col": 19,
+    "end_col": 49,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:157:19:157:49: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 158,
+    "end_lnum": 158,
+    "col": 5,
+    "end_col": 31,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:158:5:158:31: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 158,
+    "end_lnum": 158,
+    "col": 32,
+    "end_col": 63,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:158:32:158:63: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 160,
+    "end_lnum": 160,
+    "col": 1,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:160:1:160:14: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 160,
+    "end_lnum": 160,
+    "col": 15,
+    "end_col": 45,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:160:15:160:45: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 161,
+    "end_lnum": 161,
+    "col": 1,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:161:1:161:22: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 161,
+    "end_lnum": 161,
+    "col": 23,
+    "end_col": 54,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:161:23:161:54: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 162,
+    "end_lnum": 163,
+    "col": 8,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:162:8:163:0: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 163,
+    "end_lnum": 163,
+    "col": 11,
+    "end_col": 33,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:163:11:163:33: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 164,
+    "end_lnum": 164,
+    "col": 1,
+    "end_col": 12,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:164:1:164:12: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 164,
+    "end_lnum": 164,
+    "col": 13,
+    "end_col": 39,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:164:13:164:39: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 166,
+    "end_lnum": 166,
+    "col": 5,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:166:5:166:19: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 166,
+    "end_lnum": 166,
+    "col": 20,
+    "end_col": 41,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:166:20:166:41: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 166,
+    "end_lnum": 167,
+    "col": 45,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:166:45:167:0: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 167,
+    "end_lnum": 167,
+    "col": 7,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:167:7:167:20: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 167,
+    "end_lnum": 168,
+    "col": 21,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:167:21:168:0: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 169,
+    "end_lnum": 169,
+    "col": 7,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:169:7:169:20: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 169,
+    "end_lnum": 170,
+    "col": 21,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:169:21:170:0: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 171,
+    "end_lnum": 171,
+    "col": 9,
+    "end_col": 34,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:171:9:171:34: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 173,
+    "end_lnum": 173,
+    "col": 9,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:173:9:173:22: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 173,
+    "end_lnum": 173,
+    "col": 23,
+    "end_col": 34,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:173:23:173:34: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 173,
+    "end_lnum": 173,
+    "col": 41,
+    "end_col": 62,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:173:41:173:62: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 173,
+    "end_lnum": 174,
+    "col": 66,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:173:66:174:0: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 174,
+    "end_lnum": 174,
+    "col": 9,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:174:9:174:22: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 176,
+    "end_lnum": 176,
+    "col": 5,
+    "end_col": 17,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:176:5:176:17: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 176,
+    "end_lnum": 177,
+    "col": 18,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:176:18:177:0: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 177,
+    "end_lnum": 177,
+    "col": 9,
+    "end_col": 23,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:177:9:177:23: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 180,
+    "end_lnum": 180,
+    "col": 1,
+    "end_col": 12,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:180:1:180:12: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 180,
+    "end_lnum": 180,
+    "col": 13,
+    "end_col": 41,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:180:13:180:41: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 182,
+    "end_lnum": 182,
+    "col": 5,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:182:5:182:21: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 182,
+    "end_lnum": 182,
+    "col": 24,
+    "end_col": 45,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:182:24:182:45: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 184,
+    "end_lnum": 184,
+    "col": 9,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:184:9:184:21: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 184,
+    "end_lnum": 185,
+    "col": 22,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:184:22:185:0: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 185,
+    "end_lnum": 185,
+    "col": 22,
+    "end_col": 43,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:185:22:185:43: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 189,
+    "end_lnum": 189,
+    "col": 9,
+    "end_col": 34,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:189:9:189:34: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 190,
+    "end_lnum": 190,
+    "col": 9,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:190:9:190:21: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 190,
+    "end_lnum": 191,
+    "col": 22,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:190:22:191:0: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 191,
+    "end_lnum": 191,
+    "col": 16,
+    "end_col": 44,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:191:16:191:44: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 191,
+    "end_lnum": 191,
+    "col": 48,
+    "end_col": 74,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:191:48:191:74: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 192,
+    "end_lnum": 192,
+    "col": 13,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:192:13:192:21: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 192,
+    "end_lnum": 192,
+    "col": 26,
+    "end_col": 38,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:192:26:192:38: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 196,
+    "end_lnum": 196,
+    "col": 1,
+    "end_col": 12,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:196:1:196:12: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 196,
+    "end_lnum": 196,
+    "col": 13,
+    "end_col": 39,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:196:13:196:39: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 198,
+    "end_lnum": 198,
+    "col": 5,
+    "end_col": 18,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:198:5:198:18: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 200,
+    "end_lnum": 200,
+    "col": 7,
+    "end_col": 32,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:200:7:200:32: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 203,
+    "end_lnum": 203,
+    "col": 1,
+    "end_col": 12,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:203:1:203:12: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 203,
+    "end_lnum": 203,
+    "col": 13,
+    "end_col": 38,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:203:13:203:38: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 205,
+    "end_lnum": 205,
+    "col": 5,
+    "end_col": 30,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:205:5:205:30: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 206,
+    "end_lnum": 206,
+    "col": 9,
+    "end_col": 36,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:206:9:206:36: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 208,
+    "end_lnum": 208,
+    "col": 9,
+    "end_col": 33,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:208:9:208:33: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 209,
+    "end_lnum": 209,
+    "col": 13,
+    "end_col": 39,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:209:13:209:39: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 210,
+    "end_lnum": 210,
+    "col": 13,
+    "end_col": 39,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:210:13:210:39: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 214,
+    "end_lnum": 214,
+    "col": 1,
+    "end_col": 12,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:214:1:214:12: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 214,
+    "end_lnum": 214,
+    "col": 13,
+    "end_col": 39,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:214:13:214:39: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 215,
+    "end_lnum": 215,
+    "col": 5,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:215:5:215:14: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 216,
+    "end_lnum": 216,
+    "col": 1,
+    "end_col": 12,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:216:1:216:12: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 216,
+    "end_lnum": 216,
+    "col": 13,
+    "end_col": 32,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:216:13:216:32: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 218,
+    "end_lnum": 218,
+    "col": 5,
+    "end_col": 30,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:218:5:218:30: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 219,
+    "end_lnum": 219,
+    "col": 1,
+    "end_col": 12,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:219:1:219:12: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 219,
+    "end_lnum": 219,
+    "col": 13,
+    "end_col": 44,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:219:13:219:44: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 222,
+    "end_lnum": 222,
+    "col": 5,
+    "end_col": 30,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:222:5:222:30: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 224,
+    "end_lnum": 224,
+    "col": 12,
+    "end_col": 23,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:224:12:224:23: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 224,
+    "end_lnum": 224,
+    "col": 26,
+    "end_col": 47,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:224:26:224:47: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 226,
+    "end_lnum": 226,
+    "col": 1,
+    "end_col": 12,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:226:1:226:12: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 226,
+    "end_lnum": 227,
+    "col": 13,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:226:13:227:0: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 229,
+    "end_lnum": 229,
+    "col": 5,
+    "end_col": 30,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:229:5:229:30: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 230,
+    "end_lnum": 230,
+    "col": 17,
+    "end_col": 28,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:230:17:230:28: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 230,
+    "end_lnum": 230,
+    "col": 29,
+    "end_col": 59,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:230:29:230:59: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 232,
+    "end_lnum": 232,
+    "col": 1,
+    "end_col": 12,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:232:1:232:12: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 232,
+    "end_lnum": 232,
+    "col": 13,
+    "end_col": 40,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:232:13:232:40: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 234,
+    "end_lnum": 234,
+    "col": 5,
+    "end_col": 30,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:234:5:234:30: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 235,
+    "end_lnum": 235,
+    "col": 9,
+    "end_col": 35,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:235:9:235:35: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 237,
+    "end_lnum": 237,
+    "col": 9,
+    "end_col": 32,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:237:9:237:32: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 238,
+    "end_lnum": 238,
+    "col": 13,
+    "end_col": 36,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:238:13:238:36: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 239,
+    "end_lnum": 239,
+    "col": 13,
+    "end_col": 32,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:239:13:239:32: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 243,
+    "end_lnum": 243,
+    "col": 1,
+    "end_col": 12,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:243:1:243:12: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 243,
+    "end_lnum": 243,
+    "col": 13,
+    "end_col": 39,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:243:13:243:39: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 244,
+    "end_lnum": 244,
+    "col": 5,
+    "end_col": 31,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:244:5:244:31: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 244,
+    "end_lnum": 244,
+    "col": 32,
+    "end_col": 58,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:244:32:244:58: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 245,
+    "end_lnum": 245,
+    "col": 1,
+    "end_col": 12,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:245:1:245:12: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 245,
+    "end_lnum": 245,
+    "col": 13,
+    "end_col": 39,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:245:13:245:39: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 246,
+    "end_lnum": 246,
+    "col": 5,
+    "end_col": 24,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:246:5:246:24: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 247,
+    "end_lnum": 248,
+    "col": 1,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:247:1:248:0: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 248,
+    "end_lnum": 248,
+    "col": 1,
+    "end_col": 12,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:248:1:248:12: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 248,
+    "end_lnum": 248,
+    "col": 13,
+    "end_col": 39,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:248:13:248:39: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 248,
+    "end_lnum": 249,
+    "col": 40,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:248:40:249:0: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 249,
+    "end_lnum": 249,
+    "col": 5,
+    "end_col": 24,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:249:5:249:24: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 250,
+    "end_lnum": 250,
+    "col": 1,
+    "end_col": 12,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:250:1:250:12: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 250,
+    "end_lnum": 250,
+    "col": 13,
+    "end_col": 36,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:250:13:250:36: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 252,
+    "end_lnum": 252,
+    "col": 5,
+    "end_col": 30,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:252:5:252:30: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 253,
+    "end_lnum": 253,
+    "col": 9,
+    "end_col": 37,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:253:9:253:37: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 254,
+    "end_lnum": 254,
+    "col": 9,
+    "end_col": 28,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:254:9:254:28: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 257,
+    "end_lnum": 257,
+    "col": 1,
+    "end_col": 12,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:257:1:257:12: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 257,
+    "end_lnum": 257,
+    "col": 13,
+    "end_col": 41,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:257:13:257:41: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 259,
+    "end_lnum": 259,
+    "col": 5,
+    "end_col": 17,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:259:5:259:17: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 259,
+    "end_lnum": 260,
+    "col": 18,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:259:18:260:0: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 260,
+    "end_lnum": 260,
+    "col": 11,
+    "end_col": 39,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:260:11:260:39: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 261,
+    "end_lnum": 261,
+    "col": 9,
+    "end_col": 38,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:261:9:261:38: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 262,
+    "end_lnum": 262,
+    "col": 9,
+    "end_col": 38,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:262:9:262:38: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 265,
+    "end_lnum": 265,
+    "col": 1,
+    "end_col": 12,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:265:1:265:12: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 265,
+    "end_lnum": 265,
+    "col": 13,
+    "end_col": 42,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:265:13:265:42: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 267,
+    "end_lnum": 267,
+    "col": 5,
+    "end_col": 30,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:267:5:267:30: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 268,
+    "end_lnum": 268,
+    "col": 9,
+    "end_col": 28,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:268:9:268:28: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 269,
+    "end_lnum": 269,
+    "col": 9,
+    "end_col": 28,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:269:9:269:28: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 271,
+    "end_lnum": 271,
+    "col": 1,
+    "end_col": 12,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:271:1:271:12: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 271,
+    "end_lnum": 271,
+    "col": 13,
+    "end_col": 42,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:271:13:271:42: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 272,
+    "end_lnum": 272,
+    "col": 5,
+    "end_col": 33,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:272:5:272:33: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 273,
+    "end_lnum": 273,
+    "col": 1,
+    "end_col": 12,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:273:1:273:12: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 273,
+    "end_lnum": 273,
+    "col": 13,
+    "end_col": 41,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:273:13:273:41: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 275,
+    "end_lnum": 275,
+    "col": 5,
+    "end_col": 30,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:275:5:275:30: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 276,
+    "end_lnum": 276,
+    "col": 9,
+    "end_col": 38,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:276:9:276:38: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 278,
+    "end_lnum": 278,
+    "col": 9,
+    "end_col": 33,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:278:9:278:33: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 279,
+    "end_lnum": 279,
+    "col": 13,
+    "end_col": 41,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:279:13:279:41: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 280,
+    "end_lnum": 280,
+    "col": 13,
+    "end_col": 41,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:280:13:280:41: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 284,
+    "end_lnum": 284,
+    "col": 1,
+    "end_col": 12,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:284:1:284:12: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 284,
+    "end_lnum": 284,
+    "col": 13,
+    "end_col": 42,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:284:13:284:42: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 286,
+    "end_lnum": 286,
+    "col": 5,
+    "end_col": 30,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:286:5:286:30: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 288,
+    "end_lnum": 288,
+    "col": 9,
+    "end_col": 33,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:288:9:288:33: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 289,
+    "end_lnum": 289,
+    "col": 9,
+    "end_col": 36,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:289:9:289:36: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 292,
+    "end_lnum": 292,
+    "col": 9,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:292:9:292:21: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 292,
+    "end_lnum": 293,
+    "col": 22,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:292:22:293:0: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 293,
+    "end_lnum": 293,
+    "col": 15,
+    "end_col": 41,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:293:15:293:41: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 294,
+    "end_lnum": 294,
+    "col": 13,
+    "end_col": 40,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:294:13:294:40: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 295,
+    "end_lnum": 295,
+    "col": 13,
+    "end_col": 41,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:295:13:295:41: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 298,
+    "end_lnum": 298,
+    "col": 1,
+    "end_col": 12,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:298:1:298:12: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 298,
+    "end_lnum": 298,
+    "col": 13,
+    "end_col": 41,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:298:13:298:41: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 299,
+    "end_lnum": 299,
+    "col": 5,
+    "end_col": 33,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:299:5:299:33: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 300,
+    "end_lnum": 300,
+    "col": 1,
+    "end_col": 12,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:300:1:300:12: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 300,
+    "end_lnum": 300,
+    "col": 13,
+    "end_col": 41,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:300:13:300:41: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 301,
+    "end_lnum": 301,
+    "col": 5,
+    "end_col": 33,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:301:5:301:33: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 302,
+    "end_lnum": 302,
+    "col": 1,
+    "end_col": 12,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:302:1:302:12: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 302,
+    "end_lnum": 302,
+    "col": 13,
+    "end_col": 40,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:302:13:302:40: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 303,
+    "end_lnum": 303,
+    "col": 5,
+    "end_col": 35,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:303:5:303:35: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 304,
+    "end_lnum": 304,
+    "col": 1,
+    "end_col": 12,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:304:1:304:12: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 304,
+    "end_lnum": 304,
+    "col": 13,
+    "end_col": 41,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:304:13:304:41: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 305,
+    "end_lnum": 305,
+    "col": 1,
+    "end_col": 12,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:305:1:305:12: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 305,
+    "end_lnum": 305,
+    "col": 13,
+    "end_col": 39,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:305:13:305:39: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 306,
+    "end_lnum": 306,
+    "col": 1,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:306:1:306:22: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 307,
+    "end_lnum": 307,
+    "col": 5,
+    "end_col": 35,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:307:5:307:35: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 307,
+    "end_lnum": 307,
+    "col": 36,
+    "end_col": 47,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:307:36:307:47: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 308,
+    "end_lnum": 308,
+    "col": 1,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:308:1:308:22: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 309,
+    "end_lnum": 309,
+    "col": 5,
+    "end_col": 35,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:309:5:309:35: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 309,
+    "end_lnum": 309,
+    "col": 36,
+    "end_col": 48,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:309:36:309:48: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 310,
+    "end_lnum": 310,
+    "col": 8,
+    "end_col": 29,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:310:8:310:29: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 310,
+    "end_lnum": 311,
+    "col": 30,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:310:30:311:0: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 313,
+    "end_lnum": 313,
+    "col": 5,
+    "end_col": 29,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:313:5:313:29: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 313,
+    "end_lnum": 314,
+    "col": 41,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:313:41:314:0: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 314,
+    "end_lnum": 314,
+    "col": 5,
+    "end_col": 29,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:314:5:314:29: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 314,
+    "end_lnum": 315,
+    "col": 41,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:314:41:315:0: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 315,
+    "end_lnum": 315,
+    "col": 12,
+    "end_col": 40,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:315:12:315:40: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 316,
+    "end_lnum": 316,
+    "col": 12,
+    "end_col": 38,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:316:12:316:38: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 319,
+    "end_lnum": 319,
+    "col": 8,
+    "end_col": 29,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:319:8:319:29: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 319,
+    "end_lnum": 319,
+    "col": 30,
+    "end_col": 58,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:319:30:319:58: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 321,
+    "end_lnum": 321,
+    "col": 5,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:321:5:321:20: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 323,
+    "end_lnum": 323,
+    "col": 9,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:323:9:323:22: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 324,
+    "end_lnum": 325,
+    "col": 9,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:324:9:325:0: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 326,
+    "end_lnum": 326,
+    "col": 5,
+    "end_col": 27,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:326:5:326:27: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 328,
+    "end_lnum": 328,
+    "col": 9,
+    "end_col": 23,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:328:9:328:23: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 329,
+    "end_lnum": 330,
+    "col": 9,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:329:9:330:0: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 331,
+    "end_lnum": 332,
+    "col": 5,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:331:5:332:0: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 332,
+    "end_lnum": 332,
+    "col": 11,
+    "end_col": 36,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:332:11:332:36: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 333,
+    "end_lnum": 333,
+    "col": 11,
+    "end_col": 34,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:333:11:333:34: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 335,
+    "end_lnum": 335,
+    "col": 9,
+    "end_col": 23,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:335:9:335:23: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 336,
+    "end_lnum": 336,
+    "col": 13,
+    "end_col": 25,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:336:13:336:25: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 337,
+    "end_lnum": 338,
+    "col": 9,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:337:9:338:0: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 339,
+    "end_lnum": 339,
+    "col": 5,
+    "end_col": 27,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:339:5:339:27: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 341,
+    "end_lnum": 341,
+    "col": 9,
+    "end_col": 23,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:341:9:341:23: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 342,
+    "end_lnum": 342,
+    "col": 13,
+    "end_col": 25,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:342:13:342:25: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 343,
+    "end_lnum": 344,
+    "col": 9,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:343:9:344:0: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 345,
+    "end_lnum": 345,
+    "col": 5,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:345:5:345:20: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 347,
+    "end_lnum": 347,
+    "col": 9,
+    "end_col": 23,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:347:9:347:23: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 348,
+    "end_lnum": 348,
+    "col": 13,
+    "end_col": 29,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:348:13:348:29: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 348,
+    "end_lnum": 348,
+    "col": 30,
+    "end_col": 42,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:348:30:348:42: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 349,
+    "end_lnum": 350,
+    "col": 9,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:349:9:350:0: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 352,
+    "end_lnum": 352,
+    "col": 1,
+    "end_col": 13,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:352:1:352:13: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 354,
+    "end_lnum": 354,
+    "col": 15,
+    "end_col": 26,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:354:15:354:26: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 355,
+    "end_lnum": 355,
+    "col": 19,
+    "end_col": 39,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:355:19:355:39: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 357,
+    "end_lnum": 357,
+    "col": 1,
+    "end_col": 13,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:357:1:357:13: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 359,
+    "end_lnum": 359,
+    "col": 23,
+    "end_col": 34,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:359:23:359:34: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 360,
+    "end_lnum": 360,
+    "col": 19,
+    "end_col": 39,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:360:19:360:39: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 362,
+    "end_lnum": 362,
+    "col": 1,
+    "end_col": 13,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:362:1:362:13: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 364,
+    "end_lnum": 364,
+    "col": 13,
+    "end_col": 24,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:364:13:364:24: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 367,
+    "end_lnum": 367,
+    "col": 1,
+    "end_col": 13,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:367:1:367:13: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 369,
+    "end_lnum": 369,
+    "col": 13,
+    "end_col": 24,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:369:13:369:24: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 373,
+    "end_lnum": 373,
+    "col": 1,
+    "end_col": 13,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:373:1:373:13: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 375,
+    "end_lnum": 375,
+    "col": 13,
+    "end_col": 24,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:375:13:375:24: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 375,
+    "end_lnum": 375,
+    "col": 53,
+    "end_col": 64,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:375:53:375:64: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 379,
+    "end_lnum": 379,
+    "col": 1,
+    "end_col": 13,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:379:1:379:13: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 381,
+    "end_lnum": 381,
+    "col": 13,
+    "end_col": 24,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:381:13:381:24: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 384,
+    "end_lnum": 384,
+    "col": 1,
+    "end_col": 13,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:384:1:384:13: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 386,
+    "end_lnum": 386,
+    "col": 13,
+    "end_col": 24,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:386:13:386:24: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 389,
+    "end_lnum": 389,
+    "col": 1,
+    "end_col": 13,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:389:1:389:13: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 391,
+    "end_lnum": 391,
+    "col": 13,
+    "end_col": 39,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:391:13:391:39: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 391,
+    "end_lnum": 391,
+    "col": 39,
+    "end_col": 50,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:391:39:391:50: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 392,
+    "end_lnum": 392,
+    "col": 19,
+    "end_col": 39,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:392:19:392:39: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 394,
+    "end_lnum": 395,
+    "col": 1,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:394:1:395:0: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 38,
+    "end_lnum": 39,
+    "col": 48,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 101,
+    "pattern": "",
+    "text": "unexpected delimiters",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:38:48:39:0: w101 unexpected delimiters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty",
+    "lnum": 40,
+    "end_lnum": 41,
+    "col": 5,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 101,
+    "pattern": "",
+    "text": "unexpected delimiters",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/namedef/namedef.sty:40:5:41:0: w101 unexpected delimiters"
+    ]
+  }
+]

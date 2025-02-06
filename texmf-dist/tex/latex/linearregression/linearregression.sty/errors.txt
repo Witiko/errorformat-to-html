@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/linearregression/linearregression.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/linearregression/linearregression.sty:100:3:100:11: w200 "weird" and "do not use" argument specifiers

@@ -1,0 +1,50 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xdoc/xdoc2.sty",
+    "lnum": 141,
+    "end_lnum": 141,
+    "col": 39,
+    "end_col": 39,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xdoc/xdoc2.sty:141:39:141:39: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xdoc/xdoc2.sty",
+    "lnum": 163,
+    "end_lnum": 163,
+    "col": 33,
+    "end_col": 33,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xdoc/xdoc2.sty:163:33:163:33: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xdoc/xdoc2.sty",
+    "lnum": 498,
+    "end_lnum": 498,
+    "col": 4,
+    "end_col": 4,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xdoc/xdoc2.sty:498:4:498:4: e208 too many closing braces"
+    ]
+  }
+]

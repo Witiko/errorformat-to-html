@@ -1,0 +1,16 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xpinyin/xpinyin.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xpinyin/xpinyin.sty:127:5:127:20: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xpinyin/xpinyin.sty:206:17:206:26: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xpinyin/xpinyin.sty:206:65:206:74: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xpinyin/xpinyin.sty:214:34:214:49: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xpinyin/xpinyin.sty:286:23:286:45: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xpinyin/xpinyin.sty:321:29:321:48: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xpinyin/xpinyin.sty:321:50:321:60: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xpinyin/xpinyin.sty:324:56:324:66: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xpinyin/xpinyin.sty:331:30:331:43: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xpinyin/xpinyin.sty:345:24:345:58: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xpinyin/xpinyin.sty:346:13:346:47: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xpinyin/xpinyin.sty:519:5:519:21: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xpinyin/xpinyin.sty:531:5:531:14: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xpinyin/xpinyin.sty:538:5:538:14: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xpinyin/xpinyin.sty:546:9:546:18: w200 "weird" and "do not use" argument specifiers

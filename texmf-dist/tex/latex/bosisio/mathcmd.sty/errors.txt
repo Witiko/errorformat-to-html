@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/bosisio/mathcmd.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/bosisio/mathcmd.sty:80:59:80:61: e201 unknown argument specifiers

@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/csplain/base/uni-lcuc.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/csplain/base/uni-lcuc.tex:5:38:5:38: e209 invalid characters

@@ -1,0 +1,10 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty:309:22:309:50: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty:315:22:315:50: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty:322:22:322:50: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty:347:19:347:20: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty:409:9:409:21: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty:409:23:409:52: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty:415:23:415:52: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty:1357:31:1357:56: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty:1366:45:1366:70: w200 "weird" and "do not use" argument specifiers

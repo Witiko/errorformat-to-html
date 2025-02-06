@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/addtoluatexpath/addtoluatexpath.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/addtoluatexpath/addtoluatexpath.sty:83:78:83:78: e208 too many closing braces

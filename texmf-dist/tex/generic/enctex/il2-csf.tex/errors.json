@@ -1,0 +1,82 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/enctex/il2-csf.tex",
+    "lnum": 101,
+    "end_lnum": 101,
+    "col": 59,
+    "end_col": 59,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/enctex/il2-csf.tex:101:59:101:59: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/enctex/il2-csf.tex",
+    "lnum": 103,
+    "end_lnum": 103,
+    "col": 59,
+    "end_col": 59,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/enctex/il2-csf.tex:103:59:103:59: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/enctex/il2-csf.tex",
+    "lnum": 105,
+    "end_lnum": 105,
+    "col": 59,
+    "end_col": 59,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/enctex/il2-csf.tex:105:59:105:59: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/enctex/il2-csf.tex",
+    "lnum": 106,
+    "end_lnum": 106,
+    "col": 59,
+    "end_col": 59,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/enctex/il2-csf.tex:106:59:106:59: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/enctex/il2-csf.tex",
+    "lnum": 107,
+    "end_lnum": 107,
+    "col": 59,
+    "end_col": 59,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/enctex/il2-csf.tex:107:59:107:59: e209 invalid characters"
+    ]
+  }
+]

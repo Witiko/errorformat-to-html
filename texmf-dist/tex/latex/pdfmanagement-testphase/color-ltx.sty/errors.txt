@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pdfmanagement-testphase/color-ltx.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pdfmanagement-testphase/color-ltx.sty:140:23:140:24: s205 malformed function name

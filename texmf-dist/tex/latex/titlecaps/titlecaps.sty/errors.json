@@ -1,0 +1,18 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/titlecaps/titlecaps.sty",
+    "lnum": 37,
+    "end_lnum": 37,
+    "col": 15,
+    "end_col": 15,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/titlecaps/titlecaps.sty:37:15:37:15: e209 invalid characters"
+    ]
+  }
+]

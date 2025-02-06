@@ -1,0 +1,24 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-tools.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-tools.tex:174:17:174:17: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-tools.tex:174:20:174:20: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-tools.tex:174:29:174:29: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-tools.tex:175:24:175:24: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-tools.tex:175:31:175:31: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-tools.tex:176:41:176:41: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-tools.tex:176:44:176:44: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-tools.tex:176:55:176:55: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-tools.tex:177:48:177:48: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-tools.tex:177:51:177:51: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-tools.tex:177:60:177:60: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-tools.tex:182:47:182:47: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-tools.tex:182:52:182:52: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-tools.tex:186:17:186:17: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-tools.tex:186:20:186:20: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-tools.tex:186:29:186:29: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-tools.tex:187:22:187:22: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-tools.tex:187:29:187:29: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-tools.tex:192:37:192:37: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-tools.tex:192:42:192:42: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-tools.tex:498:1:498:13: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-tools.tex:499:1:499:13: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-tools.tex:911:30:911:47: e201 unknown argument specifiers

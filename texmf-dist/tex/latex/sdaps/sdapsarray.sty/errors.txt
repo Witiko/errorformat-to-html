@@ -1,0 +1,91 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:43:28:43:55: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:70:28:70:62: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:102:28:102:51: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:109:28:109:52: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:176:28:176:52: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:181:29:181:58: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:186:29:186:50: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:192:5:192:14: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:195:23:195:52: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:200:23:200:44: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:206:5:206:14: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:209:29:209:55: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:214:29:214:47: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:220:5:220:14: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:226:28:226:63: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:260:7:260:23: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:357:29:357:60: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:357:29:357:60: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:369:3:369:15: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:369:20:369:30: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:380:5:380:14: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:383:29:383:57: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:383:29:383:57: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:385:3:385:14: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:388:5:388:14: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:391:12:391:42: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:425:29:425:57: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:425:29:425:57: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:427:3:427:14: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:428:5:428:16: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:432:5:432:14: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:436:28:436:55: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:450:28:450:53: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:464:28:464:59: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:470:28:470:49: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:616:15:616:46: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:617:15:617:43: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:618:12:618:40: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:626:15:626:46: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:627:15:627:43: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:628:12:628:40: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:680:18:680:46: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:696:19:696:20: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:702:3:702:27: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:704:19:704:20: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:705:5:705:23: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:713:12:713:42: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:726:3:726:14: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:731:18:731:46: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:732:3:732:32: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:734:21:734:22: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:741:9:741:27: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:744:18:744:44: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:758:17:758:41: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:758:17:758:41: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:758:43:758:61: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:765:17:765:18: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:768:12:768:41: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:772:5:772:14: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:774:28:774:57: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:778:12:778:38: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:779:17:779:30: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:780:17:780:37: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:784:19:784:20: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:798:22:798:54: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:806:22:806:53: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:814:22:814:55: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:823:22:823:63: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:833:22:833:63: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:850:28:850:61: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:857:19:857:20: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:863:5:863:34: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:865:21:865:22: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:867:7:867:25: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:869:5:869:31: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:871:21:871:22: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:872:7:872:25: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:876:18:876:50: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:890:18:890:50: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:907:18:907:49: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:912:3:912:32: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:914:19:914:20: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:915:5:915:23: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:932:5:932:14: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:965:9:965:38: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:967:25:967:26: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:969:11:969:29: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:975:21:975:45: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:975:21:975:45: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsarray.sty:975:47:975:68: w200 "weird" and "do not use" argument specifiers

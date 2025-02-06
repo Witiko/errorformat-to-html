@@ -1,0 +1,5 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lwarp/lwarp-skmath.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lwarp/lwarp-skmath.sty:30:19:30:47: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lwarp/lwarp-skmath.sty:31:19:31:45: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lwarp/lwarp-skmath.sty:32:19:32:42: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lwarp/lwarp-skmath.sty:33:19:33:50: s205 malformed function name

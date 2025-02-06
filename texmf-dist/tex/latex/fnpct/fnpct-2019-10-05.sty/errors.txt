@@ -1,0 +1,27 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fnpct/fnpct-2019-10-05.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fnpct/fnpct-2019-10-05.sty:50:1:55:0: w101 unexpected delimiters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fnpct/fnpct-2019-10-05.sty:58:32:58:45: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fnpct/fnpct-2019-10-05.sty:216:5:216:16: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fnpct/fnpct-2019-10-05.sty:217:5:217:16: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fnpct/fnpct-2019-10-05.sty:221:5:221:30: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fnpct/fnpct-2019-10-05.sty:224:23:224:48: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fnpct/fnpct-2019-10-05.sty:412:5:412:18: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fnpct/fnpct-2019-10-05.sty:593:9:593:40: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fnpct/fnpct-2019-10-05.sty:605:21:605:52: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fnpct/fnpct-2019-10-05.sty:620:13:620:25: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fnpct/fnpct-2019-10-05.sty:641:21:641:43: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fnpct/fnpct-2019-10-05.sty:647:9:647:34: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fnpct/fnpct-2019-10-05.sty:656:9:656:34: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fnpct/fnpct-2019-10-05.sty:668:33:668:55: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fnpct/fnpct-2019-10-05.sty:984:23:984:46: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fnpct/fnpct-2019-10-05.sty:997:9:997:32: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fnpct/fnpct-2019-10-05.sty:1023:34:1023:56: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fnpct/fnpct-2019-10-05.sty:1123:19:1123:38: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fnpct/fnpct-2019-10-05.sty:1129:13:1129:32: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fnpct/fnpct-2019-10-05.sty:1130:13:1130:32: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fnpct/fnpct-2019-10-05.sty:1144:19:1144:45: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fnpct/fnpct-2019-10-05.sty:1146:19:1146:47: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fnpct/fnpct-2019-10-05.sty:1151:13:1151:39: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fnpct/fnpct-2019-10-05.sty:1152:13:1152:39: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fnpct/fnpct-2019-10-05.sty:1163:13:1163:41: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fnpct/fnpct-2019-10-05.sty:1164:13:1164:41: w200 "weird" and "do not use" argument specifiers

@@ -1,0 +1,8 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2020-03-07.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2020-03-07.sty:51:1:56:0: w101 unexpected delimiters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2020-03-07.sty:111:13:111:45: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2020-03-07.sty:119:5:119:37: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2020-03-07.sty:138:13:138:45: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2020-03-07.sty:142:5:142:37: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2020-03-07.sty:144:13:144:42: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2020-03-07.sty:152:5:152:34: w200 "weird" and "do not use" argument specifiers

@@ -1,0 +1,12 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/embrac/embrac.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/embrac/embrac.sty:99:5:99:18: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/embrac/embrac.sty:102:5:102:18: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/embrac/embrac.sty:298:9:298:28: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/embrac/embrac.sty:299:9:299:28: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/embrac/embrac.sty:301:9:301:28: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/embrac/embrac.sty:302:9:302:28: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/embrac/embrac.sty:309:9:309:28: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/embrac/embrac.sty:310:9:310:28: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/embrac/embrac.sty:312:9:312:28: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/embrac/embrac.sty:313:9:313:28: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/embrac/embrac.sty:529:22:529:33: e203 removed control sequences

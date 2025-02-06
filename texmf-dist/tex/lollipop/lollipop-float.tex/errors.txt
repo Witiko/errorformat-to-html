@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-float.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-float.tex:26:1:26:13: e201 unknown argument specifiers

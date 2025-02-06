@@ -1,0 +1,3 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/bidi/biditools.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/bidi/biditools.sty:1483:23:1483:44: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/bidi/biditools.sty:1497:23:1497:44: s205 malformed function name

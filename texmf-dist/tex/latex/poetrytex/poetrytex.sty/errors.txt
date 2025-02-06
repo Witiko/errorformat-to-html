@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/poetrytex/poetrytex.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/poetrytex/poetrytex.sty:318:15:318:16: s205 malformed function name

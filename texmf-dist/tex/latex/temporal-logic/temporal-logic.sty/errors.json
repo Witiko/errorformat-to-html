@@ -1,0 +1,98 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 34,
+    "end_lnum": 34,
+    "col": 12,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:34:12:34:14: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 44,
+    "end_lnum": 44,
+    "col": 12,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:44:12:44:14: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 47,
+    "end_lnum": 47,
+    "col": 12,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:47:12:47:14: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 50,
+    "end_lnum": 50,
+    "col": 12,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:50:12:50:14: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 54,
+    "end_lnum": 54,
+    "col": 12,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:54:12:54:14: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 56,
+    "end_lnum": 56,
+    "col": 12,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:56:12:56:14: s205 malformed function name"
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ufrgscca/ufrgscca.cls",
+    "lnum": 342,
+    "end_lnum": 342,
+    "col": 3,
+    "end_col": 3,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ufrgscca/ufrgscca.cls:342:3:342:3: e208 too many closing braces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ufrgscca/ufrgscca.cls",
+    "lnum": 387,
+    "end_lnum": 387,
+    "col": 3,
+    "end_col": 3,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ufrgscca/ufrgscca.cls:387:3:387:3: e208 too many closing braces"
+    ]
+  }
+]

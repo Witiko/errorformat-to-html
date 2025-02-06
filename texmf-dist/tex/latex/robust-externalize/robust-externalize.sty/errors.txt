@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:3842:5:3842:21: e102 expl3 material in non-expl3 parts

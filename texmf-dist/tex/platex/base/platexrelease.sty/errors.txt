@@ -1,0 +1,5 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/platex/base/platexrelease.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/platex/base/platexrelease.sty:3005:1:3006:0: w101 unexpected delimiters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/platex/base/platexrelease.sty:3040:33:3040:57: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/platex/base/platexrelease.sty:3043:1:3044:0: w101 unexpected delimiters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/platex/base/platexrelease.sty:3110:33:3110:57: e102 expl3 material in non-expl3 parts

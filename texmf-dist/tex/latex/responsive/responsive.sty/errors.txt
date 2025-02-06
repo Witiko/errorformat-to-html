@@ -1,0 +1,5 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/responsive/responsive.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/responsive/responsive.sty:173:12:173:31: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/responsive/responsive.sty:199:12:199:35: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/responsive/responsive.sty:337:13:337:44: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/responsive/responsive.sty:366:16:366:35: s205 malformed function name

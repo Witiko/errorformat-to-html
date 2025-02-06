@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/swimgraf/swimgraf.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/swimgraf/swimgraf.sty:1325:1:1325:1: e209 invalid characters

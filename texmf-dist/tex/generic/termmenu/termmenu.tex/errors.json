@@ -1,0 +1,66 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/termmenu/termmenu.tex",
+    "lnum": 121,
+    "end_lnum": 121,
+    "col": 5,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/termmenu/termmenu.tex:121:5:121:19: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/termmenu/termmenu.tex",
+    "lnum": 121,
+    "end_lnum": 121,
+    "col": 21,
+    "end_col": 31,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/termmenu/termmenu.tex:121:21:121:31: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/termmenu/termmenu.tex",
+    "lnum": 128,
+    "end_lnum": 128,
+    "col": 25,
+    "end_col": 35,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/termmenu/termmenu.tex:128:25:128:35: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/termmenu/termmenu.tex",
+    "lnum": 133,
+    "end_lnum": 133,
+    "col": 9,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/termmenu/termmenu.tex:133:9:133:19: e203 removed control sequences"
+    ]
+  }
+]

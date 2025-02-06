@@ -1,0 +1,50 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/upmethodology/upmethodology-code.sty",
+    "lnum": 98,
+    "end_lnum": 98,
+    "col": 35,
+    "end_col": 48,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/upmethodology/upmethodology-code.sty:98:35:98:48: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/upmethodology/upmethodology-code.sty",
+    "lnum": 100,
+    "end_lnum": 100,
+    "col": 43,
+    "end_col": 56,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/upmethodology/upmethodology-code.sty:100:43:100:56: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/upmethodology/upmethodology-code.sty",
+    "lnum": 101,
+    "end_lnum": 101,
+    "col": 36,
+    "end_col": 46,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/upmethodology/upmethodology-code.sty:101:36:101:46: e201 unknown argument specifiers"
+    ]
+  }
+]

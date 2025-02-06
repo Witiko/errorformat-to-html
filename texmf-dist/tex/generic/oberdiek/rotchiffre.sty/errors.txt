@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/oberdiek/rotchiffre.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/oberdiek/rotchiffre.sty:265:10:265:10: e209 invalid characters

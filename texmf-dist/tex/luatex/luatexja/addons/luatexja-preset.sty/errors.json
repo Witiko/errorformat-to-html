@@ -1,0 +1,82 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/addons/luatexja-preset.sty",
+    "lnum": 470,
+    "end_lnum": 470,
+    "col": 18,
+    "end_col": 41,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/addons/luatexja-preset.sty:470:18:470:41: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/addons/luatexja-preset.sty",
+    "lnum": 471,
+    "end_lnum": 471,
+    "col": 18,
+    "end_col": 41,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/addons/luatexja-preset.sty:471:18:471:41: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/addons/luatexja-preset.sty",
+    "lnum": 481,
+    "end_lnum": 481,
+    "col": 40,
+    "end_col": 44,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/addons/luatexja-preset.sty:481:40:481:44: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/addons/luatexja-preset.sty",
+    "lnum": 485,
+    "end_lnum": 485,
+    "col": 15,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/addons/luatexja-preset.sty:485:15:485:19: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/addons/luatexja-preset.sty",
+    "lnum": 486,
+    "end_lnum": 486,
+    "col": 15,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/addons/luatexja-preset.sty:486:15:486:19: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  }
+]

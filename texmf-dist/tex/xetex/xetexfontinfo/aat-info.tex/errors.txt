@@ -1,0 +1,5 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xetex/xetexfontinfo/aat-info.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xetex/xetexfontinfo/aat-info.tex:35:21:35:21: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xetex/xetexfontinfo/aat-info.tex:36:20:36:20: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xetex/xetexfontinfo/aat-info.tex:37:21:37:21: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xetex/xetexfontinfo/aat-info.tex:38:20:38:20: e209 invalid characters

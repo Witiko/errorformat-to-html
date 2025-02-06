@@ -1,0 +1,66 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/markdown/markdown.sty",
+    "lnum": 91,
+    "end_lnum": 92,
+    "col": 9,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/markdown/markdown.sty:91:9:92:0: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/markdown/markdown.sty",
+    "lnum": 94,
+    "end_lnum": 95,
+    "col": 13,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/markdown/markdown.sty:94:13:95:0: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/markdown/markdown.sty",
+    "lnum": 97,
+    "end_lnum": 98,
+    "col": 17,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/markdown/markdown.sty:97:17:98:0: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/markdown/markdown.sty",
+    "lnum": 101,
+    "end_lnum": 102,
+    "col": 17,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/markdown/markdown.sty:101:17:102:0: e102 expl3 material in non-expl3 parts"
+    ]
+  }
+]

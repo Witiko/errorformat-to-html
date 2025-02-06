@@ -1,0 +1,8 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lwarp/lwarp-siunitx.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lwarp/lwarp-siunitx.sty:162:9:162:21: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lwarp/lwarp-siunitx.sty:163:5:163:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lwarp/lwarp-siunitx.sty:166:5:166:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lwarp/lwarp-siunitx.sty:166:19:166:55: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lwarp/lwarp-siunitx.sty:207:32:207:66: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lwarp/lwarp-siunitx.sty:210:23:210:57: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lwarp/lwarp-siunitx.sty:255:17:255:27: w200 "weird" and "do not use" argument specifiers

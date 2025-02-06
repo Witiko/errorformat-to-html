@@ -1,0 +1,20 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/l3graphics/l3graphics.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/l3graphics/l3graphics.sty:130:24:130:51: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/l3graphics/l3graphics.sty:139:38:139:65: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/l3graphics/l3graphics.sty:145:24:145:50: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/l3graphics/l3graphics.sty:148:23:148:49: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/l3graphics/l3graphics.sty:158:9:158:21: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/l3graphics/l3graphics.sty:158:23:158:48: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/l3graphics/l3graphics.sty:161:23:161:48: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/l3graphics/l3graphics.sty:240:9:240:20: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/l3graphics/l3graphics.sty:241:9:241:18: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/l3graphics/l3graphics.sty:245:13:245:24: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/l3graphics/l3graphics.sty:247:13:247:22: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/l3graphics/l3graphics.sty:252:17:252:26: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/l3graphics/l3graphics.sty:252:55:252:64: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/l3graphics/l3graphics.sty:254:13:254:22: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/l3graphics/l3graphics.sty:255:13:255:24: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/l3graphics/l3graphics.sty:257:9:257:18: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/l3graphics/l3graphics.sty:258:9:258:20: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/l3graphics/l3graphics.sty:357:24:357:51: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/l3graphics/l3graphics.sty:367:38:367:65: w200 "weird" and "do not use" argument specifiers

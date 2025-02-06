@@ -1,0 +1,6 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pstool/pstool.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pstool/pstool.sty:348:7:348:33: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pstool/pstool.sty:352:17:352:43: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pstool/pstool.sty:359:28:359:54: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pstool/pstool.sty:366:17:366:43: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pstool/pstool.sty:368:3:368:29: w200 "weird" and "do not use" argument specifiers

@@ -1,0 +1,11 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/dtk/dtk.cls
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/dtk/dtk.cls:562:3:562:3: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/dtk/dtk.cls:562:11:562:11: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/dtk/dtk.cls:562:19:562:19: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/dtk/dtk.cls:563:3:563:3: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/dtk/dtk.cls:564:3:564:3: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/dtk/dtk.cls:565:3:565:3: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/dtk/dtk.cls:566:3:566:3: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/dtk/dtk.cls:567:3:567:3: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/dtk/dtk.cls:568:3:568:3: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/dtk/dtk.cls:569:3:569:3: e209 invalid characters

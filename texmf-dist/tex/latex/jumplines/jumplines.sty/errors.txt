@@ -1,0 +1,6 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jumplines/jumplines.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jumplines/jumplines.sty:393:140:393:163: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jumplines/jumplines.sty:396:143:396:166: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jumplines/jumplines.sty:471:21:471:44: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jumplines/jumplines.sty:472:27:472:50: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jumplines/jumplines.sty:503:29:503:52: e201 unknown argument specifiers

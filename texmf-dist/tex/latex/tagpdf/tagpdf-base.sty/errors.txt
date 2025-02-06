@@ -1,0 +1,3 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tagpdf/tagpdf-base.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tagpdf/tagpdf-base.sty:39:46:39:59: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tagpdf/tagpdf-base.sty:150:16:150:40: w200 "weird" and "do not use" argument specifiers

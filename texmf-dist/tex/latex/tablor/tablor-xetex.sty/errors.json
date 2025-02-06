@@ -1,0 +1,466 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty",
+    "lnum": 372,
+    "end_lnum": 372,
+    "col": 20,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty:372:20:372:20: e208 too many closing braces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty",
+    "lnum": 461,
+    "end_lnum": 461,
+    "col": 2,
+    "end_col": 2,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty:461:2:461:2: e208 too many closing braces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty",
+    "lnum": 561,
+    "end_lnum": 561,
+    "col": 20,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty:561:20:561:20: e208 too many closing braces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty",
+    "lnum": 650,
+    "end_lnum": 650,
+    "col": 2,
+    "end_col": 2,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty:650:2:650:2: e208 too many closing braces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty",
+    "lnum": 798,
+    "end_lnum": 798,
+    "col": 22,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty:798:22:798:22: e208 too many closing braces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty",
+    "lnum": 916,
+    "end_lnum": 916,
+    "col": 2,
+    "end_col": 2,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty:916:2:916:2: e208 too many closing braces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty",
+    "lnum": 1023,
+    "end_lnum": 1023,
+    "col": 20,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty:1023:20:1023:20: e208 too many closing braces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty",
+    "lnum": 1107,
+    "end_lnum": 1107,
+    "col": 2,
+    "end_col": 2,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty:1107:2:1107:2: e208 too many closing braces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty",
+    "lnum": 1254,
+    "end_lnum": 1254,
+    "col": 20,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty:1254:20:1254:20: e208 too many closing braces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty",
+    "lnum": 1372,
+    "end_lnum": 1372,
+    "col": 2,
+    "end_col": 2,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty:1372:2:1372:2: e208 too many closing braces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty",
+    "lnum": 1527,
+    "end_lnum": 1527,
+    "col": 20,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty:1527:20:1527:20: e208 too many closing braces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty",
+    "lnum": 1644,
+    "end_lnum": 1644,
+    "col": 2,
+    "end_col": 2,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty:1644:2:1644:2: e208 too many closing braces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty",
+    "lnum": 1814,
+    "end_lnum": 1814,
+    "col": 20,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty:1814:20:1814:20: e208 too many closing braces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty",
+    "lnum": 1929,
+    "end_lnum": 1929,
+    "col": 2,
+    "end_col": 2,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty:1929:2:1929:2: e208 too many closing braces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty",
+    "lnum": 2056,
+    "end_lnum": 2056,
+    "col": 2,
+    "end_col": 2,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty:2056:2:2056:2: e208 too many closing braces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty",
+    "lnum": 2186,
+    "end_lnum": 2186,
+    "col": 1,
+    "end_col": 1,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty:2186:1:2186:1: e208 too many closing braces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty",
+    "lnum": 2282,
+    "end_lnum": 2282,
+    "col": 1,
+    "end_col": 1,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty:2282:1:2282:1: e208 too many closing braces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty",
+    "lnum": 2319,
+    "end_lnum": 2319,
+    "col": 38,
+    "end_col": 38,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty:2319:38:2319:38: e208 too many closing braces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty",
+    "lnum": 2332,
+    "end_lnum": 2332,
+    "col": 1,
+    "end_col": 1,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty:2332:1:2332:1: e208 too many closing braces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty",
+    "lnum": 2337,
+    "end_lnum": 2337,
+    "col": 2,
+    "end_col": 2,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty:2337:2:2337:2: e208 too many closing braces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty",
+    "lnum": 2466,
+    "end_lnum": 2466,
+    "col": 1,
+    "end_col": 1,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty:2466:1:2466:1: e208 too many closing braces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty",
+    "lnum": 2504,
+    "end_lnum": 2504,
+    "col": 18,
+    "end_col": 18,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty:2504:18:2504:18: e208 too many closing braces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty",
+    "lnum": 2516,
+    "end_lnum": 2516,
+    "col": 1,
+    "end_col": 1,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty:2516:1:2516:1: e208 too many closing braces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty",
+    "lnum": 2529,
+    "end_lnum": 2529,
+    "col": 2,
+    "end_col": 2,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty:2529:2:2529:2: e208 too many closing braces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty",
+    "lnum": 2562,
+    "end_lnum": 2562,
+    "col": 64,
+    "end_col": 64,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty:2562:64:2562:64: e208 too many closing braces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty",
+    "lnum": 2570,
+    "end_lnum": 2570,
+    "col": 125,
+    "end_col": 125,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty:2570:125:2570:125: e208 too many closing braces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty",
+    "lnum": 2587,
+    "end_lnum": 2587,
+    "col": 2,
+    "end_col": 2,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty:2587:2:2587:2: e208 too many closing braces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty",
+    "lnum": 2711,
+    "end_lnum": 2711,
+    "col": 2,
+    "end_col": 2,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty:2711:2:2711:2: e208 too many closing braces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty",
+    "lnum": 2824,
+    "end_lnum": 2824,
+    "col": 1,
+    "end_col": 1,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tablor/tablor-xetex.sty:2824:1:2824:1: e208 too many closing braces"
+    ]
+  }
+]

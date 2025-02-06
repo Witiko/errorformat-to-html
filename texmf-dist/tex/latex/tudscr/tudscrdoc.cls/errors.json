@@ -1,0 +1,82 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tudscr/tudscrdoc.cls",
+    "lnum": 1604,
+    "end_lnum": 1604,
+    "col": 37,
+    "end_col": 46,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tudscr/tudscrdoc.cls:1604:37:1604:46: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tudscr/tudscrdoc.cls",
+    "lnum": 1632,
+    "end_lnum": 1632,
+    "col": 32,
+    "end_col": 43,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tudscr/tudscrdoc.cls:1632:32:1632:43: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tudscr/tudscrdoc.cls",
+    "lnum": 1639,
+    "end_lnum": 1639,
+    "col": 32,
+    "end_col": 43,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tudscr/tudscrdoc.cls:1639:32:1639:43: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tudscr/tudscrdoc.cls",
+    "lnum": 1646,
+    "end_lnum": 1646,
+    "col": 32,
+    "end_col": 43,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tudscr/tudscrdoc.cls:1646:32:1646:43: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tudscr/tudscrdoc.cls",
+    "lnum": 1655,
+    "end_lnum": 1655,
+    "col": 32,
+    "end_col": 43,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tudscr/tudscrdoc.cls:1655:32:1655:43: e201 unknown argument specifiers"
+    ]
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwafuthesis/nwafuthesis.cls",
+    "lnum": 1085,
+    "end_lnum": 1085,
+    "col": 28,
+    "end_col": 28,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwafuthesis/nwafuthesis.cls:1085:28:1085:28: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwafuthesis/nwafuthesis.cls",
+    "lnum": 1086,
+    "end_lnum": 1086,
+    "col": 32,
+    "end_col": 32,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwafuthesis/nwafuthesis.cls:1086:32:1086:32: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwafuthesis/nwafuthesis.cls",
+    "lnum": 113,
+    "end_lnum": 113,
+    "col": 36,
+    "end_col": 46,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwafuthesis/nwafuthesis.cls:113:36:113:46: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwafuthesis/nwafuthesis.cls",
+    "lnum": 208,
+    "end_lnum": 208,
+    "col": 21,
+    "end_col": 34,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwafuthesis/nwafuthesis.cls:208:21:208:34: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwafuthesis/nwafuthesis.cls",
+    "lnum": 1525,
+    "end_lnum": 1525,
+    "col": 5,
+    "end_col": 16,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwafuthesis/nwafuthesis.cls:1525:5:1525:16: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwafuthesis/nwafuthesis.cls",
+    "lnum": 1570,
+    "end_lnum": 1570,
+    "col": 13,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwafuthesis/nwafuthesis.cls:1570:13:1570:14: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwafuthesis/nwafuthesis.cls",
+    "lnum": 1594,
+    "end_lnum": 1594,
+    "col": 15,
+    "end_col": 41,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwafuthesis/nwafuthesis.cls:1594:15:1594:41: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwafuthesis/nwafuthesis.cls",
+    "lnum": 1651,
+    "end_lnum": 1651,
+    "col": 5,
+    "end_col": 31,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwafuthesis/nwafuthesis.cls:1651:5:1651:31: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwafuthesis/nwafuthesis.cls",
+    "lnum": 1657,
+    "end_lnum": 1657,
+    "col": 5,
+    "end_col": 31,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwafuthesis/nwafuthesis.cls:1657:5:1657:31: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwafuthesis/nwafuthesis.cls",
+    "lnum": 3425,
+    "end_lnum": 3425,
+    "col": 68,
+    "end_col": 83,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwafuthesis/nwafuthesis.cls:3425:68:3425:83: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwafuthesis/nwafuthesis.cls",
+    "lnum": 3432,
+    "end_lnum": 3432,
+    "col": 64,
+    "end_col": 79,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwafuthesis/nwafuthesis.cls:3432:64:3432:79: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  }
+]

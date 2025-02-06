@@ -1,0 +1,4 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tudscr/tudscrposter.cls
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tudscr/tudscrposter.cls:3147:28:3147:28: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tudscr/tudscrposter.cls:3153:19:3153:19: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tudscr/tudscrposter.cls:3154:19:3154:19: e209 invalid characters

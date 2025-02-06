@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/matapli/matapli.cls
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/matapli/matapli.cls:19:1:23:0: w101 unexpected delimiters

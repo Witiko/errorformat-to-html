@@ -1,0 +1,28 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/updatemarks/updatemarks.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/updatemarks/updatemarks.sty:26:15:26:35: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/updatemarks/updatemarks.sty:27:1:27:15: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/updatemarks/updatemarks.sty:40:20:40:39: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/updatemarks/updatemarks.sty:41:20:41:34: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/updatemarks/updatemarks.sty:42:20:42:31: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/updatemarks/updatemarks.sty:49:5:49:23: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/updatemarks/updatemarks.sty:50:10:50:22: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/updatemarks/updatemarks.sty:52:27:52:45: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/updatemarks/updatemarks.sty:57:56:57:66: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/updatemarks/updatemarks.sty:58:35:58:48: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/updatemarks/updatemarks.sty:62:7:62:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/updatemarks/updatemarks.sty:64:26:64:39: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/updatemarks/updatemarks.sty:81:45:81:64: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/updatemarks/updatemarks.sty:88:50:88:71: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/updatemarks/updatemarks.sty:110:31:110:50: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/updatemarks/updatemarks.sty:112:35:112:56: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/updatemarks/updatemarks.sty:116:25:116:36: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/updatemarks/updatemarks.sty:117:53:117:74: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/updatemarks/updatemarks.sty:122:21:122:32: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/updatemarks/updatemarks.sty:123:49:123:68: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/updatemarks/updatemarks.sty:232:21:232:32: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/updatemarks/updatemarks.sty:233:17:233:28: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/updatemarks/updatemarks.sty:264:9:264:40: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/updatemarks/updatemarks.sty:266:13:266:44: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/updatemarks/updatemarks.sty:372:13:372:24: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/updatemarks/updatemarks.sty:372:13:372:24: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/updatemarks/updatemarks.sty:587:60:587:74: w200 "weird" and "do not use" argument specifiers

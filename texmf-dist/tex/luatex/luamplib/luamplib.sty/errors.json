@@ -1,0 +1,18 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/luamplib/luamplib.sty",
+    "lnum": 682,
+    "end_lnum": 682,
+    "col": 5,
+    "end_col": 18,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/luamplib/luamplib.sty:682:5:682:18: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  }
+]

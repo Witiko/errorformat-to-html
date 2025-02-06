@@ -1,0 +1,19 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/moremath/moremath.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/moremath/moremath.sty:191:3:191:16: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/moremath/moremath.sty:199:3:199:21: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/moremath/moremath.sty:203:3:203:15: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/moremath/moremath.sty:258:25:258:46: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/moremath/moremath.sty:259:25:259:45: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/moremath/moremath.sty:260:25:260:45: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/moremath/moremath.sty:261:25:261:45: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/moremath/moremath.sty:262:25:262:45: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/moremath/moremath.sty:349:48:349:69: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/moremath/moremath.sty:350:48:350:68: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/moremath/moremath.sty:351:48:351:68: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/moremath/moremath.sty:352:48:352:68: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/moremath/moremath.sty:353:48:353:68: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/moremath/moremath.sty:602:55:602:76: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/moremath/moremath.sty:603:55:603:75: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/moremath/moremath.sty:604:55:604:75: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/moremath/moremath.sty:605:55:605:75: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/moremath/moremath.sty:606:55:606:75: w200 "weird" and "do not use" argument specifiers

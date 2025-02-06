@@ -1,0 +1,50 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hologo/hologo.sty",
+    "lnum": 1062,
+    "end_lnum": 1062,
+    "col": 11,
+    "end_col": 11,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hologo/hologo.sty:1062:11:1062:11: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hologo/hologo.sty",
+    "lnum": 1166,
+    "end_lnum": 1166,
+    "col": 14,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hologo/hologo.sty:1166:14:1166:14: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hologo/hologo.sty",
+    "lnum": 1166,
+    "end_lnum": 1166,
+    "col": 32,
+    "end_col": 32,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hologo/hologo.sty:1166:32:1166:32: e209 invalid characters"
+    ]
+  }
+]

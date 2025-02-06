@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/typewriter/typewriter.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/typewriter/typewriter.sty:158:1:158:1: e209 invalid characters

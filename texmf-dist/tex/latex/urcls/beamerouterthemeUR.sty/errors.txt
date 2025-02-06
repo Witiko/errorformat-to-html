@@ -1,0 +1,8 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/urcls/beamerouterthemeUR.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/urcls/beamerouterthemeUR.sty:210:12:210:20: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/urcls/beamerouterthemeUR.sty:286:12:286:21: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/urcls/beamerouterthemeUR.sty:300:13:300:22: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/urcls/beamerouterthemeUR.sty:301:13:301:22: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/urcls/beamerouterthemeUR.sty:303:13:303:22: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/urcls/beamerouterthemeUR.sty:304:13:304:22: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/urcls/beamerouterthemeUR.sty:333:1:333:1: e208 too many closing braces

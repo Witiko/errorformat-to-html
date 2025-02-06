@@ -1,0 +1,5 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lineno/lineno.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lineno/lineno.sty:3541:48:3541:48: e208 too many closing braces
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lineno/lineno.sty:3547:48:3547:48: e208 too many closing braces
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lineno/lineno.sty:3576:48:3576:48: e208 too many closing braces
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lineno/lineno.sty:3582:48:3582:48: e208 too many closing braces

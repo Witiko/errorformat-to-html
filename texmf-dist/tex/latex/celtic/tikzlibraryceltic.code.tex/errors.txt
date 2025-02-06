@@ -1,0 +1,14 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/celtic/tikzlibraryceltic.code.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/celtic/tikzlibraryceltic.code.tex:112:5:112:23: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/celtic/tikzlibraryceltic.code.tex:122:5:122:23: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/celtic/tikzlibraryceltic.code.tex:130:43:130:61: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/celtic/tikzlibraryceltic.code.tex:137:43:137:61: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/celtic/tikzlibraryceltic.code.tex:146:19:146:44: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/celtic/tikzlibraryceltic.code.tex:150:19:150:54: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/celtic/tikzlibraryceltic.code.tex:154:19:154:41: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/celtic/tikzlibraryceltic.code.tex:158:19:158:51: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/celtic/tikzlibraryceltic.code.tex:326:9:326:31: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/celtic/tikzlibraryceltic.code.tex:335:9:335:41: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/celtic/tikzlibraryceltic.code.tex:344:9:344:34: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/celtic/tikzlibraryceltic.code.tex:353:9:353:44: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/celtic/tikzlibraryceltic.code.tex:388:3:388:22: w202 deprecated control sequences

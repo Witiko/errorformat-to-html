@@ -1,0 +1,4 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/arabtex/buck.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/arabtex/buck.sty:25:29:25:29: e208 too many closing braces
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/arabtex/buck.sty:159:17:159:17: e208 too many closing braces
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/arabtex/buck.sty:160:1:160:1: e208 too many closing braces

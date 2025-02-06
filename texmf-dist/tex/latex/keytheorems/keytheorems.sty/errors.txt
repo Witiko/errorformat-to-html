@@ -1,0 +1,26 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/keytheorems/keytheorems.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/keytheorems/keytheorems.sty:168:14:168:42: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/keytheorems/keytheorems.sty:170:14:170:41: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/keytheorems/keytheorems.sty:172:14:172:44: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/keytheorems/keytheorems.sty:174:14:174:43: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/keytheorems/keytheorems.sty:176:14:176:45: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/keytheorems/keytheorems.sty:178:14:178:44: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/keytheorems/keytheorems.sty:180:14:180:44: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/keytheorems/keytheorems.sty:182:14:182:43: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/keytheorems/keytheorems.sty:257:31:257:43: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/keytheorems/keytheorems.sty:809:19:809:45: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/keytheorems/keytheorems.sty:810:19:810:39: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/keytheorems/keytheorems.sty:910:23:910:50: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/keytheorems/keytheorems.sty:976:15:976:34: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/keytheorems/keytheorems.sty:979:5:979:24: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/keytheorems/keytheorems.sty:983:5:983:24: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/keytheorems/keytheorems.sty:991:5:991:24: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/keytheorems/keytheorems.sty:996:5:996:24: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/keytheorems/keytheorems.sty:1218:27:1218:39: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/keytheorems/keytheorems.sty:1615:17:1615:29: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/keytheorems/keytheorems.sty:1940:21:1940:53: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/keytheorems/keytheorems.sty:1966:36:1966:68: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/keytheorems/keytheorems.sty:2065:42:2065:73: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/keytheorems/keytheorems.sty:2072:23:2072:54: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/keytheorems/keytheorems.sty:2654:27:2654:28: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/keytheorems/keytheorems.sty:2768:39:2768:40: s205 malformed function name

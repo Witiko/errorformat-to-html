@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/memoir/memoir.cls
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/memoir/memoir.cls:134:5:134:9: w200 "weird" and "do not use" argument specifiers

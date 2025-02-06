@@ -1,0 +1,34 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicodefonttable/unicodefonttable.sty",
+    "lnum": 355,
+    "end_lnum": 355,
+    "col": 5,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicodefonttable/unicodefonttable.sty:355:5:355:21: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicodefonttable/unicodefonttable.sty",
+    "lnum": 355,
+    "end_lnum": 355,
+    "col": 23,
+    "end_col": 33,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicodefonttable/unicodefonttable.sty:355:23:355:33: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  }
+]

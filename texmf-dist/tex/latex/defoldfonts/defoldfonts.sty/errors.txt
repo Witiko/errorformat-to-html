@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/defoldfonts/defoldfonts.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/defoldfonts/defoldfonts.sty:26:1:26:1: e208 too many closing braces

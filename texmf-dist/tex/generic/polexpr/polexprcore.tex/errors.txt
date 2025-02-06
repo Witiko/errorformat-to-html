@@ -1,0 +1,27 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/polexpr/polexprcore.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/polexpr/polexprcore.tex:21:10:21:26: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/polexpr/polexprcore.tex:31:5:31:21: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/polexpr/polexprcore.tex:33:10:33:27: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/polexpr/polexprcore.tex:43:5:43:24: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/polexpr/polexprcore.tex:45:5:45:24: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/polexpr/polexprcore.tex:47:17:47:34: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/polexpr/polexprcore.tex:268:8:268:24: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/polexpr/polexprcore.tex:345:9:345:25: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/polexpr/polexprcore.tex:351:15:351:31: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/polexpr/polexprcore.tex:366:15:366:31: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/polexpr/polexprcore.tex:530:8:530:24: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/polexpr/polexprcore.tex:572:7:572:23: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/polexpr/polexprcore.tex:578:10:578:26: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/polexpr/polexprcore.tex:582:10:582:26: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/polexpr/polexprcore.tex:664:9:664:25: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/polexpr/polexprcore.tex:800:28:800:44: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/polexpr/polexprcore.tex:808:28:808:44: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/polexpr/polexprcore.tex:1035:5:1035:21: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/polexpr/polexprcore.tex:1083:29:1083:45: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/polexpr/polexprcore.tex:1101:11:1101:27: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/polexpr/polexprcore.tex:1123:11:1123:27: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/polexpr/polexprcore.tex:1149:8:1149:25: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/polexpr/polexprcore.tex:1179:8:1179:25: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/polexpr/polexprcore.tex:1234:8:1234:25: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/polexpr/polexprcore.tex:1255:8:1255:25: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/polexpr/polexprcore.tex:1279:8:1279:25: e201 unknown argument specifiers

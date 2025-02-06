@@ -1,0 +1,18 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/dehyph/dehypht.tex",
+    "lnum": 179,
+    "end_lnum": 179,
+    "col": 10,
+    "end_col": 10,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/dehyph/dehypht.tex:179:10:179:10: e209 invalid characters"
+    ]
+  }
+]

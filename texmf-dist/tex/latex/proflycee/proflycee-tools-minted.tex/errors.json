@@ -1,0 +1,34 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/proflycee/proflycee-tools-minted.tex",
+    "lnum": 59,
+    "end_lnum": 59,
+    "col": 32,
+    "end_col": 37,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/proflycee/proflycee-tools-minted.tex:59:32:59:37: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/proflycee/proflycee-tools-minted.tex",
+    "lnum": 76,
+    "end_lnum": 76,
+    "col": 32,
+    "end_col": 37,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/proflycee/proflycee-tools-minted.tex:76:32:76:37: e201 unknown argument specifiers"
+    ]
+  }
+]

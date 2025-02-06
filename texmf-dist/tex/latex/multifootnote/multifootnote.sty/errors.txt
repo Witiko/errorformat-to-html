@@ -1,0 +1,6 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/multifootnote/multifootnote.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/multifootnote/multifootnote.sty:132:30:132:31: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/multifootnote/multifootnote.sty:200:32:200:44: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/multifootnote/multifootnote.sty:240:30:240:31: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/multifootnote/multifootnote.sty:350:24:350:25: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/multifootnote/multifootnote.sty:429:24:429:25: s205 malformed function name

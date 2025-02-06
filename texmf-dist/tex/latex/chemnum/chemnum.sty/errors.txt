@@ -1,0 +1,14 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemnum/chemnum.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemnum/chemnum.sty:42:1:47:0: w101 unexpected delimiters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemnum/chemnum.sty:1317:17:1317:55: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemnum/chemnum.sty:1344:5:1344:43: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemnum/chemnum.sty:1348:13:1348:51: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemnum/chemnum.sty:1438:11:1438:20: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemnum/chemnum.sty:1441:15:1441:26: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemnum/chemnum.sty:1441:28:1441:39: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemnum/chemnum.sty:1709:17:1709:39: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemnum/chemnum.sty:1711:17:1711:36: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemnum/chemnum.sty:1715:21:1715:43: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemnum/chemnum.sty:1716:21:1716:40: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemnum/chemnum.sty:2065:5:2065:24: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemnum/chemnum.sty:2086:52:2086:63: e203 removed control sequences

@@ -1,0 +1,69 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:144:23:144:58: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:149:23:149:65: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:157:9:157:65: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:158:9:158:59: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:160:23:160:73: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:165:25:165:75: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:166:23:166:79: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:171:25:171:81: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:176:23:176:54: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:307:23:307:55: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:308:23:308:54: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:309:23:309:55: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:310:23:310:55: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:311:23:311:57: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:312:23:312:54: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:313:23:313:53: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:314:23:314:55: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:315:23:315:54: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:316:23:316:55: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:317:23:317:56: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:318:23:318:52: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:319:23:319:52: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:320:23:320:52: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:321:23:321:57: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:322:23:322:52: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:323:23:323:53: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:324:23:324:55: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:325:23:325:53: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:326:23:326:57: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:327:23:327:53: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:328:23:328:53: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:329:23:329:53: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:330:23:330:55: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:331:23:331:55: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:332:23:332:54: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:333:23:333:55: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:334:23:334:55: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:335:23:335:57: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:336:23:336:54: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:337:23:337:53: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:338:23:338:55: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:339:23:339:54: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:340:23:340:55: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:341:23:341:56: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:342:23:342:52: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:343:23:343:52: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:344:23:344:52: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:345:23:345:57: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:346:23:346:52: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:347:23:347:53: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:348:23:348:55: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:349:23:349:53: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:350:23:350:57: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:351:23:351:53: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:352:23:352:53: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:353:23:353:53: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:354:23:354:55: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:483:21:483:63: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:488:21:488:56: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:1083:13:1083:25: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:1083:36:1083:48: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:1251:23:1251:56: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:1253:23:1253:57: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:1735:17:1735:48: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:2485:13:2485:25: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:2505:17:2505:29: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:2514:9:2514:21: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty:2594:5:2594:17: w200 "weird" and "do not use" argument specifiers

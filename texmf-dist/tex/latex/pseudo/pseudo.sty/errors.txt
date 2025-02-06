@@ -1,0 +1,14 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pseudo/pseudo.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pseudo/pseudo.sty:168:24:168:25: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pseudo/pseudo.sty:240:9:240:20: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pseudo/pseudo.sty:242:9:242:20: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pseudo/pseudo.sty:244:9:244:20: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pseudo/pseudo.sty:248:16:248:36: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pseudo/pseudo.sty:265:16:265:32: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pseudo/pseudo.sty:319:9:319:20: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pseudo/pseudo.sty:489:27:489:40: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pseudo/pseudo.sty:605:20:605:21: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pseudo/pseudo.sty:608:20:608:21: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pseudo/pseudo.sty:655:5:655:18: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pseudo/pseudo.sty:877:43:877:62: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pseudo/pseudo.sty:878:21:878:40: w200 "weird" and "do not use" argument specifiers

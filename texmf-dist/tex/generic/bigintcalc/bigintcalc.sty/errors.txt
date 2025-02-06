@@ -1,0 +1,27 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty:526:14:526:46: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty:576:11:576:43: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty:586:14:586:46: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty:765:12:765:44: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty:856:12:856:44: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty:1113:12:1113:44: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty:1227:20:1227:47: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty:1244:12:1244:44: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty:1314:19:1314:51: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty:1317:24:1317:54: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty:1317:24:1317:54: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty:1325:12:1325:44: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty:1329:10:1329:42: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty:1356:12:1356:44: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty:1368:12:1368:44: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty:1374:10:1374:42: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty:1376:8:1376:40: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty:1442:10:1442:42: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty:1444:8:1444:40: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty:1472:20:1472:50: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty:1472:20:1472:50: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty:1532:10:1532:42: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty:1739:20:1739:50: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty:1739:20:1739:50: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty:1784:10:1784:42: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty:1807:8:1807:40: e201 unknown argument specifiers

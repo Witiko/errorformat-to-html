@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/superiors/superiors.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/superiors/superiors.sty:201:15:201:16: s205 malformed function name

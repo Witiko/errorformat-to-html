@@ -1,0 +1,10 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/hobete/hobete.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/hobete/hobete.sty:26:12:26:27: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/hobete/hobete.sty:27:12:27:26: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/hobete/hobete.sty:33:38:33:53: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/hobete/hobete.sty:34:37:34:51: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/hobete/hobete.sty:60:12:60:21: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/hobete/hobete.sty:62:47:62:56: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/hobete/hobete.sty:114:12:114:23: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/hobete/hobete.sty:127:31:127:44: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/hobete/hobete.sty:153:1:153:15: e203 removed control sequences

@@ -1,0 +1,3 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian/xepersian-mathdigitspec.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian/xepersian-mathdigitspec.sty:184:5:184:21: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian/xepersian-mathdigitspec.sty:367:15:367:40: s205 malformed function name

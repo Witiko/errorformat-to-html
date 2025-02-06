@@ -1,0 +1,18 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/bookshelf/bookshelf.cls",
+    "lnum": 223,
+    "end_lnum": 223,
+    "col": 5,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/bookshelf/bookshelf.cls:223:5:223:21: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  }
+]

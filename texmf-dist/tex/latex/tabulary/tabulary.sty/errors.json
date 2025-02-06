@@ -1,0 +1,18 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tabulary/tabulary.sty",
+    "lnum": 470,
+    "end_lnum": 470,
+    "col": 13,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tabulary/tabulary.sty:470:13:470:14: s205 malformed function name"
+    ]
+  }
+]

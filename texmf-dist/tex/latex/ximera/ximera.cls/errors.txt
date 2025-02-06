@@ -1,0 +1,5 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ximera/ximera.cls
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ximera/ximera.cls:74:51:74:56: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ximera/ximera.cls:75:53:75:56: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ximera/ximera.cls:77:7:77:10: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ximera/ximera.cls:78:40:78:43: e201 unknown argument specifiers

@@ -1,0 +1,7 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/bxjaholiday/bxjaholiday.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/bxjaholiday/bxjaholiday.sty:114:11:114:28: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/bxjaholiday/bxjaholiday.sty:114:43:114:52: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/bxjaholiday/bxjaholiday.sty:115:28:115:41: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/bxjaholiday/bxjaholiday.sty:123:11:123:28: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/bxjaholiday/bxjaholiday.sty:123:43:123:52: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/bxjaholiday/bxjaholiday.sty:124:28:124:41: w200 "weird" and "do not use" argument specifiers

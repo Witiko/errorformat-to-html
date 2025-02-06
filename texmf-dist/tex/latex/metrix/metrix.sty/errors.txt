@@ -1,0 +1,5 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/metrix/metrix.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/metrix/metrix.sty:354:3:354:14: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/metrix/metrix.sty:498:13:498:29: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/metrix/metrix.sty:547:13:547:31: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/metrix/metrix.sty:613:13:613:30: s205 malformed function name

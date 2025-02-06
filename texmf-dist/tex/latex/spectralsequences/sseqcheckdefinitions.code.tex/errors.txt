@@ -1,0 +1,6 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqcheckdefinitions.code.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqcheckdefinitions.code.tex:37:20:37:37: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqcheckdefinitions.code.tex:40:29:40:43: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqcheckdefinitions.code.tex:46:9:46:21: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqcheckdefinitions.code.tex:52:29:52:53: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqcheckdefinitions.code.tex:53:52:53:73: w200 "weird" and "do not use" argument specifiers

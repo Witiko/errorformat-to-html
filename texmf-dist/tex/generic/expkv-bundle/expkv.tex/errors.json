@@ -1,0 +1,34 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/expkv-bundle/expkv.tex",
+    "lnum": 1096,
+    "end_lnum": 1096,
+    "col": 48,
+    "end_col": 48,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/expkv-bundle/expkv.tex:1096:48:1096:48: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/expkv-bundle/expkv.tex",
+    "lnum": 1101,
+    "end_lnum": 1101,
+    "col": 56,
+    "end_col": 56,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/expkv-bundle/expkv.tex:1101:56:1101:56: e209 invalid characters"
+    ]
+  }
+]

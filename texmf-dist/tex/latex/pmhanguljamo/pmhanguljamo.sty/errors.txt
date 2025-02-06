@@ -1,0 +1,4 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pmhanguljamo/pmhanguljamo.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pmhanguljamo/pmhanguljamo.sty:327:16:327:33: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pmhanguljamo/pmhanguljamo.sty:330:16:330:33: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pmhanguljamo/pmhanguljamo.sty:1305:13:1305:24: s205 malformed function name

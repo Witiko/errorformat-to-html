@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xetex/xesearch/xesearch.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xetex/xesearch/xesearch.sty:524:62:524:67: e201 unknown argument specifiers

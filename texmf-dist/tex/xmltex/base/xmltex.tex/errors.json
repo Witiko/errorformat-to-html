@@ -1,0 +1,66 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xmltex/base/xmltex.tex",
+    "lnum": 63,
+    "end_lnum": 63,
+    "col": 10,
+    "end_col": 10,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xmltex/base/xmltex.tex:63:10:63:10: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xmltex/base/xmltex.tex",
+    "lnum": 66,
+    "end_lnum": 66,
+    "col": 16,
+    "end_col": 16,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xmltex/base/xmltex.tex:66:16:66:16: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xmltex/base/xmltex.tex",
+    "lnum": 67,
+    "end_lnum": 67,
+    "col": 39,
+    "end_col": 39,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xmltex/base/xmltex.tex:67:39:67:39: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xmltex/base/xmltex.tex",
+    "lnum": 67,
+    "end_lnum": 67,
+    "col": 60,
+    "end_col": 60,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xmltex/base/xmltex.tex:67:60:67:60: e209 invalid characters"
+    ]
+  }
+]

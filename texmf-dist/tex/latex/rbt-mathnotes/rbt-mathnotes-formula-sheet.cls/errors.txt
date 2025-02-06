@@ -1,0 +1,3 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/rbt-mathnotes/rbt-mathnotes-formula-sheet.cls
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/rbt-mathnotes/rbt-mathnotes-formula-sheet.cls:43:13:43:14: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/rbt-mathnotes/rbt-mathnotes-formula-sheet.cls:49:13:49:28: s205 malformed function name

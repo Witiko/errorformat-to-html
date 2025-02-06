@@ -1,0 +1,34 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/fontinst/base/cfntinst.sty",
+    "lnum": 1324,
+    "end_lnum": 1324,
+    "col": 40,
+    "end_col": 40,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/fontinst/base/cfntinst.sty:1324:40:1324:40: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/fontinst/base/cfntinst.sty",
+    "lnum": 1331,
+    "end_lnum": 1331,
+    "col": 54,
+    "end_col": 54,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/fontinst/base/cfntinst.sty:1331:54:1331:54: e209 invalid characters"
+    ]
+  }
+]

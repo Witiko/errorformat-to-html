@@ -1,0 +1,9 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/updatemarks/updatemarks-nums.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/updatemarks/updatemarks-nums.sty:40:23:40:38: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/updatemarks/updatemarks-nums.sty:53:23:53:37: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/updatemarks/updatemarks-nums.sty:84:13:84:31: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/updatemarks/updatemarks-nums.sty:85:21:85:39: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/updatemarks/updatemarks-nums.sty:94:13:94:31: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/updatemarks/updatemarks-nums.sty:95:21:95:39: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/updatemarks/updatemarks-nums.sty:109:9:109:27: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/updatemarks/updatemarks-nums.sty:110:17:110:35: w200 "weird" and "do not use" argument specifiers

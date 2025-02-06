@@ -1,0 +1,66 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pascaltriangle/pascaltriangle.sty",
+    "lnum": 23,
+    "end_lnum": 23,
+    "col": 11,
+    "end_col": 23,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pascaltriangle/pascaltriangle.sty:23:11:23:23: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pascaltriangle/pascaltriangle.sty",
+    "lnum": 25,
+    "end_lnum": 25,
+    "col": 9,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pascaltriangle/pascaltriangle.sty:25:9:25:21: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pascaltriangle/pascaltriangle.sty",
+    "lnum": 36,
+    "end_lnum": 36,
+    "col": 48,
+    "end_col": 75,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pascaltriangle/pascaltriangle.sty:36:48:36:75: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pascaltriangle/pascaltriangle.sty",
+    "lnum": 127,
+    "end_lnum": 127,
+    "col": 23,
+    "end_col": 36,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pascaltriangle/pascaltriangle.sty:127:23:127:36: w202 deprecated control sequences"
+    ]
+  }
+]

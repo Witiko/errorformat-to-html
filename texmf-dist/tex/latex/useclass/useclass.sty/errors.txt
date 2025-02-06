@@ -1,0 +1,4 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/useclass/useclass.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/useclass/useclass.sty:38:15:38:36: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/useclass/useclass.sty:51:19:51:40: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/useclass/useclass.sty:53:22:53:43: w200 "weird" and "do not use" argument specifiers

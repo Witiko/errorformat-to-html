@@ -1,0 +1,13 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmdoc/gmdoc.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmdoc/gmdoc.sty:542:12:542:12: e208 too many closing braces
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmdoc/gmdoc.sty:1064:19:1064:19: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmdoc/gmdoc.sty:1122:11:1122:11: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmdoc/gmdoc.sty:1132:11:1132:11: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmdoc/gmdoc.sty:1148:9:1148:9: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmdoc/gmdoc.sty:1683:28:1683:28: e208 too many closing braces
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmdoc/gmdoc.sty:1687:18:1687:18: e208 too many closing braces
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmdoc/gmdoc.sty:1691:27:1691:27: e208 too many closing braces
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmdoc/gmdoc.sty:1697:15:1697:15: e208 too many closing braces
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmdoc/gmdoc.sty:2495:6:2495:6: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmdoc/gmdoc.sty:2914:64:2914:64: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmdoc/gmdoc.sty:2914:67:2914:67: e209 invalid characters

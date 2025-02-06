@@ -1,0 +1,18 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unigrazpub/unigrazpub.cls",
+    "lnum": 252,
+    "end_lnum": 252,
+    "col": 58,
+    "end_col": 71,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unigrazpub/unigrazpub.cls:252:58:252:71: w202 deprecated control sequences"
+    ]
+  }
+]

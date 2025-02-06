@@ -1,0 +1,66 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/lecturer/ltr-areas.tex",
+    "lnum": 179,
+    "end_lnum": 179,
+    "col": 29,
+    "end_col": 42,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/lecturer/ltr-areas.tex:179:29:179:42: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/lecturer/ltr-areas.tex",
+    "lnum": 180,
+    "end_lnum": 180,
+    "col": 31,
+    "end_col": 44,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/lecturer/ltr-areas.tex:180:31:180:44: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/lecturer/ltr-areas.tex",
+    "lnum": 181,
+    "end_lnum": 181,
+    "col": 32,
+    "end_col": 50,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/lecturer/ltr-areas.tex:181:32:181:50: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/lecturer/ltr-areas.tex",
+    "lnum": 181,
+    "end_lnum": 181,
+    "col": 67,
+    "end_col": 80,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/lecturer/ltr-areas.tex:181:67:181:80: e201 unknown argument specifiers"
+    ]
+  }
+]

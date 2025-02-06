@@ -1,0 +1,50 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/rtkinenc/rtkinenc.sty",
+    "lnum": 121,
+    "end_lnum": 121,
+    "col": 42,
+    "end_col": 42,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/rtkinenc/rtkinenc.sty:121:42:121:42: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/rtkinenc/rtkinenc.sty",
+    "lnum": 146,
+    "end_lnum": 146,
+    "col": 42,
+    "end_col": 42,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/rtkinenc/rtkinenc.sty:146:42:146:42: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/rtkinenc/rtkinenc.sty",
+    "lnum": 181,
+    "end_lnum": 181,
+    "col": 42,
+    "end_col": 42,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/rtkinenc/rtkinenc.sty:181:42:181:42: e209 invalid characters"
+    ]
+  }
+]

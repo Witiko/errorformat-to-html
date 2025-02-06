@@ -1,0 +1,34 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmverb/gmverb.sty",
+    "lnum": 1283,
+    "end_lnum": 1283,
+    "col": 9,
+    "end_col": 9,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmverb/gmverb.sty:1283:9:1283:9: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmverb/gmverb.sty",
+    "lnum": 1283,
+    "end_lnum": 1283,
+    "col": 27,
+    "end_col": 27,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmverb/gmverb.sty:1283:27:1283:27: e209 invalid characters"
+    ]
+  }
+]

@@ -1,0 +1,78 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:44:16:44:25: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:45:5:45:14: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:47:14:47:25: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:48:23:48:34: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:49:16:49:25: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:49:47:49:58: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:50:20:50:29: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:54:5:54:15: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:54:5:54:15: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:56:10:56:22: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:58:5:58:22: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:59:8:59:18: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:60:21:60:33: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:60:35:60:45: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:62:24:62:41: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:64:5:64:16: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:64:5:64:16: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:65:19:65:31: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:78:6:78:20: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:85:17:85:28: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:85:17:85:28: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:87:4:87:18: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:87:19:87:29: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:89:5:89:20: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:93:28:93:38: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:93:28:93:38: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:98:3:98:14: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:98:3:98:14: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:99:22:99:34: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:100:26:100:43: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:101:3:101:12: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:102:3:102:11: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:104:5:104:13: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:104:15:104:30: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:105:25:105:33: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:105:46:105:54: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:105:55:105:70: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:107:40:107:55: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:121:40:121:53: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:122:7:122:20: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:122:22:122:33: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:122:22:122:33: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:124:42:124:57: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:125:7:125:22: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:125:24:125:35: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:125:24:125:35: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:127:37:127:47: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:128:7:128:17: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:128:19:128:30: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:128:19:128:30: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:130:41:130:55: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:131:7:131:21: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:131:23:131:34: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:131:23:131:34: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:133:41:133:55: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:134:7:134:21: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:135:17:135:28: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:135:17:135:28: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:136:41:136:55: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:137:7:137:21: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:138:17:138:28: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:138:17:138:28: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:139:41:139:55: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:140:7:140:21: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:141:17:141:28: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:141:17:141:28: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:142:42:142:57: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:143:7:143:22: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:144:17:144:28: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:144:17:144:28: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:145:42:145:57: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:146:7:146:22: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:147:17:147:28: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:147:17:147:28: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:149:16:149:25: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:150:16:150:26: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/petri-nets/pndraw.sty:150:16:150:26: w200 "weird" and "do not use" argument specifiers

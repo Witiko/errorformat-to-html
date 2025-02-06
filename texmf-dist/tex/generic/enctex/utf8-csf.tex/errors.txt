@@ -1,0 +1,3 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/enctex/utf8-csf.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/enctex/utf8-csf.tex:58:12:58:12: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/enctex/utf8-csf.tex:58:15:58:15: e209 invalid characters

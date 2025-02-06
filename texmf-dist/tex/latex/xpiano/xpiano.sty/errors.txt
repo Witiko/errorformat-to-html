@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xpiano/xpiano.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xpiano/xpiano.sty:27:5:27:19: w200 "weird" and "do not use" argument specifiers

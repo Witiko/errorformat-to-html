@@ -1,0 +1,866 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 90,
+    "end_lnum": 90,
+    "col": 5,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:90:5:90:19: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 92,
+    "end_lnum": 92,
+    "col": 7,
+    "end_col": 23,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:92:7:92:23: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 160,
+    "end_lnum": 161,
+    "col": 5,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:160:5:161:0: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 162,
+    "end_lnum": 162,
+    "col": 1,
+    "end_col": 16,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:162:1:162:16: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 164,
+    "end_lnum": 164,
+    "col": 5,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:164:5:164:20: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 164,
+    "end_lnum": 165,
+    "col": 21,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:164:21:165:0: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 166,
+    "end_lnum": 166,
+    "col": 9,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:166:9:166:19: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 166,
+    "end_lnum": 167,
+    "col": 20,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:166:20:167:0: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 167,
+    "end_lnum": 168,
+    "col": 9,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:167:9:168:0: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 170,
+    "end_lnum": 170,
+    "col": 5,
+    "end_col": 28,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:170:5:170:28: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 171,
+    "end_lnum": 171,
+    "col": 1,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:171:1:171:14: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 171,
+    "end_lnum": 171,
+    "col": 15,
+    "end_col": 29,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:171:15:171:29: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 172,
+    "end_lnum": 172,
+    "col": 3,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:172:3:172:14: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 174,
+    "end_lnum": 174,
+    "col": 1,
+    "end_col": 16,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:174:1:174:16: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 176,
+    "end_lnum": 176,
+    "col": 5,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:176:5:176:20: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 177,
+    "end_lnum": 177,
+    "col": 5,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:177:5:177:21: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 179,
+    "end_lnum": 179,
+    "col": 1,
+    "end_col": 23,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:179:1:179:23: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 181,
+    "end_lnum": 181,
+    "col": 5,
+    "end_col": 17,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:181:5:181:17: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 181,
+    "end_lnum": 182,
+    "col": 18,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:181:18:182:0: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 183,
+    "end_lnum": 183,
+    "col": 9,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:183:9:183:21: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 184,
+    "end_lnum": 184,
+    "col": 9,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:184:9:184:21: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 186,
+    "end_lnum": 186,
+    "col": 5,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:186:5:186:20: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 186,
+    "end_lnum": 186,
+    "col": 21,
+    "end_col": 42,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:186:21:186:42: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 188,
+    "end_lnum": 188,
+    "col": 9,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:188:9:188:21: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 188,
+    "end_lnum": 189,
+    "col": 22,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:188:22:189:0: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 194,
+    "end_lnum": 194,
+    "col": 1,
+    "end_col": 23,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:194:1:194:23: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 196,
+    "end_lnum": 196,
+    "col": 5,
+    "end_col": 17,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:196:5:196:17: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 196,
+    "end_lnum": 196,
+    "col": 18,
+    "end_col": 30,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:196:18:196:30: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 199,
+    "end_lnum": 199,
+    "col": 1,
+    "end_col": 16,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:199:1:199:16: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 201,
+    "end_lnum": 201,
+    "col": 5,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:201:5:201:21: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 204,
+    "end_lnum": 204,
+    "col": 1,
+    "end_col": 23,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:204:1:204:23: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 206,
+    "end_lnum": 207,
+    "col": 5,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:206:5:207:0: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 207,
+    "end_lnum": 207,
+    "col": 5,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:207:5:207:21: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 207,
+    "end_lnum": 207,
+    "col": 22,
+    "end_col": 43,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:207:22:207:43: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 209,
+    "end_lnum": 209,
+    "col": 9,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:209:9:209:22: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 209,
+    "end_lnum": 209,
+    "col": 23,
+    "end_col": 43,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:209:23:209:43: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 209,
+    "end_lnum": 209,
+    "col": 44,
+    "end_col": 65,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:209:44:209:65: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 211,
+    "end_lnum": 211,
+    "col": 1,
+    "end_col": 23,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:211:1:211:23: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 211,
+    "end_lnum": 211,
+    "col": 24,
+    "end_col": 44,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:211:24:211:44: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 213,
+    "end_lnum": 213,
+    "col": 5,
+    "end_col": 15,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:213:5:213:15: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 213,
+    "end_lnum": 213,
+    "col": 16,
+    "end_col": 37,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:213:16:213:37: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 214,
+    "end_lnum": 214,
+    "col": 5,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:214:5:214:20: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 218,
+    "end_lnum": 218,
+    "col": 1,
+    "end_col": 16,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:218:1:218:16: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 218,
+    "end_lnum": 218,
+    "col": 17,
+    "end_col": 38,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:218:17:218:38: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 220,
+    "end_lnum": 220,
+    "col": 5,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:220:5:220:14: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 220,
+    "end_lnum": 220,
+    "col": 15,
+    "end_col": 36,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:220:15:220:36: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 221,
+    "end_lnum": 221,
+    "col": 5,
+    "end_col": 15,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:221:5:221:15: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 221,
+    "end_lnum": 221,
+    "col": 16,
+    "end_col": 37,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:221:16:221:37: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 223,
+    "end_lnum": 223,
+    "col": 1,
+    "end_col": 15,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:223:1:223:15: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 223,
+    "end_lnum": 224,
+    "col": 16,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:223:16:224:0: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 224,
+    "end_lnum": 225,
+    "col": 3,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:224:3:225:0: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 80,
+    "end_lnum": 81,
+    "col": 3,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 101,
+    "pattern": "",
+    "text": "unexpected delimiters",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:80:3:81:0: w101 unexpected delimiters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 192,
+    "end_lnum": 193,
+    "col": 5,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 101,
+    "pattern": "",
+    "text": "unexpected delimiters",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:192:5:193:0: w101 unexpected delimiters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty",
+    "lnum": 208,
+    "end_lnum": 208,
+    "col": 9,
+    "end_col": 23,
+    "vcol": false,
+    "nr": 101,
+    "pattern": "",
+    "text": "unexpected delimiters",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:208:9:208:23: w101 unexpected delimiters"
+    ]
+  }
+]

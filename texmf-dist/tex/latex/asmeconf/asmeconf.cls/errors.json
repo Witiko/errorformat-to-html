@@ -1,0 +1,98 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/asmeconf/asmeconf.cls",
+    "lnum": 1081,
+    "end_lnum": 1081,
+    "col": 16,
+    "end_col": 30,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/asmeconf/asmeconf.cls:1081:16:1081:30: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/asmeconf/asmeconf.cls",
+    "lnum": 1585,
+    "end_lnum": 1585,
+    "col": 22,
+    "end_col": 23,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/asmeconf/asmeconf.cls:1585:22:1585:23: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/asmeconf/asmeconf.cls",
+    "lnum": 1632,
+    "end_lnum": 1632,
+    "col": 19,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/asmeconf/asmeconf.cls:1632:19:1632:20: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/asmeconf/asmeconf.cls",
+    "lnum": 1678,
+    "end_lnum": 1678,
+    "col": 23,
+    "end_col": 31,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/asmeconf/asmeconf.cls:1678:23:1678:31: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/asmeconf/asmeconf.cls",
+    "lnum": 1680,
+    "end_lnum": 1680,
+    "col": 23,
+    "end_col": 31,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/asmeconf/asmeconf.cls:1680:23:1680:31: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/asmeconf/asmeconf.cls",
+    "lnum": 1682,
+    "end_lnum": 1682,
+    "col": 23,
+    "end_col": 31,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/asmeconf/asmeconf.cls:1682:23:1682:31: s205 malformed function name"
+    ]
+  }
+]

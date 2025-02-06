@@ -1,0 +1,13 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/patches/lltjcore.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/patches/lltjcore.sty:17:5:17:21: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/patches/lltjcore.sty:20:5:20:21: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/patches/lltjcore.sty:24:5:24:21: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/patches/lltjcore.sty:27:5:27:21: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/patches/lltjcore.sty:29:12:29:28: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/patches/lltjcore.sty:35:5:35:21: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/patches/lltjcore.sty:38:5:38:21: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/patches/lltjcore.sty:41:5:41:21: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/patches/lltjcore.sty:46:5:46:21: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/patches/lltjcore.sty:49:5:49:21: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/patches/lltjcore.sty:51:12:51:28: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/patches/lltjcore.sty:57:5:57:21: w200 "weird" and "do not use" argument specifiers

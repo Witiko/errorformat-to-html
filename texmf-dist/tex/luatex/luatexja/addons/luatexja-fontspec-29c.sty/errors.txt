@@ -1,0 +1,8 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/addons/luatexja-fontspec-29c.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/addons/luatexja-fontspec-29c.sty:85:13:85:45: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/addons/luatexja-fontspec-29c.sty:128:31:128:47: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/addons/luatexja-fontspec-29c.sty:173:16:173:41: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/addons/luatexja-fontspec-29c.sty:219:45:219:57: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/addons/luatexja-fontspec-29c.sty:243:15:243:51: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/addons/luatexja-fontspec-29c.sty:276:53:276:65: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/addons/luatexja-fontspec-29c.sty:278:60:278:72: w200 "weird" and "do not use" argument specifiers

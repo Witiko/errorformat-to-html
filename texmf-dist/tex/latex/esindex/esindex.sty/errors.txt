@@ -1,0 +1,7 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/esindex/esindex.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/esindex/esindex.sty:160:7:160:7: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/esindex/esindex.sty:163:7:163:7: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/esindex/esindex.sty:351:29:351:29: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/esindex/esindex.sty:355:18:355:18: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/esindex/esindex.sty:356:27:356:27: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/esindex/esindex.sty:356:30:356:30: e209 invalid characters

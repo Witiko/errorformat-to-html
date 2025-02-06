@@ -1,0 +1,18 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/codebox/codebox.sty",
+    "lnum": 190,
+    "end_lnum": 190,
+    "col": 23,
+    "end_col": 36,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/codebox/codebox.sty:190:23:190:36: w202 deprecated control sequences"
+    ]
+  }
+]

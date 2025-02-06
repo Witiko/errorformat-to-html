@@ -1,0 +1,12 @@
+[
+  "e102 expl3 material in non-expl3 parts",
+  "e104 multiple delimiters `\\ProvidesExpl*` in a single file",
+  "e201 unknown argument specifiers",
+  "e203 removed control sequences",
+  "e208 too many closing braces",
+  "e209 invalid characters",
+  "s205 malformed function name",
+  "w101 unexpected delimiters",
+  "w200 \"weird\" and \"do not use\" argument specifiers",
+  "w202 deprecated control sequences"
+]

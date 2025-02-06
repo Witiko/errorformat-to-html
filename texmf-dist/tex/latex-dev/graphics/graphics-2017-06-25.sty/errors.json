@@ -1,0 +1,98 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/graphics/graphics-2017-06-25.sty",
+    "lnum": 382,
+    "end_lnum": 382,
+    "col": 1,
+    "end_col": 1,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/graphics/graphics-2017-06-25.sty:382:1:382:1: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/graphics/graphics-2017-06-25.sty",
+    "lnum": 383,
+    "end_lnum": 383,
+    "col": 1,
+    "end_col": 1,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/graphics/graphics-2017-06-25.sty:383:1:383:1: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/graphics/graphics-2017-06-25.sty",
+    "lnum": 419,
+    "end_lnum": 419,
+    "col": 1,
+    "end_col": 1,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/graphics/graphics-2017-06-25.sty:419:1:419:1: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/graphics/graphics-2017-06-25.sty",
+    "lnum": 420,
+    "end_lnum": 420,
+    "col": 1,
+    "end_col": 1,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/graphics/graphics-2017-06-25.sty:420:1:420:1: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/graphics/graphics-2017-06-25.sty",
+    "lnum": 421,
+    "end_lnum": 421,
+    "col": 1,
+    "end_col": 1,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/graphics/graphics-2017-06-25.sty:421:1:421:1: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/graphics/graphics-2017-06-25.sty",
+    "lnum": 422,
+    "end_lnum": 422,
+    "col": 1,
+    "end_col": 1,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/graphics/graphics-2017-06-25.sty:422:1:422:1: e209 invalid characters"
+    ]
+  }
+]

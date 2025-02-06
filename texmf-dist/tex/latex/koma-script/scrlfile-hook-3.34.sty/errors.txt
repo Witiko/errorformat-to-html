@@ -1,0 +1,3 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook-3.34.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook-3.34.sty:294:23:294:43: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook-3.34.sty:307:23:307:43: s205 malformed function name

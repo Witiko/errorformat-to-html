@@ -1,0 +1,18 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/elsarticle/elsarticle.cls",
+    "lnum": 427,
+    "end_lnum": 427,
+    "col": 43,
+    "end_col": 56,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/elsarticle/elsarticle.cls:427:43:427:56: w202 deprecated control sequences"
+    ]
+  }
+]

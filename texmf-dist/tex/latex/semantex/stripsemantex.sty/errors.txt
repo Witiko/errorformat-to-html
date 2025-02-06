@@ -1,0 +1,4 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/stripsemantex.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/stripsemantex.sty:83:4:83:31: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/stripsemantex.sty:88:13:88:40: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/semantex/stripsemantex.sty:152:2:152:15: w101 unexpected delimiters

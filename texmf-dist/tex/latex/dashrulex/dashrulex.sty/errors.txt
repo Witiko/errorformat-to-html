@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/dashrulex/dashrulex.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/dashrulex/dashrulex.sty:83:21:83:31: w200 "weird" and "do not use" argument specifiers

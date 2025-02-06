@@ -1,0 +1,12 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/easybook/easybase.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/easybook/easybase.sty:745:17:745:18: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/easybook/easybase.sty:806:17:806:18: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/easybook/easybase.sty:839:23:839:24: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/easybook/easybase.sty:840:23:840:24: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/easybook/easybase.sty:858:19:858:20: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/easybook/easybase.sty:859:19:859:20: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/easybook/easybase.sty:869:13:869:14: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/easybook/easybase.sty:913:17:913:18: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/easybook/easybase.sty:956:17:956:18: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/easybook/easybase.sty:1672:13:1672:14: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/easybook/easybase.sty:2678:5:2678:14: w200 "weird" and "do not use" argument specifiers

@@ -1,0 +1,5 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/urcls/URspecialopts.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/urcls/URspecialopts.sty:76:12:76:28: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/urcls/URspecialopts.sty:115:12:115:31: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/urcls/URspecialopts.sty:122:12:122:31: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/urcls/URspecialopts.sty:164:2:164:14: w200 "weird" and "do not use" argument specifiers

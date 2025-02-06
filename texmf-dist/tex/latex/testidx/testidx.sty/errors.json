@@ -1,0 +1,66 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/testidx/testidx.sty",
+    "lnum": 2886,
+    "end_lnum": 2886,
+    "col": 4,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/testidx/testidx.sty:2886:4:2886:19: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/testidx/testidx.sty",
+    "lnum": 2890,
+    "end_lnum": 2890,
+    "col": 4,
+    "end_col": 17,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/testidx/testidx.sty:2890:4:2890:17: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/testidx/testidx.sty",
+    "lnum": 2911,
+    "end_lnum": 2911,
+    "col": 4,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/testidx/testidx.sty:2911:4:2911:19: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/testidx/testidx.sty",
+    "lnum": 2912,
+    "end_lnum": 2912,
+    "col": 4,
+    "end_col": 17,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/testidx/testidx.sty:2912:4:2912:17: e201 unknown argument specifiers"
+    ]
+  }
+]

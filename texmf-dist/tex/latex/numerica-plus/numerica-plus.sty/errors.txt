@@ -1,0 +1,4 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/numerica-plus/numerica-plus.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/numerica-plus/numerica-plus.sty:681:26:681:42: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/numerica-plus/numerica-plus.sty:683:49:683:62: w101 unexpected delimiters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/numerica-plus/numerica-plus.sty:717:41:717:54: w101 unexpected delimiters

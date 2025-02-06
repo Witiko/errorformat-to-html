@@ -1,0 +1,34 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/dad/dad.sty",
+    "lnum": 21,
+    "end_lnum": 21,
+    "col": 23,
+    "end_col": 23,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/dad/dad.sty:21:23:21:23: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/dad/dad.sty",
+    "lnum": 30,
+    "end_lnum": 30,
+    "col": 17,
+    "end_col": 17,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/dad/dad.sty:30:17:30:17: e209 invalid characters"
+    ]
+  }
+]

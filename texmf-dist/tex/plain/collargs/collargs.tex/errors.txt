@@ -1,0 +1,11 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/collargs/collargs.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/collargs/collargs.tex:1612:28:1612:28: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/collargs/collargs.tex:1613:64:1613:64: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/collargs/collargs.tex:1614:52:1614:52: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/collargs/collargs.tex:1615:52:1615:52: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/collargs/collargs.tex:1617:64:1617:64: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/collargs/collargs.tex:1618:52:1618:52: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/collargs/collargs.tex:1619:52:1619:52: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/collargs/collargs.tex:1621:53:1621:53: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/collargs/collargs.tex:1622:53:1622:53: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/collargs/collargs.tex:1623:53:1623:53: e209 invalid characters

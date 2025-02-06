@@ -1,0 +1,4 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tagpdf/tagpdfdocu-patches.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tagpdf/tagpdfdocu-patches.sty:8:1:9:0: w101 unexpected delimiters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tagpdf/tagpdfdocu-patches.sty:156:3:156:16: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tagpdf/tagpdfdocu-patches.sty:165:3:165:16: w200 "weird" and "do not use" argument specifiers

@@ -1,0 +1,18 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/stex/notesslides.sty",
+    "lnum": 81,
+    "end_lnum": 81,
+    "col": 26,
+    "end_col": 48,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/stex/notesslides.sty:81:26:81:48: s205 malformed function name"
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/create-theorem/create-theorem.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/create-theorem/create-theorem.sty:58:20:58:38: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/create-theorem/create-theorem.sty:61:20:61:38: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/create-theorem/create-theorem.sty:209:38:209:73: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/create-theorem/create-theorem.sty:212:9:212:44: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/create-theorem/create-theorem.sty:224:38:224:73: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/create-theorem/create-theorem.sty:227:9:227:44: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/create-theorem/create-theorem.sty:231:31:231:66: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/create-theorem/create-theorem.sty:815:38:815:73: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/create-theorem/create-theorem.sty:818:9:818:44: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/create-theorem/create-theorem.sty:830:38:830:73: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/create-theorem/create-theorem.sty:833:9:833:44: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/create-theorem/create-theorem.sty:1011:21:1011:39: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/create-theorem/create-theorem.sty:1014:21:1014:39: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/create-theorem/create-theorem.sty:1018:21:1018:39: w200 "weird" and "do not use" argument specifiers

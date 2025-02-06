@@ -1,0 +1,98 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kalendarium/kalendarium.sty",
+    "lnum": 117,
+    "end_lnum": 117,
+    "col": 7,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kalendarium/kalendarium.sty:117:7:117:21: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kalendarium/kalendarium.sty",
+    "lnum": 134,
+    "end_lnum": 134,
+    "col": 11,
+    "end_col": 25,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kalendarium/kalendarium.sty:134:11:134:25: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kalendarium/kalendarium.sty",
+    "lnum": 146,
+    "end_lnum": 146,
+    "col": 5,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kalendarium/kalendarium.sty:146:5:146:19: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kalendarium/kalendarium.sty",
+    "lnum": 233,
+    "end_lnum": 233,
+    "col": 3,
+    "end_col": 16,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kalendarium/kalendarium.sty:233:3:233:16: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kalendarium/kalendarium.sty",
+    "lnum": 294,
+    "end_lnum": 294,
+    "col": 7,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kalendarium/kalendarium.sty:294:7:294:20: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kalendarium/kalendarium.sty",
+    "lnum": 23,
+    "end_lnum": 24,
+    "col": 1,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 101,
+    "pattern": "",
+    "text": "unexpected delimiters",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kalendarium/kalendarium.sty:23:1:24:0: w101 unexpected delimiters"
+    ]
+  }
+]

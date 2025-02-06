@@ -1,0 +1,50 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/naive-ebnf/naive-ebnf.sty",
+    "lnum": 151,
+    "end_lnum": 151,
+    "col": 14,
+    "end_col": 25,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/naive-ebnf/naive-ebnf.sty:151:14:151:25: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/naive-ebnf/naive-ebnf.sty",
+    "lnum": 157,
+    "end_lnum": 157,
+    "col": 14,
+    "end_col": 27,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/naive-ebnf/naive-ebnf.sty:157:14:157:27: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/naive-ebnf/naive-ebnf.sty",
+    "lnum": 163,
+    "end_lnum": 163,
+    "col": 14,
+    "end_col": 26,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/naive-ebnf/naive-ebnf.sty:163:14:163:26: s205 malformed function name"
+    ]
+  }
+]

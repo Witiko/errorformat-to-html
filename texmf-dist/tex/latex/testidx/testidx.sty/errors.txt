@@ -1,0 +1,5 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/testidx/testidx.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/testidx/testidx.sty:2886:4:2886:19: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/testidx/testidx.sty:2890:4:2890:17: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/testidx/testidx.sty:2911:4:2911:19: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/testidx/testidx.sty:2912:4:2912:17: e201 unknown argument specifiers

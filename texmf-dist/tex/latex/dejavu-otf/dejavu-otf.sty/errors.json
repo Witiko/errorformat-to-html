@@ -1,0 +1,18 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/dejavu-otf/dejavu-otf.sty",
+    "lnum": 190,
+    "end_lnum": 190,
+    "col": 5,
+    "end_col": 5,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/dejavu-otf/dejavu-otf.sty:190:5:190:5: e208 too many closing braces"
+    ]
+  }
+]

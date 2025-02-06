@@ -1,0 +1,11 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/olsak-misc/scanbase.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/olsak-misc/scanbase.tex:78:22:78:22: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/olsak-misc/scanbase.tex:80:24:80:24: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/olsak-misc/scanbase.tex:91:32:91:32: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/olsak-misc/scanbase.tex:95:22:95:22: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/olsak-misc/scanbase.tex:95:31:95:31: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/olsak-misc/scanbase.tex:102:41:102:41: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/olsak-misc/scanbase.tex:107:58:107:58: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/olsak-misc/scanbase.tex:109:32:109:32: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/olsak-misc/scanbase.tex:113:14:113:14: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/olsak-misc/scanbase.tex:121:19:121:19: e209 invalid characters

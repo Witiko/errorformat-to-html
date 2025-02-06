@@ -1,0 +1,194 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-pdfresources.tex",
+    "lnum": 18,
+    "end_lnum": 18,
+    "col": 50,
+    "end_col": 68,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-pdfresources.tex:18:50:18:68: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-pdfresources.tex",
+    "lnum": 19,
+    "end_lnum": 19,
+    "col": 5,
+    "end_col": 23,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-pdfresources.tex:19:5:19:23: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-pdfresources.tex",
+    "lnum": 20,
+    "end_lnum": 20,
+    "col": 19,
+    "end_col": 41,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-pdfresources.tex:20:19:20:41: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-pdfresources.tex",
+    "lnum": 21,
+    "end_lnum": 21,
+    "col": 5,
+    "end_col": 27,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-pdfresources.tex:21:5:21:27: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-pdfresources.tex",
+    "lnum": 22,
+    "end_lnum": 22,
+    "col": 32,
+    "end_col": 49,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-pdfresources.tex:22:32:22:49: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-pdfresources.tex",
+    "lnum": 23,
+    "end_lnum": 23,
+    "col": 5,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-pdfresources.tex:23:5:23:19: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-pdfresources.tex",
+    "lnum": 25,
+    "end_lnum": 25,
+    "col": 39,
+    "end_col": 57,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-pdfresources.tex:25:39:25:57: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-pdfresources.tex",
+    "lnum": 25,
+    "end_lnum": 25,
+    "col": 59,
+    "end_col": 79,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-pdfresources.tex:25:59:25:79: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-pdfresources.tex",
+    "lnum": 26,
+    "end_lnum": 26,
+    "col": 19,
+    "end_col": 33,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-pdfresources.tex:26:19:26:33: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-pdfresources.tex",
+    "lnum": 28,
+    "end_lnum": 28,
+    "col": 5,
+    "end_col": 25,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-pdfresources.tex:28:5:28:25: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-pdfresources.tex",
+    "lnum": 37,
+    "end_lnum": 37,
+    "col": 5,
+    "end_col": 26,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-pdfresources.tex:37:5:37:26: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-pdfresources.tex",
+    "lnum": 40,
+    "end_lnum": 40,
+    "col": 46,
+    "end_col": 66,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-pdfresources.tex:40:46:40:66: e201 unknown argument specifiers"
+    ]
+  }
+]

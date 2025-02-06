@@ -1,0 +1,34 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook-3.34.sty",
+    "lnum": 294,
+    "end_lnum": 294,
+    "col": 23,
+    "end_col": 43,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook-3.34.sty:294:23:294:43: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook-3.34.sty",
+    "lnum": 307,
+    "end_lnum": 307,
+    "col": 23,
+    "end_col": 43,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook-3.34.sty:307:23:307:43: s205 malformed function name"
+    ]
+  }
+]

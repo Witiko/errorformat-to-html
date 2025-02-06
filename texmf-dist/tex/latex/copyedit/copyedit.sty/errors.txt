@@ -1,0 +1,3 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/copyedit/copyedit.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/copyedit/copyedit.sty:119:21:119:34: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/copyedit/copyedit.sty:231:38:231:48: w200 "weird" and "do not use" argument specifiers

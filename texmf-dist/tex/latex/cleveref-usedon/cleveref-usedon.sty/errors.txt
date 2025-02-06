@@ -1,0 +1,4 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/cleveref-usedon/cleveref-usedon.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/cleveref-usedon/cleveref-usedon.sty:135:24:135:38: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/cleveref-usedon/cleveref-usedon.sty:154:26:154:40: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/cleveref-usedon/cleveref-usedon.sty:245:27:245:40: w101 unexpected delimiters

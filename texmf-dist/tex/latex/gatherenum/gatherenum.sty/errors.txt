@@ -1,0 +1,5 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gatherenum/gatherenum.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gatherenum/gatherenum.sty:36:5:36:34: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gatherenum/gatherenum.sty:37:5:37:37: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gatherenum/gatherenum.sty:55:9:55:38: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gatherenum/gatherenum.sty:65:9:65:41: w200 "weird" and "do not use" argument specifiers

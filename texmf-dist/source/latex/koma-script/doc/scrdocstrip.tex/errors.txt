@@ -1,0 +1,3 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/source/latex/koma-script/doc/scrdocstrip.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/source/latex/koma-script/doc/scrdocstrip.tex:85:5:85:5: e208 too many closing braces
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/source/latex/koma-script/doc/scrdocstrip.tex:96:5:96:5: e208 too many closing braces

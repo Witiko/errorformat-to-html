@@ -1,0 +1,7 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/metatex/metatex.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/metatex/metatex.tex:153:1:153:6: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/metatex/metatex.tex:184:1:184:9: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/metatex/metatex.tex:186:1:186:6: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/metatex/metatex.tex:188:1:188:14: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/metatex/metatex.tex:190:1:190:7: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/metatex/metatex.tex:197:1:197:10: e201 unknown argument specifiers

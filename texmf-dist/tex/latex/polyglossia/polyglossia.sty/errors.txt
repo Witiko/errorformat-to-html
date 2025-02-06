@@ -1,0 +1,10 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/polyglossia/polyglossia.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/polyglossia/polyglossia.sty:241:19:241:20: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/polyglossia/polyglossia.sty:246:19:246:20: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/polyglossia/polyglossia.sty:1879:13:1879:35: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/polyglossia/polyglossia.sty:1888:13:1888:43: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/polyglossia/polyglossia.sty:1895:13:1895:47: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/polyglossia/polyglossia.sty:2029:17:2029:18: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/polyglossia/polyglossia.sty:2361:23:2361:24: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/polyglossia/polyglossia.sty:2362:23:2362:24: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/polyglossia/polyglossia.sty:2363:23:2363:24: s205 malformed function name

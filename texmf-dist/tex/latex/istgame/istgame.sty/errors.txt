@@ -1,0 +1,14 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/istgame/istgame.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/istgame/istgame.sty:564:4:564:20: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/istgame/istgame.sty:566:19:566:35: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/istgame/istgame.sty:575:4:575:20: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/istgame/istgame.sty:577:19:577:35: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/istgame/istgame.sty:586:4:586:19: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/istgame/istgame.sty:588:19:588:34: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/istgame/istgame.sty:2240:13:2240:48: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/istgame/istgame.sty:2248:13:2248:49: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/istgame/istgame.sty:2261:13:2261:49: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/istgame/istgame.sty:2269:13:2269:50: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/istgame/istgame.sty:2281:13:2281:43: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/istgame/istgame.sty:2432:13:2432:35: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/istgame/istgame.sty:2439:13:2439:41: s205 malformed function name

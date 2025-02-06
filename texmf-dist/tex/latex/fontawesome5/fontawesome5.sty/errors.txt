@@ -1,0 +1,12 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/fontawesome5.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/fontawesome5.sty:92:22:92:39: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/fontawesome5.sty:97:22:97:35: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/fontawesome5.sty:106:22:106:35: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/fontawesome5.sty:106:22:106:35: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/fontawesome5.sty:117:3:117:16: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/fontawesome5.sty:127:3:127:16: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/fontawesome5.sty:135:3:135:16: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/fontawesome5.sty:152:3:152:16: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/fontawesome5.sty:155:3:155:16: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/fontawesome5.sty:164:3:164:16: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/fontawesome5.sty:169:3:169:16: w200 "weird" and "do not use" argument specifiers

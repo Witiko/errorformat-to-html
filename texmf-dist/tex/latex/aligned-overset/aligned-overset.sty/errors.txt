@@ -1,0 +1,5 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/aligned-overset/aligned-overset.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/aligned-overset/aligned-overset.sty:35:3:35:37: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/aligned-overset/aligned-overset.sty:37:30:37:64: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/aligned-overset/aligned-overset.sty:72:3:72:38: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/aligned-overset/aligned-overset.sty:74:30:74:65: w200 "weird" and "do not use" argument specifiers

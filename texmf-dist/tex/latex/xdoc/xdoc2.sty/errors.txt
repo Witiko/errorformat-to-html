@@ -1,0 +1,4 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xdoc/xdoc2.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xdoc/xdoc2.sty:141:39:141:39: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xdoc/xdoc2.sty:163:33:163:33: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xdoc/xdoc2.sty:498:4:498:4: e208 too many closing braces

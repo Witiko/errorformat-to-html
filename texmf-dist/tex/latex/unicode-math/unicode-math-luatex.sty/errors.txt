@@ -1,0 +1,44 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:64:54:64:57: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:64:59:64:71: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:64:73:64:76: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:74:5:74:21: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:82:5:82:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:82:19:82:28: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:119:5:119:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:119:19:119:33: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:123:5:123:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:123:19:123:33: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:135:5:135:14: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:1105:34:1105:55: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:1106:34:1106:55: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:1107:34:1107:55: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:1649:9:1649:21: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:1649:23:1649:41: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:1652:9:1652:21: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:1652:23:1652:41: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:1675:13:1675:31: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:1680:13:1680:31: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:1707:9:1707:36: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:1716:32:1716:59: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:1733:5:1733:28: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:1735:13:1735:36: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:1748:5:1748:33: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:1750:13:1750:41: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:3271:32:3271:32: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:3280:36:3280:36: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:3292:40:3292:40: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:3304:44:3304:44: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:3367:32:3367:32: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:3378:36:3378:36: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:3390:40:3390:40: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:3429:19:3429:19: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:3430:19:3430:19: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:3431:19:3431:19: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:3432:19:3432:19: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:3434:19:3434:19: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:3435:19:3435:19: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:3436:19:3436:19: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:3486:23:3486:35: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:3665:17:3665:18: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty:3799:23:3799:24: s205 malformed function name

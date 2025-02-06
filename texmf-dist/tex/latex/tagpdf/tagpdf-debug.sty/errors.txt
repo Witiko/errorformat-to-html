@@ -1,0 +1,13 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tagpdf/tagpdf-debug.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tagpdf/tagpdf-debug.sty:449:31:449:55: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tagpdf/tagpdf-debug.sty:450:31:450:54: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tagpdf/tagpdf-debug.sty:452:32:452:52: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tagpdf/tagpdf-debug.sty:453:33:453:56: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tagpdf/tagpdf-debug.sty:576:31:576:55: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tagpdf/tagpdf-debug.sty:577:31:577:54: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tagpdf/tagpdf-debug.sty:579:32:579:52: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tagpdf/tagpdf-debug.sty:580:33:580:56: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tagpdf/tagpdf-debug.sty:636:31:636:55: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tagpdf/tagpdf-debug.sty:637:31:637:54: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tagpdf/tagpdf-debug.sty:639:32:639:52: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tagpdf/tagpdf-debug.sty:640:33:640:56: s205 malformed function name

@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xduts/xduugtp.cls
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xduts/xduugtp.cls:769:21:769:22: s205 malformed function name

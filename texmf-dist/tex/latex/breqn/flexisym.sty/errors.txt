@@ -1,0 +1,17 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/breqn/flexisym.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/breqn/flexisym.sty:47:50:47:62: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/breqn/flexisym.sty:66:3:66:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/breqn/flexisym.sty:66:19:66:31: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/breqn/flexisym.sty:69:3:69:18: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/breqn/flexisym.sty:69:20:69:32: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/breqn/flexisym.sty:72:3:72:16: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/breqn/flexisym.sty:72:19:72:31: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/breqn/flexisym.sty:75:3:75:19: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/breqn/flexisym.sty:75:21:75:33: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/breqn/flexisym.sty:246:24:246:25: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/breqn/flexisym.sty:255:31:255:31: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/breqn/flexisym.sty:273:19:273:20: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/breqn/flexisym.sty:282:17:282:18: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/breqn/flexisym.sty:283:17:283:18: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/breqn/flexisym.sty:293:16:293:16: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/breqn/flexisym.sty:364:19:364:31: w200 "weird" and "do not use" argument specifiers

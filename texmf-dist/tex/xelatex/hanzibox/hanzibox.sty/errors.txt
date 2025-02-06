@@ -1,0 +1,8 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/hanzibox/hanzibox.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/hanzibox/hanzibox.sty:40:9:40:22: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/hanzibox/hanzibox.sty:629:23:629:36: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/hanzibox/hanzibox.sty:1002:11:1002:24: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/hanzibox/hanzibox.sty:1082:5:1082:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/hanzibox/hanzibox.sty:1125:5:1125:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/hanzibox/hanzibox.sty:1135:7:1135:19: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/hanzibox/hanzibox.sty:1227:54:1227:66: w200 "weird" and "do not use" argument specifiers

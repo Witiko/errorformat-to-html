@@ -1,0 +1,114 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/moodle/moodle.sty",
+    "lnum": 2214,
+    "end_lnum": 2214,
+    "col": 63,
+    "end_col": 83,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/moodle/moodle.sty:2214:63:2214:83: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/moodle/moodle.sty",
+    "lnum": 2328,
+    "end_lnum": 2328,
+    "col": 67,
+    "end_col": 91,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/moodle/moodle.sty:2328:67:2328:91: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/moodle/moodle.sty",
+    "lnum": 2330,
+    "end_lnum": 2330,
+    "col": 67,
+    "end_col": 89,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/moodle/moodle.sty:2330:67:2330:89: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/moodle/moodle.sty",
+    "lnum": 2484,
+    "end_lnum": 2484,
+    "col": 24,
+    "end_col": 24,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/moodle/moodle.sty:2484:24:2484:24: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/moodle/moodle.sty",
+    "lnum": 2494,
+    "end_lnum": 2494,
+    "col": 28,
+    "end_col": 28,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/moodle/moodle.sty:2494:28:2494:28: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/moodle/moodle.sty",
+    "lnum": 2494,
+    "end_lnum": 2494,
+    "col": 34,
+    "end_col": 34,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/moodle/moodle.sty:2494:34:2494:34: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/moodle/moodle.sty",
+    "lnum": 2494,
+    "end_lnum": 2494,
+    "col": 50,
+    "end_col": 50,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/moodle/moodle.sty:2494:50:2494:50: e209 invalid characters"
+    ]
+  }
+]

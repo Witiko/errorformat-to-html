@@ -1,0 +1,34 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/source/latex/koma-script/doc/scrdocstrip.tex",
+    "lnum": 85,
+    "end_lnum": 85,
+    "col": 5,
+    "end_col": 5,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/source/latex/koma-script/doc/scrdocstrip.tex:85:5:85:5: e208 too many closing braces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/source/latex/koma-script/doc/scrdocstrip.tex",
+    "lnum": 96,
+    "end_lnum": 96,
+    "col": 5,
+    "end_col": 5,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/source/latex/koma-script/doc/scrdocstrip.tex:96:5:96:5: e208 too many closing braces"
+    ]
+  }
+]

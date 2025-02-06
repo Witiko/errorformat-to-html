@@ -1,0 +1,34 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/polyomino/polyomino.sty",
+    "lnum": 51,
+    "end_lnum": 51,
+    "col": 59,
+    "end_col": 63,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/polyomino/polyomino.sty:51:59:51:63: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/polyomino/polyomino.sty",
+    "lnum": 130,
+    "end_lnum": 130,
+    "col": 52,
+    "end_col": 56,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/polyomino/polyomino.sty:130:52:130:56: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  }
+]

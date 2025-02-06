@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/subfigmat/subfigmat.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/subfigmat/subfigmat.sty:140:47:140:47: e208 too many closing braces

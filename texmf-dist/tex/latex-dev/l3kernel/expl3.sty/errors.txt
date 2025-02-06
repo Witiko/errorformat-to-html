@@ -1,0 +1,55 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:80:3:81:0: w101 unexpected delimiters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:90:5:90:19: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:92:7:92:23: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:160:5:161:0: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:162:1:162:16: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:164:5:164:20: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:164:21:165:0: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:166:9:166:19: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:166:20:167:0: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:167:9:168:0: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:170:5:170:28: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:171:1:171:14: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:171:15:171:29: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:172:3:172:14: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:174:1:174:16: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:176:5:176:20: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:177:5:177:21: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:179:1:179:23: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:181:5:181:17: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:181:18:182:0: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:183:9:183:21: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:184:9:184:21: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:186:5:186:20: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:186:21:186:42: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:188:9:188:21: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:188:22:189:0: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:192:5:193:0: w101 unexpected delimiters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:194:1:194:23: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:196:5:196:17: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:196:18:196:30: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:199:1:199:16: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:201:5:201:21: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:204:1:204:23: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:206:5:207:0: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:207:5:207:21: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:207:22:207:43: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:208:9:208:23: w101 unexpected delimiters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:209:9:209:22: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:209:23:209:43: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:209:44:209:65: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:211:1:211:23: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:211:24:211:44: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:213:5:213:15: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:213:16:213:37: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:214:5:214:20: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:218:1:218:16: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:218:17:218:38: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:220:5:220:14: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:220:15:220:36: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:221:5:221:15: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:221:16:221:37: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:223:1:223:15: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:223:16:224:0: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/l3kernel/expl3.sty:224:3:225:0: e102 expl3 material in non-expl3 parts

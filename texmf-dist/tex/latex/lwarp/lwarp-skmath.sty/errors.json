@@ -1,0 +1,66 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lwarp/lwarp-skmath.sty",
+    "lnum": 30,
+    "end_lnum": 30,
+    "col": 19,
+    "end_col": 47,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lwarp/lwarp-skmath.sty:30:19:30:47: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lwarp/lwarp-skmath.sty",
+    "lnum": 31,
+    "end_lnum": 31,
+    "col": 19,
+    "end_col": 45,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lwarp/lwarp-skmath.sty:31:19:31:45: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lwarp/lwarp-skmath.sty",
+    "lnum": 32,
+    "end_lnum": 32,
+    "col": 19,
+    "end_col": 42,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lwarp/lwarp-skmath.sty:32:19:32:42: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lwarp/lwarp-skmath.sty",
+    "lnum": 33,
+    "end_lnum": 33,
+    "col": 19,
+    "end_col": 50,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lwarp/lwarp-skmath.sty:33:19:33:50: s205 malformed function name"
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media4svg/media4svg.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media4svg/media4svg.sty:182:55:182:68: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media4svg/media4svg.sty:488:22:488:34: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media4svg/media4svg.sty:489:30:489:42: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media4svg/media4svg.sty:691:3:691:19: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media4svg/media4svg.sty:864:47:864:60: w202 deprecated control sequences

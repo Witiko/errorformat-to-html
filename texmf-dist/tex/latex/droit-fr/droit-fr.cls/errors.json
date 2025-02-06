@@ -1,0 +1,34 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/droit-fr/droit-fr.cls",
+    "lnum": 506,
+    "end_lnum": 506,
+    "col": 10,
+    "end_col": 10,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/droit-fr/droit-fr.cls:506:10:506:10: e208 too many closing braces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/droit-fr/droit-fr.cls",
+    "lnum": 518,
+    "end_lnum": 518,
+    "col": 10,
+    "end_col": 10,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/droit-fr/droit-fr.cls:518:10:518:10: e208 too many closing braces"
+    ]
+  }
+]

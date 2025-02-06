@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/realscripts/realscripts.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/realscripts/realscripts.sty:61:13:61:14: s205 malformed function name

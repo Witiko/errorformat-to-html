@@ -1,0 +1,34 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xetex/xetexko/xetexko.sty",
+    "lnum": 2215,
+    "end_lnum": 2215,
+    "col": 17,
+    "end_col": 37,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xetex/xetexko/xetexko.sty:2215:17:2215:37: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xetex/xetexko/xetexko.sty",
+    "lnum": 2339,
+    "end_lnum": 2339,
+    "col": 17,
+    "end_col": 37,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xetex/xetexko/xetexko.sty:2339:17:2339:37: s205 malformed function name"
+    ]
+  }
+]

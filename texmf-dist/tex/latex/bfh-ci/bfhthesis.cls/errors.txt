@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/bfh-ci/bfhthesis.cls
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/bfh-ci/bfhthesis.cls:61:66:61:79: w202 deprecated control sequences

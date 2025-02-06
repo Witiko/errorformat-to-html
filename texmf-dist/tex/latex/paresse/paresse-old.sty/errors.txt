@@ -1,0 +1,13 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/paresse/paresse-old.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/paresse/paresse-old.sty:170:14:170:31: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/paresse/paresse-old.sty:171:14:171:31: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/paresse/paresse-old.sty:174:14:174:29: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/paresse/paresse-old.sty:175:14:175:29: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/paresse/paresse-old.sty:178:14:178:26: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/paresse/paresse-old.sty:179:14:179:26: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/paresse/paresse-old.sty:182:14:182:27: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/paresse/paresse-old.sty:183:14:183:27: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/paresse/paresse-old.sty:186:14:186:29: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/paresse/paresse-old.sty:187:14:187:29: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/paresse/paresse-old.sty:190:14:190:27: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/paresse/paresse-old.sty:191:14:191:27: s205 malformed function name

@@ -1,0 +1,50 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lwarp/lwarp-fontawesome5-utex-helper.sty",
+    "lnum": 69,
+    "end_lnum": 69,
+    "col": 9,
+    "end_col": 30,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lwarp/lwarp-fontawesome5-utex-helper.sty:69:9:69:30: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lwarp/lwarp-fontawesome5-utex-helper.sty",
+    "lnum": 74,
+    "end_lnum": 74,
+    "col": 15,
+    "end_col": 36,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lwarp/lwarp-fontawesome5-utex-helper.sty:74:15:74:36: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lwarp/lwarp-fontawesome5-utex-helper.sty",
+    "lnum": 87,
+    "end_lnum": 87,
+    "col": 9,
+    "end_col": 30,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lwarp/lwarp-fontawesome5-utex-helper.sty:87:9:87:30: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  }
+]

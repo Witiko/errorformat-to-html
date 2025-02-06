@@ -1,0 +1,13 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kotex-utf/contrib/dhucs-paralist.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kotex-utf/contrib/dhucs-paralist.sty:20:10:20:10: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kotex-utf/contrib/dhucs-paralist.sty:21:10:21:10: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kotex-utf/contrib/dhucs-paralist.sty:22:10:22:10: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kotex-utf/contrib/dhucs-paralist.sty:23:10:23:10: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kotex-utf/contrib/dhucs-paralist.sty:24:10:24:10: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kotex-utf/contrib/dhucs-paralist.sty:25:10:25:10: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kotex-utf/contrib/dhucs-paralist.sty:26:10:26:10: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kotex-utf/contrib/dhucs-paralist.sty:27:10:27:10: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kotex-utf/contrib/dhucs-paralist.sty:28:10:28:10: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kotex-utf/contrib/dhucs-paralist.sty:29:10:29:10: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kotex-utf/contrib/dhucs-paralist.sty:30:10:30:10: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/kotex-utf/contrib/dhucs-paralist.sty:31:10:31:10: e209 invalid characters

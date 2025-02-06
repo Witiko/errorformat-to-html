@@ -1,0 +1,466 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls",
+    "lnum": 2022,
+    "end_lnum": 2022,
+    "col": 29,
+    "end_col": 29,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls:2022:29:2022:29: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls",
+    "lnum": 2025,
+    "end_lnum": 2025,
+    "col": 15,
+    "end_col": 15,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls:2025:15:2025:15: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls",
+    "lnum": 2030,
+    "end_lnum": 2030,
+    "col": 23,
+    "end_col": 23,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls:2030:23:2030:23: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls",
+    "lnum": 2031,
+    "end_lnum": 2031,
+    "col": 24,
+    "end_col": 24,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls:2031:24:2031:24: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls",
+    "lnum": 2032,
+    "end_lnum": 2032,
+    "col": 18,
+    "end_col": 18,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls:2032:18:2032:18: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls",
+    "lnum": 2033,
+    "end_lnum": 2033,
+    "col": 21,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls:2033:21:2033:21: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls",
+    "lnum": 2034,
+    "end_lnum": 2034,
+    "col": 22,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls:2034:22:2034:22: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls",
+    "lnum": 2035,
+    "end_lnum": 2035,
+    "col": 35,
+    "end_col": 35,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls:2035:35:2035:35: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls",
+    "lnum": 2043,
+    "end_lnum": 2043,
+    "col": 21,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls:2043:21:2043:21: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls",
+    "lnum": 2046,
+    "end_lnum": 2046,
+    "col": 4,
+    "end_col": 4,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls:2046:4:2046:4: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls",
+    "lnum": 2047,
+    "end_lnum": 2047,
+    "col": 17,
+    "end_col": 17,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls:2047:17:2047:17: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls",
+    "lnum": 2048,
+    "end_lnum": 2048,
+    "col": 41,
+    "end_col": 41,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls:2048:41:2048:41: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls",
+    "lnum": 2049,
+    "end_lnum": 2049,
+    "col": 33,
+    "end_col": 33,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls:2049:33:2049:33: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls",
+    "lnum": 2050,
+    "end_lnum": 2050,
+    "col": 22,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls:2050:22:2050:22: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls",
+    "lnum": 2052,
+    "end_lnum": 2052,
+    "col": 29,
+    "end_col": 29,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls:2052:29:2052:29: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls",
+    "lnum": 2053,
+    "end_lnum": 2053,
+    "col": 30,
+    "end_col": 30,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls:2053:30:2053:30: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls",
+    "lnum": 2054,
+    "end_lnum": 2054,
+    "col": 8,
+    "end_col": 8,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls:2054:8:2054:8: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls",
+    "lnum": 2056,
+    "end_lnum": 2056,
+    "col": 25,
+    "end_col": 25,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls:2056:25:2056:25: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls",
+    "lnum": 2057,
+    "end_lnum": 2057,
+    "col": 34,
+    "end_col": 34,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls:2057:34:2057:34: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls",
+    "lnum": 2058,
+    "end_lnum": 2058,
+    "col": 8,
+    "end_col": 8,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls:2058:8:2058:8: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls",
+    "lnum": 2060,
+    "end_lnum": 2060,
+    "col": 4,
+    "end_col": 4,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls:2060:4:2060:4: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls",
+    "lnum": 2061,
+    "end_lnum": 2061,
+    "col": 34,
+    "end_col": 34,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls:2061:34:2061:34: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls",
+    "lnum": 2062,
+    "end_lnum": 2062,
+    "col": 20,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls:2062:20:2062:20: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls",
+    "lnum": 2065,
+    "end_lnum": 2065,
+    "col": 6,
+    "end_col": 6,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls:2065:6:2065:6: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls",
+    "lnum": 2067,
+    "end_lnum": 2067,
+    "col": 4,
+    "end_col": 4,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls:2067:4:2067:4: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls",
+    "lnum": 2069,
+    "end_lnum": 2069,
+    "col": 7,
+    "end_col": 7,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls:2069:7:2069:7: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls",
+    "lnum": 2072,
+    "end_lnum": 2072,
+    "col": 25,
+    "end_col": 25,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls:2072:25:2072:25: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls",
+    "lnum": 2074,
+    "end_lnum": 2074,
+    "col": 8,
+    "end_col": 8,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls:2074:8:2074:8: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls",
+    "lnum": 2076,
+    "end_lnum": 2076,
+    "col": 4,
+    "end_col": 4,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/revtex/revtex4-2.cls:2076:4:2076:4: e209 invalid characters"
+    ]
+  }
+]

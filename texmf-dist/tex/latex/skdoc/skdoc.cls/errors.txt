@@ -1,0 +1,4 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/skdoc/skdoc.cls
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/skdoc/skdoc.cls:99:9:99:25: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/skdoc/skdoc.cls:690:5:690:20: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/skdoc/skdoc.cls:696:5:696:20: w200 "weird" and "do not use" argument specifiers

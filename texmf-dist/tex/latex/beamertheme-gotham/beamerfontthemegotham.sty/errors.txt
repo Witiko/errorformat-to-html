@@ -1,0 +1,16 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamerfontthemegotham.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamerfontthemegotham.sty:52:22:52:33: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamerfontthemegotham.sty:268:129:268:142: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamerfontthemegotham.sty:287:128:287:141: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamerfontthemegotham.sty:315:132:315:145: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamerfontthemegotham.sty:334:131:334:144: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamerfontthemegotham.sty:361:134:361:147: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamerfontthemegotham.sty:380:133:380:146: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamerfontthemegotham.sty:407:137:407:150: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamerfontthemegotham.sty:426:136:426:149: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamerfontthemegotham.sty:453:128:453:141: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamerfontthemegotham.sty:472:127:472:140: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamerfontthemegotham.sty:499:131:499:144: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamerfontthemegotham.sty:518:130:518:143: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamerfontthemegotham.sty:545:134:545:147: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamerfontthemegotham.sty:564:133:564:146: w202 deprecated control sequences

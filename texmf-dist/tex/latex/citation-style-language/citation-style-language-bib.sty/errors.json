@@ -1,0 +1,50 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/citation-style-language/citation-style-language-bib.sty",
+    "lnum": 249,
+    "end_lnum": 249,
+    "col": 13,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/citation-style-language/citation-style-language-bib.sty:249:13:249:14: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/citation-style-language/citation-style-language-bib.sty",
+    "lnum": 262,
+    "end_lnum": 262,
+    "col": 15,
+    "end_col": 16,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/citation-style-language/citation-style-language-bib.sty:262:15:262:16: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/citation-style-language/citation-style-language-bib.sty",
+    "lnum": 334,
+    "end_lnum": 334,
+    "col": 15,
+    "end_col": 16,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/citation-style-language/citation-style-language-bib.sty:334:15:334:16: s205 malformed function name"
+    ]
+  }
+]

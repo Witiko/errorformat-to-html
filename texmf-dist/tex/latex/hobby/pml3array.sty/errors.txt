@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/hobby/pml3array.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/hobby/pml3array.sty:95:3:95:15: w200 "weird" and "do not use" argument specifiers

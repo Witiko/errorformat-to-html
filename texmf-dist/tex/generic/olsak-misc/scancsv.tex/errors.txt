@@ -1,0 +1,11 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/olsak-misc/scancsv.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/olsak-misc/scancsv.tex:85:22:85:22: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/olsak-misc/scancsv.tex:101:32:101:32: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/olsak-misc/scancsv.tex:106:22:106:22: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/olsak-misc/scancsv.tex:108:21:108:21: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/olsak-misc/scancsv.tex:112:59:112:59: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/olsak-misc/scancsv.tex:123:32:123:32: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/olsak-misc/scancsv.tex:127:14:127:14: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/olsak-misc/scancsv.tex:154:26:154:26: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/olsak-misc/scancsv.tex:154:72:154:72: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/olsak-misc/scancsv.tex:157:47:157:47: e209 invalid characters

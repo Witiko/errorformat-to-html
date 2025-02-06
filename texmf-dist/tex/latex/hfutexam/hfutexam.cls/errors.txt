@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/hfutexam/hfutexam.cls
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/hfutexam/hfutexam.cls:292:23:292:24: s205 malformed function name

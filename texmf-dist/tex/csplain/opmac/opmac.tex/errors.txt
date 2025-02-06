@@ -1,0 +1,10 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/csplain/opmac/opmac.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/csplain/opmac/opmac.tex:634:3:634:3: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/csplain/opmac/opmac.tex:634:6:634:6: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/csplain/opmac/opmac.tex:634:9:634:9: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/csplain/opmac/opmac.tex:659:28:659:28: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/csplain/opmac/opmac.tex:659:35:659:35: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/csplain/opmac/opmac.tex:659:42:659:42: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/csplain/opmac/opmac.tex:660:28:660:28: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/csplain/opmac/opmac.tex:660:35:660:35: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/csplain/opmac/opmac.tex:660:42:660:42: e209 invalid characters

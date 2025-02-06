@@ -1,0 +1,10 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/regexpatch/regexpatch.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/regexpatch/regexpatch.sty:41:5:41:19: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/regexpatch/regexpatch.sty:105:11:105:23: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/regexpatch/regexpatch.sty:106:13:106:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/regexpatch/regexpatch.sty:129:7:129:19: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/regexpatch/regexpatch.sty:129:24:129:28: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/regexpatch/regexpatch.sty:155:34:155:52: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/regexpatch/regexpatch.sty:165:7:165:16: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/regexpatch/regexpatch.sty:176:25:176:38: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/regexpatch/regexpatch.sty:177:25:177:38: w200 "weird" and "do not use" argument specifiers

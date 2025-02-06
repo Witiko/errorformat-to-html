@@ -1,0 +1,18 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/glossaries/rollback/glossaries-compatible-207-2020-03-19.sty",
+    "lnum": 212,
+    "end_lnum": 212,
+    "col": 13,
+    "end_col": 24,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/glossaries/rollback/glossaries-compatible-207-2020-03-19.sty:212:13:212:24: e201 unknown argument specifiers"
+    ]
+  }
+]

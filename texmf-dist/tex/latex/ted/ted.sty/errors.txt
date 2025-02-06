@@ -1,0 +1,4 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ted/ted.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ted/ted.sty:51:20:51:20: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ted/ted.sty:79:28:79:28: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ted/ted.sty:237:34:237:34: e209 invalid characters

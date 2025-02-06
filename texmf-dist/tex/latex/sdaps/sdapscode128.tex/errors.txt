@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapscode128.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapscode128.tex:288:26:288:26: e208 too many closing braces

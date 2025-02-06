@@ -1,0 +1,3 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/droit-fr/droit-fr.cls
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/droit-fr/droit-fr.cls:506:10:506:10: e208 too many closing braces
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/droit-fr/droit-fr.cls:518:10:518:10: e208 too many closing braces

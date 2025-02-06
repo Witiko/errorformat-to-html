@@ -1,0 +1,11 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/xint/xintlog.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/xint/xintlog.sty:276:22:276:48: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/xint/xintlog.sty:282:22:282:48: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/xint/xintlog.sty:289:22:289:48: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/xint/xintlog.sty:295:22:295:48: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/xint/xintlog.sty:307:22:307:48: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/xint/xintlog.sty:313:22:313:48: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/xint/xintlog.sty:322:22:322:48: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/xint/xintlog.sty:328:22:328:48: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/xint/xintlog.sty:337:22:337:48: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/xint/xintlog.sty:343:22:343:48: e201 unknown argument specifiers

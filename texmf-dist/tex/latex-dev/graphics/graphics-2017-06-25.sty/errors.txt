@@ -1,0 +1,7 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/graphics/graphics-2017-06-25.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/graphics/graphics-2017-06-25.sty:382:1:382:1: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/graphics/graphics-2017-06-25.sty:383:1:383:1: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/graphics/graphics-2017-06-25.sty:419:1:419:1: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/graphics/graphics-2017-06-25.sty:420:1:420:1: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/graphics/graphics-2017-06-25.sty:421:1:421:1: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/graphics/graphics-2017-06-25.sty:422:1:422:1: e209 invalid characters

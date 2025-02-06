@@ -1,0 +1,8 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/bidi-atbegshi/bidi-atbegshi.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/bidi-atbegshi/bidi-atbegshi.sty:23:13:23:25: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/bidi-atbegshi/bidi-atbegshi.sty:30:7:30:16: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/bidi-atbegshi/bidi-atbegshi.sty:35:11:35:23: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/bidi-atbegshi/bidi-atbegshi.sty:44:7:44:16: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/bidi-atbegshi/bidi-atbegshi.sty:49:11:49:23: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/bidi-atbegshi/bidi-atbegshi.sty:51:13:51:25: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/bidi-atbegshi/bidi-atbegshi.sty:58:7:58:16: w200 "weird" and "do not use" argument specifiers

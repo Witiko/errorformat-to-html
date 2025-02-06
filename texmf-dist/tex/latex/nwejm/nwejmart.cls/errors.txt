@@ -1,0 +1,70 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:24:1:25:0: w101 unexpected delimiters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:329:1:329:13: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:329:23:329:35: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:456:25:456:44: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:457:25:457:45: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:458:25:458:44: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:462:21:462:50: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:465:3:465:22: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:467:5:467:24: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:474:5:474:34: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:479:7:479:26: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:596:7:596:23: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:902:15:902:42: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:903:15:903:42: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:1013:5:1013:21: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:1143:15:1143:30: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:1144:15:1144:33: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:1145:15:1145:36: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:1335:15:1335:38: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:1340:40:1340:56: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:1348:39:1348:55: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:1352:38:1352:54: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:1357:47:1357:63: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:1365:46:1365:62: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:1369:45:1369:61: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:1371:34:1371:50: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:1373:55:1373:71: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:1513:17:1513:33: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:1513:59:1513:75: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:1567:5:1567:21: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:1571:5:1571:21: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:1576:5:1576:21: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:1580:5:1580:21: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:1624:5:1624:21: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:1628:5:1628:21: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:1700:5:1700:21: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:1704:5:1704:21: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:1746:5:1746:18: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:1832:15:1832:34: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:1833:15:1833:34: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:1834:15:1834:34: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:1835:15:1835:35: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:1836:15:1836:35: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:1837:15:1837:35: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:1856:15:1856:31: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:1862:15:1862:32: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:1863:15:1863:32: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:1864:15:1864:32: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:1875:15:1875:31: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:1876:15:1876:30: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:1920:3:1920:16: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:1929:3:1929:16: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:1937:3:1937:16: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:1940:15:1940:31: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:1941:15:1941:31: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:2111:4:2111:8: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:2112:4:2112:8: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:2114:4:2114:8: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:2115:4:2115:8: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:2118:5:2118:9: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:2122:5:2122:9: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:2128:3:2128:7: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:2132:3:2132:7: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:2136:3:2136:7: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:2140:3:2140:7: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:2269:2:2269:12: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:2398:15:2398:40: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:2417:1:2417:13: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/nwejm/nwejmart.cls:2417:29:2417:41: w200 "weird" and "do not use" argument specifiers

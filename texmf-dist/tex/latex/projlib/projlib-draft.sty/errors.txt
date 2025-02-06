@@ -1,0 +1,9 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/projlib/projlib-draft.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/projlib/projlib-draft.sty:172:9:172:20: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/projlib/projlib-draft.sty:172:9:172:20: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/projlib/projlib-draft.sty:187:52:187:63: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/projlib/projlib-draft.sty:187:52:187:63: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/projlib/projlib-draft.sty:187:137:187:148: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/projlib/projlib-draft.sty:187:137:187:148: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/projlib/projlib-draft.sty:190:51:190:62: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/projlib/projlib-draft.sty:190:51:190:62: w200 "weird" and "do not use" argument specifiers

@@ -1,0 +1,17 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/babel/locale/bo/babel-tibetan.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/babel/locale/bo/babel-tibetan.tex:37:34:37:34: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/babel/locale/bo/babel-tibetan.tex:37:42:37:42: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/babel/locale/bo/babel-tibetan.tex:37:53:37:53: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/babel/locale/bo/babel-tibetan.tex:37:61:37:61: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/babel/locale/bo/babel-tibetan.tex:39:34:39:34: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/babel/locale/bo/babel-tibetan.tex:39:42:39:42: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/babel/locale/bo/babel-tibetan.tex:39:52:39:52: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/babel/locale/bo/babel-tibetan.tex:39:61:39:61: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/babel/locale/bo/babel-tibetan.tex:45:6:45:6: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/babel/locale/bo/babel-tibetan.tex:45:17:45:17: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/babel/locale/bo/babel-tibetan.tex:45:25:45:25: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/babel/locale/bo/babel-tibetan.tex:45:53:45:53: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/babel/locale/bo/babel-tibetan.tex:45:61:45:61: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/babel/locale/bo/babel-tibetan.tex:49:6:49:6: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/babel/locale/bo/babel-tibetan.tex:49:35:49:35: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/babel/locale/bo/babel-tibetan.tex:49:43:49:43: e209 invalid characters

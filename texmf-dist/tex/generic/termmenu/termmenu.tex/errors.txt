@@ -1,0 +1,5 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/termmenu/termmenu.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/termmenu/termmenu.tex:121:5:121:19: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/termmenu/termmenu.tex:121:21:121:31: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/termmenu/termmenu.tex:128:25:128:35: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/termmenu/termmenu.tex:133:9:133:19: e203 removed control sequences

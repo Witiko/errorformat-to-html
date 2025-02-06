@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/termsim/termsim.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/termsim/termsim.sty:309:23:309:36: w202 deprecated control sequences

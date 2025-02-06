@@ -1,0 +1,34 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/bidi/biditools.sty",
+    "lnum": 1483,
+    "end_lnum": 1483,
+    "col": 23,
+    "end_col": 44,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/bidi/biditools.sty:1483:23:1483:44: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/bidi/biditools.sty",
+    "lnum": 1497,
+    "end_lnum": 1497,
+    "col": 23,
+    "end_col": 44,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/bidi/biditools.sty:1497:23:1497:44: s205 malformed function name"
+    ]
+  }
+]

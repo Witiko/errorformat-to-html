@@ -1,0 +1,13 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-pdf.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:100:19:100:37: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:101:19:101:39: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:103:7:103:22: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:107:17:107:37: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:111:33:111:54: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:112:19:112:40: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:113:19:113:37: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:114:19:114:39: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:115:7:115:22: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:116:19:116:40: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:124:3:124:19: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:142:3:142:19: w202 deprecated control sequences

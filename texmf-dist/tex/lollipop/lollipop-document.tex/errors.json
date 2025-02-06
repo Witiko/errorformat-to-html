@@ -1,0 +1,98 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-document.tex",
+    "lnum": 23,
+    "end_lnum": 23,
+    "col": 1,
+    "end_col": 27,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-document.tex:23:1:23:27: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-document.tex",
+    "lnum": 24,
+    "end_lnum": 24,
+    "col": 1,
+    "end_col": 13,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-document.tex:24:1:24:13: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-document.tex",
+    "lnum": 32,
+    "end_lnum": 32,
+    "col": 8,
+    "end_col": 28,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-document.tex:32:8:32:28: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-document.tex",
+    "lnum": 142,
+    "end_lnum": 142,
+    "col": 1,
+    "end_col": 23,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-document.tex:142:1:142:23: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-document.tex",
+    "lnum": 142,
+    "end_lnum": 142,
+    "col": 25,
+    "end_col": 40,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-document.tex:142:25:142:40: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-document.tex",
+    "lnum": 342,
+    "end_lnum": 342,
+    "col": 39,
+    "end_col": 53,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lollipop/lollipop-document.tex:342:39:342:53: e201 unknown argument specifiers"
+    ]
+  }
+]

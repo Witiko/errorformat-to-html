@@ -1,0 +1,18 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 3842,
+    "end_lnum": 3842,
+    "col": 5,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:3842:5:3842:21: e102 expl3 material in non-expl3 parts"
+    ]
+  }
+]

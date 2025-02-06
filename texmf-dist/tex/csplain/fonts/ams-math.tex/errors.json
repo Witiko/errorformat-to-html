@@ -1,0 +1,18 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/csplain/fonts/ams-math.tex",
+    "lnum": 97,
+    "end_lnum": 97,
+    "col": 11,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/csplain/fonts/ams-math.tex:97:11:97:19: e201 unknown argument specifiers"
+    ]
+  }
+]

@@ -1,0 +1,3 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapspdf.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapspdf.sty:49:28:49:61: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapspdf.sty:61:28:61:57: s205 malformed function name

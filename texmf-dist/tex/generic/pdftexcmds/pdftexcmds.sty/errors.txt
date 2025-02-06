@@ -1,0 +1,11 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty:544:26:544:26: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty:544:29:544:29: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty:546:28:546:28: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty:546:31:546:31: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty:549:32:549:32: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty:549:35:549:35: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty:553:40:553:40: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty:557:28:557:28: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty:557:31:557:31: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty:565:40:565:40: e209 invalid characters

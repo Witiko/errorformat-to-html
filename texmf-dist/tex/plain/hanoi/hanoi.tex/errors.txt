@@ -1,0 +1,15 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/hanoi/hanoi.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/hanoi/hanoi.tex:32:45:32:45: e208 too many closing braces
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/hanoi/hanoi.tex:33:17:33:20: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/hanoi/hanoi.tex:33:26:33:26: e208 too many closing braces
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/hanoi/hanoi.tex:33:27:33:27: e208 too many closing braces
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/hanoi/hanoi.tex:33:46:33:46: e208 too many closing braces
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/hanoi/hanoi.tex:34:58:34:58: e208 too many closing braces
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/hanoi/hanoi.tex:35:80:35:80: e208 too many closing braces
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/hanoi/hanoi.tex:36:33:36:33: e208 too many closing braces
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/hanoi/hanoi.tex:37:14:37:14: e208 too many closing braces
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/hanoi/hanoi.tex:37:22:37:22: e208 too many closing braces
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/hanoi/hanoi.tex:37:45:37:45: e208 too many closing braces
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/hanoi/hanoi.tex:37:58:37:58: e208 too many closing braces
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/hanoi/hanoi.tex:37:62:37:62: e208 too many closing braces
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/hanoi/hanoi.tex:37:77:37:77: e208 too many closing braces

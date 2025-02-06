@@ -1,0 +1,18 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-demo.sty",
+    "lnum": 54,
+    "end_lnum": 54,
+    "col": 16,
+    "end_col": 33,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-demo.sty:54:16:54:33: w202 deprecated control sequences"
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unravel/unravel.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unravel/unravel.sty:41:7:41:32: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unravel/unravel.sty:42:18:43:0: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unravel/unravel.sty:44:5:44:30: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unravel/unravel.sty:45:10:45:35: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unravel/unravel.sty:47:18:48:0: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unravel/unravel.sty:49:11:49:36: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unravel/unravel.sty:51:9:51:36: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unravel/unravel.sty:58:13:58:40: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unravel/unravel.sty:62:20:63:0: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unravel/unravel.sty:66:24:66:53: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unravel/unravel.sty:70:20:70:49: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unravel/unravel.sty:74:18:75:0: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unravel/unravel.sty:76:5:77:0: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unravel/unravel.sty:77:5:77:34: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unravel/unravel.sty:83:5:83:34: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unravel/unravel.sty:91:5:91:34: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unravel/unravel.sty:92:5:92:34: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unravel/unravel.sty:99:5:99:34: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unravel/unravel.sty:105:5:105:34: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unravel/unravel.sty:110:18:111:0: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unravel/unravel.sty:112:5:113:0: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unravel/unravel.sty:113:5:113:34: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unravel/unravel.sty:119:5:119:34: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unravel/unravel.sty:127:5:127:34: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unravel/unravel.sty:129:5:129:34: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unravel/unravel.sty:130:5:130:34: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unravel/unravel.sty:137:5:137:34: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unravel/unravel.sty:143:5:143:34: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unravel/unravel.sty:148:24:149:0: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unravel/unravel.sty:5806:36:5806:49: w101 unexpected delimiters

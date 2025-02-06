@@ -1,0 +1,34 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/testidx/testidx-glossaries.sty",
+    "lnum": 2429,
+    "end_lnum": 2429,
+    "col": 4,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/testidx/testidx-glossaries.sty:2429:4:2429:19: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/testidx/testidx-glossaries.sty",
+    "lnum": 2430,
+    "end_lnum": 2430,
+    "col": 4,
+    "end_col": 17,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/testidx/testidx-glossaries.sty:2430:4:2430:17: e201 unknown argument specifiers"
+    ]
+  }
+]

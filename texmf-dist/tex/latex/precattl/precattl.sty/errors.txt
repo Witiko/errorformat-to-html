@@ -1,0 +1,7 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/precattl/precattl.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/precattl/precattl.sty:52:23:52:41: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/precattl/precattl.sty:56:23:56:42: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/precattl/precattl.sty:60:23:60:42: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/precattl/precattl.sty:114:23:114:35: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/precattl/precattl.sty:370:23:370:32: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/precattl/precattl.sty:406:24:406:39: s205 malformed function name

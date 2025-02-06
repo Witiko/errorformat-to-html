@@ -1,0 +1,20 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/csvsimple/csvsimple-l3.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/csvsimple/csvsimple-l3.sty:1569:38:1569:51: w101 unexpected delimiters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/csvsimple/csvsimple-l3.sty:1570:9:1570:21: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/csvsimple/csvsimple-l3.sty:1571:9:1572:0: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/csvsimple/csvsimple-l3.sty:1573:14:1573:42: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/csvsimple/csvsimple-l3.sty:1573:48:1574:0: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/csvsimple/csvsimple-l3.sty:1574:20:1574:51: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/csvsimple/csvsimple-l3.sty:1574:56:1574:80: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/csvsimple/csvsimple-l3.sty:1574:86:1575:0: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/csvsimple/csvsimple-l3.sty:1575:20:1575:44: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/csvsimple/csvsimple-l3.sty:1575:50:1576:0: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/csvsimple/csvsimple-l3.sty:1576:20:1576:46: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/csvsimple/csvsimple-l3.sty:1576:52:1577:0: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/csvsimple/csvsimple-l3.sty:1577:24:1578:0: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/csvsimple/csvsimple-l3.sty:1578:24:1579:0: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/csvsimple/csvsimple-l3.sty:1581:9:1581:22: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/csvsimple/csvsimple-l3.sty:1581:25:1581:51: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/csvsimple/csvsimple-l3.sty:1584:9:1584:22: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/csvsimple/csvsimple-l3.sty:1592:1:1592:16: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/csvsimple/csvsimple-l3.sty:1632:1:1632:13: e102 expl3 material in non-expl3 parts

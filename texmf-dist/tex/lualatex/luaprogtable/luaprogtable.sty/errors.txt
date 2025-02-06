@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luaprogtable/luaprogtable.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luaprogtable/luaprogtable.sty:211:39:211:52: e102 expl3 material in non-expl3 parts

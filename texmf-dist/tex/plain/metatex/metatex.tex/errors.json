@@ -1,0 +1,98 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/metatex/metatex.tex",
+    "lnum": 153,
+    "end_lnum": 153,
+    "col": 1,
+    "end_col": 6,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/metatex/metatex.tex:153:1:153:6: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/metatex/metatex.tex",
+    "lnum": 184,
+    "end_lnum": 184,
+    "col": 1,
+    "end_col": 9,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/metatex/metatex.tex:184:1:184:9: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/metatex/metatex.tex",
+    "lnum": 186,
+    "end_lnum": 186,
+    "col": 1,
+    "end_col": 6,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/metatex/metatex.tex:186:1:186:6: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/metatex/metatex.tex",
+    "lnum": 188,
+    "end_lnum": 188,
+    "col": 1,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/metatex/metatex.tex:188:1:188:14: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/metatex/metatex.tex",
+    "lnum": 190,
+    "end_lnum": 190,
+    "col": 1,
+    "end_col": 7,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/metatex/metatex.tex:190:1:190:7: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/metatex/metatex.tex",
+    "lnum": 197,
+    "end_lnum": 197,
+    "col": 1,
+    "end_col": 10,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/metatex/metatex.tex:197:1:197:10: e201 unknown argument specifiers"
+    ]
+  }
+]

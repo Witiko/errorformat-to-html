@@ -1,0 +1,12 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/witharrows/witharrows.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/witharrows/witharrows.sty:129:9:129:40: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/witharrows/witharrows.sty:132:21:132:52: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/witharrows/witharrows.sty:138:9:138:41: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/witharrows/witharrows.sty:142:23:142:55: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/witharrows/witharrows.sty:696:23:696:41: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/witharrows/witharrows.sty:756:19:756:20: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/witharrows/witharrows.sty:793:19:793:41: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/witharrows/witharrows.sty:907:5:907:16: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/witharrows/witharrows.sty:1003:26:1003:35: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/witharrows/witharrows.sty:1007:29:1007:30: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/witharrows/witharrows.sty:1131:27:1131:54: s205 malformed function name

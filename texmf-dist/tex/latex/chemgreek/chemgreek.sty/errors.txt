@@ -1,0 +1,8 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemgreek/chemgreek.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemgreek/chemgreek.sty:36:1:40:0: w101 unexpected delimiters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemgreek/chemgreek.sty:196:23:196:53: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemgreek/chemgreek.sty:277:9:277:39: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemgreek/chemgreek.sty:560:5:560:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemgreek/chemgreek.sty:1060:1:1060:15: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemgreek/chemgreek.sty:1106:22:1106:33: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemgreek/chemgreek.sty:1107:33:1107:44: e203 removed control sequences

@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jlreq/jlreq-trimmarks.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/jlreq/jlreq-trimmarks.sty:81:14:81:29: s205 malformed function name

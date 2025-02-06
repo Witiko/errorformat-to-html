@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unigrazpub/unigrazpub.cls
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unigrazpub/unigrazpub.cls:252:58:252:71: w202 deprecated control sequences

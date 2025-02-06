@@ -1,0 +1,3 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/leadsheets/leadsheets.library.templates.code.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/leadsheets/leadsheets.library.templates.code.tex:42:7:42:20: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/leadsheets/leadsheets.library.templates.code.tex:45:7:45:20: w200 "weird" and "do not use" argument specifiers

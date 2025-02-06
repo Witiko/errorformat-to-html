@@ -1,0 +1,82 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/schule/schule.mod.Bewertung.code.tex",
+    "lnum": 81,
+    "end_lnum": 81,
+    "col": 13,
+    "end_col": 36,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/schule/schule.mod.Bewertung.code.tex:81:13:81:36: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/schule/schule.mod.Bewertung.code.tex",
+    "lnum": 86,
+    "end_lnum": 86,
+    "col": 13,
+    "end_col": 38,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/schule/schule.mod.Bewertung.code.tex:86:13:86:38: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/schule/schule.mod.Bewertung.code.tex",
+    "lnum": 91,
+    "end_lnum": 91,
+    "col": 13,
+    "end_col": 49,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/schule/schule.mod.Bewertung.code.tex:91:13:91:49: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/schule/schule.mod.Bewertung.code.tex",
+    "lnum": 98,
+    "end_lnum": 98,
+    "col": 13,
+    "end_col": 47,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/schule/schule.mod.Bewertung.code.tex:98:13:98:47: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/schule/schule.mod.Bewertung.code.tex",
+    "lnum": 109,
+    "end_lnum": 109,
+    "col": 13,
+    "end_col": 54,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/schule/schule.mod.Bewertung.code.tex:109:13:109:54: s205 malformed function name"
+    ]
+  }
+]

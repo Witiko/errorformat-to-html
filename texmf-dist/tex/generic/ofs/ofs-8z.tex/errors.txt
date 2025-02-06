@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/ofs/ofs-8z.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/ofs/ofs-8z.tex:238:19:238:19: e209 invalid characters

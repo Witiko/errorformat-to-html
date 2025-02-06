@@ -1,0 +1,7 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/njuthesis/njuthesis-doc.cls
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/njuthesis/njuthesis-doc.cls:260:26:260:48: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/njuthesis/njuthesis-doc.cls:268:26:268:49: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/njuthesis/njuthesis-doc.cls:276:26:276:46: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/njuthesis/njuthesis-doc.cls:278:7:278:21: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/njuthesis/njuthesis-doc.cls:301:5:301:19: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/njuthesis/njuthesis-doc.cls:305:5:305:14: w200 "weird" and "do not use" argument specifiers

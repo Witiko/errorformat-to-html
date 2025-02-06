@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/postnotes/postnotes.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/postnotes/postnotes.sty:900:29:900:30: s205 malformed function name

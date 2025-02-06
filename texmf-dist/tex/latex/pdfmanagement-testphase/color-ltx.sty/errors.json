@@ -1,0 +1,18 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pdfmanagement-testphase/color-ltx.sty",
+    "lnum": 140,
+    "end_lnum": 140,
+    "col": 23,
+    "end_col": 24,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pdfmanagement-testphase/color-ltx.sty:140:23:140:24: s205 malformed function name"
+    ]
+  }
+]

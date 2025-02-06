@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/newunicodechar/newunicodechar.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/newunicodechar/newunicodechar.sty:54:20:54:20: e209 invalid characters

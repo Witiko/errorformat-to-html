@@ -1,0 +1,6 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex-ms/blx-case-expl3-ms.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex-ms/blx-case-expl3-ms.sty:176:5:176:34: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex-ms/blx-case-expl3-ms.sty:180:13:180:42: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex-ms/blx-case-expl3-ms.sty:192:11:192:23: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex-ms/blx-case-expl3-ms.sty:192:42:192:51: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex-ms/blx-case-expl3-ms.sty:196:5:196:34: w200 "weird" and "do not use" argument specifiers

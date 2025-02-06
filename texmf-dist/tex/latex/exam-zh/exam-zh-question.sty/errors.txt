@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/exam-zh/exam-zh-question.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/exam-zh/exam-zh-question.sty:1407:11:1407:22: w200 "weird" and "do not use" argument specifiers

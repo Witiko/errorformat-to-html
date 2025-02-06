@@ -1,0 +1,50 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pmhanguljamo/pmhanguljamo.sty",
+    "lnum": 327,
+    "end_lnum": 327,
+    "col": 16,
+    "end_col": 33,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pmhanguljamo/pmhanguljamo.sty:327:16:327:33: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pmhanguljamo/pmhanguljamo.sty",
+    "lnum": 330,
+    "end_lnum": 330,
+    "col": 16,
+    "end_col": 33,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pmhanguljamo/pmhanguljamo.sty:330:16:330:33: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pmhanguljamo/pmhanguljamo.sty",
+    "lnum": 1305,
+    "end_lnum": 1305,
+    "col": 13,
+    "end_col": 24,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pmhanguljamo/pmhanguljamo.sty:1305:13:1305:24: s205 malformed function name"
+    ]
+  }
+]

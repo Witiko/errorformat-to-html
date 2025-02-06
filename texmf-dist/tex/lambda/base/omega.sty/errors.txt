@@ -1,0 +1,11 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lambda/base/omega.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lambda/base/omega.sty:13:8:13:8: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lambda/base/omega.sty:14:9:14:9: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lambda/base/omega.sty:114:42:114:42: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lambda/base/omega.sty:117:8:117:8: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lambda/base/omega.sty:118:8:118:8: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lambda/base/omega.sty:119:8:119:8: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lambda/base/omega.sty:120:8:120:8: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lambda/base/omega.sty:121:20:121:20: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lambda/base/omega.sty:122:21:122:21: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lambda/base/omega.sty:123:20:123:20: e209 invalid characters

@@ -1,0 +1,7 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/asmeconf/asmeconf.cls
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/asmeconf/asmeconf.cls:1081:16:1081:30: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/asmeconf/asmeconf.cls:1585:22:1585:23: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/asmeconf/asmeconf.cls:1632:19:1632:20: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/asmeconf/asmeconf.cls:1678:23:1678:31: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/asmeconf/asmeconf.cls:1680:23:1680:31: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/asmeconf/asmeconf.cls:1682:23:1682:31: s205 malformed function name

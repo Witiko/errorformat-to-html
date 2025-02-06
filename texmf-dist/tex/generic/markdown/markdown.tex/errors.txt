@@ -1,0 +1,5 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/markdown/markdown.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/markdown/markdown.tex:3847:5:3848:0: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/markdown/markdown.tex:3850:9:3851:0: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/markdown/markdown.tex:3853:13:3854:0: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/markdown/markdown.tex:3857:13:3858:0: e102 expl3 material in non-expl3 parts

@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/diffcoeff/diffcoeff.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/diffcoeff/diffcoeff.sty:311:36:311:49: w101 unexpected delimiters

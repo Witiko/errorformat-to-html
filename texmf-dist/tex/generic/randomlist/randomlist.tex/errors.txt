@@ -1,0 +1,8 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/randomlist/randomlist.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/randomlist/randomlist.tex:669:47:669:47: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/randomlist/randomlist.tex:669:52:669:52: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/randomlist/randomlist.tex:672:30:672:30: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/randomlist/randomlist.tex:672:60:672:60: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/randomlist/randomlist.tex:673:30:673:30: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/randomlist/randomlist.tex:675:30:675:30: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/randomlist/randomlist.tex:675:35:675:35: e209 invalid characters

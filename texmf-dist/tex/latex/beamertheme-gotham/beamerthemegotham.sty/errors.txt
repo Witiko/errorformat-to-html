@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamerthemegotham.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamerthemegotham.sty:47:1:47:17: w200 "weird" and "do not use" argument specifiers

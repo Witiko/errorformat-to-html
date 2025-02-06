@@ -1,0 +1,10 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrbase.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrbase.sty:50:5:51:0: w101 unexpected delimiters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrbase.sty:2033:24:2033:24: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrbase.sty:2036:32:2036:32: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrbase.sty:2039:25:2039:25: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrbase.sty:2040:30:2040:30: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrbase.sty:2066:24:2066:24: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrbase.sty:2069:32:2069:32: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrbase.sty:2072:25:2072:25: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrbase.sty:2073:30:2073:30: e209 invalid characters

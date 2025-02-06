@@ -1,0 +1,3 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmverb/gmverb.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmverb/gmverb.sty:1283:9:1283:9: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmverb/gmverb.sty:1283:27:1283:27: e209 invalid characters

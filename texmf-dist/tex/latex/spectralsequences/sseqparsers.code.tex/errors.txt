@@ -1,0 +1,12 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqparsers.code.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqparsers.code.tex:827:5:827:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqparsers.code.tex:828:5:828:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqparsers.code.tex:829:5:829:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqparsers.code.tex:830:5:830:10: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqparsers.code.tex:830:12:830:32: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqparsers.code.tex:838:33:838:36: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqparsers.code.tex:838:38:838:41: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqparsers.code.tex:838:43:838:46: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqparsers.code.tex:838:48:838:51: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqparsers.code.tex:845:43:845:48: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spectralsequences/sseqparsers.code.tex:845:50:845:70: w200 "weird" and "do not use" argument specifiers

@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/knuth-lib/manmac.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/knuth-lib/manmac.tex:543:44:543:44: e208 too many closing braces

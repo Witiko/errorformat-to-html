@@ -1,0 +1,18 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/proflycee/proflycee-tools-piton.tex",
+    "lnum": 64,
+    "end_lnum": 64,
+    "col": 31,
+    "end_col": 36,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/proflycee/proflycee-tools-piton.tex:64:31:64:36: e201 unknown argument specifiers"
+    ]
+  }
+]

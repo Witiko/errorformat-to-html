@@ -1,0 +1,21 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ecgdraw/ecgdraw.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ecgdraw/ecgdraw.sty:117:15:117:29: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ecgdraw/ecgdraw.sty:118:15:118:30: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ecgdraw/ecgdraw.sty:151:36:151:48: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ecgdraw/ecgdraw.sty:154:25:154:37: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ecgdraw/ecgdraw.sty:166:15:166:34: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ecgdraw/ecgdraw.sty:167:15:167:32: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ecgdraw/ecgdraw.sty:168:15:168:33: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ecgdraw/ecgdraw.sty:169:15:169:31: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ecgdraw/ecgdraw.sty:170:15:170:31: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ecgdraw/ecgdraw.sty:171:15:171:31: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ecgdraw/ecgdraw.sty:172:15:172:31: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ecgdraw/ecgdraw.sty:176:44:176:65: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ecgdraw/ecgdraw.sty:202:19:202:40: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ecgdraw/ecgdraw.sty:209:25:209:44: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ecgdraw/ecgdraw.sty:233:19:233:36: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ecgdraw/ecgdraw.sty:243:19:243:35: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ecgdraw/ecgdraw.sty:249:19:249:35: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ecgdraw/ecgdraw.sty:255:19:255:35: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ecgdraw/ecgdraw.sty:261:19:261:35: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ecgdraw/ecgdraw.sty:280:19:280:37: w200 "weird" and "do not use" argument specifiers

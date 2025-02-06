@@ -1,0 +1,3 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/csplain/fonts/ff-mac.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/csplain/fonts/ff-mac.tex:37:41:37:41: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/csplain/fonts/ff-mac.tex:120:11:120:19: e201 unknown argument specifiers

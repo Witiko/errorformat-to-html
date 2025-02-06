@@ -1,0 +1,66 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:66:23:66:48: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:77:23:77:43: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:85:23:85:41: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:97:23:97:43: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:107:23:107:40: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:110:23:110:48: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:120:23:120:45: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:132:23:132:49: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:146:23:146:41: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:160:23:160:60: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:177:24:177:34: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:178:24:178:48: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:188:16:188:39: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:190:16:190:39: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:196:16:196:33: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:199:24:199:57: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:220:24:220:49: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:250:25:250:68: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:253:17:253:48: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:262:14:262:28: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:269:24:269:51: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:297:24:297:41: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:311:16:311:49: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:334:16:334:60: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:335:16:335:53: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:337:16:337:53: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:341:17:341:48: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:342:25:342:68: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:345:17:345:38: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:355:15:355:35: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:362:23:362:34: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:379:23:379:38: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:430:23:430:40: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:431:17:431:34: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:432:17:432:33: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:433:15:433:40: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:433:58:433:75: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:436:23:436:38: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:437:17:437:32: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:438:17:438:33: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:439:15:439:40: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:439:58:439:73: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:442:15:442:39: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:443:15:443:37: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:447:23:447:35: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:452:42:452:47: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:452:48:452:68: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:455:23:455:48: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:470:23:470:50: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:472:42:472:47: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:472:48:472:68: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:484:23:484:49: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:488:43:488:48: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:488:49:488:69: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:519:24:519:44: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:560:24:560:43: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:573:24:573:55: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:577:24:577:57: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:582:24:582:47: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:588:24:588:49: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:600:24:600:41: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:646:24:646:34: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:647:24:647:53: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:648:18:648:36: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/unicode-math-input/unicode-math-input.sty:650:24:650:54: s205 malformed function name

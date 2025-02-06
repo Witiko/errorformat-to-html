@@ -1,0 +1,5 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-common-kashida.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-common-kashida.tex:59:20:59:34: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-common-kashida.tex:60:7:60:19: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-common-kashida.tex:61:7:61:20: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/texnegar/texnegar-common-kashida.tex:63:44:63:62: w200 "weird" and "do not use" argument specifiers

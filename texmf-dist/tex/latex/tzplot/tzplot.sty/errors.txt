@@ -1,0 +1,21 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tzplot/tzplot.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tzplot/tzplot.sty:415:13:415:29: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tzplot/tzplot.sty:553:7:553:23: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tzplot/tzplot.sty:682:7:682:23: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tzplot/tzplot.sty:846:7:846:23: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tzplot/tzplot.sty:974:7:974:23: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tzplot/tzplot.sty:1144:7:1144:23: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tzplot/tzplot.sty:1239:7:1239:23: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tzplot/tzplot.sty:1325:13:1325:32: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tzplot/tzplot.sty:1393:7:1393:23: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tzplot/tzplot.sty:1507:13:1507:37: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tzplot/tzplot.sty:4610:7:4610:23: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tzplot/tzplot.sty:4847:7:4847:23: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tzplot/tzplot.sty:6231:7:6231:23: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tzplot/tzplot.sty:6291:7:6291:23: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tzplot/tzplot.sty:6369:7:6369:23: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tzplot/tzplot.sty:6436:7:6436:23: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tzplot/tzplot.sty:6501:7:6501:23: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tzplot/tzplot.sty:6565:7:6565:23: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tzplot/tzplot.sty:7440:7:7440:23: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tzplot/tzplot.sty:7551:7:7551:23: w200 "weird" and "do not use" argument specifiers

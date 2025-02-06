@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tabulary/tabulary.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tabulary/tabulary.sty:470:13:470:14: s205 malformed function name

@@ -1,0 +1,50 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/base/doc-2021-06-01.sty",
+    "lnum": 195,
+    "end_lnum": 195,
+    "col": 27,
+    "end_col": 27,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/base/doc-2021-06-01.sty:195:27:195:27: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/base/doc-2021-06-01.sty",
+    "lnum": 196,
+    "end_lnum": 196,
+    "col": 31,
+    "end_col": 31,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/base/doc-2021-06-01.sty:196:31:196:31: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/base/doc-2021-06-01.sty",
+    "lnum": 197,
+    "end_lnum": 197,
+    "col": 31,
+    "end_col": 31,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex-dev/base/doc-2021-06-01.sty:197:31:197:31: e209 invalid characters"
+    ]
+  }
+]

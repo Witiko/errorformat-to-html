@@ -1,0 +1,23 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/cdcmd/cdcmd.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/cdcmd/cdcmd.sty:145:30:145:39: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/cdcmd/cdcmd.sty:148:34:148:43: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/cdcmd/cdcmd.sty:220:40:220:45: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/cdcmd/cdcmd.sty:221:41:221:46: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/cdcmd/cdcmd.sty:222:40:222:45: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/cdcmd/cdcmd.sty:223:41:223:46: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/cdcmd/cdcmd.sty:224:41:224:46: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/cdcmd/cdcmd.sty:225:42:225:47: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/cdcmd/cdcmd.sty:226:41:226:46: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/cdcmd/cdcmd.sty:227:42:227:47: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/cdcmd/cdcmd.sty:230:5:230:20: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/cdcmd/cdcmd.sty:235:5:235:20: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/cdcmd/cdcmd.sty:240:5:240:20: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/cdcmd/cdcmd.sty:245:5:245:20: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/cdcmd/cdcmd.sty:248:13:248:28: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/cdcmd/cdcmd.sty:249:15:249:34: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/cdcmd/cdcmd.sty:249:45:249:60: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/cdcmd/cdcmd.sty:250:13:250:32: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/cdcmd/cdcmd.sty:262:17:262:29: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/cdcmd/cdcmd.sty:262:47:262:59: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/cdcmd/cdcmd.sty:347:5:347:14: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/cdcmd/cdcmd.sty:464:5:464:21: w200 "weird" and "do not use" argument specifiers

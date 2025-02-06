@@ -1,0 +1,130 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pdfmanagement-testphase/pdfmanagement-firstaid.sty",
+    "lnum": 120,
+    "end_lnum": 120,
+    "col": 11,
+    "end_col": 41,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pdfmanagement-testphase/pdfmanagement-firstaid.sty:120:11:120:41: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pdfmanagement-testphase/pdfmanagement-firstaid.sty",
+    "lnum": 152,
+    "end_lnum": 152,
+    "col": 11,
+    "end_col": 43,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pdfmanagement-testphase/pdfmanagement-firstaid.sty:152:11:152:43: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pdfmanagement-testphase/pdfmanagement-firstaid.sty",
+    "lnum": 156,
+    "end_lnum": 156,
+    "col": 9,
+    "end_col": 44,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pdfmanagement-testphase/pdfmanagement-firstaid.sty:156:9:156:44: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pdfmanagement-testphase/pdfmanagement-firstaid.sty",
+    "lnum": 160,
+    "end_lnum": 160,
+    "col": 9,
+    "end_col": 47,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pdfmanagement-testphase/pdfmanagement-firstaid.sty:160:9:160:47: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pdfmanagement-testphase/pdfmanagement-firstaid.sty",
+    "lnum": 164,
+    "end_lnum": 164,
+    "col": 13,
+    "end_col": 53,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pdfmanagement-testphase/pdfmanagement-firstaid.sty:164:13:164:53: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pdfmanagement-testphase/pdfmanagement-firstaid.sty",
+    "lnum": 172,
+    "end_lnum": 172,
+    "col": 13,
+    "end_col": 45,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pdfmanagement-testphase/pdfmanagement-firstaid.sty:172:13:172:45: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pdfmanagement-testphase/pdfmanagement-firstaid.sty",
+    "lnum": 178,
+    "end_lnum": 178,
+    "col": 13,
+    "end_col": 48,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pdfmanagement-testphase/pdfmanagement-firstaid.sty:178:13:178:48: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pdfmanagement-testphase/pdfmanagement-firstaid.sty",
+    "lnum": 183,
+    "end_lnum": 183,
+    "col": 13,
+    "end_col": 51,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pdfmanagement-testphase/pdfmanagement-firstaid.sty:183:13:183:51: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  }
+]

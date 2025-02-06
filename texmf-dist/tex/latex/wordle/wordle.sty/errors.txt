@@ -1,0 +1,11 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/wordle/wordle.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/wordle/wordle.sty:412:19:412:42: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/wordle/wordle.sty:484:19:484:50: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/wordle/wordle.sty:486:5:486:24: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/wordle/wordle.sty:492:19:492:52: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/wordle/wordle.sty:498:19:498:50: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/wordle/wordle.sty:506:19:506:50: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/wordle/wordle.sty:525:19:525:38: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/wordle/wordle.sty:529:23:529:45: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/wordle/wordle.sty:553:19:553:39: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/wordle/wordle.sty:572:15:572:37: s205 malformed function name

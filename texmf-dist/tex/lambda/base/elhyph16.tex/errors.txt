@@ -1,0 +1,11 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lambda/base/elhyph16.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lambda/base/elhyph16.tex:5812:3:5812:3: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lambda/base/elhyph16.tex:5813:3:5813:3: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lambda/base/elhyph16.tex:5842:3:5842:3: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lambda/base/elhyph16.tex:5843:3:5843:3: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lambda/base/elhyph16.tex:5901:3:5901:3: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lambda/base/elhyph16.tex:5902:3:5902:3: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lambda/base/elhyph16.tex:5923:3:5923:3: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lambda/base/elhyph16.tex:5924:3:5924:3: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lambda/base/elhyph16.tex:5945:3:5945:3: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lambda/base/elhyph16.tex:5946:3:5946:3: e209 invalid characters

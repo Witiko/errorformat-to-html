@@ -1,0 +1,7 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/colorist/colorist-fancy.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/colorist/colorist-fancy.sty:657:21:657:45: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/colorist/colorist-fancy.sty:676:21:676:49: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/colorist/colorist-fancy.sty:964:11:964:35: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/colorist/colorist-fancy.sty:992:7:992:35: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/colorist/colorist-fancy.sty:1103:5:1103:30: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/colorist/colorist-fancy.sty:1104:23:1104:48: w200 "weird" and "do not use" argument specifiers

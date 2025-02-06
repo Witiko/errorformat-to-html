@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/scaletextbullet/scaletextbullet.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/scaletextbullet/scaletextbullet.sty:62:22:62:50: w200 "weird" and "do not use" argument specifiers

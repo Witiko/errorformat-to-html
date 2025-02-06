@@ -1,0 +1,82 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/simurgh/simurgh-mathdigitspec.sty",
+    "lnum": 88,
+    "end_lnum": 88,
+    "col": 35,
+    "end_col": 40,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/simurgh/simurgh-mathdigitspec.sty:88:35:88:40: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/simurgh/simurgh-mathdigitspec.sty",
+    "lnum": 96,
+    "end_lnum": 96,
+    "col": 35,
+    "end_col": 40,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/simurgh/simurgh-mathdigitspec.sty:96:35:96:40: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/simurgh/simurgh-mathdigitspec.sty",
+    "lnum": 104,
+    "end_lnum": 104,
+    "col": 35,
+    "end_col": 40,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/simurgh/simurgh-mathdigitspec.sty:104:35:104:40: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/simurgh/simurgh-mathdigitspec.sty",
+    "lnum": 112,
+    "end_lnum": 112,
+    "col": 35,
+    "end_col": 40,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/simurgh/simurgh-mathdigitspec.sty:112:35:112:40: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/simurgh/simurgh-mathdigitspec.sty",
+    "lnum": 120,
+    "end_lnum": 120,
+    "col": 35,
+    "end_col": 40,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/simurgh/simurgh-mathdigitspec.sty:120:35:120:40: e203 removed control sequences"
+    ]
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamerfontthemegotham.sty",
+    "lnum": 52,
+    "end_lnum": 52,
+    "col": 22,
+    "end_col": 33,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamerfontthemegotham.sty:52:22:52:33: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamerfontthemegotham.sty",
+    "lnum": 268,
+    "end_lnum": 268,
+    "col": 129,
+    "end_col": 142,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamerfontthemegotham.sty:268:129:268:142: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamerfontthemegotham.sty",
+    "lnum": 287,
+    "end_lnum": 287,
+    "col": 128,
+    "end_col": 141,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamerfontthemegotham.sty:287:128:287:141: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamerfontthemegotham.sty",
+    "lnum": 315,
+    "end_lnum": 315,
+    "col": 132,
+    "end_col": 145,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamerfontthemegotham.sty:315:132:315:145: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamerfontthemegotham.sty",
+    "lnum": 334,
+    "end_lnum": 334,
+    "col": 131,
+    "end_col": 144,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamerfontthemegotham.sty:334:131:334:144: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamerfontthemegotham.sty",
+    "lnum": 361,
+    "end_lnum": 361,
+    "col": 134,
+    "end_col": 147,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamerfontthemegotham.sty:361:134:361:147: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamerfontthemegotham.sty",
+    "lnum": 380,
+    "end_lnum": 380,
+    "col": 133,
+    "end_col": 146,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamerfontthemegotham.sty:380:133:380:146: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamerfontthemegotham.sty",
+    "lnum": 407,
+    "end_lnum": 407,
+    "col": 137,
+    "end_col": 150,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamerfontthemegotham.sty:407:137:407:150: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamerfontthemegotham.sty",
+    "lnum": 426,
+    "end_lnum": 426,
+    "col": 136,
+    "end_col": 149,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamerfontthemegotham.sty:426:136:426:149: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamerfontthemegotham.sty",
+    "lnum": 453,
+    "end_lnum": 453,
+    "col": 128,
+    "end_col": 141,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamerfontthemegotham.sty:453:128:453:141: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamerfontthemegotham.sty",
+    "lnum": 472,
+    "end_lnum": 472,
+    "col": 127,
+    "end_col": 140,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamerfontthemegotham.sty:472:127:472:140: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamerfontthemegotham.sty",
+    "lnum": 499,
+    "end_lnum": 499,
+    "col": 131,
+    "end_col": 144,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamerfontthemegotham.sty:499:131:499:144: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamerfontthemegotham.sty",
+    "lnum": 518,
+    "end_lnum": 518,
+    "col": 130,
+    "end_col": 143,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamerfontthemegotham.sty:518:130:518:143: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamerfontthemegotham.sty",
+    "lnum": 545,
+    "end_lnum": 545,
+    "col": 134,
+    "end_col": 147,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamerfontthemegotham.sty:545:134:545:147: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamerfontthemegotham.sty",
+    "lnum": 564,
+    "end_lnum": 564,
+    "col": 133,
+    "end_col": 146,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamerfontthemegotham.sty:564:133:564:146: w202 deprecated control sequences"
+    ]
+  }
+]

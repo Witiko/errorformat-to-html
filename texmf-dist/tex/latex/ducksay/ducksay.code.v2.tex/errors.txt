@@ -1,0 +1,19 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ducksay/ducksay.code.v2.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ducksay/ducksay.code.v2.tex:49:10:49:23: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ducksay/ducksay.code.v2.tex:269:13:269:40: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ducksay/ducksay.code.v2.tex:272:13:272:40: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ducksay/ducksay.code.v2.tex:274:13:274:40: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ducksay/ducksay.code.v2.tex:299:9:299:39: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ducksay/ducksay.code.v2.tex:486:13:486:43: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ducksay/ducksay.code.v2.tex:489:9:489:44: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ducksay/ducksay.code.v2.tex:490:9:490:46: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ducksay/ducksay.code.v2.tex:492:13:492:49: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ducksay/ducksay.code.v2.tex:503:21:503:56: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ducksay/ducksay.code.v2.tex:506:5:506:41: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ducksay/ducksay.code.v2.tex:509:11:509:31: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ducksay/ducksay.code.v2.tex:510:11:510:23: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ducksay/ducksay.code.v2.tex:512:9:512:31: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ducksay/ducksay.code.v2.tex:515:21:515:58: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ducksay/ducksay.code.v2.tex:516:5:516:41: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ducksay/ducksay.code.v2.tex:517:29:517:56: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ducksay/ducksay.code.v2.tex:524:29:524:56: w200 "weird" and "do not use" argument specifiers

@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/e-french/frenchle.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/e-french/frenchle.sty:124:54:124:54: e208 too many closing braces

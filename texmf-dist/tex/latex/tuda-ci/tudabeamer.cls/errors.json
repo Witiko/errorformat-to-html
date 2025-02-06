@@ -1,0 +1,66 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tuda-ci/tudabeamer.cls",
+    "lnum": 150,
+    "end_lnum": 150,
+    "col": 1,
+    "end_col": 1,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tuda-ci/tudabeamer.cls:150:1:150:1: e208 too many closing braces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tuda-ci/tudabeamer.cls",
+    "lnum": 41,
+    "end_lnum": 41,
+    "col": 63,
+    "end_col": 76,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tuda-ci/tudabeamer.cls:41:63:41:76: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tuda-ci/tudabeamer.cls",
+    "lnum": 42,
+    "end_lnum": 42,
+    "col": 37,
+    "end_col": 50,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tuda-ci/tudabeamer.cls:42:37:42:50: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tuda-ci/tudabeamer.cls",
+    "lnum": 215,
+    "end_lnum": 215,
+    "col": 25,
+    "end_col": 40,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tuda-ci/tudabeamer.cls:215:25:215:40: w202 deprecated control sequences"
+    ]
+  }
+]

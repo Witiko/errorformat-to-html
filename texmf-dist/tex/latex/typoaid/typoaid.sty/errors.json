@@ -1,0 +1,546 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty",
+    "lnum": 184,
+    "end_lnum": 184,
+    "col": 2,
+    "end_col": 12,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty:184:2:184:12: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty",
+    "lnum": 225,
+    "end_lnum": 225,
+    "col": 2,
+    "end_col": 11,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty:225:2:225:11: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty",
+    "lnum": 288,
+    "end_lnum": 288,
+    "col": 2,
+    "end_col": 11,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty:288:2:288:11: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty",
+    "lnum": 331,
+    "end_lnum": 331,
+    "col": 2,
+    "end_col": 11,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty:331:2:331:11: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty",
+    "lnum": 373,
+    "end_lnum": 373,
+    "col": 2,
+    "end_col": 12,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty:373:2:373:12: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty",
+    "lnum": 374,
+    "end_lnum": 374,
+    "col": 2,
+    "end_col": 11,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty:374:2:374:11: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty",
+    "lnum": 385,
+    "end_lnum": 385,
+    "col": 2,
+    "end_col": 11,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty:385:2:385:11: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty",
+    "lnum": 408,
+    "end_lnum": 408,
+    "col": 3,
+    "end_col": 13,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty:408:3:408:13: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty",
+    "lnum": 430,
+    "end_lnum": 430,
+    "col": 3,
+    "end_col": 13,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty:430:3:430:13: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty",
+    "lnum": 452,
+    "end_lnum": 452,
+    "col": 3,
+    "end_col": 13,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty:452:3:452:13: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty",
+    "lnum": 492,
+    "end_lnum": 492,
+    "col": 3,
+    "end_col": 12,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty:492:3:492:12: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty",
+    "lnum": 493,
+    "end_lnum": 493,
+    "col": 3,
+    "end_col": 13,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty:493:3:493:13: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty",
+    "lnum": 498,
+    "end_lnum": 498,
+    "col": 3,
+    "end_col": 12,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty:498:3:498:12: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty",
+    "lnum": 499,
+    "end_lnum": 499,
+    "col": 3,
+    "end_col": 13,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty:499:3:499:13: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty",
+    "lnum": 504,
+    "end_lnum": 504,
+    "col": 3,
+    "end_col": 12,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty:504:3:504:12: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty",
+    "lnum": 505,
+    "end_lnum": 505,
+    "col": 3,
+    "end_col": 13,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty:505:3:505:13: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty",
+    "lnum": 510,
+    "end_lnum": 510,
+    "col": 3,
+    "end_col": 12,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty:510:3:510:12: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty",
+    "lnum": 511,
+    "end_lnum": 511,
+    "col": 3,
+    "end_col": 13,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty:511:3:511:13: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty",
+    "lnum": 516,
+    "end_lnum": 516,
+    "col": 3,
+    "end_col": 12,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty:516:3:516:12: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty",
+    "lnum": 517,
+    "end_lnum": 517,
+    "col": 3,
+    "end_col": 13,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty:517:3:517:13: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty",
+    "lnum": 522,
+    "end_lnum": 522,
+    "col": 3,
+    "end_col": 12,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty:522:3:522:12: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty",
+    "lnum": 523,
+    "end_lnum": 523,
+    "col": 3,
+    "end_col": 13,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty:523:3:523:13: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty",
+    "lnum": 573,
+    "end_lnum": 573,
+    "col": 3,
+    "end_col": 13,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty:573:3:573:13: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty",
+    "lnum": 574,
+    "end_lnum": 574,
+    "col": 3,
+    "end_col": 12,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty:574:3:574:12: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty",
+    "lnum": 596,
+    "end_lnum": 596,
+    "col": 5,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty:596:5:596:14: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty",
+    "lnum": 699,
+    "end_lnum": 699,
+    "col": 3,
+    "end_col": 13,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty:699:3:699:13: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty",
+    "lnum": 709,
+    "end_lnum": 709,
+    "col": 2,
+    "end_col": 11,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty:709:2:709:11: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty",
+    "lnum": 736,
+    "end_lnum": 736,
+    "col": 3,
+    "end_col": 13,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty:736:3:736:13: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty",
+    "lnum": 745,
+    "end_lnum": 745,
+    "col": 2,
+    "end_col": 11,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty:745:2:745:11: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty",
+    "lnum": 791,
+    "end_lnum": 791,
+    "col": 3,
+    "end_col": 13,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty:791:3:791:13: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty",
+    "lnum": 801,
+    "end_lnum": 801,
+    "col": 3,
+    "end_col": 12,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty:801:3:801:12: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty",
+    "lnum": 840,
+    "end_lnum": 840,
+    "col": 3,
+    "end_col": 13,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty:840:3:840:13: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty",
+    "lnum": 860,
+    "end_lnum": 860,
+    "col": 3,
+    "end_col": 13,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty:860:3:860:13: e203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty",
+    "lnum": 883,
+    "end_lnum": 883,
+    "col": 3,
+    "end_col": 13,
+    "vcol": false,
+    "nr": 203,
+    "pattern": "",
+    "text": "removed control sequences",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/typoaid/typoaid.sty:883:3:883:13: e203 removed control sequences"
+    ]
+  }
+]

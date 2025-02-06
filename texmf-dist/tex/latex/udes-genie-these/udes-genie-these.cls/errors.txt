@@ -1,0 +1,19 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/udes-genie-these/udes-genie-these.cls
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/udes-genie-these/udes-genie-these.cls:467:13:467:41: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/udes-genie-these/udes-genie-these.cls:469:13:469:44: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/udes-genie-these/udes-genie-these.cls:540:13:540:40: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/udes-genie-these/udes-genie-these.cls:658:13:658:46: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/udes-genie-these/udes-genie-these.cls:676:13:676:45: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/udes-genie-these/udes-genie-these.cls:694:13:694:47: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/udes-genie-these/udes-genie-these.cls:703:13:703:44: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/udes-genie-these/udes-genie-these.cls:721:13:721:41: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/udes-genie-these/udes-genie-these.cls:739:13:739:35: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/udes-genie-these/udes-genie-these.cls:782:13:782:48: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/udes-genie-these/udes-genie-these.cls:828:13:828:42: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/udes-genie-these/udes-genie-these.cls:885:13:885:46: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/udes-genie-these/udes-genie-these.cls:902:13:902:53: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/udes-genie-these/udes-genie-these.cls:917:13:917:52: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/udes-genie-these/udes-genie-these.cls:938:13:938:51: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/udes-genie-these/udes-genie-these.cls:955:13:955:57: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/udes-genie-these/udes-genie-these.cls:1019:13:1019:54: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/udes-genie-these/udes-genie-these.cls:1042:19:1042:47: s205 malformed function name

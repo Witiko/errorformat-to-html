@@ -1,0 +1,4 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mitthesis/mitthesis.cls
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mitthesis/mitthesis.cls:354:15:354:29: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mitthesis/mitthesis.cls:473:15:473:16: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mitthesis/mitthesis.cls:922:16:922:17: s205 malformed function name

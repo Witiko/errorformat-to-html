@@ -1,0 +1,18 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamerthemegotham.sty",
+    "lnum": 47,
+    "end_lnum": 47,
+    "col": 1,
+    "end_col": 17,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beamertheme-gotham/beamerthemegotham.sty:47:1:47:17: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  }
+]

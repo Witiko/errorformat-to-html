@@ -1,0 +1,27 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty:58:9:58:28: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty:61:23:61:50: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty:62:16:62:43: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty:63:23:63:50: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty:65:48:65:72: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty:71:23:71:50: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty:77:23:77:50: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty:79:48:79:72: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty:84:23:84:44: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty:91:23:91:44: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty:98:23:98:44: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty:106:23:106:55: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty:107:5:107:37: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty:108:23:108:55: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty:120:23:120:40: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty:125:23:125:45: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty:130:23:130:52: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty:135:23:135:57: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty:143:5:143:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty:149:23:149:40: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty:151:23:151:45: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty:156:5:156:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty:160:23:160:40: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty:162:23:162:45: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty:167:5:167:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty:171:15:171:43: w200 "weird" and "do not use" argument specifiers

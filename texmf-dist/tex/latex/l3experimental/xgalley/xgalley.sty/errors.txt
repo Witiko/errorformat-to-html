@@ -1,0 +1,12 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/xgalley/xgalley.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/xgalley/xgalley.sty:38:15:38:40: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/xgalley/xgalley.sty:39:15:39:41: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/xgalley/xgalley.sty:143:25:143:44: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/xgalley/xgalley.sty:144:25:144:46: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/xgalley/xgalley.sty:148:25:148:44: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/xgalley/xgalley.sty:149:25:149:46: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/xgalley/xgalley.sty:153:25:153:44: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/xgalley/xgalley.sty:154:25:154:46: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/xgalley/xgalley.sty:159:17:159:36: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/xgalley/xgalley.sty:165:17:165:29: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/l3experimental/xgalley/xgalley.sty:173:1:173:24: w200 "weird" and "do not use" argument specifiers

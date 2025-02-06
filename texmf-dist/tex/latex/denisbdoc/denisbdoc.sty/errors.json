@@ -1,0 +1,18 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/denisbdoc/denisbdoc.sty",
+    "lnum": 897,
+    "end_lnum": 897,
+    "col": 4,
+    "end_col": 15,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/denisbdoc/denisbdoc.sty:897:4:897:15: e102 expl3 material in non-expl3 parts"
+    ]
+  }
+]

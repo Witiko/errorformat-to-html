@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/stex/notesslides.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/stex/notesslides.sty:81:26:81:48: s205 malformed function name

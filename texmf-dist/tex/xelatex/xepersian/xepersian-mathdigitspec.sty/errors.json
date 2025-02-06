@@ -1,0 +1,34 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian/xepersian-mathdigitspec.sty",
+    "lnum": 184,
+    "end_lnum": 184,
+    "col": 5,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian/xepersian-mathdigitspec.sty:184:5:184:21: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian/xepersian-mathdigitspec.sty",
+    "lnum": 367,
+    "end_lnum": 367,
+    "col": 15,
+    "end_col": 40,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian/xepersian-mathdigitspec.sty:367:15:367:40: s205 malformed function name"
+    ]
+  }
+]

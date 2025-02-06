@@ -1,0 +1,9 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chinesechess/chinesechess.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chinesechess/chinesechess.sty:31:9:31:22: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chinesechess/chinesechess.sty:554:12:554:22: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chinesechess/chinesechess.sty:1595:23:1595:36: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chinesechess/chinesechess.sty:1620:31:1620:44: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chinesechess/chinesechess.sty:1642:31:1642:44: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chinesechess/chinesechess.sty:2419:17:2419:27: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chinesechess/chinesechess.sty:2423:26:2423:36: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chinesechess/chinesechess.sty:2661:30:2661:42: w200 "weird" and "do not use" argument specifiers

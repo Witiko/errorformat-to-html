@@ -1,0 +1,6 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xpatch/xpatch.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xpatch/xpatch.sty:40:5:40:19: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xpatch/xpatch.sty:110:11:110:23: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xpatch/xpatch.sty:111:13:111:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xpatch/xpatch.sty:123:4:123:16: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xpatch/xpatch.sty:123:21:123:25: w200 "weird" and "do not use" argument specifiers

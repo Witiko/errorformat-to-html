@@ -1,0 +1,4 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ducksay/ducksay.animals.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ducksay/ducksay.animals.tex:91:13:91:13: e208 too many closing braces
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ducksay/ducksay.animals.tex:91:22:91:22: e208 too many closing braces
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ducksay/ducksay.animals.tex:92:13:92:13: e208 too many closing braces

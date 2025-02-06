@@ -1,0 +1,18 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xduts/xduugtp.cls",
+    "lnum": 769,
+    "end_lnum": 769,
+    "col": 21,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xduts/xduugtp.cls:769:21:769:22: s205 malformed function name"
+    ]
+  }
+]

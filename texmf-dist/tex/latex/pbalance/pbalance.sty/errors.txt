@@ -1,0 +1,3 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pbalance/pbalance.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pbalance/pbalance.sty:1037:36:1037:49: w101 unexpected delimiters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/pbalance/pbalance.sty:1043:1:1044:0: w101 unexpected delimiters

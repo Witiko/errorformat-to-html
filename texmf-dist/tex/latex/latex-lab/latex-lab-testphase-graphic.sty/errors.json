@@ -1,0 +1,34 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-graphic.sty",
+    "lnum": 44,
+    "end_lnum": 44,
+    "col": 3,
+    "end_col": 16,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-graphic.sty:44:3:44:16: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-graphic.sty",
+    "lnum": 46,
+    "end_lnum": 46,
+    "col": 3,
+    "end_col": 16,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-graphic.sty:46:3:46:16: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  }
+]

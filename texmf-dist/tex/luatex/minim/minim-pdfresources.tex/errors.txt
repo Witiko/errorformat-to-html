@@ -1,0 +1,13 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-pdfresources.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-pdfresources.tex:18:50:18:68: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-pdfresources.tex:19:5:19:23: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-pdfresources.tex:20:19:20:41: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-pdfresources.tex:21:5:21:27: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-pdfresources.tex:22:32:22:49: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-pdfresources.tex:23:5:23:19: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-pdfresources.tex:25:39:25:57: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-pdfresources.tex:25:59:25:79: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-pdfresources.tex:26:19:26:33: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-pdfresources.tex:28:5:28:25: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-pdfresources.tex:37:5:37:26: e201 unknown argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim/minim-pdfresources.tex:40:46:40:66: e201 unknown argument specifiers

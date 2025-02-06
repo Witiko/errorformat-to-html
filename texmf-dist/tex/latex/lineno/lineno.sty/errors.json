@@ -1,0 +1,66 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lineno/lineno.sty",
+    "lnum": 3541,
+    "end_lnum": 3541,
+    "col": 48,
+    "end_col": 48,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lineno/lineno.sty:3541:48:3541:48: e208 too many closing braces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lineno/lineno.sty",
+    "lnum": 3547,
+    "end_lnum": 3547,
+    "col": 48,
+    "end_col": 48,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lineno/lineno.sty:3547:48:3547:48: e208 too many closing braces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lineno/lineno.sty",
+    "lnum": 3576,
+    "end_lnum": 3576,
+    "col": 48,
+    "end_col": 48,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lineno/lineno.sty:3576:48:3576:48: e208 too many closing braces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lineno/lineno.sty",
+    "lnum": 3582,
+    "end_lnum": 3582,
+    "col": 48,
+    "end_col": 48,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/lineno/lineno.sty:3582:48:3582:48: e208 too many closing braces"
+    ]
+  }
+]

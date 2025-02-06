@@ -1,0 +1,4 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xcntperchap/xcntperchap.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xcntperchap/xcntperchap.sty:118:38:118:44: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xcntperchap/xcntperchap.sty:133:13:133:45: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xcntperchap/xcntperchap.sty:202:5:202:11: e203 removed control sequences

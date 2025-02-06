@@ -1,0 +1,18 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xetex/xesearch/xesearch.sty",
+    "lnum": 524,
+    "end_lnum": 524,
+    "col": 62,
+    "end_col": 67,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xetex/xesearch/xesearch.sty:524:62:524:67: e201 unknown argument specifiers"
+    ]
+  }
+]

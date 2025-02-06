@@ -1,0 +1,4 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tikzsymbols/tikzsymbols.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tikzsymbols/tikzsymbols.sty:402:9:402:47: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tikzsymbols/tikzsymbols.sty:432:9:432:47: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tikzsymbols/tikzsymbols.sty:3092:5:3092:25: w202 deprecated control sequences

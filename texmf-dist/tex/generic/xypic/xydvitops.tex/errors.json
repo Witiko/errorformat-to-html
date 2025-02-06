@@ -1,0 +1,18 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/xypic/xydvitops.tex",
+    "lnum": 127,
+    "end_lnum": 127,
+    "col": 51,
+    "end_col": 51,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/xypic/xydvitops.tex:127:51:127:51: e208 too many closing braces"
+    ]
+  }
+]

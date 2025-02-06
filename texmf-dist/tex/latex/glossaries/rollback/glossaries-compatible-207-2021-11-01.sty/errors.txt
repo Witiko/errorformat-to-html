@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/glossaries/rollback/glossaries-compatible-207-2021-11-01.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/glossaries/rollback/glossaries-compatible-207-2021-11-01.sty:212:13:212:24: e201 unknown argument specifiers

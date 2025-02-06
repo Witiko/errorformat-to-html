@@ -1,0 +1,3 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ctex/ctexheading.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ctex/ctexheading.sty:96:23:96:39: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/ctex/ctexheading.sty:101:46:101:58: w200 "weird" and "do not use" argument specifiers

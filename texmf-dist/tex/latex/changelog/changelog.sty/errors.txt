@@ -1,0 +1,12 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/changelog/changelog.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/changelog/changelog.sty:120:13:120:30: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/changelog/changelog.sty:145:13:145:43: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/changelog/changelog.sty:203:13:203:37: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/changelog/changelog.sty:207:9:207:21: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/changelog/changelog.sty:210:13:210:25: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/changelog/changelog.sty:217:13:217:39: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/changelog/changelog.sty:235:13:235:42: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/changelog/changelog.sty:255:13:255:49: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/changelog/changelog.sty:275:13:275:35: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/changelog/changelog.sty:286:13:286:36: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/changelog/changelog.sty:325:17:325:41: s205 malformed function name

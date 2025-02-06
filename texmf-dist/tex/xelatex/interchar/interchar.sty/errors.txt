@@ -1,0 +1,9 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/interchar/interchar.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/interchar/interchar.sty:546:59:546:75: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/interchar/interchar.sty:552:5:552:27: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/interchar/interchar.sty:555:5:555:27: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/interchar/interchar.sty:594:3:594:22: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/interchar/interchar.sty:605:5:605:28: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/interchar/interchar.sty:612:3:612:23: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/interchar/interchar.sty:628:5:628:28: e102 expl3 material in non-expl3 parts
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/interchar/interchar.sty:636:3:636:23: e102 expl3 material in non-expl3 parts

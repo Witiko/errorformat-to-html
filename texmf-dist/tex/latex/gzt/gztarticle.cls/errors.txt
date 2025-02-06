@@ -1,0 +1,34 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gztarticle.cls
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gztarticle.cls:183:15:183:38: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gztarticle.cls:190:15:190:16: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gztarticle.cls:1201:3:1201:15: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gztarticle.cls:1201:28:1201:40: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gztarticle.cls:1208:3:1208:15: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gztarticle.cls:1208:32:1208:44: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gztarticle.cls:1305:3:1305:15: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gztarticle.cls:1305:28:1305:40: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gztarticle.cls:1407:3:1407:15: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gztarticle.cls:1407:28:1407:40: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gztarticle.cls:1438:3:1438:15: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gztarticle.cls:1438:28:1438:40: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gztarticle.cls:1778:15:1778:40: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gztarticle.cls:1779:15:1779:40: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gztarticle.cls:2162:3:2162:15: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gztarticle.cls:2162:28:2162:40: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gztarticle.cls:2302:3:2302:15: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gztarticle.cls:2302:28:2302:40: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gztarticle.cls:2540:15:2540:38: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gztarticle.cls:2557:15:2557:34: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gztarticle.cls:2753:15:2753:34: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gztarticle.cls:2956:1:2956:13: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gztarticle.cls:2956:29:2956:41: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gztarticle.cls:3196:15:3196:40: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gztarticle.cls:3237:5:3237:21: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gztarticle.cls:3307:15:3307:32: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gztarticle.cls:3308:15:3308:32: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gztarticle.cls:3309:15:3309:32: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gztarticle.cls:3321:15:3321:30: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gztarticle.cls:3325:15:3325:29: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gztarticle.cls:3326:15:3326:28: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gztarticle.cls:3345:15:3345:29: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gzt/gztarticle.cls:3346:15:3346:29: s205 malformed function name

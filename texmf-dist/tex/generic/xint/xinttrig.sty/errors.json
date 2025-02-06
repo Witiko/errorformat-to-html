@@ -1,0 +1,98 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/xint/xinttrig.sty",
+    "lnum": 341,
+    "end_lnum": 341,
+    "col": 22,
+    "end_col": 48,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/xint/xinttrig.sty:341:22:341:48: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/xint/xinttrig.sty",
+    "lnum": 347,
+    "end_lnum": 347,
+    "col": 22,
+    "end_col": 48,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/xint/xinttrig.sty:347:22:347:48: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/xint/xinttrig.sty",
+    "lnum": 372,
+    "end_lnum": 372,
+    "col": 22,
+    "end_col": 48,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/xint/xinttrig.sty:372:22:372:48: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/xint/xinttrig.sty",
+    "lnum": 458,
+    "end_lnum": 458,
+    "col": 22,
+    "end_col": 48,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/xint/xinttrig.sty:458:22:458:48: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/xint/xinttrig.sty",
+    "lnum": 612,
+    "end_lnum": 612,
+    "col": 22,
+    "end_col": 48,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/xint/xinttrig.sty:612:22:612:48: e201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/xint/xinttrig.sty",
+    "lnum": 689,
+    "end_lnum": 689,
+    "col": 22,
+    "end_col": 48,
+    "vcol": false,
+    "nr": 201,
+    "pattern": "",
+    "text": "unknown argument specifiers",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/xint/xinttrig.sty:689:22:689:48: e201 unknown argument specifiers"
+    ]
+  }
+]

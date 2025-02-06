@@ -1,0 +1,18 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/se2thesis/se2thesis.cls",
+    "lnum": 143,
+    "end_lnum": 143,
+    "col": 52,
+    "end_col": 65,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/se2thesis/se2thesis.cls:143:52:143:65: w202 deprecated control sequences"
+    ]
+  }
+]

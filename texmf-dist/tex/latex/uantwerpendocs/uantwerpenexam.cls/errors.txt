@@ -1,0 +1,6 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/uantwerpendocs/uantwerpenexam.cls
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/uantwerpendocs/uantwerpenexam.cls:73:19:73:48: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/uantwerpendocs/uantwerpenexam.cls:85:7:85:36: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/uantwerpendocs/uantwerpenexam.cls:145:3:145:19: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/uantwerpendocs/uantwerpenexam.cls:148:3:148:19: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/uantwerpendocs/uantwerpenexam.cls:233:3:233:19: w200 "weird" and "do not use" argument specifiers

@@ -1,0 +1,9 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/bithesis/bithesis.cls
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/bithesis/bithesis.cls:113:13:113:22: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/bithesis/bithesis.cls:116:13:116:22: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/bithesis/bithesis.cls:128:13:128:22: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/bithesis/bithesis.cls:946:13:946:20: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/bithesis/bithesis.cls:953:13:953:40: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/bithesis/bithesis.cls:963:13:963:48: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/bithesis/bithesis.cls:1335:13:1335:35: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/bithesis/bithesis.cls:1376:9:1376:24: e203 removed control sequences

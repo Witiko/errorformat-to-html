@@ -1,0 +1,194 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmdoc/gmdoc.sty",
+    "lnum": 542,
+    "end_lnum": 542,
+    "col": 12,
+    "end_col": 12,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmdoc/gmdoc.sty:542:12:542:12: e208 too many closing braces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmdoc/gmdoc.sty",
+    "lnum": 1064,
+    "end_lnum": 1064,
+    "col": 19,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmdoc/gmdoc.sty:1064:19:1064:19: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmdoc/gmdoc.sty",
+    "lnum": 1122,
+    "end_lnum": 1122,
+    "col": 11,
+    "end_col": 11,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmdoc/gmdoc.sty:1122:11:1122:11: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmdoc/gmdoc.sty",
+    "lnum": 1132,
+    "end_lnum": 1132,
+    "col": 11,
+    "end_col": 11,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmdoc/gmdoc.sty:1132:11:1132:11: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmdoc/gmdoc.sty",
+    "lnum": 1148,
+    "end_lnum": 1148,
+    "col": 9,
+    "end_col": 9,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmdoc/gmdoc.sty:1148:9:1148:9: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmdoc/gmdoc.sty",
+    "lnum": 1683,
+    "end_lnum": 1683,
+    "col": 28,
+    "end_col": 28,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmdoc/gmdoc.sty:1683:28:1683:28: e208 too many closing braces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmdoc/gmdoc.sty",
+    "lnum": 1687,
+    "end_lnum": 1687,
+    "col": 18,
+    "end_col": 18,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmdoc/gmdoc.sty:1687:18:1687:18: e208 too many closing braces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmdoc/gmdoc.sty",
+    "lnum": 1691,
+    "end_lnum": 1691,
+    "col": 27,
+    "end_col": 27,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmdoc/gmdoc.sty:1691:27:1691:27: e208 too many closing braces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmdoc/gmdoc.sty",
+    "lnum": 1697,
+    "end_lnum": 1697,
+    "col": 15,
+    "end_col": 15,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmdoc/gmdoc.sty:1697:15:1697:15: e208 too many closing braces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmdoc/gmdoc.sty",
+    "lnum": 2495,
+    "end_lnum": 2495,
+    "col": 6,
+    "end_col": 6,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmdoc/gmdoc.sty:2495:6:2495:6: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmdoc/gmdoc.sty",
+    "lnum": 2914,
+    "end_lnum": 2914,
+    "col": 64,
+    "end_col": 64,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmdoc/gmdoc.sty:2914:64:2914:64: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmdoc/gmdoc.sty",
+    "lnum": 2914,
+    "end_lnum": 2914,
+    "col": 67,
+    "end_col": 67,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/gmdoc/gmdoc.sty:2914:67:2914:67: e209 invalid characters"
+    ]
+  }
+]

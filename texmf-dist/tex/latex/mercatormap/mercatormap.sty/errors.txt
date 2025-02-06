@@ -1,0 +1,30 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mercatormap/mercatormap.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mercatormap/mercatormap.sty:288:33:288:52: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mercatormap/mercatormap.sty:297:5:297:24: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mercatormap/mercatormap.sty:321:5:321:24: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mercatormap/mercatormap.sty:414:19:414:46: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mercatormap/mercatormap.sty:644:33:644:59: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mercatormap/mercatormap.sty:742:35:742:61: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mercatormap/mercatormap.sty:1093:33:1093:58: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mercatormap/mercatormap.sty:1101:33:1101:64: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mercatormap/mercatormap.sty:1117:34:1117:59: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mercatormap/mercatormap.sty:1118:34:1118:65: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mercatormap/mercatormap.sty:1660:19:1660:50: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mercatormap/mercatormap.sty:1703:9:1703:40: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mercatormap/mercatormap.sty:1705:9:1705:40: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mercatormap/mercatormap.sty:1707:9:1707:40: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mercatormap/mercatormap.sty:1709:9:1709:40: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mercatormap/mercatormap.sty:1711:9:1711:40: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mercatormap/mercatormap.sty:1713:9:1713:40: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mercatormap/mercatormap.sty:1715:9:1715:40: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mercatormap/mercatormap.sty:1717:9:1717:40: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mercatormap/mercatormap.sty:1865:33:1865:59: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mercatormap/mercatormap.sty:1879:36:1879:62: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mercatormap/mercatormap.sty:2261:19:2261:39: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mercatormap/mercatormap.sty:2762:29:2762:57: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mercatormap/mercatormap.sty:2768:19:2768:43: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mercatormap/mercatormap.sty:2774:5:2774:29: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mercatormap/mercatormap.sty:2778:19:2778:44: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mercatormap/mercatormap.sty:2784:5:2784:30: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mercatormap/mercatormap.sty:2790:30:2790:58: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/mercatormap/mercatormap.sty:2791:30:2791:58: w200 "weird" and "do not use" argument specifiers

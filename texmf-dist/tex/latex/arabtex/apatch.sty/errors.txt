@@ -1,0 +1,5 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/arabtex/apatch.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/arabtex/apatch.sty:1704:34:1704:34: e208 too many closing braces
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/arabtex/apatch.sty:1705:32:1705:32: e208 too many closing braces
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/arabtex/apatch.sty:1706:20:1706:20: e208 too many closing braces
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/arabtex/apatch.sty:1707:1:1707:1: e208 too many closing braces

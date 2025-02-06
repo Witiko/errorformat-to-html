@@ -1,0 +1,18 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/csplain/opmac/fontfam.tex",
+    "lnum": 31,
+    "end_lnum": 31,
+    "col": 47,
+    "end_col": 47,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/csplain/opmac/fontfam.tex:31:47:31:47: e209 invalid characters"
+    ]
+  }
+]

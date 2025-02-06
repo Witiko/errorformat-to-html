@@ -1,0 +1,12 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/glossaries/base/glossaries.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/glossaries/base/glossaries.sty:1201:20:1201:21: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/glossaries/base/glossaries.sty:1231:20:1231:21: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/glossaries/base/glossaries.sty:1237:23:1237:24: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/glossaries/base/glossaries.sty:1243:23:1243:24: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/glossaries/base/glossaries.sty:1251:19:1251:20: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/glossaries/base/glossaries.sty:1254:20:1254:21: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/glossaries/base/glossaries.sty:1255:22:1255:23: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/glossaries/base/glossaries.sty:1259:19:1259:20: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/glossaries/base/glossaries.sty:6524:15:6524:16: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/glossaries/base/glossaries.sty:6554:15:6554:16: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/glossaries/base/glossaries.sty:6559:13:6559:14: s205 malformed function name

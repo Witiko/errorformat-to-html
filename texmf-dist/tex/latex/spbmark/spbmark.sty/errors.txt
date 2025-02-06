@@ -1,0 +1,3 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spbmark/spbmark.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spbmark/spbmark.sty:75:21:75:22: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/spbmark/spbmark.sty:79:21:79:22: s205 malformed function name

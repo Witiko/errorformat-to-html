@@ -1,0 +1,34 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/patches/lltjp-listings.sty",
+    "lnum": 293,
+    "end_lnum": 293,
+    "col": 40,
+    "end_col": 40,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/patches/lltjp-listings.sty:293:40:293:40: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/patches/lltjp-listings.sty",
+    "lnum": 296,
+    "end_lnum": 296,
+    "col": 39,
+    "end_col": 39,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/patches/lltjp-listings.sty:296:39:296:39: e209 invalid characters"
+    ]
+  }
+]

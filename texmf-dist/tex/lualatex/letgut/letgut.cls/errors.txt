@@ -1,0 +1,22 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/letgut/letgut.cls
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/letgut/letgut.cls:405:5:405:28: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/letgut/letgut.cls:451:23:451:46: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/letgut/letgut.cls:1337:3:1337:20: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/letgut/letgut.cls:1343:3:1343:20: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/letgut/letgut.cls:1586:5:1586:16: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/letgut/letgut.cls:1732:1:1732:13: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/letgut/letgut.cls:1745:5:1745:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/letgut/letgut.cls:1746:9:1746:13: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/letgut/letgut.cls:1752:2:1752:14: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/letgut/letgut.cls:2513:5:2513:22: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/letgut/letgut.cls:2706:3:2706:3: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/letgut/letgut.cls:2707:3:2707:3: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/letgut/letgut.cls:2708:3:2708:3: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/letgut/letgut.cls:2709:3:2709:3: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/letgut/letgut.cls:2710:3:2710:3: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/letgut/letgut.cls:2711:3:2711:3: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/letgut/letgut.cls:2712:3:2712:3: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/letgut/letgut.cls:2713:3:2713:3: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/letgut/letgut.cls:2714:3:2714:3: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/letgut/letgut.cls:2715:3:2715:3: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/letgut/letgut.cls:2716:3:2716:3: e209 invalid characters

@@ -1,0 +1,5 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tuda-ci/tudabeamer.cls
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tuda-ci/tudabeamer.cls:41:63:41:76: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tuda-ci/tudabeamer.cls:42:37:42:50: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tuda-ci/tudabeamer.cls:150:1:150:1: e208 too many closing braces
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tuda-ci/tudabeamer.cls:215:25:215:40: w202 deprecated control sequences

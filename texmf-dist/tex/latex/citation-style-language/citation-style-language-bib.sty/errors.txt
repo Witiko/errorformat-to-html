@@ -1,0 +1,4 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/citation-style-language/citation-style-language-bib.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/citation-style-language/citation-style-language-bib.sty:249:13:249:14: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/citation-style-language/citation-style-language-bib.sty:262:15:262:16: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/citation-style-language/citation-style-language-bib.sty:334:15:334:16: s205 malformed function name

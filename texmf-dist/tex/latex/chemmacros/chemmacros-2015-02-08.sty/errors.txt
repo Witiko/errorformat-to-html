@@ -1,0 +1,66 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:50:5:50:19: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:61:25:61:42: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:292:5:292:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:292:35:292:39: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:297:5:297:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:297:35:297:39: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:303:17:303:29: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:303:47:303:51: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:308:17:308:29: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:308:47:308:51: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:315:17:315:29: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:315:47:315:51: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:320:17:320:29: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:320:47:320:51: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:623:42:623:60: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:628:5:628:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:896:21:896:36: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:908:28:908:43: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:909:27:909:42: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:1093:19:1093:29: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:1276:5:1276:24: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:1278:9:1278:19: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:1280:9:1280:19: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:1288:5:1288:24: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:1289:9:1289:19: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:1301:1:1301:18: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:1306:1:1306:18: e203 removed control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:1319:21:1319:22: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:1342:23:1342:24: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:1343:23:1343:24: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:1344:15:1344:16: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:1728:13:1728:39: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:1747:23:1747:49: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:2138:9:2138:35: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:2146:23:2146:49: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:2150:9:2150:35: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:2157:23:2157:49: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:2163:23:2163:57: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:2189:9:2189:43: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:2193:23:2193:57: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:2207:9:2207:43: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:2351:15:2351:41: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:2419:21:2419:38: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:2433:9:2433:29: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:2437:23:2437:43: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:2445:19:2445:20: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:2447:25:2447:50: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:2448:25:2448:42: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:2484:23:2484:48: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:2489:9:2489:36: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:2490:9:2490:42: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:2493:23:2493:50: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:2517:5:2517:38: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:2520:23:2520:56: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:2523:9:2523:43: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:2527:23:2527:57: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:2712:27:2712:49: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:2901:9:2901:19: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:2903:9:2903:19: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:2904:9:2904:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:2905:9:2905:19: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:2907:9:2907:19: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:2908:9:2908:17: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:4062:21:4062:22: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/chemmacros/chemmacros-2015-02-08.sty:4112:1:4112:15: w200 "weird" and "do not use" argument specifiers

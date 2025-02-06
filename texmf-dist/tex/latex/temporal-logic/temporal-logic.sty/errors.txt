@@ -1,0 +1,7 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:34:12:34:14: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:44:12:44:14: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:47:12:47:14: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:50:12:50:14: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:54:12:54:14: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:56:12:56:14: s205 malformed function name

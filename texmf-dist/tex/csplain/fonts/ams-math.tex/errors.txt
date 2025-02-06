@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/csplain/fonts/ams-math.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/csplain/fonts/ams-math.tex:97:11:97:19: e201 unknown argument specifiers

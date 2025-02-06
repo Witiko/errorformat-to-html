@@ -1,0 +1,9 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/codehigh/codehigh.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/codehigh/codehigh.sty:84:9:84:28: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/codehigh/codehigh.sty:93:21:93:40: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/codehigh/codehigh.sty:104:17:104:37: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/codehigh/codehigh.sty:111:5:111:25: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/codehigh/codehigh.sty:534:26:534:30: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/codehigh/codehigh.sty:619:17:619:29: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/codehigh/codehigh.sty:620:17:620:29: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/codehigh/codehigh.sty:622:13:622:25: w200 "weird" and "do not use" argument specifiers

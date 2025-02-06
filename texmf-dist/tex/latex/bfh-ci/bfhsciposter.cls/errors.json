@@ -1,0 +1,34 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/bfh-ci/bfhsciposter.cls",
+    "lnum": 63,
+    "end_lnum": 63,
+    "col": 58,
+    "end_col": 71,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/bfh-ci/bfhsciposter.cls:63:58:63:71: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/bfh-ci/bfhsciposter.cls",
+    "lnum": 565,
+    "end_lnum": 566,
+    "col": 1,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 101,
+    "pattern": "",
+    "text": "unexpected delimiters",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/bfh-ci/bfhsciposter.cls:565:1:566:0: w101 unexpected delimiters"
+    ]
+  }
+]

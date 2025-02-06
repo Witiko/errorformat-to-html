@@ -1,0 +1,4 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tudscr/tudscrartcl.cls
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tudscr/tudscrartcl.cls:3237:28:3237:28: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tudscr/tudscrartcl.cls:3243:19:3243:19: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/tudscr/tudscrartcl.cls:3244:19:3244:19: e209 invalid characters

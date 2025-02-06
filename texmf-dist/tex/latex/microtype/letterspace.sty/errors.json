@@ -1,0 +1,82 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/letterspace.sty",
+    "lnum": 101,
+    "end_lnum": 101,
+    "col": 1,
+    "end_col": 1,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/letterspace.sty:101:1:101:1: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/letterspace.sty",
+    "lnum": 102,
+    "end_lnum": 102,
+    "col": 1,
+    "end_col": 1,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/letterspace.sty:102:1:102:1: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/letterspace.sty",
+    "lnum": 174,
+    "end_lnum": 174,
+    "col": 1,
+    "end_col": 1,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/letterspace.sty:174:1:174:1: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/letterspace.sty",
+    "lnum": 177,
+    "end_lnum": 177,
+    "col": 1,
+    "end_col": 1,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/letterspace.sty:177:1:177:1: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/letterspace.sty",
+    "lnum": 180,
+    "end_lnum": 180,
+    "col": 1,
+    "end_col": 1,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/letterspace.sty:180:1:180:1: e209 invalid characters"
+    ]
+  }
+]

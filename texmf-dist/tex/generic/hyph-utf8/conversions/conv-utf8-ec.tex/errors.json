@@ -1,0 +1,34 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/conversions/conv-utf8-ec.tex",
+    "lnum": 63,
+    "end_lnum": 63,
+    "col": 12,
+    "end_col": 12,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/conversions/conv-utf8-ec.tex:63:12:63:12: e209 invalid characters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/conversions/conv-utf8-ec.tex",
+    "lnum": 92,
+    "end_lnum": 92,
+    "col": 12,
+    "end_col": 12,
+    "vcol": false,
+    "nr": 209,
+    "pattern": "",
+    "text": "invalid characters",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/conversions/conv-utf8-ec.tex:92:12:92:12: e209 invalid characters"
+    ]
+  }
+]

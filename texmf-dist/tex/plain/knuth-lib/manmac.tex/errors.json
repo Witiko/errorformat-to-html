@@ -1,0 +1,18 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/knuth-lib/manmac.tex",
+    "lnum": 543,
+    "end_lnum": 543,
+    "col": 44,
+    "end_col": 44,
+    "vcol": false,
+    "nr": 208,
+    "pattern": "",
+    "text": "too many closing braces",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/plain/knuth-lib/manmac.tex:543:44:543:44: e208 too many closing braces"
+    ]
+  }
+]

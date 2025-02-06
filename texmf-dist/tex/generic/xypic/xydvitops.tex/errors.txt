@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/xypic/xydvitops.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/xypic/xydvitops.tex:127:51:127:51: e208 too many closing braces

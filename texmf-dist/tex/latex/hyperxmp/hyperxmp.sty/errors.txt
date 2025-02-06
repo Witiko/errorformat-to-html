@@ -1,0 +1,4 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/hyperxmp/hyperxmp.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/hyperxmp/hyperxmp.sty:704:21:704:21: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/hyperxmp/hyperxmp.sty:708:22:708:22: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/hyperxmp/hyperxmp.sty:1085:20:1085:20: e209 invalid characters

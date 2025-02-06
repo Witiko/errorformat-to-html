@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fenetrecas/FenetreCas.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fenetrecas/FenetreCas.sty:238:109:238:113: e201 unknown argument specifiers

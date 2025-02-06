@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/suanpan-l3/suanpan-l3.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/suanpan-l3/suanpan-l3.sty:475:23:475:36: w202 deprecated control sequences

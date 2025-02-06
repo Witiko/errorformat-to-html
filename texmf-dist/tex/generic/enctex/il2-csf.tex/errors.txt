@@ -1,0 +1,6 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/enctex/il2-csf.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/enctex/il2-csf.tex:101:59:101:59: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/enctex/il2-csf.tex:103:59:103:59: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/enctex/il2-csf.tex:105:59:105:59: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/enctex/il2-csf.tex:106:59:106:59: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/enctex/il2-csf.tex:107:59:107:59: e209 invalid characters

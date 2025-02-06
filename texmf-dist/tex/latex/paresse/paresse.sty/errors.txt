@@ -1,0 +1,14 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/paresse/paresse.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/paresse/paresse.sty:169:14:169:31: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/paresse/paresse.sty:170:14:170:31: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/paresse/paresse.sty:173:14:173:29: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/paresse/paresse.sty:174:14:174:29: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/paresse/paresse.sty:177:14:177:26: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/paresse/paresse.sty:178:14:178:26: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/paresse/paresse.sty:181:14:181:27: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/paresse/paresse.sty:182:14:182:27: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/paresse/paresse.sty:185:14:185:29: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/paresse/paresse.sty:186:14:186:29: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/paresse/paresse.sty:189:14:189:27: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/paresse/paresse.sty:190:14:190:27: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/paresse/paresse.sty:239:3:240:0: w101 unexpected delimiters

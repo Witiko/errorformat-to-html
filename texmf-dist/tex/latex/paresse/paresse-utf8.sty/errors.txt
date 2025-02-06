@@ -1,0 +1,13 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/paresse/paresse-utf8.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/paresse/paresse-utf8.sty:170:14:170:31: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/paresse/paresse-utf8.sty:171:14:171:31: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/paresse/paresse-utf8.sty:174:14:174:29: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/paresse/paresse-utf8.sty:175:14:175:29: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/paresse/paresse-utf8.sty:178:14:178:26: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/paresse/paresse-utf8.sty:179:14:179:26: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/paresse/paresse-utf8.sty:182:14:182:27: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/paresse/paresse-utf8.sty:183:14:183:27: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/paresse/paresse-utf8.sty:186:14:186:29: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/paresse/paresse-utf8.sty:187:14:187:29: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/paresse/paresse-utf8.sty:190:14:190:27: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/paresse/paresse-utf8.sty:191:14:191:27: s205 malformed function name

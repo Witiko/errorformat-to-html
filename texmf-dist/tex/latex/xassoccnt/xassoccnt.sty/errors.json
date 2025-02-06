@@ -1,0 +1,130 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xassoccnt/xassoccnt.sty",
+    "lnum": 500,
+    "end_lnum": 500,
+    "col": 17,
+    "end_col": 18,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xassoccnt/xassoccnt.sty:500:17:500:18: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xassoccnt/xassoccnt.sty",
+    "lnum": 672,
+    "end_lnum": 672,
+    "col": 15,
+    "end_col": 44,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xassoccnt/xassoccnt.sty:672:15:672:44: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xassoccnt/xassoccnt.sty",
+    "lnum": 673,
+    "end_lnum": 673,
+    "col": 15,
+    "end_col": 47,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xassoccnt/xassoccnt.sty:673:15:673:47: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xassoccnt/xassoccnt.sty",
+    "lnum": 674,
+    "end_lnum": 674,
+    "col": 15,
+    "end_col": 45,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xassoccnt/xassoccnt.sty:674:15:674:45: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xassoccnt/xassoccnt.sty",
+    "lnum": 675,
+    "end_lnum": 675,
+    "col": 15,
+    "end_col": 43,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xassoccnt/xassoccnt.sty:675:15:675:43: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xassoccnt/xassoccnt.sty",
+    "lnum": 2622,
+    "end_lnum": 2622,
+    "col": 14,
+    "end_col": 25,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xassoccnt/xassoccnt.sty:2622:14:2622:25: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xassoccnt/xassoccnt.sty",
+    "lnum": 2624,
+    "end_lnum": 2624,
+    "col": 16,
+    "end_col": 27,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xassoccnt/xassoccnt.sty:2624:16:2624:27: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xassoccnt/xassoccnt.sty",
+    "lnum": 3795,
+    "end_lnum": 3795,
+    "col": 3,
+    "end_col": 18,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xassoccnt/xassoccnt.sty:3795:3:3795:18: w202 deprecated control sequences"
+    ]
+  }
+]

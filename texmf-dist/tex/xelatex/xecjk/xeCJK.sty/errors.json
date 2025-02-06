@@ -1,0 +1,34 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xecjk/xeCJK.sty",
+    "lnum": 5108,
+    "end_lnum": 5108,
+    "col": 5,
+    "end_col": 18,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xecjk/xeCJK.sty:5108:5:5108:18: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xecjk/xeCJK.sty",
+    "lnum": 5108,
+    "end_lnum": 5108,
+    "col": 21,
+    "end_col": 42,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/xecjk/xeCJK.sty:5108:21:5108:42: e102 expl3 material in non-expl3 parts"
+    ]
+  }
+]

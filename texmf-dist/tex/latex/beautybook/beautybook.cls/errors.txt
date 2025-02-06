@@ -1,0 +1,3 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beautybook/beautybook.cls
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beautybook/beautybook.cls:85:5:85:26: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/beautybook/beautybook.cls:108:5:108:26: w200 "weird" and "do not use" argument specifiers

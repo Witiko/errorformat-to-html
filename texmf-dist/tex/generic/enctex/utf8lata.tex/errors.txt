@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/enctex/utf8lata.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/enctex/utf8lata.tex:103:24:103:24: e209 invalid characters

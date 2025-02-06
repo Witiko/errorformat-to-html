@@ -1,0 +1,4 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xpeek/xpeek.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xpeek/xpeek.sty:34:23:34:37: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xpeek/xpeek.sty:37:5:37:18: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/xpeek/xpeek.sty:47:5:47:19: w200 "weird" and "do not use" argument specifiers

@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/ofs/ofs.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/ofs/ofs.sty:25:27:25:27: e208 too many closing braces

@@ -1,0 +1,14 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsclassic.cls
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsclassic.cls:283:14:283:39: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsclassic.cls:354:28:354:68: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsclassic.cls:369:28:369:65: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsclassic.cls:377:28:377:64: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsclassic.cls:516:84:516:97: w202 deprecated control sequences
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsclassic.cls:607:28:607:63: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsclassic.cls:761:28:761:48: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsclassic.cls:788:28:788:53: s205 malformed function name
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsclassic.cls:933:27:933:42: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsclassic.cls:934:25:934:40: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsclassic.cls:971:27:971:42: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsclassic.cls:972:25:972:40: w200 "weird" and "do not use" argument specifiers
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sdaps/sdapsclassic.cls:1008:24:1008:39: w200 "weird" and "do not use" argument specifiers

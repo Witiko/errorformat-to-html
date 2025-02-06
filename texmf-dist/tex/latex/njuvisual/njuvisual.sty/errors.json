@@ -1,0 +1,18 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/njuvisual/njuvisual.sty",
+    "lnum": 118,
+    "end_lnum": 118,
+    "col": 45,
+    "end_col": 58,
+    "vcol": false,
+    "nr": 101,
+    "pattern": "",
+    "text": "unexpected delimiters",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/njuvisual/njuvisual.sty:118:45:118:58: w101 unexpected delimiters"
+    ]
+  }
+]

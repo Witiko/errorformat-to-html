@@ -1,0 +1,18 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/scaletextbullet/scaletextbullet.sty",
+    "lnum": 62,
+    "end_lnum": 62,
+    "col": 22,
+    "end_col": 50,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/scaletextbullet/scaletextbullet.sty:62:22:62:50: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  }
+]

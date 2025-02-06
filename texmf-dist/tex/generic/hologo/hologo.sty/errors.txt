@@ -1,0 +1,4 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hologo/hologo.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hologo/hologo.sty:1062:11:1062:11: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hologo/hologo.sty:1166:14:1166:14: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/hologo/hologo.sty:1166:32:1166:32: e209 invalid characters

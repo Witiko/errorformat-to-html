@@ -1,0 +1,3 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/xstring/xstring.tex
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/xstring/xstring.tex:93:37:93:37: e209 invalid characters
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/generic/xstring/xstring.tex:94:54:94:54: e209 invalid characters

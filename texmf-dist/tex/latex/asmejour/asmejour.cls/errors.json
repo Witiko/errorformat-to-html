@@ -1,0 +1,18 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/asmejour/asmejour.cls",
+    "lnum": 704,
+    "end_lnum": 704,
+    "col": 16,
+    "end_col": 30,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/asmejour/asmejour.cls:704:16:704:30: s205 malformed function name"
+    ]
+  }
+]

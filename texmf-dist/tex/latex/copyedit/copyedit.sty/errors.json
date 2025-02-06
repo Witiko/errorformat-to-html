@@ -1,0 +1,34 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/copyedit/copyedit.sty",
+    "lnum": 119,
+    "end_lnum": 119,
+    "col": 21,
+    "end_col": 34,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/copyedit/copyedit.sty:119:21:119:34: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/copyedit/copyedit.sty",
+    "lnum": 231,
+    "end_lnum": 231,
+    "col": 38,
+    "end_col": 48,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"weird\" and \"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/copyedit/copyedit.sty:231:38:231:48: w200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  }
+]

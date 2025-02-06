@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/minimalist/minimalist-classicthesis.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/minimalist/minimalist-classicthesis.sty:90:3:90:3: e208 too many closing braces

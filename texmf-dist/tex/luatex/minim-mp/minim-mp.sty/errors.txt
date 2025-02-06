@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-mp/minim-mp.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/luatex/minim-mp/minim-mp.sty:26:6:26:22: e201 unknown argument specifiers

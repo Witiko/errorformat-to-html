@@ -1,0 +1,2 @@
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/bfh-ci/bfhmodule.sty
+/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/bfh-ci/bfhmodule.sty:57:2:58:0: w101 unexpected delimiters
